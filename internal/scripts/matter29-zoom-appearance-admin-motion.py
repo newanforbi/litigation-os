@@ -161,11 +161,10 @@ DECL_CONTENT = [
              "on November 6, 2026 from Jasmine J. Stanzick, counsel for Defendant Accurate Background, "
              "LLC, states that she is out of the office through November 17, 2026, the day before the "
              "hearing."),
-    ("PARA", "4. This Court's Civil Standing Order requires a request to appear by Zoom webinar to be "
-             "made at least three business days before the hearing. Because that deadline did not leave "
-             "sufficient time to obtain a signed stipulation from both defense firms, I am filing this "
-             "administrative motion under Civil Local Rule 7-11 without one. Defendants will receive "
-             "notice of this motion through CM/ECF and may respond under Civil Local Rule 7-11(b)."),
+    ("PARA", "4. Defendants will receive notice of this motion through CM/ECF and may file an opposition "
+             "within four days under Civil Local Rule 7-11(b), which allows the Court to resolve the motion "
+             "before the November 18, 2026 hearing. Proceeding without a stipulation therefore does not "
+             "deprive any Defendant of an opportunity to be heard."),
     ("PARA", "5. I do not seek to change the hearing date or to limit how any Defendant may appear."),
     # The perjury clause and execution line are written with the signature block (build_declaration)
     # so they can never be separated from it by a page break.
