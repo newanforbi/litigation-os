@@ -66,7 +66,7 @@
     "kind": "deadline",
     "status": "open",
     "source_dkt": null,
-    "title": "Case Management Statement due \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Case-management-order deadline continues under Serrato Dkt. 34.",
+    "title": "Case Management Statement due \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Case-management-order deadline continues under Serrato Dkt. 34. Serrato Dkt. 34 lets the parties adjust FRCP 16/26 conference, disclosure, and report dates to the CMC Judge Breyer resets; treat Nov. 25 as live until a reset CMC date issues.",
     "actor": "you",
     "note": "Serrato Dkt. 34 (Nov. 3, 2026) keeps case-management-order deadlines in effect, except dates for appearance in court. The CMC appearance will be rescheduled by Judge Breyer, and the parties adjust the FRCP 16 and 26 conference, disclosure, and report dates to that conference. This Nov. 25 statement date stays open until that reset. ADR Local Rule deadlines also remain in effect."
   },
@@ -124,7 +124,7 @@
     "source_dkt": 4,
     "actor": "you",
     "tz": "America/Los_Angeles",
-    "title": "ADR Certification (ADR L.R. 3) remains in effect \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB), per Dkt. 4 and Serrato Dkt. 34 (Nov. 3, 2026).",
+    "title": "FILE \u2014 Plaintiff's ADR Certification (ADR L.R. 3-5(b)) by Nov. 12, 2026 \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Not on the docket as of Nov. 10. Dkt. 4 ADR deadlines remain in effect per Serrato Dkt. 34 (Nov. 3, 2026). After conferring with DAG Li, also file a Stipulation selecting an ADR process or a Notice of Need for ADR Phone Conference; if Li does not respond, file the certification anyway and state the attempt.",
     "note": "Serrato Dkt. 34 keeps deadlines set by the ADR Local Rules in effect. Court appearance dates are the exception and will be rescheduled."
   },
   {
@@ -136,5 +136,16 @@
     "actor": "opposing",
     "title": "Re-notice the Dkt. 22 motion hearing before Judge Breyer \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Serrato Dkt. 34 vacated noticed motion dates. No new date until the moving party re-notices.",
     "note": "Undated contingent. source_dkt is null because Dkt. 34 is the Serrato docket number, not a Meza entry number. Do not invent a hearing date."
+  },
+  {
+    "id": "32-li-adr-26f-conferral",
+    "date": "2026-11-12",
+    "date_label": "Nov. 12, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": null,
+    "title": "CONFER \u2014 Ask DAG Haiyang Li for a short call on ADR process selection (ADR L.R. 3-5) and the Rule 26(f) conference \u2014 Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). No ADR or 26(f) discussion with Li found in Gmail as of Nov. 10, 2026. The 26(f) itself may track the CMC Judge Breyer resets (Serrato Dkt. 34).",
+    "actor": "you"
   }
 ]

@@ -105,5 +105,16 @@
     "actor": "court",
     "source": null,
     "note": "Reconciled from D1 clocks row 129. Cisneros-era CMC superseded by reassignment to Judge Lin (see 33-hearing-4, Dec. 9, 2026)."
+  },
+  {
+    "id": "33-mcmahon-26f-followup",
+    "date": "2026-11-11",
+    "date_label": "Nov. 11, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": null,
+    "title": "FOLLOW UP — William McMahon (DOJ, cc Huihong Su) has not replied to Plaintiff's Oct. 28, 2026 request to schedule the Rule 26(f) conference and ADR discussion (Gmail thread has one message as of Nov. 10). Propose times Nov. 12–17 so the conference and ADR certification are done by Nov. 18. If no response, document both requests in the ADR certification and the Dec. 2 CMS — Nforbi v. Candelaria et al. (3:26-cv-08272-RFL).",
+    "actor": "you"
   }
 ]

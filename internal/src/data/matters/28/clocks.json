@@ -255,5 +255,16 @@
     "source": "/documents/opinions/Newanforbi v Palacios - San Joaquin Sup Ct - Demurrer Sustained WOLA Jul 15 2026.pdf",
     "title": "EX PARTE HEARING — Application for Order Dismissing First Amended Complaint and Entering Judgment of Dismissal, Newanforbi v. Palacios et al. (San Joaquin Sup. Ct. STK-CV-UF-2026-0001032), Nov. 2, 2026, 9:15 a.m., Dept. 10A. Related Matter 28 (N.D. Cal. 3:26-cv-07504-LJC) Dkt. 15 motion to dismiss is deferred pending the San Joaquin judgment.",
     "note": "USER REPORT Oct. 28, 2026: San Joaquin Superior Court approved the ex parte request in related Matter 5 the same day. Defendants are seeking a state judgment of dismissal. No application PDF ingested. Do not invent a docket number or a judgment date. Does not supersede 28-hearing-cmc-2027-06-17."
+  },
+  {
+    "id": "28-jsr-nov-circulate",
+    "date": "2026-11-12",
+    "date_label": "Nov. 12, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": null,
+    "title": "CIRCULATE — Plaintiff's draft of the Nov. 17, 2026 joint status conference report to defense counsel (joint filing; leave time for their insert and Civil L.R. 5-1(i)(3) attestation) — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC).",
+    "actor": "you"
   }
 ]

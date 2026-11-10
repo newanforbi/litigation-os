@@ -17,7 +17,7 @@
     "kind": "deadline",
     "status": "open",
     "source_dkt": 9,
-    "title": "Deadline to make initial disclosures (Fed. R. Civ. P. 26(a)(1)) and to file the Joint Case Management Statement (Standing Order for All Judges of the Northern\u2026",
+    "title": "Initial Joint Case Management Statement due Nov. 24, 2026 (Dkt. 9) \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). Rule 26(a)(1) initial disclosures are due the same day ONLY if the Court finds General Order 71 does not apply; Plaintiff's position (JCMS \u00b696) is that GO 71 applies and supersedes Rule 26(a)(1). Raise any defense GO 71 non-production in the JCMS.",
     "actor": "you",
     "source": "/documents/matter-29/Dkt 09 - Order Setting Initial CMC and ADR Deadlines (Filed Sep 3 2026).pdf"
   },
@@ -209,5 +209,37 @@
     "source_dkt": 27,
     "title": "WATCH \u2014 Defendants' responses to Plaintiff's Civil L.R. 7-11 administrative motion for leave to appear by Zoom at the Nov. 18, 2026 Dkt. 19 hearing due Nov. 13, 2026 (Dkt. 27 docket text) \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). Until ruled on, plan to appear in person, Courtroom 4, 1301 Clay St., Oakland.",
     "actor": "opposing"
+  },
+  {
+    "id": "29-go71-plaintiff-production",
+    "date": "2026-11-13",
+    "date_label": "Nov. 13, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": null,
+    "title": "SERVE \u2014 Plaintiff's General Order 71 Initial Discovery (Part 1 documents and information) \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). GO 71 exchange ran 30 days from the Sep. 22, 2026 Accurate answer (Dkt. 21) / Amazon motion (Dkt. 19), i.e. Oct. 22; no party has served. Plaintiff cures by Nov. 13 (JCMS \u00b6\u00b696, 105). Vol. 001 (NEWANFORBI 000001\u2013000039) ready; Vol. 003 needs July Amazon records and Delta/Hertz/Staples job-search attachments; diary item 2(e) unresolved; CONFIDENTIAL Vol. 002 withheld until protective order entry (state that reason under Instruction c). Rule 26(g) signature; Rule 26(e) supplementation continues.",
+    "actor": "you"
+  },
+  {
+    "id": "29-go71-defense-production",
+    "date": "2026-11-13",
+    "date_label": "Nov. 13, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": null,
+    "title": "WATCH \u2014 Amazon and Accurate General Order 71 Part 2 production (overdue since Oct. 22, 2026; Plaintiff asks for Nov. 13). Amazon: decision documents, manager/HR communications, background-check/individualized-assessment policies, handbook TOC, job description, compensation, any arbitration/jury-waiver agreement, decision-makers. Accurate: communications with Amazon, report file and documents relied on, screening policies. No objections except Rule 26(b)(2)(B); exemption only by the Court; a pending or anticipated stay request does not suspend it. If not served: live meet-and-confer, then Krishnan joint discovery letter; raise in Nov. 24 JCMS and at Dec. 1 CMC.",
+    "actor": "opposing"
+  },
+  {
+    "id": "29-go71-employer-contact-notice",
+    "date": null,
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "contingent",
+    "source_dkt": null,
+    "title": "TRIGGERED BY DEFENSE NOTICE \u2014 GO 71 Part 1(2)(h): Defendants may not contact or subpoena a prospective or current employer (e.g., Delta Hotel, Hertz, Staples) without 30 days' notice to Plaintiff. On receipt of any such notice, calendar 30 days and decide on a motion for protective order or to quash; contact/subpoena is barred while the motion is pending.",
+    "actor": "you"
   }
 ]
