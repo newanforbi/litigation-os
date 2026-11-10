@@ -6,7 +6,7 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": null,
-    "title": "WATCH — CHP written responses to RFP Set One (Count 1) in Newanforbi v. CHP et al. (26CV191136). Clock is October 20 if the September 16 email to Ing is valid…",
+    "title": "WATCH \u2014 CHP written responses to RFP Set One (Count 1) in Newanforbi v. CHP et al. (26CV191136). Clock is October 20 if the September 16 email to Ing is valid\u2026",
     "actor": "opposing",
     "source": "/documents/matter-20/Request for Production of Documents Set One - CHP with Mail POS (Sep 16 2026).pdf",
     "retired_reason": "CHP Production Set One served Oct. 23, 2026 (POS on file in the production-map memo merged as PR #1026). RFP response watch closed. Completeness of the production is not stipulated here."
@@ -18,7 +18,7 @@
     "kind": "hearing",
     "status": "vacated",
     "source_dkt": null,
-    "title": "Case Management Conference (continued from Sep. 2, 2026) — Newanforbi v. CHP et al. (26CV191136), 4:00 p.m., Dept. 25, Rene C. Davidson Courthouse, Hon. Jenna…",
+    "title": "Case Management Conference (continued from Sep. 2, 2026) \u2014 Newanforbi v. CHP et al. (26CV191136), 4:00 p.m., Dept. 25, Rene C. Davidson Courthouse, Hon. Jenna\u2026",
     "actor": "you",
     "source": "/documents/matter-32/from-20/Order Sustaining Demurrer In Part - Whitman (Aug 29 2026) (Notice of Entry Aug 31 2026).pdf",
     "superseded_by": "20-hearing-cmc-nov4",
@@ -31,7 +31,7 @@
     "kind": "deadline",
     "status": "vacated",
     "source_dkt": null,
-    "title": "Case Management Statement due (computed) — Newanforbi v. CHP et al. (26CV191136), 15 calendar days before the Oct. 28, 2026 CMC per CRC 3.725.",
+    "title": "Case Management Statement due (computed) \u2014 Newanforbi v. CHP et al. (26CV191136), 15 calendar days before the Oct. 28, 2026 CMC per CRC 3.725.",
     "actor": "you",
     "source": "/documents/matter-32/from-20/Notice of Case Management Conference.pdf",
     "retired_reason": "CMS computed from the Oct. 28, 2026 CMC. That CMC was continued to Nov. 4 (USER REPORT). Clock superseded."
@@ -43,7 +43,7 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": null,
-    "title": "AMENDMENT DUE (optional) — if Petitioner elects to amend Count 4, file and serve an amended Petition within 20 days of notice of entry of the August 29, 2026…",
+    "title": "AMENDMENT DUE (optional) \u2014 if Petitioner elects to amend Count 4, file and serve an amended Petition within 20 days of notice of entry of the August 29, 2026\u2026",
     "actor": "you",
     "source": "/documents/matter-32/from-20/Order Sustaining Demurrer In Part - Whitman (Aug 29 2026) (Notice of Entry Aug 31 2026).pdf",
     "note": "No amended petition filed; Count 4 leave to amend lapsed."
@@ -55,7 +55,7 @@
     "kind": "deadline",
     "status": "vacated",
     "source_dkt": null,
-    "title": "Hearing on CHP demurrer and the individual respondents' joinders/demurrers to the Petition for Writ of Mandate, Newanforbi v. California Highway Patrol, et al.…",
+    "title": "Hearing on CHP demurrer and the individual respondents' joinders/demurrers to the Petition for Writ of Mandate, Newanforbi v. California Highway Patrol, et al.\u2026",
     "actor": "you",
     "source": "/documents/matter-32/from-20/Serrato Notice of Joinder and Demurrer.pdf",
     "note": "Advanced to Aug 28 by stipulation; vacated as moot by Aug 29, 2026 Whitman order."
@@ -67,7 +67,7 @@
     "kind": "deadline",
     "status": "vacated",
     "source_dkt": null,
-    "title": "Continued hearing on the Dutra joinder and demurrer to the Petition for Writ of Mandate, Newanforbi v. California Highway Patrol, et al. (Matter 20) — Dept.…",
+    "title": "Continued hearing on the Dutra joinder and demurrer to the Petition for Writ of Mandate, Newanforbi v. California Highway Patrol, et al. (Matter 20) \u2014 Dept.\u2026",
     "actor": "you",
     "source": "/documents/matter-32/from-20/Dutra Notice of Joinder and Demurrer.pdf",
     "note": "Advanced to Aug 28 by stipulation; vacated as moot by Aug 29, 2026 Whitman order."
@@ -79,7 +79,7 @@
     "kind": "deadline",
     "status": "vacated",
     "source_dkt": null,
-    "title": "TARGET — File & serve CM-110 with attachments + proof of service (ideal window Oct 6–8; hard deadline Oct 13, 15 calendar days before Oct 28 CMC per CRC 3.725).",
+    "title": "TARGET \u2014 File & serve CM-110 with attachments + proof of service (ideal window Oct 6\u20138; hard deadline Oct 13, 15 calendar days before Oct 28 CMC per CRC 3.725).",
     "actor": "you",
     "source": "/documents/matter-20/Matter20_CM110_with_PleadingPaper_Attachments.pdf",
     "retired_reason": "CM-110 target window for the Oct. 28 CMC. CMC continued to Nov. 4, 2026 (USER REPORT)."
@@ -91,7 +91,7 @@
     "kind": "deadline",
     "status": "vacated",
     "source_dkt": null,
-    "title": "TARGET — File & serve motion package for peremptory writ (notice + MPA with CRS receipt, declaration, proposed judgment, proposed writ, POS); hard deadline Dec 11 (16 court days + 2 for e-service, CCP §1005(b)).",
+    "title": "TARGET \u2014 File & serve motion package for peremptory writ (notice + MPA with CRS receipt, declaration, proposed judgment, proposed writ, POS); hard deadline Dec 11 (16 court days + 2 for e-service, CCP \u00a71005(b)).",
     "actor": "you",
     "source": "/documents/matter-20/01_Motion_for_Peremptory_Writ_MPA_with_CRS_Receipt.pdf",
     "superseded_by": "20-deadline-writ-open",
@@ -104,11 +104,11 @@
     "kind": "deadline",
     "status": "vacated",
     "source_dkt": null,
-    "title": "DEADLINE — Motion for peremptory writ of mandate filed & served (16 court days + 2 for e-service before Jan 8, 2027 hearing, CCP §1005(b)).",
+    "title": "DEADLINE \u2014 Motion for peremptory writ of mandate filed & served (16 court days + 2 for e-service before Jan 8, 2027 hearing, CCP \u00a71005(b)).",
     "actor": "you",
     "source": "/documents/matter-20/01_Motion_for_Peremptory_Writ_MPA_with_CRS_Receipt.pdf",
     "superseded_by": "20-deadline-writ-open",
-    "retired_reason": "USER REPORT Oct. 28, 2026: court-facing opening-brief date is Nov. 13, 2026, not the prior CCP § 1005(b) Dec. 11 computation."
+    "retired_reason": "USER REPORT Oct. 28, 2026: court-facing opening-brief date is Nov. 13, 2026, not the prior CCP \u00a7 1005(b) Dec. 11 computation."
   },
   {
     "id": "20-deadline-10",
@@ -117,7 +117,7 @@
     "kind": "deadline",
     "status": "open",
     "source_dkt": null,
-    "title": "WATCH — Respondents' opposition due Dec. 11, 2026 — Newanforbi v. CHP et al. (26CV191136). Set by the Oct. 26, 2026 Stipulation and Order re Briefing Schedule.",
+    "title": "WATCH \u2014 Respondents' opposition due Dec. 11, 2026 \u2014 Newanforbi v. CHP et al. (26CV191136). Set by the Oct. 26, 2026 Stipulation and Order re Briefing Schedule.",
     "actor": "opposing",
     "source": "/documents/matter-20/Stipulation and Order re Briefing Schedule - Signed Whitman (Filed Oct 26 2026).pdf",
     "note": "Order signed by Hon. Jenna M. Whitman Oct. 26, 2026 on the parties' joint stipulation; filed Oct. 26, clerk e-served Oct. 28."
@@ -129,7 +129,7 @@
     "kind": "deadline",
     "status": "open",
     "source_dkt": null,
-    "title": "Reply due Dec. 18, 2026 on the petition for writ of mandate — Newanforbi v. CHP et al. (26CV191136). Set by the Oct. 26, 2026 Stipulation and Order re Briefing Schedule.",
+    "title": "Reply due Dec. 18, 2026 on the petition for writ of mandate \u2014 Newanforbi v. CHP et al. (26CV191136). Set by the Oct. 26, 2026 Stipulation and Order re Briefing Schedule.",
     "actor": "you",
     "source": "/documents/matter-20/Stipulation and Order re Briefing Schedule - Signed Whitman (Filed Oct 26 2026).pdf",
     "note": "Order signed by Hon. Jenna M. Whitman Oct. 26, 2026 on the parties' joint stipulation; filed Oct. 26, clerk e-served Oct. 28. Courtesy copy to Dept. 25 within one court day of filing (see 20-courtesy-reply)."
@@ -141,7 +141,7 @@
     "kind": "deadline",
     "status": "open",
     "source_dkt": null,
-    "title": "WATCH — Tentative ruling posts (afternoon); read it. To argue, follow Dept. 25 contest procedure.",
+    "title": "WATCH \u2014 Tentative ruling posts (afternoon); read it. To argue, follow Dept. 25 contest procedure.",
     "actor": "you",
     "source": "/documents/matter-20/01_Motion_for_Peremptory_Writ_MPA_with_CRS_Receipt.pdf"
   },
@@ -152,7 +152,7 @@
     "kind": "hearing",
     "status": "open",
     "source_dkt": null,
-    "title": "HEARING — Motion for peremptory writ of mandate, 9:00 a.m., Dept. 25, Hon. Jenna M. Whitman (Reservation ID 958052306492).",
+    "title": "HEARING \u2014 Motion for peremptory writ of mandate, 9:00 a.m., Dept. 25, Hon. Jenna M. Whitman (Reservation ID 958052306492).",
     "actor": "you",
     "source": "/documents/matter-20/01_Motion_for_Peremptory_Writ_MPA_with_CRS_Receipt.pdf"
   },
@@ -161,38 +161,39 @@
     "date": "2026-11-04",
     "time": "16:00",
     "kind": "hearing",
-    "status": "open",
+    "status": "vacated",
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-32/from-20/Notice of Case Management Conference.pdf",
-    "title": "Case Management Conference — Newanforbi v. CHP et al. (26CV191136), Nov. 4, 2026, 4:00 p.m., Dept. 25, Rene C. Davidson Courthouse, Hon. Jenna M. Whitman. USER REPORT Oct. 28, 2026: continued from Oct. 28. No continuance order PDF ingested.",
+    "title": "Case Management Conference \u2014 Newanforbi v. CHP et al. (26CV191136), Nov. 4, 2026, 4:00 p.m., Dept. 25, Rene C. Davidson Courthouse, Hon. Jenna M. Whitman. USER REPORT Oct. 28, 2026: continued from Oct. 28. No continuance order PDF ingested.",
     "date_label": "Nov. 4, 2026",
-    "tz": "America/Los_Angeles"
+    "tz": "America/Los_Angeles",
+    "note": "Initial CMC vacated by the Oct. 28, 2026 order (e-served Nov. 3)."
   },
   {
     "id": "20-deadline-writ-open",
     "date": "2026-11-13",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-20/Stipulation and Order re Briefing Schedule - Signed Whitman (Filed Oct 26 2026).pdf",
-    "title": "Opening memorandum in support of the petition for writ of mandate due Nov. 13, 2026 (hearing Jan. 8, 2027) — Newanforbi v. CHP et al. (26CV191136). Set by the Oct. 26, 2026 Stipulation and Order re Briefing Schedule.",
+    "title": "Opening memorandum in support of the petition for writ of mandate due Nov. 13, 2026 (hearing Jan. 8, 2027) \u2014 Newanforbi v. CHP et al. (26CV191136). Set by the Oct. 26, 2026 Stipulation and Order re Briefing Schedule.",
     "date_label": "Nov. 13, 2026",
     "tz": "America/Los_Angeles",
-    "note": "Order signed by Hon. Jenna M. Whitman Oct. 26, 2026 on the parties' joint stipulation; filed Oct. 26, clerk e-served Oct. 28. Courtesy copy to Dept. 25 within one court day of filing (see 20-courtesy-opening)."
+    "note": "Motion for peremptory writ with MPA, declaration and Exhibits A\u2013N, proposed writ and proposed judgment served Oct. 29, 2026. Confirm the court file stamp."
   },
   {
     "id": "20-courtesy-opening",
-    "date": "2026-11-16",
+    "date": "2026-10-30",
     "date_label": "Nov. 16, 2026",
     "kind": "deadline",
     "status": "open",
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-20/Stipulation and Order re Briefing Schedule - Signed Whitman (Filed Oct 26 2026).pdf",
-    "title": "Hand-deliver courtesy copy of the opening memorandum to Dept. 25 (Rene C. Davidson Courthouse) within one court day of filing — Newanforbi v. CHP et al. (26CV191136). Order of Oct. 26, 2026.",
-    "note": "Date assumes filing on the deadline; if filed earlier, the courtesy copy is due one court day after the actual filing date. Source: Order re Briefing Schedule, p. 4 (\"Courtesy copies shall be hand delivered to Dept. 25 within one court day of filing.\")",
+    "title": "Hand-deliver courtesy copy of the opening memorandum to Dept. 25 (Rene C. Davidson Courthouse) within one court day of filing \u2014 Newanforbi v. CHP et al. (26CV191136). Order of Oct. 26, 2026.",
+    "note": "One court day after filing. If the motion was filed Oct. 29, the courtesy copy was due Oct. 30. CONFIRM it was hand-delivered to Dept. 25; if not, deliver now.",
     "tz": "America/Los_Angeles"
   },
   {
@@ -204,8 +205,17 @@
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-20/Stipulation and Order re Briefing Schedule - Signed Whitman (Filed Oct 26 2026).pdf",
-    "title": "Hand-deliver courtesy copy of the reply to Dept. 25 (Rene C. Davidson Courthouse) within one court day of filing — Newanforbi v. CHP et al. (26CV191136). Order of Oct. 26, 2026.",
+    "title": "Hand-deliver courtesy copy of the reply to Dept. 25 (Rene C. Davidson Courthouse) within one court day of filing \u2014 Newanforbi v. CHP et al. (26CV191136). Order of Oct. 26, 2026.",
     "note": "Date assumes filing on the deadline; if filed earlier, the courtesy copy is due one court day after the actual filing date. Source: Order re Briefing Schedule, p. 4 (\"Courtesy copies shall be hand delivered to Dept. 25 within one court day of filing.\")",
     "tz": "America/Los_Angeles"
+  },
+  {
+    "id": "20-download-supp-production",
+    "date": "2026-11-12",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "title": "DOWNLOAD CHP's Nov. 5, 2026 supplemental production and amended privilege log from DOJ FileXchange before the link expires Thu. Nov. 12, 2026 \u2014 Newanforbi v. CHP et al. (26CV191136). Review for the Dec. 18 reply.",
+    "actor": "you"
   }
 ]

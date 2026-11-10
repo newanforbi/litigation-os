@@ -6,10 +6,10 @@
     "kind": "deadline",
     "status": "open",
     "source_dkt": 16,
-    "title": "FILE — summons return / CCP § 415.20(b) declaration + Exhibit A USPS receipt + POS being refiled in Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). USER REPORT Oct. 28, 2026. Sep. 17 mailing executed; prior FILE clock was still open (dkt null). Do not invent a filing.",
+    "title": "FILE \u2014 summons return / CCP \u00a7 415.20(b) declaration + Exhibit A USPS receipt + POS being refiled in Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). USER REPORT Oct. 28, 2026. Sep. 17 mailing executed; prior FILE clock was still open (dkt null). Do not invent a filing.",
     "actor": "you",
     "source": "/documents/matter-32/ndcal/Declaration of Mailing - CCP 415.20(b) Follow-Up to Dkt 16 - Meza-Gonzalez (N.D. Cal. 4-26-cv-08271-ASK) (September 17, 2026).pdf",
-    "note": "Dkt. 21 (Oct. 26) Melano summons return drew a Dkt. 21 electronic-filing-error notice Oct. 28 (no title page, Civ. L.R. 3-4); Plaintiff refiled it as Dkt. 24 (Oct. 28, 9:58 a.m.) with the Melano proof of service attached. Dkt. 24 is the Melano return. This clock tracks the Meza-Gonzalez CCP § 415.20(b) follow-up declaration; no ECF entry for that declaration found through Oct. 28. Plaintiff to confirm whether Meza-Gonzalez's return still needs filing."
+    "note": "Dkt. 21 (Oct. 26) Melano summons return drew a Dkt. 21 electronic-filing-error notice Oct. 28 (no title page, Civ. L.R. 3-4); Plaintiff refiled it as Dkt. 24 (Oct. 28, 9:58 a.m.) with the Melano proof of service attached. Dkt. 24 is the Melano return. This clock tracks the Meza-Gonzalez CCP \u00a7 415.20(b) follow-up declaration; no ECF entry for that declaration found through Oct. 28. Plaintiff to confirm whether Meza-Gonzalez's return still needs filing."
   },
   {
     "id": "32-deadline-2",
@@ -18,10 +18,10 @@
     "kind": "deadline",
     "status": "vacated",
     "source_dkt": 16,
-    "title": "WATCH — Meza-Gonzalez Rule 12(a) responsive deadline (computed from a September 17, 2026 CCP § 415.20(b) mailing) in Nforbi v. Meza-Gonzalez et al.…",
+    "title": "WATCH \u2014 Meza-Gonzalez Rule 12(a) responsive deadline (computed from a September 17, 2026 CCP \u00a7 415.20(b) mailing) in Nforbi v. Meza-Gonzalez et al.\u2026",
     "actor": "opposing",
     "source": "/documents/matter-32/ndcal/Declaration of Mailing - CCP 415.20(b) Follow-Up to Dkt 16 - Meza-Gonzalez (N.D. Cal. 4-26-cv-08271-ASK) (September 17, 2026).pdf",
-    "retired_reason": "Computed Rule 12(a) from the Sep. 17, 2026 CCP § 415.20(b) mailing. USER REPORT Oct. 28, 2026: summons return is being refiled. Open PR #1035 catalogs a Dkt. 22 MTD filed Oct. 26, 2026 (PDFs not on this branch). The Oct. 19 computed watch is not a live clock."
+    "retired_reason": "Computed Rule 12(a) from the Sep. 17, 2026 CCP \u00a7 415.20(b) mailing. USER REPORT Oct. 28, 2026: summons return is being refiled. Open PR #1035 catalogs a Dkt. 22 MTD filed Oct. 26, 2026 (PDFs not on this branch). The Oct. 19 computed watch is not a live clock."
   },
   {
     "id": "32-deadline-3",
@@ -30,7 +30,7 @@
     "kind": "deadline",
     "status": "vacated",
     "source_dkt": null,
-    "title": "CCP §335.1 two-year statute of limitations (computed) backstop, running from the Nov. 1, 2024 incident. (1) Matter 1's Fourth Amendment §1983 claim (borrowed…",
+    "title": "CCP \u00a7335.1 two-year statute of limitations (computed) backstop, running from the Nov. 1, 2024 incident. (1) Matter 1's Fourth Amendment \u00a71983 claim (borrowed\u2026",
     "actor": "you",
     "source": "/documents/matter-33/incident/Arrest Report.pdf",
     "retired_reason": "Not a Matter 32 next-action clock. Matter 32 is already filed. The Nov. 1, 2026 backstop is historical risk on Matter 2 (unfiled state-law theories after the Aug. 15, 2026 dismissal). See Matter 2 damages.json risk."
@@ -42,10 +42,10 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": 16,
-    "title": "MAIL — CCP § 415.20(b) first-class follow-up to Dkt. 16 / 16-1 for Santiago Meza-Gonzalez in Nforbi v. Meza-Gonzalez et al. (N.D. Cal. 4:26-cv-08271-ASK).…",
+    "title": "MAIL \u2014 CCP \u00a7 415.20(b) first-class follow-up to Dkt. 16 / 16-1 for Santiago Meza-Gonzalez in Nforbi v. Meza-Gonzalez et al. (N.D. Cal. 4:26-cv-08271-ASK).\u2026",
     "actor": "you",
     "source": "/documents/matter-32/ndcal/CCP 415.20(b) Mailing Bundle - Meza-Gonzalez (N.D. Cal. 4-26-cv-08271-ASK) (September 17, 2026).pdf",
-    "retired_reason": "MAIL executed (CCP § 415.20(b) first-class follow-up to Dkt. 16 / 16-1). Papers exist. FILE of the signed declaration + Exhibit A + POS remains unfiled (dkt null). Do not invent a filing."
+    "retired_reason": "MAIL executed (CCP \u00a7 415.20(b) first-class follow-up to Dkt. 16 / 16-1). Papers exist. FILE of the signed declaration + Exhibit A + POS remains unfiled (dkt null). Do not invent a filing."
   },
   {
     "id": "32-deadline-melano-answer",
@@ -54,7 +54,7 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": null,
-    "title": "OVERDUE — Jose Melano response to operative FAC. Served Aug. 14, 2026; no response on PACER as of Sep. 28, 2026. Default posture; verify docket before seeking Rule 55(a) relief.",
+    "title": "OVERDUE \u2014 Jose Melano response to operative FAC. Served Aug. 14, 2026; no response on PACER as of Sep. 28, 2026. Default posture; verify docket before seeking Rule 55(a) relief.",
     "actor": "opposing",
     "source": "/documents/matter-32/ndcal/Proof of Service of Summons - Jose Melano (C&P Process Server original, clerk-stamped Aug 31 2026).pdf",
     "retired_reason": "Open PR #1035 catalogs Dkt. 22 Defendants' Motion to Dismiss and Strike, filed Oct. 26, 2026, plus Dkt. 23 magistrate-jurisdiction declination. PDFs and docket rows are not ingested on this branch (no bytes on main). Treats the Sep. 4 Melano-answer watch as answered by motion. Confirm PACER before relying on a hearing date."
@@ -66,7 +66,7 @@
     "kind": "deadline",
     "status": "open",
     "source_dkt": null,
-    "title": "Case Management Statement due — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Case-management-order deadline continues under Serrato Dkt. 34.",
+    "title": "Case Management Statement due \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Case-management-order deadline continues under Serrato Dkt. 34.",
     "actor": "you",
     "note": "Serrato Dkt. 34 (Nov. 3, 2026) keeps case-management-order deadlines in effect, except dates for appearance in court. The CMC appearance will be rescheduled by Judge Breyer, and the parties adjust the FRCP 16 and 26 conference, disclosure, and report dates to that conference. This Nov. 25 statement date stays open until that reset. ADR Local Rule deadlines also remain in effect."
   },
@@ -78,8 +78,8 @@
     "status": "open",
     "source_dkt": 22,
     "actor": "you",
-    "title": "Opposition to Dkt. 22 motion to dismiss/strike due Nov. 9, 2026 — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Date set in the Dkt. 22 docket text (responses due 11/9/2026; replies 11/16/2026). Plaintiff emailed a courtesy copy of the opposition and proof of service to DOJ on Oct. 27, 2026, but no ECF entry for the opposition appears in the NEFs through Oct. 28, 4:00 p.m. PT.",
-    "note": "Keep OPEN until the opposition is on the docket. A courtesy email to counsel is not a filing (Civ. L.R. 5-1). Serrato Dkt. 34 vacates noticed motion hearing dates and requires re-notice before Judge Breyer. It does not vacate the L.R. 7-3 briefing dates."
+    "title": "Opposition to Dkt. 22 motion to dismiss/strike due Nov. 9, 2026 \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Date set in the Dkt. 22 docket text (responses due 11/9/2026; replies 11/16/2026). Plaintiff emailed a courtesy copy of the opposition and proof of service to DOJ on Oct. 27, 2026, but no ECF entry for the opposition appears in the NEFs through Oct. 28, 4:00 p.m. PT.",
+    "note": "Keep OPEN until the opposition is on the docket. A courtesy email to counsel is not a filing (Civ. L.R. 5-1). Serrato Dkt. 34 vacates noticed motion hearing dates and requires re-notice before Judge Breyer. It does not vacate the L.R. 7-3 briefing dates. Nov. 10: no NEF for the opposition; due Nov. 9. Corrected version (CRB caption, Breyer, Nov. 9 date) prepared; run ECF Check PDF Document before filing (Oct. 29 Error 404 history)."
   },
   {
     "id": "32-mtd-reply",
@@ -89,7 +89,7 @@
     "status": "open",
     "source_dkt": 22,
     "actor": "opposing",
-    "title": "WATCH — Defendants' reply in support of Dkt. 22 motion to dismiss/strike due Nov. 16, 2026 per Dkt. 22 docket text — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Briefing date continues; the hearing must be re-noticed.",
+    "title": "WATCH \u2014 Defendants' reply in support of Dkt. 22 motion to dismiss/strike due Nov. 16, 2026 per Dkt. 22 docket text \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Briefing date continues; the hearing must be re-noticed.",
     "tz": "America/Los_Angeles"
   },
   {
@@ -102,7 +102,7 @@
     "status": "vacated",
     "source_dkt": 25,
     "actor": "court",
-    "title": "Dkt. 22 motion-to-dismiss hearing originally noticed for Dec. 9, 2026, 1:30 p.m., Oakland, Courtroom 4, 3rd Floor (Dkt. 22 docket text) — VACATED. Serrato Dkt. 34 (Nov. 3, 2026) vacates noticed motion dates in the reassigned case. The moving party must re-notice the hearing before Judge Breyer.",
+    "title": "Dkt. 22 motion-to-dismiss hearing originally noticed for Dec. 9, 2026, 1:30 p.m., Oakland, Courtroom 4, 3rd Floor (Dkt. 22 docket text) \u2014 VACATED. Serrato Dkt. 34 (Nov. 3, 2026) vacates noticed motion dates in the reassigned case. The moving party must re-notice the hearing before Judge Breyer.",
     "retired_reason": "Dkt. 25 (Oct. 28, 2026) vacated magistrate hearing dates. Serrato Dkt. 34 (Nov. 3, 2026) reassigned the case to Judge Breyer and vacated noticed motion dates. Re-notice is required. Do not invent a hearing date."
   },
   {
@@ -112,7 +112,7 @@
     "status": "satisfied",
     "source_dkt": 25,
     "actor": "court",
-    "title": "WATCH — District judge on reassignment of Brendan Ngwa Nforbi v. Meza-Gonzalez et al. Named by Serrato Dkt. 34 (Nov. 3, 2026): Hon. Charles R. Breyer, 4:26-cv-08271-CRB (formerly 26-cv-08271-AMO).",
+    "title": "WATCH \u2014 District judge on reassignment of Brendan Ngwa Nforbi v. Meza-Gonzalez et al. Named by Serrato Dkt. 34 (Nov. 3, 2026): Hon. Charles R. Breyer, 4:26-cv-08271-CRB (formerly 26-cv-08271-AMO).",
     "retired_reason": "Serrato Dkt. 34 (Nov. 3, 2026) finds the case related to Ngehsi Newanforbi v. Serrato and reassigns it to Judge Breyer. The judge is no longer unknown."
   },
   {
@@ -124,7 +124,7 @@
     "source_dkt": 4,
     "actor": "you",
     "tz": "America/Los_Angeles",
-    "title": "ADR Certification (ADR L.R. 3) remains in effect — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB), per Dkt. 4 and Serrato Dkt. 34 (Nov. 3, 2026).",
+    "title": "ADR Certification (ADR L.R. 3) remains in effect \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB), per Dkt. 4 and Serrato Dkt. 34 (Nov. 3, 2026).",
     "note": "Serrato Dkt. 34 keeps deadlines set by the ADR Local Rules in effect. Court appearance dates are the exception and will be rescheduled."
   },
   {
@@ -134,7 +134,7 @@
     "status": "contingent",
     "source_dkt": null,
     "actor": "opposing",
-    "title": "Re-notice the Dkt. 22 motion hearing before Judge Breyer — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Serrato Dkt. 34 vacated noticed motion dates. No new date until the moving party re-notices.",
+    "title": "Re-notice the Dkt. 22 motion hearing before Judge Breyer \u2014 Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Serrato Dkt. 34 vacated noticed motion dates. No new date until the moving party re-notices.",
     "note": "Undated contingent. source_dkt is null because Dkt. 34 is the Serrato docket number, not a Meza entry number. Do not invent a hearing date."
   }
 ]

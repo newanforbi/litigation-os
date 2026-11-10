@@ -1,1 +1,23 @@
-[{"actor":"opposing","date":"2026-11-04","date_label":"Nov. 4, 2026","id":"37-home-depot-answer-deadline","kind":"deadline","source":"USM-285 return, Dkt. 8 (filed Oct. 19, 2026): Marshal service Oct. 14, 2026, 11:48 a.m., on Josh Swindell, Associate Intake Coordinator, at CSC, 2710 Gateway Oaks Dr Ste 150N, Sacramento","source_dkt":8,"status":"open","title":"WATCH — Home Depot answer or Rule 12 motion due, Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC). Served Oct. 14, 2026 → 21 days (Rule 12(a)(1)(A)(i)). A Rule 12 motion tolls the answer to 14 days after ruling (Rule 12(a)(4)). If nothing appears, the Rule 55 default track opens — check the docket, don't assume."}]
+[
+  {
+    "actor": "opposing",
+    "date": "2026-11-04",
+    "date_label": "Nov. 4, 2026",
+    "id": "37-home-depot-answer-deadline",
+    "kind": "deadline",
+    "source": "USM-285 return, Dkt. 8 (filed Oct. 19, 2026): Marshal service Oct. 14, 2026, 11:48 a.m., on Josh Swindell, Associate Intake Coordinator, at CSC, 2710 Gateway Oaks Dr Ste 150N, Sacramento",
+    "source_dkt": 8,
+    "status": "satisfied",
+    "title": "WATCH \u2014 Home Depot answer or Rule 12 motion due, Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC). Served Oct. 14, 2026 \u2192 21 days (Rule 12(a)(1)(A)(i)). A Rule 12 motion tolls the answer to 14 days after ruling (Rule 12(a)(4)). If nothing appears, the Rule 55 default track opens \u2014 check the docket, don't assume.",
+    "note": "Lapsed Nov. 4, 2026 with no response; default requested (sent for filing Nov. 5)."
+  },
+  {
+    "id": "37-default-entry-watch",
+    "date": null,
+    "tz": "America/Los_Angeles",
+    "kind": "watch",
+    "status": "contingent",
+    "title": "WATCH \u2014 Confirm Rubio filed the Request for Clerk's Entry of Default on Nov. 5, 2026 (get the conformed copy) and that the Clerk enters Home Depot's default; then move for default judgment under FRCP 55(b)(2) \u2014 Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC (PS)).",
+    "actor": "you"
+  }
+]
