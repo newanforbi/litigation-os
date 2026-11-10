@@ -126,13 +126,14 @@
     "id": "28-js-2026-11-17",
     "date": "2026-11-17",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": 38,
     "actor": "you",
     "source": "/documents/matter-28/Dkt 29 - Order Continuing Case Management Conference (Filed Oct 8 2026).pdf",
     "title": "Joint status conference report due Nov. 17, 2026 (monthly through May 17, 2027) — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC). USER REPORT of the Oct. 27, 2026 order deferring the MTD pending San Joaquin judgment. Order is Dkt. 38 (filed Oct. 27, 2026; minute entry Dkt. 37); PDF not ingested.",
     "date_label": "Nov. 17, 2026",
-    "tz": "America/Los_Angeles"
+    "tz": "America/Los_Angeles",
+    "retired_reason": "SATISFIED by Dkt. 39 Joint Status Report re State Court Judgment, filed Nov. 10, 2026, attaching the Nov. 4, 2026 San Joaquin Judgment of Dismissal as Exhibit A. Defendants withdrew the claim-preclusion argument (ECF 15 at 11–14). Later monthly joint status reports (Dec. 17, 2026 through May 17, 2027) remain live."
   },
   {
     "id": "28-js-2026-12-17",
@@ -239,8 +240,8 @@
     "source_dkt": 38,
     "actor": "court",
     "source": "/documents/matter-28/Dkt 29 - Order Continuing Case Management Conference (Filed Oct 8 2026).pdf",
-    "title": "Discovery stayed pending San Joaquin judgment — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC). USER REPORT of the Oct. 27, 2026 order deferring Dkt. 15 MTD. Order is Dkt. 38 (filed Oct. 27, 2026; minute entry Dkt. 37); PDF not ingested.",
-    "note": "Stay is in force per USER REPORT. Undated contingent so it is not derived overdue."
+    "title": "Discovery stayed pending San Joaquin judgment — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC). Oct. 27, 2026 order (Dkt. 38; minute entry Dkt. 37) deferred the Dkt. 15 MTD and stayed discovery. The San Joaquin Judgment of Dismissal was entered Nov. 4, 2026; Dkt. 39 filed Nov. 10, 2026. Stay lift not independently confirmed.",
+    "note": "Stay was imposed by the Oct. 27, 2026 order (Dkt. 38) pending the San Joaquin judgment. That judgment was entered Nov. 4, 2026, and Dkt. 39 was filed Nov. 10, 2026. The remaining Dkt. 15 MTD grounds are pending. The discovery stay has not been independently confirmed as lifted. Undated contingent so it is not derived overdue."
   },
   {
     "id": "28-hearing-m5-exparte-judgment",
@@ -249,11 +250,25 @@
     "time": "09:15",
     "tz": "America/Los_Angeles",
     "kind": "hearing",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/opinions/Newanforbi v Palacios - San Joaquin Sup Ct - Demurrer Sustained WOLA Jul 15 2026.pdf",
     "title": "EX PARTE HEARING — Application for Order Dismissing First Amended Complaint and Entering Judgment of Dismissal, Newanforbi v. Palacios et al. (San Joaquin Sup. Ct. STK-CV-UF-2026-0001032), Nov. 2, 2026, 9:15 a.m., Dept. 10A. Related Matter 28 (N.D. Cal. 3:26-cv-07504-LJC) Dkt. 15 motion to dismiss is deferred pending the San Joaquin judgment.",
-    "note": "USER REPORT Oct. 28, 2026: San Joaquin Superior Court approved the ex parte request in related Matter 5 the same day. Defendants are seeking a state judgment of dismissal. No application PDF ingested. Do not invent a docket number or a judgment date. Does not supersede 28-hearing-cmc-2027-06-17."
+    "note": "USER REPORT Oct. 28, 2026: San Joaquin Superior Court approved the ex parte request in related Matter 5 the same day. Defendants are seeking a state judgment of dismissal. No application PDF ingested. Do not invent a docket number or a judgment date. Does not supersede 28-hearing-cmc-2027-06-17.",
+    "retired_reason": "HELD Nov. 2, 2026, 9:15 a.m., Dept. 10A. Judgment of Dismissal entered Nov. 4, 2026, without prejudice for failure to exhaust. Notice of Entry e-served Nov. 6, 2026. Dkt. 39 (filed Nov. 10, 2026) attaches the judgment as Exhibit A."
+  },
+  {
+    "id": "28-deadline-judgment-copy",
+    "date": "2026-11-13",
+    "date_label": "Nov. 13, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "satisfied",
+    "source_dkt": 38,
+    "actor": "you",
+    "title": "FILE a copy of the San Joaquin judgment within one week of notice of entry (ECF 38) — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC). Notice of Entry was e-served Nov. 6, 2026, so the one-week mark is about Nov. 13, 2026.",
+    "note": "This is the ECF 38 judgment-copy obligation, not the already-vacated 28-proposed-reproduction clock (Joint CMS proposed discovery re-production).",
+    "retired_reason": "SATISFIED by Dkt. 39 Joint Status Report re State Court Judgment, filed Nov. 10, 2026, attaching the Nov. 4, 2026 judgment as Exhibit A."
   }
 ]

@@ -135,5 +135,25 @@
     "path": null,
     "filed": false,
     "label": "AppFile order 14773399 — Awaiting Verification; not yet on the public docket (portal checked Oct. 28, 2026). No copy published."
+  },
+  {
+    "dkt": null,
+    "date": "2026-11-04",
+    "filer": "court",
+    "type": "order",
+    "title": "Judgment of Dismissal (Without Prejudice) — Entered Nov 4 2026",
+    "path": null,
+    "filed": true,
+    "label": "Entered Nov. 4, 2026, after the Nov. 2, 2026 ex parte hearing (Hon. George J. Abdallah, Jr., Dept. 10A). The entire action is dismissed WITHOUT PREJUDICE under CCP §§ 581(f)(1) and 581d for failure to exhaust administrative remedies. Attached as Exhibit A to the Nov. 6 Notice of Entry and to Matter 28 Dkt. 39. User provided a copy Nov. 10, 2026; not yet published in the document store. Do not invent a state docket number."
+  },
+  {
+    "dkt": null,
+    "date": "2026-11-06",
+    "filer": "defendant",
+    "type": "other",
+    "title": "Notice of Entry of Judgment of Dismissal (E-served Nov 6 2026)",
+    "path": null,
+    "filed": true,
+    "label": "E-served Nov. 6, 2026 by Sims, Lawrence & Broghammer; Kim Schmitt proof of service by electronic service. Attaches the Nov. 4 Judgment of Dismissal as Exhibit A. User provided a copy Nov. 10, 2026; not yet published in the document store. Do not invent a state docket number."
   }
 ]
