@@ -52,7 +52,9 @@ describe("statusLabel derivation", () => {
     const events = eventsFor(20);
     expect(matter.status_label).toMatch(/CMC Nov\. 4.*writ brief Nov\. 13.*hearing Jan\. 8/i);
     expect(effectiveStatusLabel(matter, { events })).toMatch(/CMC Nov\. 4.*writ brief Nov\. 13.*hearing Jan\. 8/i);
-    expect(pickPostureEvent(events, matter.phase)?.date).toBe("Nov. 4, 2026");
+    // As of Nov. 10, 2026 the Nov. 4 CMC is past, so the next live posture
+    // date is the Jan. 8, 2027 hearing (hearings outrank the Nov. 13 brief).
+    expect(pickPostureEvent(events, matter.phase)?.date).toBe("Jan. 8, 2027");
   });
 
   it("derives default prove-up and CMC dates from upcoming hearings", () => {

@@ -1,6 +1,6 @@
 {
   "generated": true,
-  "today": "2026-11-04",
+  "today": "2026-11-10",
   "matters": [
     {
       "number": 1,
@@ -147,16 +147,9 @@
       "lifecycle": "dismissed",
       "proceeding": "state_civil",
       "phase": "terminal",
-      "next_clock": {
-        "id": "05-hearing-exparte-judgment",
-        "date": "2026-11-02",
-        "kind": "hearing",
-        "status": "overdue",
-        "title": "EX PARTE HEARING — Application for Order Dismissing First Amended Complaint and Entering Judgment of Dismissal, Newanforbi v. Palacios et al. (San Joaquin Sup. Ct. STK-CV-UF-2026-0001032), Nov. 2, 2026, 9:15 a.m., Dept. 10A. Related Matter 28 (N.D. Cal. 3:26-cv-07504-LJC) Dkt. 15 motion to dismiss is deferred pending the San Joaquin judgment.",
-        "source_dkt": null
-      },
-      "overdue": true,
-      "last_updated": "2026-10-28",
+      "next_clock": null,
+      "overdue": false,
+      "last_updated": "2026-11-10",
       "files": [
         "claims.json",
         "clocks.json",
@@ -637,11 +630,11 @@
         "id": "20-hearing-cmc-nov4",
         "date": "2026-11-04",
         "kind": "hearing",
-        "status": "open",
+        "status": "overdue",
         "title": "Case Management Conference — Newanforbi v. CHP et al. (26CV191136), Nov. 4, 2026, 4:00 p.m., Dept. 25, Rene C. Davidson Courthouse, Hon. Jenna M. Whitman. USER REPORT Oct. 28, 2026: continued from Oct. 28. No continuance order PDF ingested.",
         "source_dkt": null
       },
-      "overdue": false,
+      "overdue": true,
       "last_updated": "2026-10-28",
       "files": [
         "claims.json",
@@ -813,11 +806,11 @@
         "id": "25-fedex-discovery-responses",
         "date": "2026-11-05",
         "kind": "deadline",
-        "status": "open",
+        "status": "overdue",
         "title": "WATCH — FedEx responses to Plaintiff's Interrogatories, RFAs, and RFPs (Set One) due, Newanforbi v. Federal Express Corporation (E.D. Cal. 2:26-cv-02881-DAD-SCR). Served by email Oct. 6, 2026 → 30 days (FRCP 33(b)(2), 34(b)(2)(A), 36(a)(3); no 3 days added for email service under FRCP 6(d)). Recomputes the earlier mail-based contingent Oct. 29 row, which is left as is.",
         "source_dkt": null
       },
-      "overdue": false,
+      "overdue": true,
       "last_updated": "2026-10-28",
       "files": [
         "claims.json",
@@ -915,17 +908,17 @@
       "same_incident": null,
       "lifecycle": "active",
       "proceeding": "federal_civil",
-      "phase": "stayed",
+      "phase": "mtd_briefing",
       "next_clock": {
-        "id": "28-hearing-m5-exparte-judgment",
-        "date": "2026-11-02",
-        "kind": "hearing",
-        "status": "overdue",
-        "title": "EX PARTE HEARING — Application for Order Dismissing First Amended Complaint and Entering Judgment of Dismissal, Newanforbi v. Palacios et al. (San Joaquin Sup. Ct. STK-CV-UF-2026-0001032), Nov. 2, 2026, 9:15 a.m., Dept. 10A. Related Matter 28 (N.D. Cal. 3:26-cv-07504-LJC) Dkt. 15 motion to dismiss is deferred pending the San Joaquin judgment.",
-        "source_dkt": null
+        "id": "28-js-2026-12-17",
+        "date": "2026-12-17",
+        "kind": "deadline",
+        "status": "open",
+        "title": "Joint status conference report due Dec. 17, 2026 (monthly through May 17, 2027) — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC). USER REPORT of the Oct. 27, 2026 order deferring the MTD pending San Joaquin judgment. Order is Dkt. 38 (filed Oct. 27, 2026; minute entry Dkt. 37); PDF not ingested.",
+        "source_dkt": 38
       },
-      "overdue": true,
-      "last_updated": "2026-10-28",
+      "overdue": false,
+      "last_updated": "2026-11-10",
       "files": [
         "claims.json",
         "clocks.json",
@@ -958,11 +951,11 @@
         "id": "29-rule26f-meet-confer",
         "date": "2026-11-06",
         "kind": "meet-and-confer",
-        "status": "open",
+        "status": "overdue",
         "title": "Rule 26(f) / ADR L.R. 3-5 meet-and-confer, Fri. Nov. 6, 2026, 1:00–1:30 p.m. PT (invite sent as 3:00–3:30 p.m. Central), by Microsoft Teams — Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). With Doug Brown and Drew Frederick (Morgan Lewis, for Amazon) and John Drury and Jasmine Stanzick (Seyfarth, for Accurate Background). Satisfies the Dkt. 9 meet-and-confer deadline of Nov. 10. Join details are in the invite email, not the repo.",
         "source_dkt": 9
       },
-      "overdue": false,
+      "overdue": true,
       "last_updated": "2026-10-28",
       "files": [
         "claims.json",
@@ -1248,11 +1241,11 @@
         "id": "37-home-depot-answer-deadline",
         "date": "2026-11-04",
         "kind": "deadline",
-        "status": "open",
+        "status": "overdue",
         "title": "WATCH — Home Depot answer or Rule 12 motion due, Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC). Served Oct. 14, 2026 → 21 days (Rule 12(a)(1)(A)(i)). A Rule 12 motion tolls the answer to 14 days after ruling (Rule 12(a)(4)). If nothing appears, the Rule 55 default track opens — check the docket, don't assume.",
         "source_dkt": 8
       },
-      "overdue": false,
+      "overdue": true,
       "last_updated": "2026-10-28",
       "files": [
         "claims.json",

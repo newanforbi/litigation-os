@@ -9872,11 +9872,13 @@
       28
     ],
     "type": "hearing",
-    "upcoming": true,
+    "upcoming": false,
     "actor": "you",
     "source": "/documents/opinions/Newanforbi v Palacios - San Joaquin Sup Ct - Demurrer Sustained WOLA Jul 15 2026.pdf",
     "source_type": "manual",
-    "verified_at": "2026-10-28"
+    "verified_at": "2026-10-28",
+    "retired_reason": "Ex parte hearing held Nov. 2, 2026; Judgment of Dismissal entered Nov. 4, 2026, without prejudice for failure to exhaust. User elected not to appeal (Nov. 10, 2026).",
+    "retired_date": "2026-11-10"
   },
   {
     "date": "Nov. 3, 2026",
@@ -9893,5 +9895,69 @@
     "source_type": "court_order",
     "confidence": "high",
     "verified_at": "2026-11-04"
+  },
+  {
+    "date": "Nov. 2, 2026",
+    "type": "hearing",
+    "event": "HELD — Ex parte hearing on defendants' Application for Order Dismissing First Amended Complaint and Entering Judgment of Dismissal, Newanforbi v. Palacios et al. (STK-CV-UF-2026-0001032), Nov. 2, 2026, 9:15 a.m., Dept. 10A, Hon. George J. Abdallah, Jr. The court granted the application and directed that the entire action be dismissed WITHOUT PREJUDICE for failure to exhaust administrative remedies.",
+    "matters": [
+      5,
+      28
+    ],
+    "actor": "court",
+    "upcoming": false,
+    "source_type": "manual",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "date": "Nov. 4, 2026",
+    "type": "order",
+    "event": "ENTERED — Judgment of Dismissal in Newanforbi v. Palacios et al. (STK-CV-UF-2026-0001032), Hon. George J. Abdallah, Jr., Dept. 10A. The entire action is DISMISSED WITHOUT PREJUDICE under CCP §§ 581(f)(1) and 581d for failure to exhaust administrative remedies. Copy not yet published in the document store. Do not invent a state docket number.",
+    "matters": [
+      5,
+      28
+    ],
+    "actor": "court",
+    "upcoming": false,
+    "source_type": "manual",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "date": "Nov. 6, 2026",
+    "type": "filing",
+    "event": "E-SERVED — Notice of Entry of Judgment of Dismissal in Newanforbi v. Palacios et al. (STK-CV-UF-2026-0001032), by Sims, Lawrence & Broghammer; Kim Schmitt proof of service by electronic service Nov. 6, 2026. Attaches the Nov. 4 Judgment as Exhibit A. Starts the CRC 8.104 and CCP §§ 659/663a clocks, which the user later declined to use. Copy not yet published in the document store.",
+    "matters": [
+      5
+    ],
+    "actor": "opposing",
+    "upcoming": false,
+    "source_type": "email",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "date": "Nov. 10, 2026",
+    "type": "event",
+    "event": "USER ELECTED NOT TO APPEAL (Nov. 10, 2026) — Newanforbi v. Palacios et al. (STK-CV-UF-2026-0001032). The informational CRC 8.104(a)(1)(B) notice-of-appeal deadline (about Jan. 5, 2027) and the CCP §§ 659/663a notice-of-intent window (about Nov. 21–23, 2026) are logged as vacated and are not live tasks.",
+    "matters": [
+      5
+    ],
+    "actor": "you",
+    "upcoming": false,
+    "source_type": "manual",
+    "verified_at": "2026-11-10"
+  },
+  {
+    "date": "Nov. 10, 2026",
+    "type": "filing",
+    "event": "FILED — Dkt. [redacted] Judgment in Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC), filed Nov. 10, 2026 pursuant to ECF 38. Attaches the Nov. 4, 2026 San Joaquin Judgment of Dismissal as Exhibit A. Defendants withdrew the claim-preclusion argument (ECF 15 at 11–14). Remaining Dkt. 15 MTD grounds are pending; Plaintiff's opposition is ECF 23. Satisfies the one-week judgment-copy obligation and the Nov. 17, 2026 joint status report. Copy not yet published in the document store.",
+    "matters": [
+      28
+    ],
+    "actor": "opposing",
+    "upcoming": false,
+    "source_type": "pacer",
+    "dkt": 39,
+    "filed": true,
+    "verified_at": "2026-11-10"
   }
 ]
