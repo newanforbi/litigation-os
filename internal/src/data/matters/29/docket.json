@@ -565,5 +565,21 @@
     "title": "Dkt 21 - Accurate Background Answer and Affirmative and Other Defenses (Filed Sep 22 2026)",
     "path": "/documents/matter-29/Dkt 21 - Accurate Background Answer and Affirmative and Other Defenses (Filed Sep 22 2026).pdf",
     "filed": true
+  },
+  {
+    "dkt": 25,
+    "date": "2026-11-09",
+    "filer": "plaintiff",
+    "type": "certification",
+    "title": "Dkt 25 - Plaintiff's ADR Certification (Filed Nov 9 2026)",
+    "filed": true
+  },
+  {
+    "dkt": 27,
+    "date": "2026-11-09",
+    "filer": "plaintiff",
+    "type": "motion",
+    "title": "Dkt 27 - Plaintiff's Administrative Motion for Zoom Appearance at Nov 18 Hearing, with Declaration and Proposed Order (Filed Nov 9 2026)",
+    "filed": true
   }
 ]

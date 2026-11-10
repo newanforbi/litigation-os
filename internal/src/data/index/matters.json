@@ -1,6 +1,6 @@
 {
   "generated": true,
-  "today": "2026-11-06",
+  "today": "2026-11-09",
   "matters": [
     {
       "number": 1,
@@ -958,12 +958,12 @@
         "id": "29-rule26f-meet-confer",
         "date": "2026-11-06",
         "kind": "meet-and-confer",
-        "status": "open",
+        "status": "overdue",
         "title": "Rule 26(f) / ADR L.R. 3-5 meet-and-confer, Fri. Nov. 6, 2026, 1:00–1:30 p.m. PT (invite sent as 3:00–3:30 p.m. Central), by Microsoft Teams — Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). With Doug Brown and Drew Frederick (Morgan Lewis, for Amazon) and John Drury and Jasmine Stanzick (Seyfarth, for Accurate Background). Satisfies the Dkt. 9 meet-and-confer deadline of Nov. 10. Join details are in the invite email, not the repo.",
         "source_dkt": 9
       },
-      "overdue": false,
-      "last_updated": "2026-10-28",
+      "overdue": true,
+      "last_updated": "2026-11-10",
       "files": [
         "claims.json",
         "clocks.json",

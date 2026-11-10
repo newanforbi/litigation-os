@@ -1,6 +1,6 @@
 {
   "number": 29,
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-11-10",
   "caption": "Newanforbi v. Amazon.com Services, LLC",
   "case_no": "4:26-cv-09249-ASK",
   "court": "USDC N.D. Cal. (Oakland; formerly 3:26-cv-09249-ASK)",
@@ -11,7 +11,7 @@
   },
   "claims": "PC §290.46(j)(2)(E) Violation, Fair Chance Act (Gov. Code §12952), FCRA, ICRAA, Invasion of Privacy, UCL §17200, IIED",
   "status": "Dkt. 19 MTD hearing Nov. 18, 2026, 1:30 p.m., Courtroom 4, Hon. Ajay S. Krishnan. Opposition served Sep. 23; Amazon reply served Oct. 13. Rule 26(f) Nov. 6; ADR certification Nov. 10; initial disclosures and Joint CMS Nov. 24; CMC Dec. 1. USER REPORT Oct. 28, 2026: Accurate reinvestigation removed the 'Newansorbi' alias. § 1447(c) remand window closed Sep. 30 with no motion.",
-  "status_label": "26(f) Nov. 6; MTD Nov. 18; CMC Dec. 1",
+  "status_label": "ADR filed (Dkt 25-26); MTD Nov 18; JCMS Nov 24",
   "lifecycle": "active",
   "proceeding": "federal_civil",
   "phase": "mtd_briefing",

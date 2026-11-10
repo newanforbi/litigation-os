@@ -6,7 +6,7 @@
     "kind": "hearing",
     "status": "open",
     "source_dkt": 9,
-    "title": "Initial Case Management Conference, 1:30 p.m. by Zoom (cand.uscourts.gov/ask) before Magistrate Judge Ajay S. Krishnan — Newanforbi v. Amazon.com Services, LLC…",
+    "title": "Initial Case Management Conference, 1:30 p.m. by Zoom (cand.uscourts.gov/ask) before Magistrate Judge Ajay S. Krishnan \u2014 Newanforbi v. Amazon.com Services, LLC\u2026",
     "actor": "agency",
     "source": "/documents/matter-29/Dkt 09 - Order Setting Initial CMC and ADR Deadlines (Filed Sep 3 2026).pdf"
   },
@@ -17,7 +17,7 @@
     "kind": "deadline",
     "status": "open",
     "source_dkt": 9,
-    "title": "Deadline to make initial disclosures (Fed. R. Civ. P. 26(a)(1)) and to file the Joint Case Management Statement (Standing Order for All Judges of the Northern…",
+    "title": "Deadline to make initial disclosures (Fed. R. Civ. P. 26(a)(1)) and to file the Joint Case Management Statement (Standing Order for All Judges of the Northern\u2026",
     "actor": "you",
     "source": "/documents/matter-29/Dkt 09 - Order Setting Initial CMC and ADR Deadlines (Filed Sep 3 2026).pdf"
   },
@@ -26,11 +26,12 @@
     "date": "2026-11-10",
     "date_label": "Nov. 10, 2026",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": 9,
-    "title": "Deadline to file ADR Certification (ADR L.R. 3) and to meet and confer regarding initial disclosures, early settlement, ADR process selection, and a discovery…",
+    "title": "Deadline to file ADR Certification (ADR L.R. 3) and to meet and confer regarding initial disclosures, early settlement, ADR process selection, and a discovery\u2026",
     "actor": "you",
-    "source": "/documents/matter-29/Dkt 09 - Order Setting Initial CMC and ADR Deadlines (Filed Sep 3 2026).pdf"
+    "source": "/documents/matter-29/Dkt 09 - Order Setting Initial CMC and ADR Deadlines (Filed Sep 3 2026).pdf",
+    "note": "SATISFIED: Rule 26(f)/ADR L.R. 3-5 conference held Nov. 6, 2026; Plaintiff filed ADR Certification Nov. 9, 2026 (Dkt. 25) and Request for ADR Phone Conference (Dkt. 26)."
   },
   {
     "id": "29-deadline-4",
@@ -39,7 +40,7 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": 7,
-    "title": "Accurate Background LLC responsive pleading deadline (extended) — Newanforbi v. Amazon.com Services, LLC et al. (Matter 29, N.D. Cal. No. 4:26-cv-09249-ASK).…",
+    "title": "Accurate Background LLC responsive pleading deadline (extended) \u2014 Newanforbi v. Amazon.com Services, LLC et al. (Matter 29, N.D. Cal. No. 4:26-cv-09249-ASK).\u2026",
     "actor": "opposing",
     "source": "/documents/matter-29/Dkt 07 - Stipulation to Extend Time for Accurate Background to Respond (Filed Sep 2 2026).pdf",
     "retired_reason": "Defendants responded on Sep. 22, 2026 through Dkt. 19 motion to dismiss; the prior responsive-pleading deadline is no longer live."
@@ -51,7 +52,7 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": 6,
-    "title": "Amazon.com Services, LLC responsive pleading deadline (extended) — Newanforbi v. Amazon.com Services, LLC et al. (Matter 29, N.D. Cal. No. 4:26-cv-09249-ASK).…",
+    "title": "Amazon.com Services, LLC responsive pleading deadline (extended) \u2014 Newanforbi v. Amazon.com Services, LLC et al. (Matter 29, N.D. Cal. No. 4:26-cv-09249-ASK).\u2026",
     "actor": "opposing",
     "source": "/documents/matter-29/Dkt 06 - Stipulation to Extend Time for Amazon to Respond (Filed Sep 1 2026).pdf",
     "retired_reason": "Defendants responded on Sep. 22, 2026 through Dkt. 19 motion to dismiss; the prior responsive-pleading deadline is no longer live."
@@ -63,10 +64,10 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": 1,
-    "title": "28 U.S.C. §1447(c) remand window closes (computed) — Newanforbi v. Amazon.com Services, LLC et al., USDC N.D. Cal. No. 3:26-cv-09249-ASK. Thirty days from the…",
+    "title": "28 U.S.C. \u00a71447(c) remand window closes (computed) \u2014 Newanforbi v. Amazon.com Services, LLC et al., USDC N.D. Cal. No. 3:26-cv-09249-ASK. Thirty days from the\u2026",
     "actor": "you",
     "source": "/documents/matter-29/Dkt 01 - Notice of Removal (Filed Aug 31 2026).pdf",
-    "retired_reason": "28 U.S.C. § 1447(c) remand window closed Sep. 30, 2026. No remand motion was filed, as with Matter 26. Not a live clock."
+    "retired_reason": "28 U.S.C. \u00a7 1447(c) remand window closed Sep. 30, 2026. No remand motion was filed, as with Matter 26. Not a live clock."
   },
   {
     "id": "29-deadline-mtd-opposition",
@@ -75,7 +76,7 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": 19,
-    "title": "Opposition due on Dkt. 19 motion to dismiss — Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). Civil L.R. 7-3(a) (as amended 11/1/21): 14 days after Dkt. 19 was filed (Sep. 22).",
+    "title": "Opposition due on Dkt. 19 motion to dismiss \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). Civil L.R. 7-3(a) (as amended 11/1/21): 14 days after Dkt. 19 was filed (Sep. 22).",
     "actor": "you",
     "source": "/documents/matter-29/Opposition to Amazon MTD with Proposed Order and POS - Unified (N.D. Cal. 4-26-cv-09249-ASK) (Sep 22 2026).pdf",
     "retired_reason": "Plaintiff served the opposition (with [Proposed] Order and POS) by email on Sep. 23, 2026, 11:00 p.m. PT to Morgan Lewis (Frederick, Brown; cc Ikeda) and Seyfarth (Stanzick, Drury). Dated Sep. 22. Unstamped served copy ingested; no ECF number. Civil L.R. 7-3(a) due date was Oct. 6, 2026 (Dkt. 19 filed Sep. 22 + 14 days)."
@@ -87,7 +88,7 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": 19,
-    "title": "Reply deadline on Dkt. 19 motion to dismiss — Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). Civil L.R. 7-3(a) and (c) (as amended 11/1/21): opposition due 14 days after the motion is filed (Oct. 6); reply due 7 days after that opposition due date (Oct. 13). FRCP 6(d) does not extend.",
+    "title": "Reply deadline on Dkt. 19 motion to dismiss \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). Civil L.R. 7-3(a) and (c) (as amended 11/1/21): opposition due 14 days after the motion is filed (Oct. 6); reply due 7 days after that opposition due date (Oct. 13). FRCP 6(d) does not extend.",
     "actor": "opposing",
     "source": "/documents/matter-29/Opposition to Amazon MTD with Proposed Order and POS - Unified (N.D. Cal. 4-26-cv-09249-ASK) (Sep 22 2026).pdf",
     "retired_reason": "Amazon served its 6-page Reply ISO MTD Oct. 13, 2026, 12:02 p.m. PT (Suga Ikeda); served copy, not file-stamped; no declarations or exhibits."
@@ -101,7 +102,7 @@
     "kind": "hearing",
     "status": "open",
     "source_dkt": 19,
-    "title": "Hearing on Dkt. 19 motion to dismiss — Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK), Nov. 18, 2026, 1:30 p.m., Courtroom 4, 3rd Floor, Hon. Ajay S. Krishnan.",
+    "title": "Hearing on Dkt. 19 motion to dismiss \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK), Nov. 18, 2026, 1:30 p.m., Courtroom 4, 3rd Floor, Hon. Ajay S. Krishnan.",
     "actor": "you",
     "source": "/documents/matter-29/Opposition to Amazon MTD with Proposed Order and POS - Unified (N.D. Cal. 4-26-cv-09249-ASK) (Sep 22 2026).pdf"
   },
@@ -112,7 +113,7 @@
     "kind": "deadline",
     "status": "satisfied",
     "source_dkt": null,
-    "title": "WATCH — Accurate Background reinvestigation due (15 U.S.C. §1681i(a)(1)(A) / Civ. Code §1786.24: 30 days from Plaintiff's Oct. 14, 2026 dispute of ref 496623722 — NEWANSORBI alias and National Sex Offender Database Search 'No Record Found'). Accurate SR 20261014-15421955 (acknowledged 2:03 p.m.). Watch also for the §1681g / §1786.10 full-file disclosure.",
+    "title": "WATCH \u2014 Accurate Background reinvestigation due (15 U.S.C. \u00a71681i(a)(1)(A) / Civ. Code \u00a71786.24: 30 days from Plaintiff's Oct. 14, 2026 dispute of ref 496623722 \u2014 NEWANSORBI alias and National Sex Offender Database Search 'No Record Found'). Accurate SR 20261014-15421955 (acknowledged 2:03 p.m.). Watch also for the \u00a71681g / \u00a71786.10 full-file disclosure.",
     "actor": "opposing",
     "source": "/documents/matter-29/Gmail - Dispute of Accuracy and Request for Complete File to Accurate Background, Ref 496623722 (Sent Oct 14 2026).pdf",
     "retired_reason": "USER REPORT Oct. 28, 2026: Accurate reinvestigation removed the 'Newansorbi' alias. Statutory 30-day clock from the Oct. 14 dispute is no longer the live watch. Completeness of the NSOR component is not independently verified in this true-up (no letter PDF ingested on main)."
@@ -126,7 +127,7 @@
     "source_dkt": 19,
     "actor": "you",
     "source": "/documents/matter-29/Amazon Reply ISO Motion to Dismiss (Dkt 19) - Served Copy, Not File-Stamped (N.D. Cal. 4-26-cv-09249-ASK) (Served Oct 13 2026).pdf",
-    "title": "Civil L.R. 7-3(d)(1) objection to new evidence in reply: due within 7 days after the reply is filed (served Oct. 13 → Oct. 20). NOT NEEDED: Amazon's 6-page reply attaches no declarations, exhibits, or RJN. Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK).",
+    "title": "Civil L.R. 7-3(d)(1) objection to new evidence in reply: due within 7 days after the reply is filed (served Oct. 13 \u2192 Oct. 20). NOT NEEDED: Amazon's 6-page reply attaches no declarations, exhibits, or RJN. Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK).",
     "retired_reason": "Amazon's Oct. 13 reply attached no new evidence. Civil L.R. 7-3(d)(1) objection was not needed; window closed Oct. 20."
   },
   {
@@ -134,11 +135,12 @@
     "date": "2026-11-13",
     "date_label": "Nov. 13, 2026",
     "kind": "deadline",
-    "status": "contingent",
+    "status": "satisfied",
     "source_dkt": null,
     "actor": "you",
     "source": "https://cand.uscourts.gov/sites/default/files/standing-orders/ASK-CivilStandingOrder_8.20.26.pdf",
-    "title": "OPTIONAL: last day to request a Zoom appearance for the Nov. 18 Dkt. 19 MTD hearing. Krishnan Civil Standing Order (8/20/26) p.2: law-and-motion hearings are in person; Zoom requests at least three business days before, good cause required (Fri. Nov. 13 = 3 business days before Wed. Nov. 18). Default: appear in person, Courtroom 4, 3rd Floor, 1301 Clay St., Oakland."
+    "title": "OPTIONAL: last day to request a Zoom appearance for the Nov. 18 Dkt. 19 MTD hearing. Krishnan Civil Standing Order (8/20/26) p.2: law-and-motion hearings are in person; Zoom requests at least three business days before, good cause required (Fri. Nov. 13 = 3 business days before Wed. Nov. 18). Default: appear in person, Courtroom 4, 3rd Floor, 1301 Clay St., Oakland.",
+    "note": "Plaintiff filed Civil L.R. 7-11 administrative motion for Zoom appearance Nov. 9, 2026 (Dkt. 27; declaration 27-1; proposed order 27-2). Responses due Nov. 13, 2026 per docket text."
   },
   {
     "id": "29-cmc-inperson-request",
@@ -160,7 +162,7 @@
     "source_dkt": null,
     "actor": "opposing",
     "source": "Gmail (bnn.cdl@gmail.com) thread 1a13c6060c9bfce4, sent Oct 14 2026 2:48 PM PT: Letter 3 - CCPA Request to Know to Amazon via Counsel (Morgan Lewis) (Oct 14 2026).pdf",
-    "title": "WATCH: Amazon CCPA request-to-know response due (Civ. Code §1798.130(a)(2)(A): 45 calendar days from receipt; extendable once by 45 days with notice). Letter 3 emailed Oct. 14, 2026, 2:48 p.m. PT to Morgan Lewis (Frederick, Brown; cc Ikeda) with a request to forward to Amazon. The clock arguably runs from Amazon's receipt, not counsel's. Nov. 28 is a Saturday. No receipt confirmation yet (only Brown's auto-reply)."
+    "title": "WATCH: Amazon CCPA request-to-know response due (Civ. Code \u00a71798.130(a)(2)(A): 45 calendar days from receipt; extendable once by 45 days with notice). Letter 3 emailed Oct. 14, 2026, 2:48 p.m. PT to Morgan Lewis (Frederick, Brown; cc Ikeda) with a request to forward to Amazon. The clock arguably runs from Amazon's receipt, not counsel's. Nov. 28 is a Saturday. No receipt confirmation yet (only Brown's auto-reply)."
   },
   {
     "id": "29-sol-fcra-icraa",
@@ -171,7 +173,7 @@
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-29/",
-    "title": "OUTER BOUND (conservative, computed) — FCRA (15 U.S.C. §1681p: 2 years from discovery, 5 years from violation) and ICRAA (Civ. Code §1786.52: 2 years from discovery) limitations for any new or amended claims against Amazon or Accurate, measured from the Jul. 27, 2026 shift removal. Later accrual (e.g., Oct. 14, 2026 report) would give about Oct. 2028; use Jul. 27, 2028."
+    "title": "OUTER BOUND (conservative, computed) \u2014 FCRA (15 U.S.C. \u00a71681p: 2 years from discovery, 5 years from violation) and ICRAA (Civ. Code \u00a71786.52: 2 years from discovery) limitations for any new or amended claims against Amazon or Accurate, measured from the Jul. 27, 2026 shift removal. Later accrual (e.g., Oct. 14, 2026 report) would give about Oct. 2028; use Jul. 27, 2028."
   },
   {
     "id": "29-crd-right-to-sue-watch",
@@ -182,8 +184,8 @@
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-29/",
-    "title": "WATCH — CRD right-to-sue GAP for Claim 2 (Fair Chance Act, Gov. Code §12952). No CRD complaint or right-to-sue notice found in the repo, matter.json, the complaint, or Gmail, and the complaint pleads no exhaustion. Consider filing a CRD intake with an immediate right-to-sue request and supplementing. Outer CRD filing limit is 3 years from the July 2026 acts (Gov. Code §12960(e)); the right-to-sue notice then opens a 1-year window to sue (§12965(c)).",
-    "note": "CRD exhaustion gap remains. Oct. 14, 2026 was an internal watch date, not a court deadline. Outer CRD filing limit is 3 years from the July 2026 acts (Gov. Code §12960(e)). Undated contingent so it does not steal next_clock from the Nov. 6 Rule 26(f)."
+    "title": "WATCH \u2014 CRD right-to-sue GAP for Claim 2 (Fair Chance Act, Gov. Code \u00a712952). No CRD complaint or right-to-sue notice found in the repo, matter.json, the complaint, or Gmail, and the complaint pleads no exhaustion. Consider filing a CRD intake with an immediate right-to-sue request and supplementing. Outer CRD filing limit is 3 years from the July 2026 acts (Gov. Code \u00a712960(e)); the right-to-sue notice then opens a 1-year window to sue (\u00a712965(c)).",
+    "note": "CRD exhaustion gap remains. Oct. 14, 2026 was an internal watch date, not a court deadline. Outer CRD filing limit is 3 years from the July 2026 acts (Gov. Code \u00a712960(e)). Undated contingent so it does not steal next_clock from the Nov. 6 Rule 26(f)."
   },
   {
     "id": "29-rule26f-meet-confer",
@@ -194,8 +196,18 @@
     "kind": "meet-and-confer",
     "status": "open",
     "source_dkt": 9,
-    "title": "Rule 26(f) / ADR L.R. 3-5 meet-and-confer, Fri. Nov. 6, 2026, 1:00–1:30 p.m. PT (invite sent as 3:00–3:30 p.m. Central), by Microsoft Teams — Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). With Doug Brown and Drew Frederick (Morgan Lewis, for Amazon) and John Drury and Jasmine Stanzick (Seyfarth, for Accurate Background). Satisfies the Dkt. 9 meet-and-confer deadline of Nov. 10. Join details are in the invite email, not the repo.",
+    "title": "Rule 26(f) / ADR L.R. 3-5 meet-and-confer, Fri. Nov. 6, 2026, 1:00\u20131:30 p.m. PT (invite sent as 3:00\u20133:30 p.m. Central), by Microsoft Teams \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). With Doug Brown and Drew Frederick (Morgan Lewis, for Amazon) and John Drury and Jasmine Stanzick (Seyfarth, for Accurate Background). Satisfies the Dkt. 9 meet-and-confer deadline of Nov. 10. Join details are in the invite email, not the repo.",
     "actor": "you",
     "source": "Gmail (bnn.cdl@gmail.com) message 1a160ec8e09fb279, Doug Brown (Morgan Lewis) Teams invite sent Oct 21 2026 5:04 PM PT, subject \"Newanforbi v. Amazon.com Services, LLC, et al., No. 4:26-cv-09249-ASK - Rule 26(f) Conference\" (invite.ics)"
+  },
+  {
+    "id": "29-zoom-motion-responses",
+    "date": "2026-11-13",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": 27,
+    "title": "WATCH \u2014 Defendants' responses to Plaintiff's Civil L.R. 7-11 administrative motion for leave to appear by Zoom at the Nov. 18, 2026 Dkt. 19 hearing due Nov. 13, 2026 (Dkt. 27 docket text) \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). Until ruled on, plan to appear in person, Courtroom 4, 1301 Clay St., Oakland.",
+    "actor": "opposing"
   }
 ]
