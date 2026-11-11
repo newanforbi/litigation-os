@@ -252,5 +252,16 @@
     "source_dkt": 9,
     "title": "WATCH \u2014 Amazon's and Accurate's ADR L.R. 3-5(b) certifications were due Nov. 10, 2026 (Dkt. 9). No defense ADR certification NEF in Gmail as of Nov. 11, 2026 (only Plaintiff's Dkt. 25-27). Verify on PACER; if still absent, note it in the Nov. 24 JCMS ADR section without motion practice \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK).",
     "actor": "opposing"
+  },
+  {
+    "id": "29-accurate-set2-responses",
+    "date": "2026-12-14",
+    "date_label": "Dec. 14, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": null,
+    "title": "WATCH \u2014 Accurate's responses due to Plaintiff's RFPs Set Two (Nos. 21-33), Interrogatories Set One (Nos. 1-21), and RFAs Set One (Nos. 1-18, with Exhibits A-B), served by first-class mail from San Jose on Nov. 11, 2026 (30 days = Fri. Dec. 11 + 3 days for mail service under Rule 6(d) = Mon. Dec. 14, 2026). Unanswered RFAs are deemed admitted (Rule 36(a)(3)). Do not agree to extensions without stipulation-defense review \u2014 Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK).",
+    "actor": "opposing"
   }
 ]
