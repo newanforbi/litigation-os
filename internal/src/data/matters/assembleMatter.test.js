@@ -8,7 +8,7 @@ describe("machine-first matter graph", () => {
   const matters = loadMatters();
 
   it("covers the whole portfolio from one loader", () => {
-    expect(matters.map((m) => m.number)).toEqual([...Array(43)].map((_, i) => i + 1));
+    expect(matters.map((m) => m.number)).toEqual([...Array(44)].map((_, i) => i + 1));
   });
 
   it("keeps Matter 24 split so the first fetch is identity, not the diary", () => {
