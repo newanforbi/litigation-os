@@ -47,8 +47,8 @@ All current and future matters follow the [Stipulation Defense — Plaintiff-Fir
 | Plaintiff | Brendan Ngehsi Newanforbi |
 | Representation | Pro Se / In Propria Persona |
 | Jurisdictions | USDC E.D. Cal., USDC N.D. Cal., San Joaquin Sup. Ct., Alameda Sup. Ct., Sacramento Sup. Ct., Santa Clara Sup. Ct. |
-| Total Matters | 43 |
-| Active / Open | 23 |
+| Total Matters | 44 |
+| Active / Open | 24 |
 | — of which Settled | 2 (Matter 22 — Newanforbi v. Pilot Travel Centers LLC, Jul. 14, 2026; 27 — Newanforbi v. Randstad, et al., Notice of Settlement Oct. 26, 2026) |
 | Dismissed / Closed / Abandoned | 20 |
 | Aggregate Exposure (Conservative) | ~$1,456,000+ |
@@ -114,7 +114,7 @@ The largest cluster — 14 matters — targeting CDCR's parole supervision appar
 
 <!-- PORTFOLIO:CLUSTER_HEADING_3:START -->
 <a id="cluster-3"></a>
-### Cluster 3 — Employment Violations (Matters 22–23, 25–27, 29, 31, 36–39, 42–43)
+### Cluster 3 — Employment Violations (Matters 22–23, 25–27, 29, 31, 36–39, 42–44)
 <!-- PORTFOLIO:CLUSTER_HEADING_3:END -->
 
 Cluster 3 centers on employer-side Penal Code § 290.46(j)(2)(E) claims and related background-screening theories. Matter 31 (First Advantage) is now a **conditional vendor-liability investigation**, not presumed additive liability: after the September 18 Carrillo/Mendoza stress test, any complaint must identify a First Advantage-specific FCRA/ICRAA breach rather than merely repackaging the employers' alleged registry misuse. Matters 36-39 are executed San Joaquin packets (AT&T, Home Depot, Swift, Best Buy) prepared for a September 8, 2026 walk-up and still unfiled as of September 7, 2026. Matter 40 (Uber Technologies, Inc. / TaskUs staffing) is a prospective monitoring file — Offer of Temporary Employment signed September 14, 2026 ($22/hour); same-day TA Ops hold of the September 23 start pending the First Advantage report (Order WPS-361214148; PRINSOS still running); MAA signed; no report viewable and no adverse action yet. (Matters 32 and 33 are CHP / DMV APS filings — see Cluster 1.)
@@ -217,6 +217,7 @@ Standalone retail civil-rights matter arising from an August 25, 2026 consumer r
 | 41 | Brendan Ngwa Nforbi v. Nuro, Inc. | TBD | TBD (pre-dispute — application Sep. 9, 2026) | State | Pending — no Checkr paper ingested |
 | 42 | Brendan Ngwa Nforbi v. Staples The Office Superstore, LLC | 5:26-cv-12781-NW | USDC N.D. Cal. (San Jose Div.) | Federal | Filed Oct. 29 — serve by Jan. 27; CMC Feb. 2 |
 | 43 | Brendan Ngwa Nforbi v. Hertz Global Holdings, Inc. | TBD | TBD — no action filed | State | Offer accepted — HireRight screening active |
+| 44 | Ngwa Nforbi v. Marriott International, Inc., et al. | TBD | TBD | State | Pre-filing intake |
 <!-- PORTFOLIO:ACTIVE_MATTERS:END -->
 
 *Settled matters stay in the table above until dismissal is entered — a settlement resolves the merits, but the matter is still open on the docket. Their Status column reads "Settled" (see the Overview count above for which ones).*

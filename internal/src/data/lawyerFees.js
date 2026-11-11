@@ -669,7 +669,15 @@ const lawyer_fees_raw = [
       mid: 1.75
     },
     notes: "Oct. 28: 16-PDF monitoring file (offer, ADP WOTC, HireRight acknowledgments/authorization, MVR Express furnishing notice). Same band as Matter 41 — evidence preservation, not pleading. Page count is estimated from the 16-file inventory (PDFs not on the laptop disk for pdfinfo); sidecar coverage is incomplete. No complaint. No adverse action in the record.",
-  }
+  },
+  {
+    number: 44,
+    type: "Pre-filing employment intake",
+    documentsCount: 0,
+    totalPagesReal: 0,
+    hours: { low: 0, high: 0, mid: 0 },
+    notes: "No public filings or priced work recorded.",
+  },
 ];
 
 export const lawyer_fees = lawyer_fees_raw.map((row) =>

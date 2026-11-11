@@ -1,6 +1,6 @@
 {
   "generated": true,
-  "today": "2026-11-10",
+  "today": "2026-11-11",
   "matters": [
     {
       "number": 1,
@@ -1447,6 +1447,37 @@
       "next_clock": null,
       "overdue": false,
       "last_updated": "2026-10-28",
+      "files": [
+        "claims.json",
+        "clocks.json",
+        "counsel.json",
+        "damages.json",
+        "docket.json",
+        "documents.json",
+        "events.jsonl",
+        "evidence.json",
+        "matter.json",
+        "parties.json",
+        "prose.json"
+      ]
+    },
+    {
+      "number": 44,
+      "path": "internal/src/data/matters/44/",
+      "layout": "split",
+      "caption": "Ngwa Nforbi v. Marriott International, Inc., et al.",
+      "case_no": "TBD",
+      "court": "TBD",
+      "judge": "TBD",
+      "cluster": 3,
+      "related": [],
+      "same_incident": null,
+      "lifecycle": "pre_filing",
+      "proceeding": "state_civil",
+      "phase": "pre_filing",
+      "next_clock": null,
+      "overdue": false,
+      "last_updated": "2026-11-11",
       "files": [
         "claims.json",
         "clocks.json",
