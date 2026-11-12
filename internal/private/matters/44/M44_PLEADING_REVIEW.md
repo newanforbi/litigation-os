@@ -245,15 +245,43 @@ No GSA shifts after Oct. 24. The new trainee Miguel Bretado receives 3–4 front
 - The Nov. 8–14 roster was transmitted Thursday at 5:52 p.m., the same day as the timecard text at 1:59 p.m. (T-08). **Transmission is not the decision time** (V01 p.2).
 - Forward loss accrues at $345–$360 for each additional two-shift week. **No data exists after Nov. 14.** A training-completion or resignation date cuts it off.
 
-### 5.4 Mitigation
-- Ask only for interim earnings from work performed in hours **freed** by the reduction. Concurrent part-time work Plaintiff could have held anyway is not an offset.
-- Gmail shows active applications and interviews: Lincare interview Nov. 12 and Nov. 13 reschedule; Staples; TaskUs; Hertz. These document a reasonable job search. A full-time job would cap the Delta loss.
-- No bank or tax information is needed or requested.
+### 5.4 Mitigation (updated Nov. 12, 2026 with Plaintiff's statement and a Gmail count)
+- **Plaintiff's statement (FIRSTHAND):** because his scheduled days were cut, he has had to look for other work since Nov. 5. He relied solely on the Delta position to keep a roof over his head.
+- **Gmail corroboration (DOCUMENTED, approximate).** This is a keyword count of job-application and interview threads, not a verified log:
+  - **Nov. 5–12 (8 days): about 80 threads, roughly 10 per day.**
+  - Oct. 6–Nov. 4 (30 days): about 57 threads, roughly 2 per day, including some non-job noise.
+  - That is about a **fivefold increase** starting the day the two-shift roster arrived (T-08, Thursday 5:52 p.m.).
+  - Examples after Nov. 5: Hilton/DoubleTree GSA; Sysco (phone screen requested Nov. 11); ABM night janitor (call set Nov. 11); Lincare (in-person interview Nov. 12/13); Sodexo (phone interview Nov. 11); Chipotle (interview Nov. 16); plus TJX, Petco, Olive Garden, Panda, PACE, DSV, RadNet, OE FCU, Enterprise, Anatomage. Several interviews show this is a real search, not a paper one.
+- **Legal effect.** A reasonable, diligent search satisfies the duty to mitigate. The employer bears the burden of proving failure to mitigate (Cal. rule: *Parker v. Twentieth Century-Fox Film Corp.* (1970) 3 Cal.3d 176, 181–82 [verify pin]). Offset only interim earnings from work done in the hours **freed** by the reduction. Concurrent part-time work Plaintiff could have held anyway is not an offset.
+- **DEFENSE: the search did not start on Nov. 5.** Gmail shows applications and screenings in October: TaskUs/First Advantage (Oct. 20); Hertz (Manager Trainee offer accepted about Oct. 22–23, HireRight consent Oct. 23, "Urgent Attention" notice Nov. 2; Matter 43); Staples; and rental-screening applications (FolioScreen, Oct. 21 and 30). Expect this argument: *Plaintiff was already leaving or adding jobs before the cut, so the search proves nothing, and the Delta loss ends when he would have left anyway.* Answers:
+  - (a) frame it as an **intensified** search after Nov. 5, not a new one (the 5× rate);
+  - (b) Plaintiff confirms whether the Hertz position ever started, and why not;
+  - (c) part-time dual-role work was compatible with other applications.
+  - **Plead "substantially expanded," never "began."**
+- Do not request or produce bank or tax information.
+
+### 5.4A Rent and housing (Plaintiff's statement, Nov. 12, 2026)
+- **Rent: $90/day ≈ $630/week ≈ $2,738/month** (30.42-day average). FIRSTHAND. Get the lease, rental agreement, or receipts.
+- **Comparison (gross pay; payroll will refine):**
+
+| Week | Scheduled gross | Rent | Covered? |
+|---|---|---|---|
+| Baseline (4 shifts) | $705–$720 | $630 | Yes (rent ≈ 87–89% of gross) |
+| Nov. 1–7 (3 shifts) | $540 | $630 | **No (−$90)** |
+| Nov. 8–14 (2 shifts) | $345–$360 | $630 | **No (−$270 to −$285)** |
+
+- **What the rent number is, and is not, legally:**
+  1. **Not a damages item in itself.** Plaintiff owes rent whether or not he works. The economic loss is the **lost wages** (§ 5.3).
+  2. **Consequential damages if harm actually occurs.** Under the tort measure (Civ. Code § 3333, for § 290.46 actual damages), late fees, eviction or unlawful-detainer costs, moving costs, or replacement-housing costs are recoverable **only if they occur and are proximately caused** by the lost shifts. "In jeopardy" is not yet a loss. Plead them "according to proof." Do not plead a future eviction as fact.
+  3. **Emotional distress from housing insecurity** is the strongest use of these facts. Anxiety over keeping housing, caused by a quantified income drop, is concrete, credible, and sympathetic. It is compensable as § 290.46 actual damages and as FCRA actual damages (Ninth Circuit authority treats humiliation and mental distress as FCRA actual damages: *Guimond v. Trans Union Credit Info. Co.*, 45 F.3d 1329, 1333 (9th Cir. 1995) [verify pin]).
+  4. **Standing:** it reinforces Count Two's concrete injury (report-based shift cut leading to lost wages and housing risk). It does **not** cure Count One. The disclosure defect did not cause the rent shortfall, so keep ¶ 13's privacy theory separate.
+- **Wording discipline (important).** Say "the Delta position was my **sole source of earned income**" only if that is literally true for Sept. 22 to the present: no Randstad, Hertz, gig, or other wages. Do not say "my only means of paying rent." Any non-wage funds Plaintiff had are discoverable, and that phrasing invites impeachment. (Gmail shows only a Sept. 30 Randstad benefits-enrollment email, with no sign of active Randstad work. Plaintiff confirms.) Settlement terms stay confidential and out of every filing.
 
 ### 5.5 Documented distress
 - **Documented:** none. No treatment or medical records exist, and none are to be inferred.
 - **Firsthand:** humiliation, reluctance to ask questions, and distress during training (V02 p.1). The Nov. 3 text refers to a "fear" of letting Barros down (T-07).
 - Distress caused by the berating is **not** attributable to a registry use unless Howell's hostility is shown to stem from it (INFERENCE). Workers' comp exclusivity is a live defense to any distress component (*Miklosy*).
+- **Housing-insecurity distress (FIRSTHAND, Nov. 12):** the drop in shifts put Plaintiff's housing in jeopardy (§ 5.4A). Unlike the training berating, this distress flows from the **shift reduction**. If the reduction is tied to the report or the registry use, the distress is attributable to the violation. Document it now in a dated memo-to-file: when it began, how it shows up (sleep, appetite, work search), and any communications with the landlord. No treatment is to be inferred.
 
 ### 5.6 Statutory remedies (no stacking, no Title VII caps, no settlement figure)
 | Statute | If proven | Range on present numbers |

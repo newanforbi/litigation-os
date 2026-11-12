@@ -136,6 +136,8 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 
 23. On November 11, 2026, at approximately 6:30 a.m., Plaintiff mentioned that he had been scheduled for one fewer day. Howell responded, in substance: "Well, it's because you've been calling out of your shifts. That's why John has been scheduling you less and less."
 
+23A. **Economic consequences.** The Delta position was Plaintiff's [sole source of earned income — **confirm literally true from Sept. 22, 2026 to the present**]. Plaintiff pays rent of $90 per day, about $630 per week. At his regular schedule of four shifts, his scheduled gross pay was about $705–$720 per week. The November 1–7 roster (three shifts, about $540 gross) and the November 8–14 roster (two shifts, about $345–$360 gross) left his scheduled pay below his rent. Beginning November 5, 2026, the day he received the two-shift roster, Plaintiff substantially expanded his search for additional or replacement work. Through November 12 he submitted dozens of applications and scheduled multiple interviews. The loss of scheduled pay has placed Plaintiff's housing at risk and has caused him anxiety and distress [describe specifically and truthfully], according to proof.
+
 #### C. Registry-source allegation — CHOOSE ONE (ready-to-paste)
 
 **24-A (direct provenance — use only with a supporting fact):**
@@ -183,7 +185,7 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 
 35. Before taking that action, Employer did not provide Plaintiff a copy of the report or the summary of rights prescribed under § 1681g(c)(3), in violation of § 1681b(b)(3)(A). Plaintiff therefore had no opportunity to review the report or to dispute or explain its contents before his shifts were reduced.
 
-36. Plaintiff's injury is concrete: he lost paid shifts (¶ 44), and he was denied the opportunity the statute guarantees to respond before that loss. Employer's violation was willful (¶ 30) or, alternatively, negligent. Plaintiff is entitled to actual damages, or statutory damages of $100–$1,000, together with punitive damages and costs. §§ 1681n(a), 1681o.
+36. Plaintiff's injury is concrete: he lost paid shifts (¶ 44), with the consequences alleged in ¶ 23A, and he was denied the opportunity the statute guarantees to respond before that loss. Employer's violation was willful (¶ 30) or, alternatively, negligent. Plaintiff is entitled to actual damages, or statutory damages of $100–$1,000, together with punitive damages and costs. §§ 1681n(a), 1681o.
 
 > *Drafting note: Count Two is the federal claim with the most concrete injury, because lost wages are not a bare procedural harm. But it rises or falls with the same source fact as Count Four. If the § 1681g file shows no registry component, or no Hotel access to the report, delete Counts Two and Four.*
 
@@ -207,17 +209,17 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 
 43. No exception applies. The use was not made to protect a person at risk: Employer continued to assign Plaintiff to overnight work with guests and staff. No other provision of law authorizes a hotel's use of Megan's Law website information in scheduling a front-desk employee.
 
-44. As a result of the use and the scheduling decisions it influenced, Plaintiff lost paid shifts. Through November 14, 2026, those lost shifts are estimated at $510–$576 in gross wages and continue to accrue according to proof. Plaintiff also suffered [emotional harm attributable to the prohibited use, according to proof].
+44. As a result of the use and the scheduling decisions it influenced, Plaintiff lost paid shifts. Through November 14, 2026, those lost shifts are estimated at $510–$576 in gross wages and continue to accrue according to proof. Plaintiff also suffered emotional distress from the resulting threat to his housing (¶ 23A), and he will incur any consequential losses actually and proximately caused by the lost wages, such as late fees or housing-related costs, according to proof.
 
 ### Prayer (nonduplicative)
 
 Plaintiff requests judgment against Employer and each other defendant found liable, as follows:
 
 - A. **Count One:** statutory damages of $100–$1,000 and punitive damages under 15 U.S.C. § 1681n(a), or actual damages under § 1681o.
-- B. **Count Two:** actual damages (lost wages) or statutory damages of $100–$1,000, and punitive damages, under §§ 1681n(a) and 1681o.
+- B. **Count Two:** actual damages (lost wages, emotional distress, and consequential losses proven to result from the adverse action) or statutory damages of $100–$1,000, and punitive damages, under §§ 1681n(a) and 1681o.
 - C. **Count Three:** actual damages or $10,000, whichever is greater, and punitive damages if the violation is proven grossly negligent or willful (Civ. Code § 1786.50). This is sought for the disclosure defect only, so it does not duplicate any wage recovery.
 - D. **Count Four:**
-  - actual damages (lost wages and any proven compensable emotional distress caused by the prohibited use);
+  - actual damages (lost wages, any proven compensable emotional distress caused by the prohibited use, and consequential losses actually incurred);
   - the additional amount under Pen. Code § 290.46(j)(4)(A), not less than $250 and not exceeding three times actual damages; and
   - **either** exemplary damages **or** a civil penalty not exceeding $25,000.
 - E. Lost wages awarded **once only**, whether proven under Count Two or Count Four. If Counts One and Three both succeed for the same form defect and the Court finds the recoveries duplicative, Plaintiff elects the greater.
