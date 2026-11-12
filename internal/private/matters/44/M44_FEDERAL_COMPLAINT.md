@@ -88,15 +88,35 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 
 12. On information and belief, Employer thereafter procured, or caused Universal Background Screening to prepare, a consumer report and investigative consumer report about Plaintiff for employment purposes. The basis for this belief: the offer was contingent on the check, Employer's policy barred a first day before the check was complete, and Plaintiff was permitted to begin work on or about October 2, 2026. [Replace with the procurement date and procuring entity from the § 1681g file disclosure when received.]
 
-13. **Concrete injury (Counts One and Three).** Because Plaintiff received no disclosure identifying the nature and scope of the investigation, the sources to be searched, or his right to a copy of the report, he did not know, when he signed, that Employer would obtain [a search of sex-offender registry records / criminal court records / (scope per § 1681g file)] about him. Nor did he know that such information would be reported to, and kept by, Employer for use "throughout [his] employment." Employer's procurement and retention of that sensitive personal history, without the informed authorization the statutes require, intruded on Plaintiff's privacy. That harm bears a close relationship to the intrusion upon seclusion and disclosure of private information traditionally actionable at common law. *TransUnion LLC v. Ramirez*, 594 U.S. 413, 425 (2021) [verify pin]. [Plaintiff also would have (requested a free copy of the report / asked Employer what would be searched and how it would be used / limited his authorization to pre-hire screening) had a compliant disclosure been provided.] [He has suffered (anxiety about who at the Hotel has seen the report / time spent attempting to obtain it), according to proof.]
+13. **Concrete injury (Counts One and Three).**
 
-   > **Gate 2 — Plaintiff confirms each statement is true before it stays in.** Every bracketed clause is a candidate, not a fact.
+   (a) *No disclosure at all.* This is not a case about a disclosure in the wrong format. Plaintiff never received any disclosure, through any channel, before or after he signed (¶ 10).
+
+   (b) *Personal confusion and lack of informed consent.* [When he signed, Plaintiff did not understand that the "Acknowledgment" authorized Employer to obtain consumer and investigative reports about him "throughout [his] employment," not just once before hire. Nor did he understand that it purported to release "without reservation" "any and all background information" from law-enforcement agencies and others. He also did not know what sources would be searched or that he could get a free copy of the report. Had he received a compliant disclosure, he would not have signed an authorization covering his entire employment "without reservation." — **CONFIRM each sentence is true.**]
+
+   (c) *Invasion of privacy.* Employer obtained and kept a report of Plaintiff's sensitive personal history, [including (offense-history / sex-offender-registry information) — **per § 1681g file**], without the informed authorization the statutes require. That harm bears a close relationship to intrusion upon seclusion and the disclosure of private information, harms traditionally recognized at common law. *TransUnion LLC v. Ramirez*, 594 U.S. 413, 425 (2021).
+
+   (d) *Lost chance to make an informed decision and to respond.* Without the disclosure, Plaintiff lost the chance to make a timely, informed decision about whether, and how broadly, to authorize the screening. He also lost the chance to address its use before it affected his employment. [He would have (asked what would be searched; objected to any search for, or use of, Megan's Law website information, which California law prohibits employers from using for any purpose relating to employment, Pen. Code § 290.46(j)(2)(E); and requested a copy of the report) — **CONFIRM**.] The concern is not that the report was inaccurate. It is that information Employer could not lawfully use for employment purposes was obtained, and later used, without the disclosure that would have let Plaintiff act.
+
+   (e) *Monetary harm.* [On information and belief, information in the report was used in reducing Plaintiff's scheduled shifts (¶¶ 24-B, 33–36). That reduction cost him paid hours and wages (¶¶ 15, 23A, 44). — **plead only with ¶ 24-B**.]
+
+   > **Gate 2 — what the Nov. 11 Westlaw research shows (Plaintiff's findings memo, § 5 Q1–Q2):**
    >
-   > A bare form defect without one of these real-world consequences is the most likely ground for Rule 12(b)(1) dismissal. That is because *TransUnion* (concrete harm required for damages) postdates *Syed v. M-I, LLC*, 853 F.3d 492 (9th Cir. 2017), where the Ninth Circuit found standing because the plaintiff alleged he did not understand what he was authorizing.
+   > *Cases that help:*
+   > - *TransUnion* at 440–42 distinguished plaintiffs who "did not allege that they failed to receive any required information" and complained only of format. That distinction favors a plaintiff who received no disclosure at all (sub-¶ (a)).
+   > - *Syed*, 853 F.3d at 499–500, turned on personal confusion and "would not have signed" (sub-¶ (b)). The Ninth Circuit has not narrowed *Syed* after *TransUnion*; *Tailford v. Experian*, 26 F.4th 1092 (9th Cir. 2022), reaffirmed it.
+   > - *Magallon v. Robert Half*, 2024 WL 4182846, at *9 (D. Or. 2024), and *Seyed-Ali v. HireRight*, 2025 WL 2659234 (C.D. Cal. 2025), treat a lost chance to decide or dispute as concrete (sub-¶ (d)).
+   > - *Admore v. Hospice of Palm Beach Cnty.*, 2021 WL 6926422, at *4 (S.D. Fla. 2021) (privacy). Check its appellate history before citing.
    >
-   > The privacy-intrusion allegation is strongest if the § 1681g file shows the report contained registry or offense-history data. Ideally, plead ¶ 13 after the file arrives.
+   > *Cases that hurt, and how this paragraph answers them:*
+   > - *Gray v. Nachurs Alpine*, 2023 WL 3004433 (N.D. Ohio 2023), is a true "never received" case and was dismissed. The report there was accurate, and no downstream harm was pleaded. Answered by sub-¶¶ (d) and (e): information unlawful to use even if accurate, plus lost wages.
+   > - *Williams v. DISA*, 2026 WL 1847740, at *2 (N.D. Cal. June 26, 2026): accurate information and no "I would have disputed." Answered by sub-¶ (d).
+   > - *Nunley v. Cardinal Logistics* (C.D. Cal. 2022) and *Beltran v. Waste Mgmt.* (E.D. Cal. 2025) held that a total lack of disclosure, or a bare procedural violation, is not enough by itself. Answered by sub-¶¶ (b), (d) and (e).
+   > - *Michaeli*, *Winters*, *Olea* and *Masuda*: confusion must be **Plaintiff's own**, not consumers' generally.
    >
-   > *[Post-TransUnion N.D. Cal. decisions on (b)(2) standing were not retrieved in this session; pull them before filing.]*
+   > **Bottom line:** if sub-¶ (b) is confirmed true, Count One has a fair chance at the pleading stage even without (e). With (e), it is materially stronger.
+   >
+   > **Discovery risk:** a deposition admission that Plaintiff understood the form and would have signed anyway defeats standing (*Olea*). Confirm (b) only if it is true.
 
 #### B. Training and scheduling
 
@@ -109,7 +129,17 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
     - three overnights for November 1–7; and
     - two overnights for November 8–14.
 
-    Each overnight was scheduled from 11 p.m. to 7 a.m. with a 30-minute break. The rosters for the weeks beginning October 25, November 1, and November 8 labeled Plaintiff "(Training)." Plaintiff was assigned no front-desk shifts after October 24. A newly hired front-desk trainee was assigned three to four front-desk shifts in each of those weeks.
+    Each overnight was scheduled from 11 p.m. to 7 a.m. with a 30-minute break. Excluding the 30-minute breaks, Plaintiff's scheduled paid hours were:
+
+    | Week | Scheduled paid hours |
+    |---|---|
+    | Oct. 11–17 | 37.5 |
+    | Oct. 18–24 | 31 |
+    | Oct. 25–31 | 30 |
+    | Nov. 1–7 | 22.5 |
+    | Nov. 8–14 | 15 |
+
+    That is a decline of about 54 percent from his pre-reduction average of about 32.8 hours per week (October 11–31). [Replace with payroll paid hours when obtained.] The rosters for the weeks beginning October 25, November 1, and November 8 labeled Plaintiff "(Training)." Plaintiff was assigned no front-desk shifts after October 24. A newly hired front-desk trainee was assigned three to four front-desk shifts in each of those weeks.
 
 16. Justin Howell, a Night Auditor, was assigned to train Plaintiff on overnight shifts, including those beginning October 13, 14, and 15; October 27, 28, and 29; November 3 and 4; and November 10 and 11. On October 30, Plaintiff reported to Barros that he had completed approximately 70 percent of Night Audit tasks without Howell's assistance and offered to cover additional front-desk shifts on November 5 or 6. Barros replied that he would "reach out if occupancy changes and additional staff is needed."
 
@@ -136,7 +166,7 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 
 23. On November 11, 2026, at approximately 6:30 a.m., Plaintiff mentioned that he had been scheduled for one fewer day. Howell responded, in substance: "Well, it's because you've been calling out of your shifts. That's why John has been scheduling you less and less."
 
-23A. **Economic consequences.** The Delta position was Plaintiff's sole source of earned income [**confirm:** no other wages of any kind from Sept. 22, 2026 to the present. A separately accepted offer from another employer never resulted in employment]. Plaintiff pays rent of $90 per day, about $630 per week. At his regular schedule of four shifts, his scheduled gross pay was about $705–$720 per week. The November 1–7 roster (three shifts, about $540 gross) and the November 8–14 roster (two shifts, about $345–$360 gross) left his scheduled pay below his rent. Beginning November 5, 2026, the day he received the two-shift roster, Plaintiff substantially expanded his search for additional or replacement work. Through November 12 he submitted dozens of applications and scheduled multiple interviews. The loss of scheduled pay has placed Plaintiff's housing at risk and has caused him anxiety and distress [describe specifically and truthfully], according to proof.
+23A. **Economic consequences.** The Delta position was Plaintiff's sole source of earned income [**confirm:** no other wages of any kind from Sept. 22, 2026 to the present. A separately accepted offer from another employer never resulted in employment]. Plaintiff pays rent of $90 per day, about $630 per week. In the three weeks before the reductions (October 11–31), his scheduled gross pay averaged about $778 per week (from about $713 to $900). The November 1–7 roster (three shifts, about $540 gross) and the November 8–14 roster (two shifts, about $360 gross) left his scheduled pay below his rent. Beginning November 5, 2026, the day he received the two-shift roster, Plaintiff substantially expanded his search for additional or replacement work. Through November 12 he submitted dozens of applications and scheduled multiple interviews. The loss of scheduled pay has placed Plaintiff's housing at risk and has caused him anxiety and distress [describe specifically and truthfully], according to proof.
 
 #### C. Registry-source allegation — CHOOSE ONE (ready-to-paste)
 
@@ -158,6 +188,12 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 **25-B (role plus admission — current best):**
 "Howell was Plaintiff's assigned trainer on every overnight shift Plaintiff worked after October 26. In that role he was responsible for teaching and observing Plaintiff's audit work. Howell threatened to report Plaintiff's purported 'incompetence' to Barros (¶ 17). He received Plaintiff's November 2 illness notice, after which Barros wrote that he had 'heard' Plaintiff was ill. On November 11, Howell described Barros's scheduling decisions and their reasons. On information and belief, Howell conveyed to Barros an assessment of Plaintiff's training progress, performance, or attendance before the November 8–14 schedule was set, and Barros considered that assessment in deciding how many shifts to assign. On information and belief, the assessment was influenced by information disclosed under Penal Code § 290.46 (¶ 24)."
 
+> *Cat's-paw drafting note (Nov. 12 Westlaw findings):*
+> - *Miller v. T-Mobile USA*, 2025 WL 3085722 (N.D. Cal. Nov. 5, 2025), and *Reeves* fn. 9 make a **nonsupervisory coworker** conduit the weak point.
+> - Before filing, add facts showing Howell's **evaluative authority**: [e.g., Barros assigned Howell to train and assess Plaintiff; Howell reported Plaintiff's progress to Barros; Howell decided when Plaintiff was ready to work alone — **Plaintiff to supply only what is true**]. Also add **actual transmission** (25-A) if any is learned.
+> - A threatened report alone is not enough (*Martin*; *Hamilton*).
+> - *Lin v. Kaiser* (2023) 88 Cal.App.5th 712 and *Hoglund* (2024) 102 Cal.App.5th 56 support liability where the decisionmaker lacked firsthand knowledge and relied on the biased evaluator.
+
 **25-C (pure inference — NOT RECOMMENDED):**
 "On information and belief, Howell influenced Barros's scheduling decisions."
 
@@ -169,9 +205,9 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 
 28. Before procuring the report, Employer did not provide Plaintiff a clear and conspicuous written disclosure, in a document consisting solely of the disclosure, that a consumer report may be obtained for employment purposes, in violation of § 1681b(b)(2)(A)(i) (¶¶ 8–10).
 
-29. [Employer also did not obtain a valid authorization under § 1681b(b)(2)(A)(ii). The authorization Plaintiff signed was premised on, and recited receipt of, disclosure documents he was never given. It was combined with an acknowledgment of receipt and a release "without reservation" of "any and all background information" from third parties (¶ 9).] [verify that this theory survives *Syed* and *Walker v. Fred Meyer*.]
+> *¶ 29 (authorization-defect theory) deleted Nov. 12, 2026. No authority was found supporting it, and Luna v. Hansen & Adkins Auto Transport, Inc., 956 F.3d 1151, 1153–54 (9th Cir. 2020), holds that the authorization carries no standalone-document requirement. Renumber at final formatting.*
 
-30. Employer acted willfully, or at minimum with reckless disregard of its statutory duty. *Safeco Ins. Co. of Am. v. Burr*, 551 U.S. 47, 57 (2007). Its own Acknowledgment recites the existence of separate FCRA disclosure documents, which shows awareness of the requirement, yet the packet it transmitted did not contain them. In the alternative, Employer acted negligently. 15 U.S.C. § 1681o.
+30. Employer acted willfully, or at minimum with reckless disregard of its statutory duty. *Safeco Ins. Co. of Am. v. Burr*, 551 U.S. 47, 57, 69 (2007). The statute "unambiguously requires" a standalone disclosure, *Syed v. M-I, LLC*, 853 F.3d 492, 500 (9th Cir. 2017). An employer that gives no disclosure at all disregards the plain text, and "[a]n interpretation of the FCRA that contradicts plain statutory text is objectively unreasonable." *Grijalva v. ADP Screening & Selection Servs.*, 151 F.4th 1055, 1060–61 (9th Cir. 2025). Employer's own Acknowledgment recites the existence of separate FCRA disclosure documents, which shows awareness of the requirement, yet the packet it transmitted did not contain them. In the alternative, Employer acted negligently. 15 U.S.C. § 1681o.
 
 31. Plaintiff suffered the concrete injury alleged in ¶ 13. He is entitled to statutory damages of not less than $100 and not more than $1,000, punitive damages, and costs under § 1681n(a), or, in the alternative, actual damages and costs under § 1681o.
 
@@ -209,7 +245,7 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 
 43. No exception applies. The use was not made to protect a person at risk: Employer continued to assign Plaintiff to overnight work with guests and staff. No other provision of law authorizes a hotel's use of Megan's Law website information in scheduling a front-desk employee.
 
-44. As a result of the use and the scheduling decisions it influenced, Plaintiff lost paid shifts. Through November 14, 2026, those lost shifts are estimated at $510–$576 in gross wages and continue to accrue according to proof. Plaintiff also suffered emotional distress from the resulting threat to his housing (¶ 23A), and he will incur any consequential losses actually and proximately caused by the lost wages, such as late fees or housing-related costs, according to proof.
+44. As a result of the use and the scheduling decisions it influenced, Plaintiff lost paid shifts. Measured against the actual pre-reduction weeks (¶ 15), those lost shifts are estimated through November 14, 2026 at about $533–$655 in gross wages, and they continue to accrue according to proof. Plaintiff also suffered emotional distress from the resulting threat to his housing (¶ 23A), and he will incur any consequential losses actually and proximately caused by the lost wages, such as late fees or housing-related costs, according to proof.
 
 ### Prayer (nonduplicative)
 
@@ -217,7 +253,7 @@ Plaintiff requests judgment against Employer and each other defendant found liab
 
 - A. **Count One:** statutory damages of $100–$1,000 and punitive damages under 15 U.S.C. § 1681n(a), or actual damages under § 1681o.
 - B. **Count Two:** actual damages (lost wages, emotional distress, and consequential losses proven to result from the adverse action) or statutory damages of $100–$1,000, and punitive damages, under §§ 1681n(a) and 1681o.
-- C. **Count Three:** actual damages or $10,000, whichever is greater, and punitive damages if the violation is proven grossly negligent or willful (Civ. Code § 1786.50). This is sought for the disclosure defect only, so it does not duplicate any wage recovery.
+- C. **Count Three:** actual damages or $10,000, whichever is greater (one statutory award per report per defendant; *Garcia v. Quest Grp.*, 2022 WL 228971 (S.D. Cal. 2022)), and punitive damages if the violation is proven grossly negligent or willful (Civ. Code § 1786.50). This is sought for the disclosure defect only, so it does not duplicate any wage recovery.
 - D. **Count Four:**
   - actual damages (lost wages, any proven compensable emotional distress caused by the prohibited use, and consequential losses actually incurred);
   - the additional amount under Pen. Code § 290.46(j)(4)(A), not less than $250 and not exceeding three times actual damages; and

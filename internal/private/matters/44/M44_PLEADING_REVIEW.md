@@ -142,7 +142,7 @@ Plaintiff has chosen N.D. Cal. The draft is built to survive Rule 12(b)(1) and 1
 | No standalone clear-and-conspicuous disclosure meeting § 1786.16(a)(2)(B) before procurement | The packet as sent has no disclosure document (V05 pp.26–28). No UBS email in Gmail (Nov. 12 search). | **DOCUMENTED** (packet). **UNKNOWN** (portal or QR onboarding). | Plaintiff **signed** an acknowledgment certifying receipt of the disclosures (V05 p.27). A portal may have shown them. | Plaintiff's honest recollection of every screen he completed. EOB/QR onboarding screenshots. A UBS file request asking for the consent record and timestamps. |
 | No box to check for a free copy (§ 1786.16(b)(1)) | Not present in the packet. | **DOCUMENTED** (packet) / **UNKNOWN** (portal) | Same | Same |
 | Authorization defects (the "without reservation" release language is combined with the acknowledgment) | V05 p.27 | **DOCUMENTED** | The authorization may lawfully appear on a separate page. | — |
-| Remedy | § 1786.50(a): actual damages or $10,000, whichever is greater. § 1786.50(b): punitive damages if grossly negligent or willful. *Parsonage v. Wal-Mart Assocs., Inc.*, 118 Cal.App.5th 399 (2026) (standing for a form violation). *Connor v. First Student, Inc.* (2018) 5 Cal.5th 1026 (ICRAA covers criminal background checks; not unconstitutionally vague). | Statute | *Parsonage* conflicts in part with other appellate reasoning. **Check for a Cal. Supreme Court grant of review (CRC 8.1115(e)) before citing it. Not verified this session.** | — |
+| Remedy | § 1786.50(a): actual damages or $10,000, whichever is greater. § 1786.50(b): punitive damages if grossly negligent or willful. *Parsonage v. Wal-Mart Assocs., Inc.*, 118 Cal.App.5th 399 (2026) (standing for a form violation). *Connor v. First Student, Inc.* (2018) 5 Cal.5th 1026 (ICRAA covers criminal background checks; not unconstitutionally vague). | Statute | *Parsonage* conflicts with *Limon v. Circle K* (2022) 84 Cal.App.5th 671. **Review denied Apr. 29, 2026; not depublished; citable** (Westlaw, Nov. 11, 2026). Garcia v. Quest: one $10,000 per report per defendant. | — |
 
 [ICRAA subdivision numbers (§ 1786.16(a)(2)(B), (b)(1); § 1786.50; § 1786.52) are from memory and the repo memo. Confirm them against the current code before filing.]
 
@@ -200,6 +200,68 @@ Network note: official code sites (leginfo, Justia) are blocked in this session'
 
 ---
 
+### 4.3 Westlaw findings integrated (Plaintiff's research, Nov. 11, 2026; integrated Nov. 12)
+Source: `Matter44_Westlaw_Findings_2026-11-11.pdf` (51 pp.; Westlaw Patron Access, read on screen only). Everything below is as recorded there. Pins are given only where that memo captured them.
+
+**Status changes from the § 4.1 table**
+
+| Item | Old status | New status |
+|---|---|---|
+| Pen. Code § 290.46(j)(1)–(4) | text [verify] | **Verified verbatim** from the annotated statute (effective Jan. 1, 2023): Stats. 2017 c. 541; 2018 c. 423; 2021 c. 615. The (j)(4)(A) quotation matches § 4.2(6). Still open: whether "not exceeding $25,000" caps exemplary damages too. |
+| *Parsonage*, 118 Cal.App.5th 399 | review status unverified | **Review denied Apr. 29, 2026; not depublished**; no flag; 0 negative. Citable. State court only. |
+| *Mendoza* | pins per packet | No negative treatment. Holding at **1657** ("employers who 'use' … as a basis for an employment decision"); claim "lies against his prospective employer" at **1657–58**; "person at risk" dictum at **1656** (a defense risk). |
+| *Luna v. Hansen & Adkins*, 956 F.3d 1151 | unconfirmed | **Confirmed.** The authorization has no standalone requirement (1153–54). **¶ 29 dropped.** |
+| *Limon v. Circle K*, 84 Cal.App.5th 671 | unconfirmed | **Confirmed**; yellow; conflicts with *Parsonage* (no privacy injury pleaded). |
+| *Walker v. Fred Meyer* (b)(3) | my characterization unverified | **Still unverified.** It holds that the notice must describe the right to dispute with the CRA. No holding found on whether an actual adverse action is required. Do not characterize it. |
+| *Syed* | standing post-*TransUnion*? | Not narrowed. *Tailford v. Experian*, 26 F.4th 1092 (9th Cir. 2022), reaffirmed it. Pins 496, 499–500, 500, 504. |
+| *TransUnion* | pins | 417, 425, 427, **440–42** (the "wrong format" vs. "failed to receive" distinction helps a total-non-receipt plaintiff). |
+| *Artis* | § 1367(d) | Stop-clock confirmed (syllabus; 82–83). Posture was a § 1367(c) decline, so **the Article III-dismissal question remains open**. *Rueb v. Stancil*, 2025 WL 3471931 (D. Colo.), and *Marroquin* (L.A. Sup. Ct. 2026; trial order) treat jurisdictional dismissals as covered. |
+
+**New authorities to use**
+- **FCRA standing (helps):**
+  - *Magallon v. Robert Half*, 2024 WL 4182846, at *9 (D. Or. 2024): a lost chance to obtain a benefit is concrete; distinguishes *Gray*.
+  - *Seyed-Ali v. HireRight*, 2025 WL 2659234 (C.D. Cal. 2025): motion to dismiss denied on standing, (b)(3), **and ICRAA** in federal court.
+  - *Admore*, 2021 WL 6926422, at *4 (S.D. Fla.). Read the 11th Cir. history before citing.
+- **FCRA adverse action (helps Count Two):** *Nguyen-Wilhite v. Tapestry*, 2026 WL 836247, at *5 (S.D.N.Y. Mar. 26, 2026). Unpaid removal of a working hourly employee from the schedule could be an adverse action because it "deprived her of her wages." The employer still won on willfulness.
+- **Reduced hours as adverse (state law, by analogy):** *Light v. Dep't of Parks & Recreation* (2017) 14 Cal.App.5th 75, 92–93. A cut in hours for a worker with no guaranteed hours "alone could constitute a material and adverse employment action," and seasonal or budget reasons are "irrelevant" to that question. This is FEHA, not FCRA. Its 6 negative treatments appear to target other headnotes [unverified].
+- **Willfulness:** *Grijalva v. ADP Screening*, 151 F.4th 1055, 1060–61 (9th Cir. 2025). Contradicting plain text is objectively unreasonable. **Counterweight:** *Bultemeyer v. CenturyLink*, 2026 WL 2834418 (9th Cir. Sept. 22, 2026) (Safeco defense reversed a $140M verdict; not an employment case). *Nguyen-Wilhite* also went for the employer on willfulness.
+- **ICRAA:**
+  - *Yeh v. Barrington Pacific* (2026) 117 Cal.App.5th 1303, 1309: $10,000 without concrete injury (state court).
+  - *Kemp v. Superior Court* (2022) 86 Cal.App.5th 981: no FCRA preemption of ICRAA's 7-year rule.
+  - *Garcia v. Quest Grp.*, 2022 WL 228971 (S.D. Cal.): **$10,000 per report per defendant, not per violation.** The prayer was revised to match.
+- **§ 290.46:** *Walker v. Ronin Staffing*, 2025 WL 2994548 (C.D. Cal. Oct. 10, 2025). It confirms (j)(2)(E) and that the employer that uses the information is the defendant, not a vendor or agent. *McGroarty* (C.D. Cal. 2009) agrees: "mere access to and distribution … are not bases for liability." No reported § 290.46 damages award exists anywhere.
+- **Cat's paw (California):**
+  - *Reeves* at 108–09, 113–16 (but-for; conduit).
+  - *Lin v. Kaiser* (2023) 88 Cal.App.5th 712 and *Hoglund v. Sierra Nevada Mem.-Miners Hosp.* (2024) 102 Cal.App.5th 56: decisionmaker without firsthand knowledge relying on a biased supervisor's account.
+- **Emotional distress:** *Newton v. Equilon*, 411 F.Supp.3d 856, 877 (N.D. Cal. 2019): lay testimony suffices; no medical evidence required. Corroboration (family or coworker) materially strengthens.
+
+**New adverse authorities (must be answered)**
+- **Standing:**
+  - *Gray v. Nachurs Alpine*, 2023 WL 3004433 (N.D. Ohio 2023): true never-received case; dismissed.
+  - *Williams v. DISA*, 2026 WL 1847740, at *2 (N.D. Cal. June 26, 2026).
+  - *Nunley* (C.D. Cal. 2022) and *Beltran* (E.D. Cal. 2025): bare or total lack of disclosure is not enough.
+  - *Olea*, *Michaeli*, *Winters*, *Masuda*: the confusion must be personal.
+
+  The complaint's ¶ 13 was rebuilt around these cases (sub-¶¶ (a)–(e)).
+- **Cat's paw through a trainer:**
+  - *Reeves* fn. 9: "less clear where the only actor possessing the requisite animus is a nonsupervisory coworker."
+  - ***Miller v. T-Mobile USA*, 2025 WL 3085722 (N.D. Cal. Nov. 5, 2025)**: summary judgment for the employer; "[t]he Ninth Circuit has yet to address whether a coworker's biased conduct supports cat's paw liability," and the court declined to predict a California extension.
+  - *Hamilton v. OCSD* (Cal. Ct. App. 2020; unpublished, not citable) is the closest trainer facts; employer won.
+
+  **This is the most serious new risk to Count Four's causation theory.** The answer is to plead and prove that Howell had **evaluative authority** (an assigned trainer who reports progress to the decisionmaker), plus actual transmission and actual reliance. A threatened report alone is not enough. → **New question for Plaintiff (Q6):** what did Howell's trainer role include? Did he sign off on tasks, report progress, or recommend readiness?
+- **Supplemental jurisdiction:** *Moran v. Screening Pros*, 2020 WL 4724307, at *13 (C.D. Cal.) declined supplemental jurisdiction over ICRAA on comity grounds, and *Kaplan v. Seterus*, 2017 WL 3478801 (N.D. Cal.), did the same for a novel CCRAA claim. Expect a § 1367(c) motion against Counts Three and Four even if the FCRA survives. Refile promptly in Santa Clara Superior Court if dismissed (*Parsonage* and *Yeh* make ICRAA strong there).
+
+**Do not cite** (findings memo § 8): *Sharp v. Jules* (does not exist as described); *City of L.A. v. County of Kern*, 59 Cal.4th 618 (abrogated by *Artis*); *Razilov* (abrogated); *Goode v. LexisNexis* (called into doubt by *Bultemeyer*); unpublished California opinions (CRC 8.1115: *Franklin*, *Ballinger*, *Hamilton*, *Moore v. UPS*, *Birden*, *Harper*, *McCallum*); the 11th Cir. *Admore* opinion (unread); pre-2021 standing holdings, unless reaffirmed.
+
+**Still open** (findings memo § 9):
+- Q10: statute subdivision numbers for FCRA, ICRAA, CCP and Labor Code (my [verify] tags stay); the scope of the § 290.46 $25,000 cap.
+- CCP § 340(a) (the Oct. 13, 2027 date stays the conservative target).
+- Defense-brief searches.
+- A *Mt. Clemens* back-pay burden shift.
+- A hotel reduced-hours verdict comparator.
+- The *Walker v. Fred Meyer* (b)(3) holding.
+- Moody v. Ascenda.
+
 ## 5. Damages worksheet
 
 **Inputs:**
@@ -216,14 +278,14 @@ Network note: official code sites (leginfo, Justia) are blocked in this session'
 | B. $24 both roles, 7.5 hours | 30 | **$720** |
 | B′. $24 both roles, 8 hours (packet) | 32 | $768 |
 
-Empirical check: the average scheduled paid hours Oct. 11–Nov. 7 = (37.5 + 30 + 30 + 22.5) ÷ 4 = **30.0 h/week**. That matches a four-shift baseline. (INFERENCE from DOCUMENTED rosters.)
+Empirical check: the average scheduled paid hours over the three pre-reduction weeks, Oct. 11–31, = (37.5 + 31 + 30) ÷ 3 = **32.8 h/week**, averaging **$778 gross**. The most recent two pre-reduction weeks average 30.5 h and $716.50. **After the Nov. 11 Westlaw research, the actual pre-reduction weeks are the preferred baseline, not the claimed 2+2 schedule.** Courts use actual recent hours and reject speculative assumed schedules: *Smith v. City of Oakland*, 538 F.Supp.2d 1217, 1243–44 (N.D. Cal. 2008); *Daley v. Walmart*, 2018 WL 3104630, at *4 (C.D. Cal. 2018). (INFERENCE from DOCUMENTED rosters.)
 
 ### 5.2 Observed scheduled shifts (assignments, not punches)
 | Week | Roster | Scheduled | Paid h | Gross at roster rates | Plaintiff-caused absence |
 |---|---|---|---|---|---|
 | Oct. 4–10 | S-01 | 5 GSA/shadow | spans 39.5 (break status unclear) | — | Oct. 8 call-out (E-25, T-03) |
 | Oct. 11–17 | S-02 | 5 NA | 37.5 | $900 | — |
-| Oct. 18–24 | S-03 | 4 GSA | 30 | $690 | — |
+| Oct. 18–24 | S-03 | 4 GSA (two 10a–6:30p = 8 h paid; two 3–11p = 7.5 h) | 31 | $713 | — |
 | Oct. 25–31 | S-04 | 4 NA | 30 | $720 | Oct. 27 (T-06) → −$180 |
 | Nov. 1–7 | S-05/S-06 | 3 NA | 22.5 | $540 | Nov. 2 (T-09, T-07) → −$180 |
 | Nov. 8–14 | S-07 | 2 NA | 15 | $360 | — |
@@ -239,6 +301,10 @@ No GSA shifts after Oct. 24. The new trainee Miguel Bretado receives 3–4 front
 | All $24, 7.5 h (B) | $180 | $360 | **$540** |
 | All $24, 8 h (B′) | $192 | $384 | $576 |
 | Attendance-adjusted (2 of 13 shifts missed Oct. 11–Nov. 7 → 84.6%) × $510–$540 | | | $431–$457 |
+| **Actual pre-reduction average (Oct. 11–31: $778/wk) — PREFERRED (Nov. 12 update)** | $238 | $418 | **$655** |
+| Most recent two pre-reduction weeks (Oct. 18–31: $716.50/wk) | $177 | $357 | $533 |
+
+**Pleaded figure:** about **$533–$655** through Nov. 14 (complaint ¶ 44). The 2+2 and 8-hour scenarios above are superseded as pleading figures. They remain for comparison because no roster week shows a 2+2 mix (findings memo § 4.1).
 
 **Causation caveats:**
 - The Nov. 1–7 roster was *posted before* the Nov. 2 call-out but *after* the Oct. 27 call-out and the Oct. 29 remark. Its decision date is UNKNOWN.
