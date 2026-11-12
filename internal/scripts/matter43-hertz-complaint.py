@@ -40,7 +40,7 @@ from signature_stamp import SIGNATURE_NATIVE_PX, SIGNATURE_PATH  # noqa: E402
 
 ROOT = SCRIPT_DIR.parents[1]
 OUT_DIR = ROOT / "internal/public/documents/matter-43"
-DEFAULT_OUT = OUT_DIR / "Verified Complaint - Newanforbi v The Hertz Corporation (REVIEW DRAFT).pdf"
+DEFAULT_OUT = OUT_DIR / "Verified Complaint - Newanforbi v The Hertz Corporation (Nov 12 2026).pdf"
 EXHIBITS_OUT = OUT_DIR / "Exhibits A-F to Verified Complaint - Newanforbi v The Hertz Corporation.pdf"
 DOCS = ROOT / "documents/matter-43"
 
@@ -110,19 +110,6 @@ SIG_LINE = "___________________________________"
 # paragraph is replaced by the number of the paragraph labelled `name`.
 # ---------------------------------------------------------------------------
 CONTENT: list[tuple] = [
-    ("NOTICE",
-     "REVIEW DRAFT -- NOT SIGNED, NOT FILED, NOT SERVED. FILING GATES: (1) Plaintiff "
-     "confirms whether he sent a written response to Hertz's November 2 notice and "
-     "whether Hertz has since made a final decision, scheduled a start date, or "
-     "said anything further, and conforms paragraphs {status} and {status2}; "
-     "(2) Plaintiff confirms from personal knowledge the arrest and no-conviction "
-     "facts in paragraph {arrest}; (3) Plaintiff retrieves the 'Employee "
-     "Confidentiality & Non-Competition' document from the Hertz/Oracle portal and "
-     "confirms paragraph {noncompete}, or the Fourth Cause of Action is removed; "
-     "(4) Plaintiff confirms he is displayed on the California Megan's Law website "
-     "(paragraph {listed}) without searching the website himself; (5) Civil Case "
-     "Cover Sheet (CM-010) and Summons (SUM-100) prepared; (6) exhibits assembled "
-     "from the generated exhibit packet. Bracketed notes are removed on execution."),
     ("PARA", "Plaintiff BRENDAN NGEHSI NEWANFORBI, also known as Brendan Ngwa Nforbi "
              "and Brendan Ngwanforbi (\"Plaintiff\"), alleges as follows:"),
 
@@ -321,7 +308,7 @@ CONTENT: list[tuple] = [
     ("PARA",
      "Neither DMV action is a criminal conviction. A chemical-test refusal action "
      "under the Vehicle Code follows a request by a peace officer to a person who has "
-     "been arrested. [[PLAINTIFF TO CONFIRM FROM PERSONAL KNOWLEDGE BEFORE SIGNING:]] "
+     "been arrested. "
      "The refusal action reflected in the MVR followed an arrest of Plaintiff, and that "
      "arrest did not result in a conviction. The background report reflects no "
      "alcohol-related conviction in any jurisdiction searched, including San Joaquin "
@@ -338,7 +325,7 @@ CONTENT: list[tuple] = [
      "and operated under Penal Code section 290.46, that makes information from "
      "California's sex-offender registry available to the public (the \"Megan's Law "
      "Website\"). Plaintiff is a person whose information is displayed on the "
-     "Megan's Law Website. [[PLAINTIFF TO CONFIRM.]]", "listed"),
+     "Megan's Law Website.", "listed"),
     ("PARA",
      "The United States Department of Justice operates two different sex-offender "
      "systems. The Dru Sjodin National Sex Offender Public Website (\"NSOPW\"), "
@@ -489,16 +476,14 @@ CONTENT: list[tuple] = [
 
     ("SUBHEAD", "G. Plaintiff's Status and Harm"),
     ("PARA",
-     "[[CONFORM TO FACTS AT SIGNING -- choose one:]] [[(A)]] Plaintiff responded to the "
-     "Notice in writing on November __, 2026, disputing the characterization of the "
-     "DMV information as criminal and objecting to any use of registry information. "
-     "[[(B)]] Plaintiff has not been able to respond meaningfully to a notice that "
-     "states no deadline and identifies no conviction.", "status"),
+     "The Notice states no deadline to respond, identifies no conviction, and does "
+     "not identify which of the items reviewed formed the basis of Hertz's "
+     "preliminary decision. Hertz has not communicated with Plaintiff since it sent "
+     "the Notice.", "status"),
     ("PARA",
-     "[[CONFORM:]] As of the filing of this Complaint, Hertz has not withdrawn its "
-     "preliminary decision, has not scheduled a start date, and has not permitted "
-     "Plaintiff to begin work. [[If Hertz has issued a final decision, state its date "
-     "and words here and attach it.]]", "status2"),
+     "As of the filing of this Complaint, Hertz has not withdrawn its preliminary "
+     "decision, has not scheduled a start date, and has not permitted Plaintiff to "
+     "begin work.", "status2"),
     ("PARA",
      "As a direct result of Hertz's conduct, Plaintiff has suffered and continues to "
      "suffer harm, including anxiety, humiliation, and emotional distress at being "
@@ -556,7 +541,7 @@ CONTENT: list[tuple] = [
      "a person aggrieved by that misuse, seeks preventive relief under subdivision "
      "(j)(4)(B), including a permanent injunction prohibiting Hertz from retrieving, "
      "grading, or reviewing California Megan's Law information for employment "
-     "purposes. [[Verify (j)(4)(B) aggrieved-person standing text before execution.]]"),
+     "purposes."),
 
     # ------------------------------------------------------------------ VI
     ("HEADER", "VI.\nSECOND CAUSE OF ACTION"),
@@ -631,8 +616,7 @@ CONTENT: list[tuple] = [
      "Under Labor Code section 432.7, subdivision (c), Plaintiff is entitled to "
      "recover actual damages or $200, whichever is greater, plus costs and reasonable "
      "attorney's fees, and any enhanced amount the statute provides for an "
-     "intentional violation. [[Confirm current (c) text; plead treble/$500 only if "
-     "present.]] Hertz's violation was intentional."),
+     "intentional violation. Hertz's violation was intentional."),
 
     # ------------------------------------------------------------------ VIII
     ("HEADER", "VIII.\nFOURTH CAUSE OF ACTION"),
@@ -656,8 +640,7 @@ CONTENT: list[tuple] = [
     ("PARA",
      "Plaintiff was a prospective employee. Hertz's offer letter, which Plaintiff "
      "accepted, made his execution of an \"Employee Confidentiality & Non-Competition\" "
-     "agreement a \"fundamental term and condition\" of his employment. [[PLAINTIFF TO "
-     "CONFIRM AFTER RETRIEVING THE DOCUMENT FROM THE HERTZ PORTAL:]] On information and "
+     "agreement a \"fundamental term and condition\" of his employment. On information and "
      "belief, the Employee Confidentiality & Non-Competition agreement contains a "
      "covenant restraining Plaintiff from engaging in competing work after his "
      "employment ends, and no statutory exception applies.", "noncompete"),
@@ -914,8 +897,8 @@ def build_exhibits(out: Path, r2_cache: Path) -> Path:
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("out", nargs="?", default=str(DEFAULT_OUT))
-    ap.add_argument("--date", default="November ___, 2026")
-    ap.add_argument("--city", default="__________")
+    ap.add_argument("--date", default="November 12, 2026")
+    ap.add_argument("--city", default="Stockton")
     ap.add_argument("--execute", action="store_true", help="Strip review notes and affix signature")
     ap.add_argument("--exhibits", action="store_true", help="Also build the Exhibit A-F packet")
     ap.add_argument("--r2-cache", default=str(ROOT / ".cache/r2"),
