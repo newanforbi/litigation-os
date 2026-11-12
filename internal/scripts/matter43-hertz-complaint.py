@@ -40,12 +40,12 @@ from signature_stamp import SIGNATURE_NATIVE_PX, SIGNATURE_PATH  # noqa: E402
 
 ROOT = SCRIPT_DIR.parents[1]
 OUT_DIR = ROOT / "internal/public/documents/matter-43"
-DEFAULT_OUT = OUT_DIR / "Verified Complaint - Newanforbi v The Hertz Corporation (Nov 12 2026).pdf"
-EXHIBITS_OUT = OUT_DIR / "Exhibits A-F to Verified Complaint - Newanforbi v The Hertz Corporation.pdf"
+DEFAULT_OUT = OUT_DIR / "Verified Complaint - Ngwa Nforbi v The Hertz Corporation (Nov 12 2026).pdf"
+EXHIBITS_OUT = OUT_DIR / "Exhibits A-F to Verified Complaint - Ngwa Nforbi v The Hertz Corporation.pdf"
 DOCS = ROOT / "documents/matter-43"
 
 COURT_LINE2 = "COUNTY OF SANTA CLARA"
-FOOTER = "VERIFIED COMPLAINT -- NEWANFORBI v. THE HERTZ CORPORATION"
+FOOTER = "VERIFIED COMPLAINT -- NGWA NFORBI v. THE HERTZ CORPORATION"
 
 _DRAFT_NOTE = re.compile(r"\s*\[\[[^\[\]]+\]\]")
 
@@ -58,7 +58,7 @@ def _filing_text(text: str, execute: bool) -> str:
 
 
 PLAINTIFF_BLOCK = [
-    ("BRENDAN NGEHSI NEWANFORBI", "Times-Bold", 12),
+    ("BRENDAN NGWA NFORBI", "Times-Bold", 12),
     ("Plaintiff, In Pro Per", "Times-Roman", 12),
     ("1455 Cat Tail Drive", "Times-Roman", 12),
     ("Stockton, CA 95204", "Times-Roman", 12),
@@ -67,9 +67,9 @@ PLAINTIFF_BLOCK = [
 ]
 
 CAPTION_LEFT = [
-    ("BRENDAN NGEHSI NEWANFORBI, also", True, False),
-    ("known as BRENDAN NGWA NFORBI and", True, False),
-    ("BRENDAN NGWANFORBI,", True, False),
+    ("BRENDAN NGWA NFORBI, also known", True, False),
+    ("as BRENDAN NGWANFORBI,", True, False),
+    ("", False, False),
     ("", False, False),
     ("                          Plaintiff,", False, False),
     ("", False, False),
@@ -101,7 +101,7 @@ CAPTION_RIGHT = [
     ("[Jury Trial Demanded]", False, True),
 ]
 
-SIGNOFF_NAME = "BRENDAN NGEHSI NEWANFORBI"
+SIGNOFF_NAME = "BRENDAN NGWA NFORBI"
 SIGNOFF_ROLE = "Plaintiff, In Pro Per"
 SIG_LINE = "___________________________________"
 
@@ -110,8 +110,8 @@ SIG_LINE = "___________________________________"
 # paragraph is replaced by the number of the paragraph labelled `name`.
 # ---------------------------------------------------------------------------
 CONTENT: list[tuple] = [
-    ("PARA", "Plaintiff BRENDAN NGEHSI NEWANFORBI, also known as Brendan Ngwa Nforbi "
-             "and Brendan Ngwanforbi (\"Plaintiff\"), alleges as follows:"),
+    ("PARA", "Plaintiff BRENDAN NGWA NFORBI, also known as Brendan Ngwanforbi "
+             "(\"Plaintiff\"), alleges as follows:"),
 
     # ------------------------------------------------------------------ I
     ("HEADER", "I.\nINTRODUCTION"),
@@ -161,9 +161,8 @@ CONTENT: list[tuple] = [
     ("PARA",
      "Plaintiff is an individual residing in Stockton, San Joaquin County, "
      "California. Hertz's documents identify him as Brendan Ngwa Nforbi (the offer "
-     "letter and onboarding correspondence) and as Brendan Ngwanforbi, with the other "
-     "last name Newanforbi (the background report and the November 2 notice). Each "
-     "name refers to Plaintiff."),
+     "letter and onboarding correspondence) and as Brendan Ngwanforbi (the background "
+     "report and the November 2 notice). Each name refers to Plaintiff."),
     ("PARA",
      "Defendant The Hertz Corporation (\"Hertz\") is, on information and belief, a "
      "Delaware corporation with its principal place of business at 8501 Williams "
@@ -353,11 +352,10 @@ CONTENT: list[tuple] = [
      "The subrequest for \"Brendan Ngwa\" returned \"Not in Registry.\" HireRight "
      "graded it \"Meets Company Standards.\"", "meets"),
     ("PARA",
-     "The two subrequests for \"Brendan Ngehsi Newanforbi\" returned \"In Registry\" on "
+     "The two subrequests run on the other forms of Plaintiff's name returned \"In Registry\" on "
      "October 30, 2026, at 11:25 a.m. and 12:48 p.m. Pacific time. HireRight graded "
-     "each \"Client Review Required.\" The returned entries listed Plaintiff's aliases "
-     "as \"NEWANFORBI, BRENDAN / NGWANFORBI, BRENDAN NGEHSI / NEWANFORBI, BRENDAN N / "
-     "NGWA-NFORBI, BRENDAN.\"", "crr"),
+     "each \"Client Review Required.\" The returned entries listed aliases for "
+     "Plaintiff, including \"NGWA-NFORBI, BRENDAN.\"", "crr"),
     ("PARA",
      "HireRight's researchers entered the following notes on those entries on October "
      "30, 2026: \"APPLICANT IS LISTED ON THE SEX OFFENDER REGISTRY IN THE STATE OF "
@@ -757,7 +755,7 @@ def _verification(d: PleadingPaper, exec_date: str, city: str, execute: bool) ->
     d.start_new_page()
     d.write_line("VERIFICATION", bold=True, center=True)
     d.blank_line()
-    d.write_wrapped("I, BRENDAN NGEHSI NEWANFORBI, declare:", first_indent=36)
+    d.write_wrapped("I, BRENDAN NGWA NFORBI, declare:", first_indent=36)
     d.blank_line()
     d.write_wrapped(
         "I am the Plaintiff in this action. I have read the foregoing VERIFIED "
@@ -791,7 +789,7 @@ def build(out: Path, exec_date: str, city: str, execute: bool, style: str = "cla
     out.parent.mkdir(parents=True, exist_ok=True)
     if style == "minimal":
         d = PleadingPaper(str(out), doc_title_footer="VERIFIED COMPLAINT", style="minimal",
-                          footer_right="NEWANFORBI v. THE HERTZ CORPORATION")
+                          footer_right="NGWA NFORBI v. THE HERTZ CORPORATION")
     else:
         d = PleadingPaper(str(out), doc_title_footer=FOOTER)
     c = d.c
