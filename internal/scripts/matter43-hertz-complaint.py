@@ -37,6 +37,13 @@ sys.path.insert(0, str(SCRIPT_DIR))
 
 from pleading_paper import CONTENT_LEFT, COURT_LINE1, PleadingPaper  # noqa: E402
 from signature_stamp import SIGNATURE_NATIVE_PX, SIGNATURE_PATH  # noqa: E402
+from signature_stamp import _png_size, _resolve_stamp_path  # noqa: E402
+
+# Plaintiff's November 2026 signature, stretched 25% east-west. Used only for
+# this complaint; the portfolio canonical in signature_stamp is unchanged.
+SIGNATURE_PATH = _resolve_stamp_path(str(
+    SCRIPT_DIR.parent / "assets/signature/brendan-ngwa-nforbi-signature-2026-11-wide.png"))
+SIGNATURE_NATIVE_PX = _png_size(SIGNATURE_PATH)
 
 ROOT = SCRIPT_DIR.parents[1]
 OUT_DIR = ROOT / "internal/public/documents/matter-43"
@@ -745,7 +752,8 @@ def _signature_block(d: PleadingPaper, exec_date: str, execute: bool) -> None:
     d.blank_line()
     d.blank_line()
     if execute:
-        d.draw_signature_image(SIGNATURE_PATH, SIGNATURE_NATIVE_PX[0], SIGNATURE_NATIVE_PX[1], SIG_LINE)
+        d.draw_signature_image(SIGNATURE_PATH, SIGNATURE_NATIVE_PX[0], SIGNATURE_NATIVE_PX[1], SIG_LINE,
+                               width=225, height_scale=1.0)
     d.write_line(SIG_LINE, right=True, right_margin_offset=20)
     d.write_line(SIGNOFF_NAME, right=True, right_margin_offset=20)
     d.write_line(SIGNOFF_ROLE, right=True, right_margin_offset=20)
@@ -772,7 +780,8 @@ def _verification(d: PleadingPaper, exec_date: str, city: str, execute: bool) ->
     d.blank_line()
     d.blank_line()
     if execute:
-        d.draw_signature_image(SIGNATURE_PATH, SIGNATURE_NATIVE_PX[0], SIGNATURE_NATIVE_PX[1], SIG_LINE)
+        d.draw_signature_image(SIGNATURE_PATH, SIGNATURE_NATIVE_PX[0], SIGNATURE_NATIVE_PX[1], SIG_LINE,
+                               width=225, height_scale=1.0)
     d.write_line(SIG_LINE, right=True, right_margin_offset=20)
     d.write_line(SIGNOFF_NAME, right=True, right_margin_offset=20)
 
