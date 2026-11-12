@@ -1,4 +1,6 @@
-# Matter 44 — Federal complaint, N.D. Cal. San Jose (operative review draft — not yet filed)
+# Matter 44 — Federal complaint, N.D. Cal. San Jose (annotated working draft — not yet filed)
+
+> **Operative clean text:** `M44_COMPLAINT_DRAFT.html` / `M44_Complaint_Draft_2026-11-12.pdf` (pleading paper; paragraphs renumbered 1–44; Westlaw citations added Nov. 12). Where the two differ, the pleading-format draft controls. This file keeps the drafting notes, gates, and alternative paragraphs.
 
 **Forum decision (Plaintiff, Nov. 12, 2026): federal court.** This is the operative draft. The state draft is kept only as a fallback if the federal claims are dismissed for lack of standing (see memo § 2.6).
 
