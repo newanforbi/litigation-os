@@ -1100,12 +1100,12 @@
       "proceeding": "federal_civil",
       "phase": "pleadings",
       "next_clock": {
-        "id": "33-mcmahon-26f-followup",
-        "date": "2026-11-11",
+        "id": "33-deadline-2",
+        "date": "2026-11-18",
         "kind": "deadline",
         "status": "open",
-        "title": "FOLLOW UP — William McMahon (DOJ, cc Huihong Su) has not replied to Plaintiff's Oct. 28, 2026 request to schedule the Rule 26(f) conference and ADR discussion (Gmail thread has one message as of Nov. 10). Propose times Nov. 12–17 so the conference and ADR certification are done by Nov. 18. If no response, document both requests in the ADR certification and the Dec. 2 CMS — Nforbi v. Candelaria et al. (3:26-cv-08272-RFL).",
-        "source_dkt": null
+        "title": "Deadline to file ADR Certification (ADR L.R. 3) and to meet and confer regarding initial disclosures, early settlement, ADR process selection, and a discovery plan (Rule 26(f)) — Nforbi v. Candelaria et al. (3:26-cv-08272-RFL), Nov. 18, 2026 (21 days before the Dec. 9 CMC; Dkt. 4 / Dkt. 23).",
+        "source_dkt": 4
       },
       "overdue": false,
       "last_updated": "2026-10-28",
