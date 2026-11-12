@@ -3,7 +3,7 @@
 **Matter:** Brendan Ngwa Nforbi (a.k.a. Brendan Ngehsi Newanforbi) v. Marriott International, Inc., Hotel Management Group California, Inc., and Kanwell Lodging Group, Inc. (working caption)
 **Property:** Delta Hotels by Marriott Santa Clara–Silicon Valley, 2151 Laurelwood Rd., Santa Clara, CA 95054
 **Status:** pre-filing. Nothing filed, served, or sent. Prepared November 12, 2026 from the seven-volume handoff packet (Vols. 01–07), the repo's verified § 290.46 memo (`internal/docs/PC_29046_EMPLOYMENT_CASES.md`), and a targeted Gmail check.
-**Companion drafts:** `M44_FEDERAL_COMPLAINT_CONDITIONAL.md`, `M44_STATE_COMPLAINT_SANTA_CLARA.md`, `M44_PRE_SUIT_REQUESTS.md` (all in this folder).
+**Companion drafts:** `M44_FEDERAL_COMPLAINT.md`, `M44_STATE_COMPLAINT_SANTA_CLARA.md`, `M44_PRE_SUIT_REQUESTS.md` (all in this folder).
 
 Citation key: `V02 p.1` = Volume 02, PDF page 1. `T-08` = text exhibit 8 (Vol. 04). `S-07` = roster photo 7 (Vol. 03). `E-05` = email 5 (Vol. 05). `Draft ¶20` = paragraph 20 of the Vol. 02 review complaint.
 Labels: **DOCUMENTED** (visible in an exhibit) · **FIRSTHAND** (Plaintiff's recollection) · **INFERENCE** · **DEFENSE** (fact or argument helping defendants) · **UNKNOWN**.
@@ -14,7 +14,11 @@ Labels: **DOCUMENTED** (visible in an exhibit) · **FIRSTHAND** (Plaintiff's rec
 
 **Bottom line: do not file the § 290.46 complaint now, in either court.** The current draft cannot answer the question that decides the case: where Howell's information came from. On this record the Oct. 29 remark (*"He released you didn't he?"*) is fully explained by the visible ankle monitor, without any registry lookup. Meanwhile the decisionmaker (Barros) has three written, contemporaneous attendance reasons (T-06, T-07, T-08). *Lerma* (source attribution decided at the pleading stage) and *Donaleski* (an independent lawful source and an independent decisionmaker defeat causation) are built for this defense. A complaint filed now would most likely be dismissed and would teach the defendants the theory.
 
-**There is no supported federal route today.** No federal claim is pleaded. Diversity cannot be alleged without citizenship facts, and the provable amount in controversy is far below $75,000 (§ 2). The federal draft is kept only as a conditional fallback.
+**Forum: federal court (N.D. Cal., San Jose). This is Plaintiff's decision, recorded Nov. 12, 2026.** The Vol. 02 draft pleaded no federal claim, and diversity is unsupported (no citizenship facts; amount in controversy about $38,000; § 2). Jurisdiction therefore rests on **§ 1331 through the FCRA**:
+- Count One: § 1681b(b)(2)(A), the disclosure gap.
+- Count Two: § 1681b(b)(3)(A), adverse action taken without pre-adverse notice, if the report drove the shift cut.
+
+ICRAA and § 290.46 ride on § 1367(a). The operative draft is `M44_FEDERAL_COMPLAINT.md`. Its three filing gates and the main federal risk (Article III standing) are in § 2.6.
 
 **The packet contains a claim the draft missed, and it does not depend on proving registry provenance.** The "Universal Background Check Packet 2026.pdf" that HR sent on Sept. 22 (E-05; blank copy at V05 pp. 26–28) has three pages: a SHRM-template policy, an "Acknowledgment and Authorization," and a data-entry form. The authorization says Plaintiff received *"separate documents entitled DISCLOSURE REGARDING BACKGROUND INVESTIGATION, DISCLOSURE FOR INVESTIGATIVE CONSUMER REPORT…"* (V05 p.27). Those documents are not in the packet. Gmail has no message at all from Universal Background Screening, although other screening vendors' messages from the same period do appear (searched Nov. 12, 2026). If no standalone disclosure was ever provided before the report was obtained, that is a document-provable violation of ICRAA (Civ. Code § 1786.16) and FCRA (15 U.S.C. § 1681b(b)(2)(A)). ICRAA carries actual damages or $10,000, whichever is greater (Civ. Code § 1786.50(a)). *Parsonage* (2026) holds that a form violation alone gives standing in California state court. This is the **most valuable provable theory per unit of proof.**
 
@@ -22,9 +26,9 @@ Labels: **DOCUMENTED** (visible in an exhibit) · **FIRSTHAND** (Plaintiff's rec
 
 | Rank | Theory | Viability now | Narrowest fact that unlocks it |
 |---|---|---|---|
-| 1 | **ICRAA disclosure / authorization** (Civ. Code §§ 1786.16, 1786.50) against the entity that procured the report | **Strong on documents, if the gap is real.** State court only. | Did Plaintiff receive *any* standalone disclosure (paper, portal, or QR onboarding) before the report? Did the employer actually procure a report? (The UBS file disclosure answers the second.) |
+| 1 | **ICRAA disclosure / authorization** (Civ. Code §§ 1786.16, 1786.50) against the entity that procured the report | **Strong on documents, if the gap is real.** In federal court (Plaintiff's chosen forum) it needs the same Article III injury as FCRA Count One; *Parsonage* standing applies only in state court. | Did Plaintiff receive *any* standalone disclosure (paper, portal, or QR onboarding) before the report? Did the employer actually procure a report? (The UBS file disclosure answers the second.) |
 | 2 | **Pen. Code § 290.46(j)(2)(E)** employment use, against the actual employer (+ Howell as Doe) | **Not yet plausible.** Provenance and use are both INFERENCE. | Any document or admission tying Howell's or Barros's knowledge to a Megan's Law website result. For example, the UBS report showing a California-registry-sourced hit that the hotel received, or a Howell or Barros statement referencing the website. Also confirm Plaintiff's profile is **publicly posted** on the website at all. |
-| 3 | **FCRA § 1681b(b)(2)(A)** | The only federal-question hook. Weak on Article III standing for a bare form violation after *TransUnion*. | Same disclosure fact, plus a concrete, truthful injury beyond the form defect. |
+| 3 | **FCRA § 1681b(b)(2)(A)** and **§ 1681b(b)(3)(A)** | **The federal-question anchor (forum chosen).** (b)(2): document-provable; standing is the weak point. (b)(3): concrete lost-wage injury, but needs the report-to-schedule link. | Same disclosure fact, plus a concrete, truthful injury beyond the form defect. |
 | 4 | **Fair Chance Act** (Gov. Code § 12952) | Speculative. The hiring flow (offer, then check) looks compliant on its face. | Whether Indeed or the application asked about convictions *before* the Sept. 22 offer. CRD exhaustion is required. |
 | 5 | Paid sick leave retaliation (Lab. Code §§ 246, 246.5) | **Not viable.** The offer letter states sick leave is usable after day 90 (V05 p.24), and Barros repeated it (T-08). Day 90 falls about Dec. 23–30, 2026. | None. |
 | 6 | Harassment, IIED, or negligence over Howell's berating | **Not viable.** No protected characteristic is tied to the berating, and workers' comp exclusivity applies (*Miklosy*). | None. |
@@ -97,6 +101,23 @@ Advantages of state court:
 - No removal hook, **provided FCRA is not pleaded.** An FCRA count makes the case removable under 28 U.S.C. §§ 1331, 1441(a).
 
 Small claims (≤ $12,500, CCP § 116.221) is fast but has no discovery and caps recovery below the ICRAA-plus-penalty range. It is not recommended.
+
+*(Superseded by Plaintiff's forum decision; see § 2.6. Retained as the fallback analysis.)*
+
+### 2.6 Forum decision: federal. How to make it hold.
+Plaintiff has chosen N.D. Cal. The draft is built to survive Rule 12(b)(1) and 12(b)(6) on that footing.
+
+1. **Anchor: § 1331 through two FCRA counts, not one.**
+   - Count One ((b)(2)(A) disclosure) is document-provable, but its Article III standing is the weak point after *TransUnion*.
+   - Count Two ((b)(3)(A)) uses the statutory definition of "adverse action," which reaches "any other decision for employment purposes that adversely affects any current … employee" (§ 1681a(k)(1)(B)(ii)). That covers a shift reduction. Its injury is lost wages, which is concrete by any measure. It requires the same source fact as § 290.46 (Alternative 24-B: the UBS report carried registry data and the Hotel acted on it).
+   - **Pleading both gives the federal hook two independent legs.**
+2. **Article III (gate 2).** Plead ¶ 13's privacy-intrusion injury, which *TransUnion* lists among traditional harms, plus any true downstream consequence. This is strongest after the § 1681g file shows *what* was searched. Pull post-*TransUnion* N.D. Cal. (b)(2) standing decisions before filing; they were not retrieved this session.
+3. **Supplemental claims.** ICRAA and § 290.46 share the procurement-and-use nucleus with the FCRA counts (§ 1367(a)). Expect a § 1367(c)(1) argument that § 290.46 is novel. The answer is that it is a routine statutory-tort application with no unsettled question of constitutional or comparable magnitude [argument, not authority].
+4. **No diversity allegation.** Adding unsupported § 1332 facts would invite a Rule 12(b)(1) motion and Rule 11 exposure. Add it by amendment only on confirmed citizenship facts and a good-faith amount over $75,000.
+5. **Timing.** The FCRA and ICRAA claims are not time-pressured (Sept. 22, 2028). The binding date is **Oct. 13, 2027** for § 290.46 (§ 8). If Count Four is not ready, file Counts One and Three first and add Counts Two and Four by amendment. Rule 15(c)(1)(B) relation back covers same-conduct amendments.
+6. **Dismissal contingency.** If the FCRA counts are dismissed for lack of standing, § 1367(d) tolls the state claims while they are pending and for 30 days after dismissal. *Artis v. District of Columbia*, 583 U.S. 71 (2018). Whether § 1367(d) applies when no federal claim ever had standing is unsettled, so **refile in Santa Clara Superior Court immediately** after any such dismissal (fallback: `M44_STATE_COMPLAINT_SANTA_CLARA.md`).
+7. **Federal-forum advantage to use.** N.D. Cal.'s employment initial-discovery protocols (General Order 71 [verify current status]) would force early production of the personnel file and decision documents. That is the fastest lawful route to the source fact.
+8. **IFP screening.** If Plaintiff proceeds in forma pauperis, 28 U.S.C. § 1915(e)(2) screening for failure to state a claim happens before service. Gates 1–3 must be met before filing.
 
 ---
 

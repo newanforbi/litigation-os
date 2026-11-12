@@ -1,6 +1,8 @@
-# Matter 44 — Strongest state-law formulation (review draft — do not file)
+# Matter 44 — State-law FALLBACK formulation (review draft — do not file)
 
-**Recommended forum:** Superior Court of California, County of Santa Clara (unlimited civil if the good-faith demand exceeds $35,000; CCP § 85).
+**Status: fallback only.** Plaintiff chose federal court on Nov. 12, 2026 (operative draft: `M44_FEDERAL_COMPLAINT.md`). Use this draft only if the federal claims are dismissed. Refile promptly; see review memo § 2.6(6) on § 1367(d) tolling.
+
+**Forum if used:** Superior Court of California, County of Santa Clara (unlimited civil if the good-faith demand exceeds $35,000; CCP § 85).
 
 **Format:** Before filing, convert to 28-line pleading paper (Cal. Rules of Court, rules 2.100–2.119). Attach the Civil Case Cover Sheet (Judicial Council form CM-010) and the Santa Clara local civil cover requirements. File with the summons (SUM-100). Venue: CCP § 395.5 (corporate defendant; obligation incurred and breach in Santa Clara County).
 
@@ -66,7 +68,7 @@ through 20, inclusive,                     DEMAND FOR JURY TRIAL
 
 26. Plaintiff incorporates ¶¶ 1–20.
 
-27–31. **[Insert federal draft ¶¶ 34–37, renumbered.]** Those paragraphs cover: the statutory prohibition; Howell's (Doe 1's) use within the scope of employment, with Employer's vicarious liability (*Lisa M. v. Henry Mayo Newhall Memorial Hospital* (1995) 12 Cal.4th 291); the inapplicability of the "person at risk" and "other provision of law" exceptions; and lost shifts of $510–$576 through November 14, 2026, accruing according to proof.
+27–31. **[Insert federal draft ¶¶ 41–44, renumbered.]** Those paragraphs cover: the statutory prohibition; Howell's (Doe 1's) use within the scope of employment, with Employer's vicarious liability (*Lisa M. v. Henry Mayo Newhall Memorial Hospital* (1995) 12 Cal.4th 291); the inapplicability of the "person at risk" and "other provision of law" exceptions; and lost shifts of $510–$576 through November 14, 2026, accruing according to proof.
 
 ### Prayer
 
