@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Matter 44 Westlaw Guide</title>
+<style>
+@page { size: Letter; margin: 0.65in 0.7in 0.7in 0.7in; }
+:root { --ink:#1b1f24; --muted:#5a636e; --rule:#cfd6de; --accent:#1f4e79; --soft:#eef3f8; --warn:#8a3b00; --warnbg:#fff4e8; }
+body { font-family: "Georgia", "Times New Roman", serif; color:var(--ink); font-size:10.4pt; line-height:1.38; background:#fff; margin:0; }
+h1 { font-family: Helvetica, Arial, sans-serif; font-size:19pt; margin:0 0 2pt; color:var(--accent); }
+h2 { font-family: Helvetica, Arial, sans-serif; font-size:12.5pt; color:var(--accent); border-bottom:1.5px solid var(--accent); padding-bottom:2pt; margin:16pt 0 6pt; page-break-after:avoid; }
+h3 { font-family: Helvetica, Arial, sans-serif; font-size:10.8pt; margin:10pt 0 3pt; page-break-after:avoid; }
+.sub { font-family: Helvetica, Arial, sans-serif; color:var(--muted); font-size:9pt; margin-bottom:10pt; }
+.box { background:var(--soft); border-left:4px solid var(--accent); padding:7pt 10pt; margin:8pt 0; page-break-inside:avoid; }
+.warn { background:var(--warnbg); border-left:4px solid var(--warn); padding:7pt 10pt; margin:8pt 0; page-break-inside:avoid; }
+code, .q { font-family: "Courier New", monospace; font-size:8.9pt; }
+.q { display:block; background:#f6f7f9; border:1px solid var(--rule); padding:4pt 6pt; margin:3pt 0 5pt; white-space:pre-wrap; word-break:break-word; page-break-inside:avoid; }
+table { width:100%; border-collapse:collapse; margin:5pt 0 8pt; font-size:9pt; page-break-inside:auto; }
+th, td { border:1px solid var(--rule); padding:3.5pt 5pt; vertical-align:top; text-align:left; }
+th { background:var(--soft); font-family: Helvetica, Arial, sans-serif; font-size:8.6pt; }
+tr { page-break-inside:avoid; }
+ul, ol { margin:3pt 0 6pt 16pt; padding:0; } li { margin:1.5pt 0; }
+.tag { font-family: Helvetica, Arial, sans-serif; font-size:7.8pt; font-weight:bold; padding:0 4pt; border-radius:3px; white-space:nowrap; }
+.must { background:#f8d7d3; color:#7a1a10; } .should { background:#fdebc8; color:#6b4500; } .nice { background:#dcebdc; color:#24512a; }
+.small { font-size:8.6pt; color:var(--muted); }
+.pb { page-break-before:always; }
+.footer { margin-top:14pt; font-size:8.2pt; color:var(--muted); border-top:1px solid var(--rule); padding-top:4pt; }
+</style></head><body>
+
+<h1>Westlaw Research Guide — Matter 44</h1>
+<div class="sub">Ngwa Nforbi v. [Employer] (Delta Hotels Santa Clara) · N.D. Cal., San Jose · Private work product · Prepared Nov. 12, 2026 · For use with Westlaw Patron Access for Pro Se (San Diego Law Library)</div>
+
+<div class="box"><b>What this research has to settle.</b> The federal complaint stands or falls on <b>FCRA standing</b>. If the FCRA counts survive, the state counts (ICRAA, § 290.46) come along through supplemental jurisdiction; if they fail, the whole case leaves federal court. So the first priority is: <i>after</i> <i>TransUnion</i> (June 25, 2021), do Ninth Circuit and N.D. Cal. courts find Article III standing for a § 1681b(b)(2)(A) claim when the employer <b>never gave any disclosure at all</b>? Second priority: does the ICRAA claim work in federal court? Everything else comes after those two.</div>
+
+<div class="warn"><b>Access limits (from the repo's Patron Access notes):</b> 2 seats shared by all pro se users; <b>20 downloads/emails per session</b>, 150 per day for both seats combined; always click <b>Sign Off</b> to free the seat. Enter only through the library's "Westlaw Remote for Pro Se" link, not westlaw.com. <b>Reading, KeyCite and search results do not use up downloads</b>. Download only the documents listed as "pull" below; for everything else, write down the citation, pin page, quote and KeyCite flag.</div>
+
+<h2>1. Session plan (about 3 sessions, under 20 downloads each)</h2>
+<table>
+<tr><th style="width:13%">Session</th><th style="width:47%">Questions</th><th>Download budget</th></tr>
+<tr><td><b>A</b> (first)</td><td>Q1 FCRA standing after <i>TransUnion</i> · Q2 a disclosure that was never given · Q3 authorization defects · Q5 willfulness</td><td>≤ 12 pulls + KeyCite every known case (no download cost)</td></tr>
+<tr><td><b>B</b></td><td>Q4 (b)(3) adverse action / shift reduction · Q6 ICRAA in federal court · Q7 the signed acknowledgment</td><td>≤ 12 pulls</td></tr>
+<tr><td><b>C</b></td><td>Q8 § 1367(c)/(d) · Q9 § 290.46 updates, limitations, "user" · Q10 statutes' current text and Notes of Decisions</td><td>≤ 15 pulls (statute pages are worth downloading)</td></tr>
+</table>
+
+<h2>2. Westlaw syntax you'll use</h2>
+<table>
+<tr><th style="width:22%">Connector</th><th>Meaning</th><th style="width:22%">Connector</th><th>Meaning</th></tr>
+<tr><td><code>&amp;</code></td><td>AND</td><td><code>/s</code> · <code>/p</code></td><td>same sentence · same paragraph</td></tr>
+<tr><td>space</td><td>OR</td><td><code>/n</code> (e.g. <code>/5</code>)</td><td>within n words</td></tr>
+<tr><td><code>"..."</code></td><td>exact phrase</td><td><code>!</code> · <code>*</code></td><td>root expander · one-letter wildcard</td></tr>
+<tr><td><code>%</code></td><td>BUT NOT</td><td><code>DA(aft 06/24/2021)</code></td><td>decided after <i>TransUnion</i></td></tr>
+</table>
+<p class="small">Type <code>adv:</code> before a query to force terms-and-connectors mode. Pick the jurisdiction in the selector. Use: <b>Ninth Circuit</b> plus <b>N.D. Cal.</b> (binding/local), then add <b>C.D./E.D./S.D. Cal.</b> (persuasive), then <b>California state</b> for ICRAA and § 290.46. When results are too many, re-search inside them with "Search within results".</p>
+
+<h2>3. Questions, search strings, and what to look for</h2>
+
+<h3>Q1. Article III standing for § 1681b(b)(2)(A) after <i>TransUnion</i> <span class="tag must">MUST</span> <span class="small">→ complaint ¶ 13, Counts One and Three</span></h3>
+<span class="q">adv: "1681b(b)(2)" /p (standing "article III" "concrete injury" "concrete harm") /p TransUnion &amp; DA(aft 06/24/2021)</span>
+<span class="q">adv: "1681b(b)(2)" /p (privacy intru! seclusion) /p (standing concrete) &amp; DA(aft 06/24/2021)</span>
+<span class="q">adv: "stand-alone" "standalone" "consist! solely" /s disclosure /p (standing "article III") &amp; DA(aft 06/24/2021)</span>
+<p><b>What to look for:</b></p>
+<ul>
+<li>Courts that accepted <b>privacy intrusion</b> (a report obtained without informed consent) as a harm close to the traditional common-law kind. Compare those courts that called it a <b>bare procedural / informational</b> violation. Write down <b>what facts the plaintiff alleged</b> in each.</li>
+<li>Whether the Ninth Circuit has revisited <i>Syed v. M-I, LLC</i>, 853 F.3d 492 (9th Cir. 2017) after <i>TransUnion</i>. Run KeyCite on <i>Syed</i> and filter Citing References: Cases, Ninth Circuit, after June 2021, and the "standing" headnote.</li>
+<li>Cases where the plaintiff alleged <b>"I would not have signed"</b> or <b>"I did not understand what I was authorizing"</b>, and whether that was enough.</li>
+<li><b>Dismissed versus remanded</b>: in removed cases, a lack of standing leads to remand to state court. In cases filed in federal court, it leads to dismissal without prejudice. Mark which outcome each case had.</li>
+</ul>
+
+<h3>Q2. A disclosure that was <i>never given at all</i> (not merely cluttered) <span class="tag must">MUST</span> <span class="small">→ ¶¶ 9–10, 28</span></h3>
+<span class="q">adv: "1681b(b)(2)" /p (never no fail! omit!) /s (provid! receiv! gave) /s disclosure</span>
+<span class="q">adv: "1681b(b)(2)" /p (acknowledg! certif!) /s receiv! /s disclosure</span>
+<p><b>Why it matters:</b> most reported cases involve <b>extraneous language in the disclosure</b> (e.g., <i>Gilberg v. California Check Cashing Stores</i>, 913 F.3d 1169 (9th Cir. 2019)). Our facts are different: the disclosure is <b>missing entirely</b>, and the form says it was "received." Look for cases where no disclosure was given, and see whether courts treat that as a clearer violation (helpful on willfulness) and a more concrete harm (helpful on standing).</p>
+
+<h3>Q3. Defects in the authorization <span class="tag should">SHOULD</span> <span class="small">→ ¶ 29</span></h3>
+<span class="q">adv: "1681b(b)(2)(A)(ii)" authoriz! /p (release waiver "without reservation" acknowledg!)</span>
+<ul><li>Can the authorization be on the same page as an acknowledgment and a third-party release? What did <i>Syed</i> hold about liability waivers? Is the authorization invalid when it rests on disclosures that were never given? If no case supports it, drop ¶ 29.</li></ul>
+
+<h3>Q4. § 1681b(b)(3): cutting a current employee's shifts as "adverse action" <span class="tag must">MUST</span> <span class="small">→ Count Two</span></h3>
+<span class="q">adv: "1681b(b)(3)" /p ("adverse action" "1681a(k)") /p (hours shift! schedul! reduc! demot!)</span>
+<span class="q">adv: "1681a(k)(1)(B)(ii)" /p (current existing) /3 employee</span>
+<span class="q">adv: "1681b(b)(3)" /p (standing concrete) /p ("opportunity to" dispute respond explain) &amp; DA(aft 06/24/2021)</span>
+<ul>
+<li>Is a reduction in hours (not a firing) an "adverse action"? Look for cases involving current employees, not just applicants.</li>
+<li>What counts as <b>"based in whole or in part"</b> on the report, and how much detail plaintiffs had to plead about the report-to-decision link.</li>
+<li><i>Walker v. Fred Meyer, Inc.</i>, 953 F.3d 1082 (9th Cir. 2020): read its (b)(3) holding carefully (KeyCite it). <b>Write down exactly what it says about whether (b)(3) requires an actual adverse action.</b> [My characterization of <i>Walker</i> has not been verified.]</li>
+</ul>
+
+<h3>Q5. Willfulness (needed for statutory damages) <span class="tag should">SHOULD</span> <span class="small">→ ¶ 30</span></h3>
+<span class="q">adv: "1681b(b)(2)" /p (willful! reckless!) /p Safeco /p (template form vendor "objectively unreasonable")</span>
+<ul><li>Did <i>Syed</i> hold that the standalone requirement is "unambiguous," which would make a violation reckless? Can an employer avoid willfulness by relying on a vendor's or SHRM's form? (Our packet's policy page is a SHRM template, V05 p.26.)</li></ul>
+
+<h3>Q6. ICRAA (Civ. Code § 1786.16) in federal court <span class="tag must">MUST</span> <span class="small">→ Count Three</span></h3>
+<span class="q">adv: "1786.16" /p (disclosure "investigative consumer report") /p (employ! employer)</span>
+<span class="q">adv: ("1786.16" ICRAA "investigative consumer reporting agencies act") /p (standing "article III") &amp; DA(aft 06/24/2021)</span>
+<span class="q">adv: ICRAA /p (preempt! "1681t") </span>
+<span class="q">adv: "1786.50" /p ("ten thousand" "$10,000") /p (per violation each greater)</span>
+<ul>
+<li><b>Federal standing for ICRAA:</b> <i>Parsonage</i> applies only in state court. Find federal cases deciding whether an ICRAA form violation alone is a concrete injury.</li>
+<li>Is the $10,000 owed <b>per violation or per plaintiff</b>? Do the disclosure defect and the missing check-box count as separate violations?</li>
+<li>Do courts treat a <b>criminal background check</b> as an "investigative consumer report" (<i>Connor v. First Student</i> (2018) 5 Cal.5th 1026)? Is there any overlap or "election" defense between ICRAA and CCRAA?</li>
+<li>Can a <b>user</b> (the employer) be liable under § 1786.50, or only the agency?</li>
+<li><b>Parsonage v. Wal-Mart Assocs.</b>, 118 Cal.App.5th 399 (2026): <b>KeyCite it first</b>. Has the California Supreme Court granted review or depublished it? (Cal. Rules of Court 8.1115(e).) Also check the conflicting <i>Limon v. Circle K Stores Inc.</i> (2022) 84 Cal.App.5th 671 [verify citation].</li>
+</ul>
+
+<h3>Q7. The signed acknowledgment of "receipt" <span class="tag should">SHOULD</span></h3>
+<span class="q">adv: (FCRA "1681b" ICRAA) /p (acknowledg! certif!) /s (receiv! "read and understand") /p (estop! waiv! bar!)</span>
+<ul><li>Will the employer argue the signature estops the plaintiff or waives the claim? Look for any case holding that FCRA rights <b>cannot be waived</b> by a boilerplate acknowledgment.</li></ul>
+
+<h3>Q8. Supplemental jurisdiction and tolling <span class="tag should">SHOULD</span> <span class="small">→ memo § 2.6</span></h3>
+<span class="q">adv: "1367(d)" /p (toll!) /p (standing "lack of jurisdiction" "subject matter") /p (federal claim) </span>
+<span class="q">adv: "1367(c)" /p ("290.46" "novel" "complex issue of state law") /p (FCRA "1681")</span>
+<ul><li>Does <b>§ 1367(d)</b> stop the clock when the federal claim is dismissed <b>for lack of standing</b>, as opposed to when the court declines supplemental jurisdiction? (Start from <i>Artis v. District of Columbia</i>, 583 U.S. 71 (2018), Citing References.) This decides how fast we must refile in state court if federal court dismisses.</li></ul>
+
+<h3>Q9. Penal Code § 290.46: updates since September 2026 <span class="tag should">SHOULD</span></h3>
+<span class="q">adv: "290.46" /p (employ! "person at risk" user)</span>
+<span class="q">adv: "290.46" /p ("340(a)" "338(a)" limitation! penalty)</span>
+<span class="q">adv: ("statute for a penalty" "340(a)") /p ("civil penalty" "exemplary") /p (individual aggrieved) &amp; DA(aft 01/01/2015)</span>
+<ul>
+<li>Any new § 290.46 employment ruling, especially on who counts as a "user" (does it reach a non-decisionmaking coworker or trainer?) and on "person at risk." Compare the cases already logged: <i>Mendoza</i>, <i>Donaleski</i>, <i>Pastrana</i>, <i>Lerma</i>.</li>
+<li>Does the <b>one-year limit in CCP § 340(a)</b> apply to the § 290.46 civil-penalty part? If so, the binding filing date is Oct. 13, 2027.</li>
+<li>Can an employer be held <b>vicariously liable</b> under a statute that imposes liability on "the user"?</li>
+</ul>
+
+<h3>Q10. Statutes: current text and Notes of Decisions <span class="tag must">MUST</span> <span class="small">(the code websites were blocked in my session, so these are unverified)</span></h3>
+<table>
+<tr><th style="width:38%">Pull and confirm</th><th>Check</th></tr>
+<tr><td>15 U.S.C.A. §§ 1681a(k), 1681b(b)(2)–(3), 1681g(a), 1681n, 1681o, 1681p, 1681t</td><td>Current text; 2024–2026 amendments; Notes of Decisions under "standing" and "disclosure"</td></tr>
+<tr><td>Cal. Civ. Code §§ 1786.2, 1786.16, 1786.20, 1786.22, 1786.40, 1786.50, 1786.52</td><td><b>Exact subdivision numbers</b> I cited: 1786.16(a)(2)(B), (b)(1); 1786.50(a)–(b); 1786.52 limitations</td></tr>
+<tr><td>Cal. Penal Code § 290.46</td><td>Current (j)(1)–(4); whether "not exceeding $25,000" limits exemplary damages or only the civil penalty</td></tr>
+<tr><td>28 U.S.C.A. § 1367(c)–(d); Cal. CCP §§ 338(a), 340(a); Lab. Code §§ 246 (90-day rule paragraph), 98.6, 226, 1198.5</td><td>Text and paragraph numbers</td></tr>
+</table>
+
+<h2 class="pb">4. KeyCite checklist: authorities already in the drafts</h2>
+<p class="small">For each case, record: <b>flag</b> (red / yellow / blue-striped / none) · <b>negative history</b> · <b>pin page and quote</b>, checked against the opinion · <b>whether it still holds</b>. "Pull" = worth one download.</p>
+<table>
+<tr><th style="width:42%">Authority</th><th style="width:27%">What we use it for</th><th>Specific check</th></tr>
+<tr><td><i>TransUnion LLC v. Ramirez</i>, 594 U.S. 413 (2021) <b>Pull</b></td><td>Concrete harm; privacy-type harms</td><td>Confirm pins 425–31 and the formatting/informational-injury discussion (≈ 440–42)</td></tr>
+<tr><td><i>Spokeo, Inc. v. Robins</i>, 578 U.S. 330 (2016)</td><td>Procedural violation vs. concrete harm</td><td>Flag only</td></tr>
+<tr><td><i>Syed v. M-I, LLC</i>, 853 F.3d 492 (9th Cir. 2017) <b>Pull</b></td><td>Standalone rule; willfulness; standing</td><td>Has the standing part been questioned after <i>TransUnion</i>? Pins</td></tr>
+<tr><td><i>Gilberg v. Cal. Check Cashing Stores, LLC</i>, 913 F.3d 1169 (9th Cir. 2019)</td><td>Standalone rule; extraneous content</td><td>Pins; standing discussion</td></tr>
+<tr><td><i>Walker v. Fred Meyer, Inc.</i>, 953 F.3d 1082 (9th Cir. 2020) <b>Pull</b></td><td>(b)(2) explanatory text; (b)(3)</td><td>Exactly what it holds about (b)(3)</td></tr>
+<tr><td><i>Luna v. Hansen &amp; Adkins Auto Transport, Inc.</i>, 956 F.3d 1151 (9th Cir. 2020) [<b>confirm it exists and its holding</b>]</td><td>Disclosure format; willfulness</td><td>Existence and holding</td></tr>
+<tr><td><i>Bassett v. ABM Parking Servs., Inc.</i>, 883 F.3d 776 (9th Cir. 2018)</td><td>FCRA standing (defense case)</td><td>How later courts apply it</td></tr>
+<tr><td><i>Safeco Ins. Co. of Am. v. Burr</i>, 551 U.S. 47 (2007)</td><td>Willfulness = recklessness</td><td>Pins 57, 69</td></tr>
+<tr><td><i>Connor v. First Student, Inc.</i> (2018) 5 Cal.5th 1026</td><td>ICRAA covers criminal checks</td><td>Flag</td></tr>
+<tr><td><i>Parsonage v. Wal-Mart Assocs., Inc.</i> (2026) 118 Cal.App.5th 399 <b>Pull</b></td><td>ICRAA state standing; $10,000</td><td><b>Review granted? Depublished?</b></td></tr>
+<tr><td><i>Limon v. Circle K Stores Inc.</i> (2022) 84 Cal.App.5th 671 [confirm]</td><td>Conflicting state-standing reasoning</td><td>Existence; status</td></tr>
+<tr><td><i>Mendoza v. ADP Screening &amp; Selection Servs.</i> (2010) 182 Cal.App.4th 1644</td><td>§ 290.46 "user"</td><td>Pins 1653–57; later treatment</td></tr>
+<tr><td><i>Donaleski v. Wal-Mart</i>, 2009 WL 1296257 (E.D. Cal.)</td><td>Independent source/decisionmaker (defense)</td><td>Citing references since 2009</td></tr>
+<tr><td><i>Artis v. District of Columbia</i>, 583 U.S. 71 (2018)</td><td>§ 1367(d) stop-clock tolling</td><td>Citing references on standing dismissals</td></tr>
+<tr><td><i>Kanter v. Warner-Lambert</i>, 265 F.3d 853 (9th Cir. 2001); <i>Gibson v. Chrysler</i>, 261 F.3d 927 (9th Cir. 2001)</td><td>Diversity pleading; punitive damages in AIC</td><td>Pins 857–58; 945</td></tr>
+<tr><td><i>Staub</i>, 562 U.S. 411; <i>Poland</i>, 494 F.3d 1174; <i>France</i>, 795 F.3d 1170; <i>Reid</i>, 50 Cal.4th 512; <i>Patterson</i>, 60 Cal.4th 474; <i>Soo Park</i>, 851 F.3d 910</td><td>Cat's paw; stray remarks; franchisor control; pleading on information and belief</td><td>Flags + the pin cites carried from the packet (Vol. 07)</td></tr>
+</table>
+
+<h2>5. Defense playbook: read the other side's briefs</h2>
+<p>If Patron Access includes <b>Briefs</b> or <b>Trial Court Documents</b>, search them for the motions this employer will most likely file. That is the fastest way to see their arguments coming.</p>
+<span class="q">adv: "1681b(b)(2)" &amp; "motion to dismiss" &amp; (TransUnion) &amp; (hotel hospitality "background check")</span>
+<span class="q">adv: ICRAA &amp; "1786.16" &amp; ("motion to dismiss" "judgment on the pleadings") &amp; DA(aft 06/24/2021)</span>
+<p class="small">Also run the Matter 29 and Matter 26 opposing counsel (repo: <code>internal/docs/counsel/frederick-stanzick/</code>) through the Briefs database. Seyfarth's CRA-side briefs show the standard (b)(2) standing arguments.</p>
+
+<h2>6. Secondary sources (orientation only; don't cite unless you must)</h2>
+<ul>
+<li>Search Secondary Sources: <code>"investigative consumer reporting agencies act" &amp; employer &amp; disclosure</code>. Look for <b>Rutter Cal. Practice Guide: Employment Litigation</b> (background-check chapter) and <b>Witkin, Summary of Cal. Law</b> if available.</li>
+<li>Look for an FCRA treatise or ALR annotation on "standing to sue for FCRA disclosure violations after <i>TransUnion</i>". Use it to find cases, then KeyCite those cases.</li>
+</ul>
+
+<h2>7. Red flags: stop and note them when you see them</h2>
+<ul>
+<li><b>Red flag / "superseded" / "abrogated by TransUnion"</b> on any standing case decided before 2021.</li>
+<li><b>Ninth Circuit memorandum dispositions</b> can be cited if issued on or after Jan. 1, 2007, but they are <b>not precedent</b> (9th Cir. R. 36-3). District court opinions bind no one; mark them "persuasive."</li>
+<li><b>California opinions under review</b>: once review is granted, a published opinion may be cited only as CRC 8.1115(e) allows. Write down the date of the grant.</li>
+<li>Cases where the employer <b>did</b> give a disclosure and the dispute was only about its format. These are distinguishable from ours; note the difference.</li>
+<li><b>Cases that hurt us</b>: write them down too. The handoff requires listing unfavorable authority.</li>
+</ul>
+
+<h2>8. Recording template (one line per case)</h2>
+<table>
+<tr><th>Citation</th><th>Court / date</th><th>Binding?</th><th>Holding (1 line)</th><th>Pin + exact quote</th><th>KeyCite flag</th><th>Helps / hurts / distinguishable</th><th>Question #</th></tr>
+<tr><td style="height:16pt"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="height:16pt"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td style="height:16pt"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<div class="box"><b>When you're done:</b> paste the filled-in rows, or the citation list, into our chat, and send me any PDFs you downloaded. I'll then: (1) write ¶ 13 around whatever standing facts the courts have actually accepted; (2) drop or keep ¶ 29 and Count Two; (3) correct every [verify] statute subdivision; and (4) rebuild the authority table with confirmed pins and KeyCite flags.</div>
+
+<div class="footer">Matter 44 · Private work product, not for filing or service · Search strings are starting points; adjust jurisdiction and date filters to the volume of results · Citations marked [confirm] or [verify] have not been checked against a primary source.</div>
+</body></html>
