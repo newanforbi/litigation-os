@@ -5,7 +5,7 @@
 **Jurisdiction anchor: 28 U.S.C. § 1331 via the FCRA (Counts One and Two).** Diversity is not pleaded. The record has no citizenship facts, and the provable amount in controversy is about $38,000. Pleading § 1332 without support invites an easy Rule 12(b)(1) attack and adds nothing.
 
 **Three filing gates, each requiring Plaintiff's sworn-true facts:**
-1. **¶ 10:** no standalone disclosure was received through any channel. Without it, Counts One and Three drop out.
+1. **¶ 10: MET (Plaintiff confirmed Nov. 12, 2026).** Plaintiff saw no disclosure screen through the onboarding QR code or any website.
 2. **¶ 13:** concrete-injury facts, from the checklist below the paragraph. Without them, the federal claims face Article III dismissal and the case leaves federal court.
 3. **Counts Two and Four (FCRA (b)(3) and § 290.46):** plead them only with registry-source Alternative 24-A or 24-B. Otherwise file Counts One and Three now and add Two and Four by amendment under Rule 15(a)(2). An amendment arising from the same conduct relates back under Rule 15(c)(1)(B).
 
@@ -82,7 +82,7 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
    - (b) an "Acknowledgment and Authorization for Background Investigation" authorizing "consumer reports" and "investigative consumer reports" by "Delta Santa Clara" "at any time after receipt of this authorization and throughout my employment," and authorizing "without reservation" any law-enforcement agency and others to furnish "any and all background information" to Universal Background Screening; and
    - (c) a form collecting Plaintiff's date of birth, Social Security number, and driver's license number for the consumer reporting agency.
 
-10. The Acknowledgment recites receipt of "separate documents entitled DISCLOSURE REGARDING BACKGROUND INVESTIGATION, DISCLOSURE FOR INVESTIGATIVE CONSUMER REPORT (if applicable), [and] A SUMMARY OF YOUR RIGHTS UNDER THE FAIR CREDIT REPORTING ACT." No such separate documents were included in the packet. [Plaintiff did not receive them through any other channel, including any website, portal, or onboarding application, before signing. — **CONFIRM before filing; memo § 6.6 Q2.**]
+10. The Acknowledgment recites receipt of "separate documents entitled DISCLOSURE REGARDING BACKGROUND INVESTIGATION, DISCLOSURE FOR INVESTIGATIVE CONSUMER REPORT (if applicable), [and] A SUMMARY OF YOUR RIGHTS UNDER THE FAIR CREDIT REPORTING ACT." No such separate documents were included in the packet. Plaintiff did not receive them through any other channel, including any website, portal, or onboarding application, before signing or at any time afterward.
 
 11. Plaintiff signed and returned the offer and the Acknowledgment the same day.
 
@@ -119,7 +119,7 @@ Santa Clara–Silicon Valley; and DOES 1–10,     AGENCIES ACT, Civ. Code § 17
 
     [Plaintiff to confirm each is his verbatim recollection; otherwise convert to "in substance."]
 
-18. Plaintiff is required to register under Penal Code § 290. [Information about Plaintiff is publicly displayed on the California Department of Justice Megan's Law website maintained under Penal Code § 290.46. — **REQUIRED PREDICATE; CONFIRM.**] Plaintiff's full name appeared on the Hotel's posted schedules and on a work computer display after he logged in.
+18. Plaintiff is required to register under Penal Code § 290. Information about Plaintiff is publicly displayed on the California Department of Justice Megan's Law website maintained under Penal Code § 290.46. Plaintiff's full name appeared on the Hotel's posted schedules and on a work computer display after he logged in.
 
 19. On October 29, 2026, at approximately 6:20 a.m., near the end of the overnight shift that began October 28, Howell said that Governor Gavin Newsom "has been mass releasing a bunch of murderer-rapists just to obtain votes." After Plaintiff questioned that characterization, Howell looked at Plaintiff and said, "He released you didn't he?"
 
