@@ -394,7 +394,7 @@ def fill_civ100(
     check_by_label(doc, "Costs and disbursements are waived")
 
     # Stamp pen signatures (right of printed-name fields)
-    # Universal signature on each CIV-100 signature line (width ~110 → ~27pt tall).
+    # Universal signature on each CIV-100 signature line (width ~110 → ~30pt tall).
     stamp_sig(doc[0], 400, 510, 680)  # p1 plaintiff signature
     stamp_sig(doc[1], 400, 510, 448)  # p2 items 4–6 declarant
     stamp_sig(doc[1], 400, 510, 645)  # p2 item 7 declarant
@@ -614,7 +614,7 @@ def fill_civ110() -> fitz.Document:
                 w.update()
 
     # Item 2 signature: right of printed name, on the line above "(SIGNATURE)".
-    stamp_sig(doc[0], 430, 530, 469)  # ~100pt wide → ~25pt tall
+    stamp_sig(doc[0], 430, 530, 469)  # ~100pt wide → ~27pt tall
 
     # Page 2 — Declaration Concerning Waived Court Fees
     set_text_exact(doc, "Item1[0].FillText109[0]", PLAINTIFF_PRINT)

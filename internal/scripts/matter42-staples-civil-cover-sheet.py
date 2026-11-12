@@ -14,7 +14,9 @@ OUT=os.environ.get("M42_OUT", "/tmp/m42-staples-complaint").rstrip("/")+"/"
 os.makedirs(OUT, exist_ok=True)
 FILLED=OUT+"Ngwa_Nforbi_v_Staples_Civil_Cover_Sheet_filled.pdf"
 FLAT=OUT+"Ngwa_Nforbi_v_Staples_Civil_Cover_Sheet_flat.pdf"
-SIG=str(Path(__file__).resolve().parents[2] / "internal/assets/signature/brendan-newanforbi-signature.png")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from signature_stamp import SIGNATURE_ASPECT, SIGNATURE_PATH  # noqa: E402
+SIG = SIGNATURE_PATH
 DESC="No FCRA pre-adverse-action report copy/rights; CA ICRAA, PC 290.46(j), UCL"
 TEXT={
  "Plaintiff":("Ngwa Nforbi, Brendan",10),
@@ -51,9 +53,9 @@ for w in pg.widgets():
         w.update(); seen.add(n)
 missing=set(TEXT)-seen
 assert not missing, missing
-# signature stamp (canonical photo-loops PNG), sitting on bottom of signature box
+# signature stamp (canonical 445×106 wet-ink PNG), sitting on bottom of signature box
 sw=[w for w in pg.widgets() if w.field_name=="Signature of Attorney of Record"][0].rect
-width=108; h=width*(820/5544)*1.15
+width=108; h=width*SIGNATURE_ASPECT
 r=fz.Rect(sw.x0+6, sw.y1-1-h, sw.x0+6+width, sw.y1-1)
 pg.insert_image(r, filename=SIG, keep_proportion=False, overlay=True)
 print("sig rect",r,"field",sw,"desc fs",fs)

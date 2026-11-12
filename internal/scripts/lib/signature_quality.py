@@ -4,6 +4,10 @@ The August 26 wet-ink / "house" stamp put printed form-rule dashes and
 crop plate into brendan-newanforbi-signature.png. Those pixels then
 appeared on every stamped page. This module refuses a bad stamp before
 it becomes canonical or gets drawn.
+
+The live stamp (November 2026) is a 445×106 black-ink loop on a
+transparent plate. The photographed-loops archive beside it
+(*-v2-photo-loops.png, 5544×820) is historical only.
 """
 from __future__ import annotations
 
@@ -15,9 +19,11 @@ SIGNATURE_DIR = REPO / "internal/assets/signature"
 CANONICAL = SIGNATURE_DIR / "brendan-newanforbi-signature.png"
 V2_ARCHIVE = SIGNATURE_DIR / "brendan-newanforbi-signature-v2-photo-loops.png"
 
-# Photographed loops mark (v2) is ~5544×820 → aspect ≈ 0.148.
+# Live wet-ink loop is 445×106 → aspect ≈ 0.238.
+# Photographed loops archive (v2) is 5544×820 → aspect ≈ 0.148.
+CANONICAL_PX = (445, 106)
 ASPECT_MIN = 0.10
-ASPECT_MAX = 0.22
+ASPECT_MAX = 0.28
 # Opaque ink should be charcoal, not a near-white paper plate or pure-black
 # flood that hides dashes inside the stamp.
 NEAR_WHITE = 230
@@ -97,17 +103,21 @@ def validate_signature_file(path: Path | str, *, label: str | None = None) -> No
     validate_signature_rgba(_load_rgba(path), label=label or path.name)
 
 
-def assert_canonical_is_photo_loops(*, allow_force_mismatch: bool = False) -> None:
-    """Canonical must match the v2 photo-loops archive byte-for-byte."""
+def assert_canonical_stamp() -> None:
+    """Canonical must be the live 445×106 stamp and pass pixel guards."""
     validate_signature_file(CANONICAL, label="canonical")
-    validate_signature_file(V2_ARCHIVE, label="v2-archive")
-    if not allow_force_mismatch:
-        if CANONICAL.read_bytes() != V2_ARCHIVE.read_bytes():
-            raise ValueError(
-                "canonical signature differs from *-v2-photo-loops.png; "
-                "refusing house / wet-ink revival. Rebuild with "
-                "process-signature-photo.py or pass --force deliberately."
-            )
+    width, height = _png_size(CANONICAL)
+    if (width, height) != CANONICAL_PX:
+        raise ValueError(
+            f"canonical signature is {width}×{height}, expected "
+            f"{CANONICAL_PX[0]}×{CANONICAL_PX[1]}"
+        )
+
+
+def assert_canonical_is_photo_loops(*, allow_force_mismatch: bool = False) -> None:
+    """Back-compat alias — the live stamp is no longer the v2 photo-loops."""
+    del allow_force_mismatch
+    assert_canonical_stamp()
 
 
 def banned_paths() -> list[Path]:

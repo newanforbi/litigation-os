@@ -1,12 +1,11 @@
 # Portfolio universal signature: brendan-newanforbi-signature.png
-# Photographed loops mark (charcoal on transparent). Restored as canonical
-# September 18, 2026 after the August 26 wet-ink "house" stamp and its
-# painted/bbox variants were deleted. Rebuild from
-# *-source-v2-photo.jpg via process-signature-photo.py (writes the archive
-# and the canonical). Do not revive extract-signature-scan.py onto this
-# path. Older archives beside it: *-v2-photo-loops.png,
-# *-v1-abstract-loops.png, *-4b-civ100.png. Do not use
-# internal/scripts/assets/newanforbi-pen-signature.png.
+# Live stamp (November 2026): 445×106 black-ink loop on a transparent
+# plate. The photographed-loops rebuild
+# (process-signature-photo.py → *-v2-photo-loops.png) is archival only
+# and must not overwrite this path. Do not revive
+# extract-signature-scan.py onto this path. Older archives beside it:
+# *-v2-photo-loops.png, *-v1-abstract-loops.png, *-4b-civ100.png. Do not
+# use internal/scripts/assets/newanforbi-pen-signature.png.
 #
 # stamp_on_pdf_line defaults to whiteout=True so printed form rules under
 # the stamp cannot show through. Pixel guards in signature_quality refuse
@@ -23,7 +22,7 @@ if str(_SCRIPTS) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS))
 
 from signature_quality import (  # noqa: E402
-    assert_canonical_is_photo_loops,
+    assert_canonical_stamp,
     assert_house_assets_gone,
     validate_signature_file,
 )
@@ -54,7 +53,7 @@ def _guard_canonical() -> None:
     """Refuse to stamp if the house lineage returned or the PNG is dirty."""
     try:
         assert_house_assets_gone()
-        assert_canonical_is_photo_loops()
+        assert_canonical_stamp()
     except ValueError as exc:
         raise SystemExit(f"signature guard: {exc}") from exc
 
