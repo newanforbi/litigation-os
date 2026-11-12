@@ -168,7 +168,9 @@ CONTENT: list[tuple] = [
      "accepted job; the communication to a prospective employer of materially misleading "
      "information labeling Plaintiff's driving record as criminal offenses, which bears a "
      "close relationship to the harm redressed by defamation; the procurement of a "
-     "registry search under an authorization that did not disclose it; and the condition, "
+     "registry search under an authorization that did not disclose it, which deprived Plaintiff "
+     "of the opportunity to contest or address that search before Hertz used it to announce "
+     "a preliminary rescission of his accepted job; and the condition, "
      "imposed on Plaintiff's employment, that he surrender his right to work for "
      "competitors."),
     ("PARA",
@@ -423,7 +425,18 @@ CONTENT: list[tuple] = [
      "those results for the purpose of deciding his employment; and (d) after that review, "
      "and \"[b]ased on a review of the results of [his] background report and Company's "
      "eligibility criteria,\" it made and announced a preliminary decision rescinding his "
-     "offer.", "use"),
+     "offer. Hertz thus used the registry information as a basis for an employment "
+     "decision.", "use"),
+    ("PARA",
+     "Count 2 concerns Hertz's use of information disclosed pursuant to Cal. Penal Code "
+     "§ 290.46, not the existence of a court file. The Santa Clara County court record "
+     "described in Part IV.E does not supply an independent basis for the preliminary "
+     "decision. The Notice did not cite it. Hertz's rules routed the registry results to "
+     "review as a separate product with its own grades. Hertz acted within hours of "
+     "receiving the registry results, not after any separate investigation of court "
+     "records. On information and belief, no Hertz decision-maker made the preliminary "
+     "decision without having seen the registry results, which were flagged for that same "
+     "review.", "independent"),
     ("PARA",
      "The facts supporting that belief include: the registry search lay outside the "
      "offer's defined checks and was separately selected (paragraph {design}); the "
@@ -472,6 +485,18 @@ CONTENT: list[tuple] = [
      "work. Plaintiff remains ready, willing, and able to begin work as a Manager "
      "Trainee. Hertz's preliminary decision and its continued refusal to allow Plaintiff "
      "to start have excluded him from the job he accepted.", "status2"),
+    ("PARA",
+     "The preliminary decision and its effects are centered in California. It concerned a "
+     "California resident, recruited and interviewed in California, for a position at a "
+     "California branch, supervised by a California branch manager, Kathleen Williams. "
+     "Hertz's onboarding of Plaintiff was managed by its Western Region Talent Acquisition "
+     "Partner, Gloria Williams, whose listed telephone number bears a California area code. "
+     "The decision withholds employment that was to be performed only in California. The "
+     "report was ordered through a Hertz pre-employment account associated with Estero, "
+     "Florida. On information and belief, Hertz's California branch and regional personnel "
+     "participated in, were consulted on, or carried out the preliminary decision. The "
+     "identity and location of each person who made it are peculiarly within Hertz's "
+     "knowledge.", "location"),
     ("PARA",
      "As a direct result of Defendants' conduct, Plaintiff has suffered and continues to "
      "suffer harm, including: anxiety, humiliation, and emotional distress at being "
@@ -554,7 +579,8 @@ CONTENT: list[tuple] = [
      "through {warning})."),
     ("PARA",
      "Hertz used that information for purposes relating to employment, as alleged in "
-     "paragraphs {design} and {use}. Hertz's preliminary decision rescinding Plaintiff's "
+     "paragraphs {design} through {independent}: it used the information as a basis for an "
+     "employment decision. Hertz's preliminary decision rescinding Plaintiff's "
      "offer is itself a use for purposes relating to employment. The statute prohibits "
      "use, not only final decisions."),
     ("PARA",
@@ -611,7 +637,10 @@ CONTENT: list[tuple] = [
      "The violation caused Plaintiff concrete harm. The document he signed did not "
      "disclose that Hertz would procure a sex-offender registry search, a search outside "
      "the checks the offer letter described. Hertz procured that search under the "
-     "resulting authorization and used its results against him in the Notice."),
+     "resulting authorization and used its results against him in the Notice. The defect "
+     "deprived Plaintiff of notice of that search, and with it the opportunity to address "
+     "or contest it before Hertz acted on it and announced a preliminary rescission of his "
+     "accepted job."),
     ("PARA",
      "Under section 1786.50(a), Hertz is liable for actual damages or $10,000, whichever "
      "is greater, plus costs and reasonable attorney's fees. Hertz's violation was "
@@ -628,7 +657,8 @@ CONTENT: list[tuple] = [
                 "(Against Hertz, in the Alternative)"),
     ("PARA",
      "Plaintiff incorporates paragraphs {offer}, {standards}, {mvr_time} through "
-     "{arrest}, and {notice} through the end of Part IV.E, except paragraph {label}."),
+     "{arrest}, {notice} through the end of Part IV.E except paragraph {label}, and "
+     "{status} through {location}."),
     ("PARA",
      "This cause of action is pleaded in the alternative to the Second Cause of Action, "
      "under Federal Rule of Civil Procedure 8(d)(2)-(3), to the extent Hertz contends that "
@@ -644,17 +674,22 @@ CONTENT: list[tuple] = [
      "records the consequence of an arrest that did not result in a conviction (paragraph "
      "{arrest}). It is a record of that arrest. Hertz labeled the entry \"[Criminal "
      "Information]\" and, by its own account, used it as a factor in its preliminary "
-     "decision to rescind Plaintiff's offer."),
+     "decision to rescind Plaintiff's offer. Even if Hertz was permitted to obtain a driving record, section "
+     "432.7(a)(1) separately prohibits an employer from utilizing a record of arrest that did "
+     "not result in conviction as a factor in hiring. Permission to seek a record is not "
+     "permission to use it to reject an applicant."),
     ("PARA",
      "No job requirement justified that use. Plaintiff's Class C license was valid. The "
      "refusal suspension had ended with reinstatement before the offer, and the "
      "commercial-vehicle disqualification had cleared before the offer and concerned a "
      "license class the Manager Trainee position did not require."),
     ("PARA",
-     "Under Labor Code § 432.7(c), Plaintiff is entitled to recover actual damages or "
-     "$200, whichever is greater, plus costs and reasonable attorney's fees, and any "
-     "enhanced amount the statute provides for an intentional violation. Hertz's "
-     "violation was intentional."),
+     "Plaintiff is an applicant for employment within the meaning of Labor Code § 432.7(c). "
+     "He accepted Hertz's offer but was never permitted to begin work. Under section "
+     "432.7(c), he is entitled to actual damages or $200, whichever is greater, plus costs "
+     "and reasonable attorney's fees. Because Hertz's violation was intentional, he is "
+     "entitled to treble actual damages or $500, whichever is greater, plus costs and "
+     "reasonable attorney's fees."),
 
     # ------------------------------------------------------------------ COUNT 5
     ("HEADER", "IX.\nFIFTH CAUSE OF ACTION"),
@@ -668,7 +703,9 @@ CONTENT: list[tuple] = [
      "Business and Professions Code § 16600 provides that every contract by which anyone "
      "is restrained from engaging in a lawful profession, trade, or business of any kind "
      "is to that extent void, and is to be read broadly to void noncompete agreements in "
-     "the employment context. Section 16600.1 makes it unlawful to include a noncompete "
+     "the employment context. The section \"shall not be limited to contracts where the "
+     "person being restrained ... is a party to the contract.\" Cal. Bus. & Prof. Code "
+     "§ 16600(c). Section 16600.1 makes it unlawful to include a noncompete "
      "clause in an employment contract, or to require an employee to enter a noncompete "
      "agreement, that does not satisfy a statutory exception. Section 16600.5 provides "
      "that an employer shall not enter into a contract with an employee or prospective "
@@ -733,8 +770,9 @@ CONTENT: list[tuple] = [
     ("LIST_ITEM", "6. Actual damages or $10,000, whichever is greater, and punitive damages "
                   "(Cal. Civ. Code § 1786.50);"),
     ("LIST_ITEM", "On the Fourth Cause of Action, against Hertz:"),
-    ("LIST_ITEM", "7. Actual damages or $200, whichever is greater, and any enhanced amount for "
-                  "an intentional violation (Cal. Labor Code § 432.7(c));"),
+    ("LIST_ITEM", "7. Actual damages or $200, whichever is greater; for an intentional "
+                  "violation, treble actual damages or $500, whichever is greater (Cal. Labor "
+                  "Code § 432.7(c));"),
     ("LIST_ITEM", "On the Fifth Cause of Action, against Hertz:"),
     ("LIST_ITEM", "8. A declaration that Hertz's non-competition provision and any "
                   "non-competition covenant it requires are void and unenforceable as to "
