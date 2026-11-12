@@ -910,14 +910,14 @@ def main() -> None:
     ap.add_argument("--date", default="November 12, 2026")
     ap.add_argument("--city", default="Stockton")
     ap.add_argument("--execute", action="store_true", help="Strip review notes and affix signature")
-    ap.add_argument("--style", choices=["classic", "minimal"], default="classic",
+    ap.add_argument("--style", choices=["classic", "minimal"], default="minimal",
                     help="Pleading-paper style (see lib/pleading_paper.py)")
     ap.add_argument("--exhibits", action="store_true", help="Also build the Exhibit A-F packet")
     ap.add_argument("--r2-cache", default=str(ROOT / ".cache/r2"),
                     help="Directory holding <sha256>.pdf for R2-only exhibits (offer letter)")
     a = ap.parse_args()
     out = Path(a.out).resolve()
-    if a.style != "classic" and a.out == str(DEFAULT_OUT):
+    if a.style != "minimal" and a.out == str(DEFAULT_OUT):
         out = out.with_name(out.stem + f" - {a.style.title()} Style.pdf")
     print("Generated:", build(out, a.date, a.city, a.execute, a.style))
     if a.exhibits:
