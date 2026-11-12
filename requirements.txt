@@ -26,7 +26,7 @@ pytesseract>=0.3.13
 # Signature pixel-quality check (internal/scripts/lib/signature_quality.py).
 # Required by `npm run gate`: the unit suite runs it. Lower bounds are
 # Debian bookworm's packaged versions, which the remote gate image uses.
-pillow>=9.4.0
+pillow>=9.5.0
 numpy>=1.24.2
 
 # Word-format output for the letter/declaration formatters.
