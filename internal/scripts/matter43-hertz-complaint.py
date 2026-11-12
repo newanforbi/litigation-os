@@ -45,7 +45,7 @@ EXHIBITS_OUT = OUT_DIR / "Exhibits A-F to Verified Complaint - Ngwa Nforbi v The
 DOCS = ROOT / "documents/matter-43"
 
 COURT_LINE2 = "COUNTY OF SANTA CLARA"
-FOOTER = "VERIFIED COMPLAINT -- NGWA NFORBI v. THE HERTZ CORPORATION"
+FOOTER = "BRENDAN NGWA NFORBI v. THE HERTZ CORPORATION \u2014 COMPLAINT"
 
 _DRAFT_NOTE = re.compile(r"\s*\[\[[^\[\]]+\]\]")
 
@@ -788,8 +788,7 @@ def build(out: Path, exec_date: str, city: str, execute: bool, style: str = "cla
     numbered, labels = _number(CONTENT)
     out.parent.mkdir(parents=True, exist_ok=True)
     if style == "minimal":
-        d = PleadingPaper(str(out), doc_title_footer="VERIFIED COMPLAINT", style="minimal",
-                          footer_right="NGWA NFORBI v. THE HERTZ CORPORATION")
+        d = PleadingPaper(str(out), doc_title_footer=FOOTER, style="minimal")
     else:
         d = PleadingPaper(str(out), doc_title_footer=FOOTER)
     c = d.c

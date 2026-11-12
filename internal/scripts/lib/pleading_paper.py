@@ -130,7 +130,9 @@ class PleadingPaper:
         c.setFont("Times-Roman", 10)
         c.drawCentredString(center_x, FOOTER_PAGE_Y, str(self.page_num))
         c.setFont("Times-Roman", 8.5)
-        if self.doc_title_footer:
+        if self.doc_title_footer and not self.footer_right:
+            c.drawCentredString(center_x, FOOTER_TITLE_Y, self.doc_title_footer)
+        elif self.doc_title_footer:
             c.drawString(CONTENT_LEFT, FOOTER_TITLE_Y, self.doc_title_footer)
         if self.footer_right:
             c.drawRightString(CONTENT_RIGHT - 16, FOOTER_TITLE_Y, self.footer_right)
