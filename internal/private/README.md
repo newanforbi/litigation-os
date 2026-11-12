@@ -29,6 +29,8 @@ excluded from every public portfolio projection.
   - Public projection: prohibited
   - Active litigation: yes (matter stayed; live docket/clocks stay in `internal/src/data/matters/28/`)
 
+- DOJ FileXchange U-visa certification production (Nov 2026) at `documents/doj-uvisa-filexchange-2026-11/` — private DOJ FileXchange production, no public projection.
+
 - Parole / federal habeas research
   - Front door: `internal/private/research/parole-habeas/INDEX.md`
   - Also: `TIMELINE.md`, `HABEAS-OPTIONS.md`, `coa-6th/` (Sixth District mandate draft — do not file)
