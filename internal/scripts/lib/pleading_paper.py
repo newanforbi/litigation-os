@@ -60,7 +60,7 @@ COURT_LINE1 = "SUPERIOR COURT OF THE STATE OF CALIFORNIA"
 
 
 class PleadingPaper:
-    def __init__(self, filename, doc_title_footer=""):
+    def __init__(self, filename, doc_title_footer="", style="classic", footer_right=""):
         """
         filename: output PDF path.
         doc_title_footer: the small centered footer line repeated on every
@@ -73,6 +73,12 @@ class PleadingPaper:
         self.page_num = 0
         self.current_line = 0
         self.doc_title_footer = doc_title_footer
+        # style: "classic" (double rule left, single rule right -- default) or
+        # "minimal" (one hairline rule between numbers and text, no right rule,
+        # small gray numerals, framed caption, split footer). Text geometry is
+        # identical in both, so a document reflows the same way either style.
+        self.style = style
+        self.footer_right = footer_right
         self.start_new_page()
 
     def start_new_page(self):
@@ -83,6 +89,8 @@ class PleadingPaper:
         self._draw_page_frame()
 
     def _draw_page_frame(self):
+        if self.style == "minimal":
+            return self._draw_page_frame_minimal()
         c = self.c
         c.setStrokeColor(black)
         c.setLineWidth(0.5)
@@ -105,6 +113,27 @@ class PleadingPaper:
                 footer_size -= 0.5
             c.setFont("Helvetica", footer_size)
             c.drawCentredString(center_x, FOOTER_TITLE_Y, self.doc_title_footer)
+
+    def _draw_page_frame_minimal(self):
+        from reportlab.lib.colors import Color
+        c = self.c
+        c.setStrokeColor(black)
+        c.setLineWidth(0.4)
+        c.line(VERT_LINE_RIGHT, PAGE_H, VERT_LINE_RIGHT, 0)
+        c.setFillColor(Color(0.38, 0.38, 0.38))
+        c.setFont("Helvetica", 9)
+        for i in range(NUM_LINES):
+            c.drawRightString(VERT_LINE_RIGHT - 8, TEXT_START_Y - i * LINE_SPACING, str(i + 1))
+        c.setFillColor(black)
+        c.line(CONTENT_LEFT, FOOTER_RULE_Y, CONTENT_RIGHT - 16, FOOTER_RULE_Y)
+        center_x = (CONTENT_LEFT + CONTENT_RIGHT - 16) / 2
+        c.setFont("Times-Roman", 10)
+        c.drawCentredString(center_x, FOOTER_PAGE_Y, str(self.page_num))
+        c.setFont("Times-Roman", 8.5)
+        if self.doc_title_footer:
+            c.drawString(CONTENT_LEFT, FOOTER_TITLE_Y, self.doc_title_footer)
+        if self.footer_right:
+            c.drawRightString(CONTENT_RIGHT - 16, FOOTER_TITLE_Y, self.footer_right)
 
     def _line_y(self, idx):
         return TEXT_START_Y - idx * LINE_SPACING
@@ -267,7 +296,12 @@ class PleadingPaper:
                 c.drawString(right_col_x, y, rt)
         last_row_y = first_y - (max(len(left), len(right)) - 1) * tight_lh
         box_bottom = last_row_y - 8
-        if boxed:
+        if boxed and self.style == "minimal":
+            c.setLineWidth(0.6)
+            c.rect(CONTENT_LEFT - 2, box_bottom, CONTENT_RIGHT - 16 - (CONTENT_LEFT - 2),
+                   box_top - box_bottom)
+            c.line(box_right_x, box_top, box_right_x, box_bottom)
+        elif boxed:
             c.setLineWidth(0.75)
             c.line(VERT_LINE_RIGHT, box_top, box_right_x, box_top)
             c.line(VERT_LINE_RIGHT, box_bottom, box_right_x, box_bottom)
