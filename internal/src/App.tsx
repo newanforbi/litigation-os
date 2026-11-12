@@ -12,6 +12,7 @@ const CensusRoute = lazy(() => import("./pages/CensusRoute"));
 const MattersRoute = lazy(() => import("./pages/MattersRoute"));
 const TimelineTab = lazy(() => import("./components/TimelineTab").then((m) => ({ default: m.TimelineTab })));
 const DamagesTab = lazy(() => import("./components/DamagesTab").then((m) => ({ default: m.DamagesTab })));
+const DamagesLeverageTab = lazy(() => import("./components/DamagesLeverageTab").then((m) => ({ default: m.DamagesLeverageTab })));
 const TheoriesTab = lazy(() => import("./components/TheoriesTab").then((m) => ({ default: m.TheoriesTab })));
 const CostOfCounselTab = lazy(() => import("./components/CostOfCounselTab").then((m) => ({ default: m.CostOfCounselTab })));
 const OutcomesTab = lazy(() => import("./components/OutcomesTab").then((m) => ({ default: m.OutcomesTab })));
@@ -53,6 +54,7 @@ export default function App() {
             <Route path="deadlines" element={<Navigate to={ROUTES.dashboard} replace />} />
             <Route path="cross-matter" element={<Navigate to={ROUTES.dashboard} replace />} />
             <Route path="damages" element={<DamagesRoute />} />
+            <Route path="damages/leverage" element={<DamagesLeverageTab />} />
             <Route path="theories" element={<TheoriesTab />} />
             <Route path="cost-of-counsel" element={<CostOfCounselTab />} />
             <Route path="outcomes" element={<OutcomesTab />} />
