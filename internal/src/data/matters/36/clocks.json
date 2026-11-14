@@ -4,22 +4,24 @@
     "date": "2026-10-29",
     "date_label": "Oct. 29, 2026",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": 4,
     "actor": "you",
     "source": "/documents/matter-36/edca/Dkt 04 - Order Granting IFP, Screening, and Directing USM Service (Filed Oct 14 2026).pdf",
-    "title": "DEADLINE — USM service packet and Notice of Submission in Brendan Ngwa Nforbi v. AT&T Mobility Services LLC (E.D. Cal. 2:26-cv-03314-DJC-AC (PS)). Within 15 days of Dkt. 4 (Oct. 14): deliver to the U.S. Marshal (501 I Street, Sacramento) one completed USM-285 for AT&T Mobility Services LLC, the summons (Dkt. 6), copies of the complaint, a copy of Dkt. 4, and the magistrate consent form; AND file a Notice of Submission of Documents with the Clerk."
+    "title": "DEADLINE — USM service packet and Notice of Submission in Brendan Ngwa Nforbi v. AT&T Mobility Services LLC (E.D. Cal. 2:26-cv-03314-DJC-AC (PS)). Within 15 days of Dkt. 4 (Oct. 14): deliver to the U.S. Marshal (501 I Street, Sacramento) one completed USM-285 for AT&T Mobility Services LLC, the summons (Dkt. 6), copies of the complaint, a copy of Dkt. 4, and the magistrate consent form; AND file a Notice of Submission of Documents with the Clerk.",
+    "note": "SATISFIED in effect: AT&T appeared and answered Nov. 13, 2026 (Dkt. 8). Confirm the USM return or waiver date on the docket."
   },
   {
     "id": "36-usm-service-90-day",
     "date": "2027-01-12",
     "date_label": "Jan. 12, 2027",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": 4,
     "actor": "court",
     "source": "/documents/matter-36/edca/Dkt 04 - Order Granting IFP, Screening, and Directing USM Service (Filed Oct 14 2026).pdf",
-    "title": "WATCH — U.S. Marshal 90-day service deadline in Brendan Ngwa Nforbi v. AT&T Mobility Services LLC (E.D. Cal. 2:26-cv-03314-DJC-AC (PS)) (Dkt. 4; Fed. R. Civ. P. 4(m); 90 days from Oct. 14, 2026). Marshal serves AT&T Mobility Services LLC without prepayment; follow up if no executed USM-285 / waiver appears on the docket."
+    "title": "WATCH — U.S. Marshal 90-day service deadline in Brendan Ngwa Nforbi v. AT&T Mobility Services LLC (E.D. Cal. 2:26-cv-03314-DJC-AC (PS)) (Dkt. 4; Fed. R. Civ. P. 4(m); 90 days from Oct. 14, 2026). Marshal serves AT&T Mobility Services LLC without prepayment; follow up if no executed USM-285 / waiver appears on the docket.",
+    "note": "Defendant answered Nov. 13, 2026 (Dkt. 8)."
   },
   {
     "id": "36-certificate-of-service-triggered",

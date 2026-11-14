@@ -1205,16 +1205,9 @@
       "same_incident": null,
       "lifecycle": "active",
       "proceeding": "federal_civil",
-      "phase": "service",
-      "next_clock": {
-        "id": "36-usm-packet-and-notice",
-        "date": "2026-10-29",
-        "kind": "deadline",
-        "status": "overdue",
-        "title": "DEADLINE — USM service packet and Notice of Submission in Brendan Ngwa Nforbi v. AT&T Mobility Services LLC (E.D. Cal. 2:26-cv-03314-DJC-AC (PS)). Within 15 days of Dkt. 4 (Oct. 14): deliver to the U.S. Marshal (501 I Street, Sacramento) one completed USM-285 for AT&T Mobility Services LLC, the summons (Dkt. 6), copies of the complaint, a copy of Dkt. 4, and the magistrate consent form; AND file a Notice of Submission of Documents with the Clerk.",
-        "source_dkt": 4
-      },
-      "overdue": true,
+      "phase": "pleadings",
+      "next_clock": null,
+      "overdue": false,
       "last_updated": "2026-10-14",
       "files": [
         "claims.json",
