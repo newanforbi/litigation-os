@@ -32,5 +32,48 @@
     "title": "USER REPORT — AO 239 IFP application (Dkt. 2) withdrawn as moot after the Oct. 27, 2026 fee payment — Brendan Ngwa Nforbi v. Best Buy Co., Inc. (E.D. Cal. 2:26-cv-03315-DC-CKD (PS)). No withdrawal motion/order PDF ingested.",
     "date_label": "Oct. 27, 2026",
     "tz": "America/Los_Angeles"
+  },
+  {
+    "id": "39-cert-of-service",
+    "date": "2026-11-16",
+    "date_label": "Nov. 16, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": 5,
+    "title": "FILE — certificate/proof of service of summons and complaint on Best Buy (ECF 5: within 10 days after service; service reported Nov. 6, 2026). Signed proof requested from L.A. Process Servers Nov. 10; not received as of Nov. 14. If still missing Monday, file a short notice stating the reported Nov. 6 service and that the signed proof will be filed on receipt — Ngwa Nforbi v. Best Buy (E.D. Cal. 2:26-cv-03315-DC-CKD).",
+    "actor": "you"
+  },
+  {
+    "id": "39-response-due",
+    "date": "2026-11-27",
+    "date_label": "Nov. 27, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": 5,
+    "title": "WATCH — Best Buy's response to the complaint due Nov. 27, 2026 if Nov. 6 service was effective (Rule 12(a)(1)(A)(i)). Ogletree has announced a motion to compel arbitration — Ngwa Nforbi v. Best Buy (2:26-cv-03315-DC-CKD).",
+    "actor": "opposing"
+  },
+  {
+    "id": "39-consent-form",
+    "date": "2026-12-07",
+    "date_label": "Dec. 7, 2026",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": 5,
+    "title": "FILE — consent/decline magistrate-judge form due within 30 days of service per ECF 5 (Nov. 6 + 30 = Sun. Dec. 6 -> Mon. Dec. 7, 2026) — Ngwa Nforbi v. Best Buy (2:26-cv-03315-DC-CKD).",
+    "actor": "you"
+  },
+  {
+    "id": "39-mtc-opposition",
+    "date": null,
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "contingent",
+    "source_dkt": 5,
+    "title": "TRIGGERED BY FILING — opposition or statement of non-opposition to any Best Buy motion to compel arbitration due 14 days after the motion is filed (E.D. Cal. L.R. 230(c); ECF 5). Failure to respond may be deemed consent. Calendar the day the motion is docketed — Ngwa Nforbi v. Best Buy (2:26-cv-03315-DC-CKD).",
+    "actor": "you"
   }
 ]

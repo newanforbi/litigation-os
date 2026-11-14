@@ -1313,7 +1313,14 @@
       "lifecycle": "active",
       "proceeding": "federal_civil",
       "phase": "pleadings",
-      "next_clock": null,
+      "next_clock": {
+        "id": "39-cert-of-service",
+        "date": "2026-11-16",
+        "kind": "deadline",
+        "status": "open",
+        "title": "FILE — certificate/proof of service of summons and complaint on Best Buy (ECF 5: within 10 days after service; service reported Nov. 6, 2026). Signed proof requested from L.A. Process Servers Nov. 10; not received as of Nov. 14. If still missing Monday, file a short notice stating the reported Nov. 6 service and that the signed proof will be filed on receipt — Ngwa Nforbi v. Best Buy (E.D. Cal. 2:26-cv-03315-DC-CKD).",
+        "source_dkt": 5
+      },
       "overdue": false,
       "last_updated": "2026-11-10",
       "files": [
