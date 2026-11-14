@@ -1,0 +1,279 @@
+{
+  "matter": 39,
+  "caption": "Brendan Ngwa Nforbi v. Best Buy Co., Inc., E.D. Cal. 2:26-cv-03315-DC-CKD (PS)",
+  "as_of": "2026-11-14",
+  "note": "Private. Proof map and valuation for settlement only. Never attach, quote, or paraphrase in anything defense counsel sees. Probabilities are Plaintiff's working estimates: change them here and rerun `npm run valuation -- --matter 39`. STARTER FILE: weekly hours, interim earnings, emotional-distress figure, the transaction-specific First Advantage report, and the e-signature audit trail are unknown. Damages lines carrying amount 0 are placeholders, not values. No walk-away is set; the guard refuses every number until one is.",
+  "evidence": [
+    {
+      "id": "app-ack",
+      "label": "Best Buy HR application acknowledgment, requisition 928556BR (Oct. 13, 2023)",
+      "sha256": "d6d5c963a4fe36c67122e6c24fd3da51d9fc8cea03479634f917df1d97468b8d",
+      "pin": "documents/matter-39/Thank You for Your Application - Best Buy 928556BR (Oct 13 2023).pdf",
+      "status": "in_hand",
+      "seen_by_defense": false,
+      "reserve": false
+    },
+    {
+      "id": "offer-email",
+      "label": "Offer email from Jose Tapia, General Manager (Oct. 17, 2023, 3:47 p.m.)",
+      "sha256": "896e0c36c91c2fdeb2c4ab46be4d06e82f52c1b09513090abba2fa04446d2eec",
+      "pin": "documents/matter-39/Job Offer - Best Buy General Warehouse Worker 2nd Shift (Oct 17 2023).pdf; quoted in Verified Complaint ¶ 27",
+      "quote": "Congratulations on receiving an offer for General Warehouse Worker/2nd Shift @ $22.60 from Best Buy!",
+      "status": "in_hand",
+      "seen_by_defense": false,
+      "reserve": false,
+      "why": "Also directs signing the offer paperwork in the Candidate Zone using brennforbi@gmail.com. That instruction supports Best Buy's formation argument; quote only the offer sentence."
+    },
+    {
+      "id": "bg-auth",
+      "label": "Background authorization consent confirmation naming First Advantage Consumer Center (Oct. 17, 2023, ~4:22 p.m.)",
+      "sha256": "1f34cf18dc8c0ea108334081ee6818311ea8ee92a592a9ce8719e8d8a0bdd7f4",
+      "pin": "documents/matter-39/Background Authorization Consent Confirmation (Oct 17 2023).pdf",
+      "status": "in_hand",
+      "seen_by_defense": false,
+      "reserve": false
+    },
+    {
+      "id": "drug-order",
+      "label": "First Advantage drug-test order, account BEST BUY (11759586), registration Q09078711 (Oct. 17, 2023, 4:30 p.m.)",
+      "sha256": "419bcec78f271b3abb6244925571d3d0a26307ab96d9a264845d1a667f25d32f",
+      "pin": "documents/matter-39/First Advantage Best Buy Drug Test (Oct 17 2023).pdf; quoted in Verified Complaint ¶ 31",
+      "quote": "You are required to complete a drug test as a condition of your offer of employment from Best Buy",
+      "status": "in_hand",
+      "seen_by_defense": false,
+      "reserve": false
+    },
+    {
+      "id": "drug-reminder",
+      "label": "Best Buy HR 'Drug Screen: Reminder' (Oct. 17, 2023, 5:31 p.m.)",
+      "sha256": "0e8af427d7392dbbc76e8755df5824a9073a0f5eb2c61aac2530424069df04d8",
+      "pin": "documents/matter-39/Best Buy Drug Screen Reminder (Oct 17 2023).pdf; quoted in Verified Complaint ¶ 32",
+      "quote": "Congratulations on accepting your offer with Best Buy!",
+      "status": "in_hand",
+      "seen_by_defense": false,
+      "reserve": false
+    },
+    {
+      "id": "complaint",
+      "label": "Complaint (ECF 1), filed Sep. 18, 2026",
+      "sha256": "0ce42b39c6b81729b3fc938f4399fdcc7a7a3c3c1448e8b7e7801f47d626552a",
+      "pin": "ECF 1",
+      "quote": "Plaintiff's own allegations; the § 290.46 registry-use theory is pleaded on information and belief.",
+      "status": "on_record",
+      "seen_by_defense": true,
+      "reserve": false,
+      "do_not_cite_in_letter": true,
+      "why": "A pleading is not proof. Cite the underlying 2023 records instead."
+    },
+    {
+      "id": "offer-response",
+      "label": "Best Buy '928556BR : Candidate Offer Response' (Doc ID 4360E10A-E599-4FBA-B56B-C5371843E106), produced by Ogletree Nov. 13, 2026",
+      "pin": "Taylor email attachment, Nov. 13, 2026, 5:10 p.m.",
+      "quote": "I Agree to Best Buy's Arbitration Policy",
+      "status": "produced",
+      "seen_by_defense": true,
+      "reserve": false,
+      "do_not_cite_in_letter": true,
+      "why": "Best Buy's formation exhibit. Shows only 'Date added: 17-Oct-2023' and 'Added by: Submission, System ()'; no signing timestamp, IP, device, or login trail. It also confirms the offer was contingent on background results."
+    },
+    {
+      "id": "arb-policy",
+      "label": "Best Buy Arbitration Policy (eff. Mar. 15, 2016), produced Nov. 13, 2026",
+      "pin": "Taylor email attachment, Nov. 13, 2026",
+      "quote": "Best Buy pays arbitration administrative fees and arbitrator fees",
+      "status": "produced",
+      "seen_by_defense": true,
+      "reserve": true,
+      "why_reserve": "Best Buy's fee burden in arbitration is the cost lever for mediation. Raise it as a reason, never as an addition to the ask. Paraphrase of the fees provision; confirm wording against the PDF before quoting."
+    },
+    {
+      "id": "audit-trail",
+      "label": "E-signature audit trail, credential and account records, eSignature Terms and e-consent, policy version in effect Oct. 2023",
+      "status": "requested",
+      "seen_by_defense": true,
+      "reserve": false,
+      "why": "Requested from Ogletree Nov. 13, 2026, 5:27 p.m. Decides whether the formation fight is real."
+    },
+    {
+      "id": "candidate-zone-inbox",
+      "label": "Candidate Zone and onboarding emails in brennforbi@gmail.com (Oct. 13-18, 2023)",
+      "status": "pending",
+      "seen_by_defense": false,
+      "reserve": false,
+      "why": "Not yet searched. May show weekly hours, the offer paperwork, and the arbitration screen."
+    },
+    {
+      "id": "fadv-report",
+      "label": "First Advantage transaction-specific employment report for Best Buy (Oct. 2023) and its source fields",
+      "status": "pending",
+      "seen_by_defense": false,
+      "reserve": false,
+      "why": "Not requested yet. FCRA § 1681g(a)(3) recipient disclosure covers two years for employment purposes; Oct. 2023 is now outside that window, so the file may not list Best Buy. Discovery (court or arbitration) is the fallback."
+    }
+  ],
+  "elements": [
+    {
+      "id": "offer-accepted",
+      "claim": "Pen. Code § 290.46(j)(2)(E)",
+      "element": "Employment relationship: an accepted conditional offer for a specific Tracy warehouse requisition",
+      "evidence": ["app-ack", "offer-email", "bg-auth", "drug-order", "drug-reminder"],
+      "proof": "documented",
+      "note": "Same-day sequence: offer 3:47 p.m., background authorization ~4:22 p.m., drug order 4:30 p.m., 'congratulations on accepting' 5:31 p.m."
+    },
+    {
+      "id": "adverse-decision",
+      "claim": "Pen. Code § 290.46(j)(2)(E)",
+      "element": "Best Buy denied, withdrew, or failed to finalize the accepted employment",
+      "evidence": [],
+      "proof": "unproven",
+      "note": "Pleaded as cessation of contact with no stated reason. No pre-adverse or adverse-action letter in the file. Testimony plus absence of records; Best Buy's decision records are needed."
+    },
+    {
+      "id": "registry-use",
+      "claim": "Pen. Code § 290.46(j)(2)(E)",
+      "element": "Information disclosed pursuant to § 290.46 was used in the decision",
+      "evidence": [],
+      "proof": "unproven",
+      "note": "Information and belief only. This is the Lerma-territory gap (memo Rule 11): without a registry-source line the claim prices near nuisance."
+    },
+    {
+      "id": "causation",
+      "claim": "Pen. Code § 290.46(j)(2)(E)",
+      "element": "Registry information was a substantial factor in the decision",
+      "evidence": [],
+      "proof": "unproven",
+      "note": "Depends on the report and Best Buy's adjudication notes."
+    },
+    {
+      "id": "damages-basis",
+      "claim": "Pen. Code § 290.46(j)(4)(A)",
+      "element": "Actual damages measurable from documented pay terms",
+      "evidence": ["offer-email"],
+      "proof": "disputed",
+      "note": "Rate ($22.60) is documented; weekly hours, start date, and duration are not."
+    }
+  ],
+  "defenses": [
+    {
+      "id": "arbitration",
+      "name": "Motion to compel arbitration (Arbitration Policy; Candidate Offer Response)",
+      "threat": "high",
+      "answered_by": [],
+      "open_questions": [
+        "Does Best Buy's audit trail tie the Offer Response to credentials only Plaintiff controlled?",
+        "Was the Mar. 15, 2016 policy the version in effect in Oct. 2023?",
+        "What do the brennforbi@gmail.com Candidate Zone emails show? The complaint pleads acceptance of the offer through the Candidate Zone, which limits any sworn denial."
+      ],
+      "cuts": [],
+      "note": "Moves the forum; does not reduce damages lines. Its value effect is leverage and timing, not math."
+    },
+    {
+      "id": "independent-basis",
+      "name": "Decision rested on lawfully obtained conviction information or another non-§ 290.46 reason",
+      "threat": "high",
+      "answered_by": [],
+      "open_questions": [
+        "What did the First Advantage report contain and source?",
+        "What did Best Buy's adjudication record say?"
+      ],
+      "cuts": ["back_pay", "additional", "exemplary", "distress"]
+    },
+    {
+      "id": "limitations-penalty",
+      "name": "One-year limitations for statutory penalties (Code Civ. Proc. § 340(a)) as to penalty-type relief",
+      "threat": "medium",
+      "answered_by": [],
+      "open_questions": [
+        "Whether § 340(a) reaches the § 290.46(j)(4)(A) additional amount or exemplary relief, versus the three-year period of § 338(a) for statutory liability [UNVERIFIED: run citation-verify before relying on either]"
+      ],
+      "cuts": ["additional", "exemplary"]
+    },
+    {
+      "id": "mitigation",
+      "name": "Interim earnings and failure to mitigate since Oct. 2023",
+      "threat": "medium",
+      "answered_by": [],
+      "open_questions": ["Plaintiff's earnings from Oct. 2023 to date, by period"],
+      "cuts": ["back_pay"]
+    },
+    {
+      "id": "contingent-offer",
+      "name": "Offer was expressly contingent on favorable background results; employment at will",
+      "threat": "low",
+      "answered_by": [],
+      "open_questions": ["Answered on the law if § 290.46 bars the registry use itself; depends on registry-use proof"],
+      "cuts": ["back_pay"]
+    }
+  ],
+  "damages": [
+    {
+      "id": "back_pay",
+      "label": "Lost wages: $22.60 × [weekly hours: UNKNOWN] × [supportable period: UNKNOWN], less interim earnings. PLACEHOLDER",
+      "amount": 0,
+      "evidence": ["offer-email"],
+      "p": 0.3,
+      "why_p": "Rate documented; hours and duration undocumented; mitigation offset unknown. Set the amount only from a document or truthful recollection."
+    },
+    {
+      "id": "additional",
+      "label": "§ 290.46(j)(4)(A) additional amount: at least $250, up to treble actual damages (memo § 8). Floor shown; treble depends on back_pay",
+      "amount": 250,
+      "evidence": [],
+      "p": 0.2,
+      "why_p": "Rides entirely on registry-use proof, which is information-and-belief today."
+    },
+    {
+      "id": "exemplary",
+      "label": "§ 290.46(j)(4)(A) exemplary damages (pleaded instead of the civil penalty; memo § 8 reads the exemplary-or-penalty relief as capped at $25,000; confirm statute text)",
+      "amount": 25000,
+      "evidence": [],
+      "p": 0.05,
+      "why_p": "Needs registry use plus the culpability showing; nothing in hand shows Best Buy knew the use was barred."
+    },
+    {
+      "id": "distress",
+      "label": "Emotional distress: Plaintiff's figure to set. PLACEHOLDER",
+      "amount": 0,
+      "evidence": [],
+      "p": 0.25,
+      "why_p": "Testimony only; no records."
+    }
+  ],
+  "positions": {
+    "opening": null,
+    "opening_basis": "None. Memo § 4 has no Best Buy row and § 4A has no defense wage math (Plaintiff filed in federal court; no removal). Engine must run on Plaintiff's own documented hours once found.",
+    "bracket": null,
+    "trigger": {
+      "label": "First Advantage report or Best Buy records tie the decision to a California-registry source (memo Rule 11)",
+      "met_by": ["fadv-report"],
+      "note": "Not met. Until it is, value sits near the nuisance band regardless of forum."
+    }
+  },
+  "repricing_events": [
+    {
+      "event": "Audit trail produced",
+      "if_favorable": "No signing timestamp, IP, or credential control shown: formation fight is real; raise leverage, mediation before the motion.",
+      "if_unfavorable": "Clean trail and competent HR declaration: assume arbitration; leverage is Best Buy's arbitrator-fee burden."
+    },
+    {
+      "event": "brennforbi@gmail.com searched for Oct. 2023",
+      "if_favorable": "Weekly hours documented: fill back_pay and run the § 4A engine on Plaintiff's inputs.",
+      "if_unfavorable": "No hours: back_pay stays a placeholder; price on statutory relief and distress only."
+    },
+    {
+      "event": "First Advantage report or Best Buy adjudication record obtained",
+      "if_favorable": "Registry-source line: trigger met; raise additional, exemplary, and distress p sharply.",
+      "if_unfavorable": "Lawful conviction source only: lower everything; consider whether the claim survives."
+    },
+    {
+      "event": "Motion to compel decided",
+      "if_favorable": "Denied: public jury case; Best Buy's risk rises; reprice up.",
+      "if_unfavorable": "Granted with stay: arbitrator-fee meter starts for Best Buy; natural mediation point."
+    },
+    {
+      "event": "Interim earnings computed",
+      "if_favorable": "Low interim earnings: back_pay offset small.",
+      "if_unfavorable": "Substantial interim earnings: back_pay largely offset."
+    }
+  ]
+}
