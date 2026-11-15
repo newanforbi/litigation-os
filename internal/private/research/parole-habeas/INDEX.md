@@ -153,7 +153,7 @@ C1761642 itself is **not** a portfolio matter number. It is the 2018 criminal ca
 
 Private notes only: `internal/private/prenup/IMMIGRATION_NOTES.md`.
 
-- Immigration Court, Aurora, Colorado, Judge Elizabeth McGrail, **Feb. 8, 2021**: removable under INA §§ 237(a)(1)(B) and 237(a)(2)(A)(iii) (aggravated felony). Asylum / withholding denied. **CAT deferral granted.** Removal to Cameroon ordered; both sides waived appeal — **final Feb. 8, 2021**.
+- Immigration Court, Aurora, Colorado, Judge Elizabeth McGrail, **Feb. 8, 2021**: removable under INA §§ 237(a)(1)(B) and 237(a)(2)(A)(iii) (aggravated felony). Asylum / withholding denied. **CAT deferral granted.** Removal to Cameroon ordered; both sides waived appeal — **final Feb. 8, 2021**. Letter-size scan: `internal/private/research/parole-habeas/Immigration-Judge-Order-Feb-8-2021-Letter.pdf`.
 - ICE Form I-220B Order of Supervision Apr. 30, 2021; released May 10, 2021.
 - This is a **second custody system** (ICE OSUP) sitting on top of CDCR parole. It is not CDCR habeas, but it is why PC § 1473.7 and vacatur of C1761642 matter, and why Matter 20’s U-visa writ is in the parole conversation.
 
@@ -162,6 +162,13 @@ Do not contact ICE, a spouse, or any third party from this workspace.
 ---
 
 ## 6. Document map (repo paths)
+
+### Immigration (private)
+
+| Doc | Path |
+|---|---|
+| Order of the Immigration Judge (Aurora, Feb. 8, 2021) — letter size (8.5×11 in) | `internal/private/research/parole-habeas/Immigration-Judge-Order-Feb-8-2021-Letter.pdf` |
+| Prenup immigration notes | `internal/private/prenup/IMMIGRATION_NOTES.md` |
 
 ### Underlying conviction / parole term
 

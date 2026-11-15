@@ -332,7 +332,7 @@ No plea colloquy, no *Padilla* advice, no IAC record, no recantation, no DNA, no
 
 ### Immigration (for 1473.7 later)
 
-- [ ] IJ order Feb. 8, 2021; BIA/waiver papers; I-220B; A-number file.
+- [x] IJ order Feb. 8, 2021 — `internal/private/research/parole-habeas/Immigration-Judge-Order-Feb-8-2021-Letter.pdf`. Still missing: BIA/waiver papers; I-220B; A-number file.
 - [ ] Any notice that uses C1761642 as the removal ground (starts the 1473.7(b)(2) diligence facts).
 
 ### Companion civil
