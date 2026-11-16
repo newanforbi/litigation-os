@@ -161,7 +161,7 @@
     "date": "2026-11-04",
     "time": "16:00",
     "kind": "hearing",
-    "status": "open",
+    "status": "vacated",
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-32/from-20/Notice of Case Management Conference.pdf",
@@ -173,7 +173,7 @@
     "id": "20-deadline-writ-open",
     "date": "2026-11-13",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-20/Stipulation and Order re Briefing Schedule - Signed Whitman (Filed Oct 26 2026).pdf",
@@ -187,7 +187,7 @@
     "date": "2026-11-16",
     "date_label": "Nov. 16, 2026",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": null,
     "actor": "you",
     "source": "/documents/matter-20/Stipulation and Order re Briefing Schedule - Signed Whitman (Filed Oct 26 2026).pdf",
@@ -207,5 +207,15 @@
     "title": "Hand-deliver courtesy copy of the reply to Dept. 25 (Rene C. Davidson Courthouse) within one court day of filing — Newanforbi v. CHP et al. (26CV191136). Order of Oct. 26, 2026.",
     "note": "Date assumes filing on the deadline; if filed earlier, the courtesy copy is due one court day after the actual filing date. Source: Order re Briefing Schedule, p. 4 (\"Courtesy copies shall be hand delivered to Dept. 25 within one court day of filing.\")",
     "tz": "America/Los_Angeles"
+  },
+  {
+    "id": "20-mtc-rfp-set1",
+    "date": "2026-12-04",
+    "date_label": "Dec. 4, 2026",
+    "kind": "deadline",
+    "status": "open",
+    "actor": "you",
+    "tz": "America/Los_Angeles",
+    "title": "Last day to move to compel further responses to RFP Set One — Newanforbi v. CHP et al. (Alameda Sup. Ct. 26CV191136). Computed as 45 days from CHP's Oct. 20, 2026 verified responses (Fri. Dec. 4, 2026). Whether CHP's Nov. 5, 2026 supplemental production / amended privilege log moved this date is UNVERIFIED."
   }
 ]

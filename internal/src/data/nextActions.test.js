@@ -531,7 +531,10 @@ describe("buildQueue against the live clocks", () => {
   it("reads Matter 24's next clock from clocks.json, not the vacated Sep. 30 date", () => {
     const clocks = loadAllClocks(MATTERS_DIR).get(24);
     const { next_clock, overdue } = nextFromClocks(clocks, "2026-09-17");
-    expect(next_clock.date).toBe("2026-11-16");
+    // Dkt. 33 (text-only clerk's notice, filed Oct. 30, 2026) set the
+    // appearance list due Dec. 14, 2026, 3:00 p.m. PST, moving it off the
+    // vacated Dkt. 30 / Nov. 16 date tied to the Nov. 20 hearing.
+    expect(next_clock.date).toBe("2026-12-14");
     expect(next_clock.id).toBe("appearance-notice");
     expect(overdue).toBe(false);
     expect(clocks.find((c) => c.id === "mtd-hearing-sep30").status).toBe("vacated");

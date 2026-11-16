@@ -32,5 +32,36 @@
     "title": "USER REPORT — AO 239 IFP application (Dkt. 2) withdrawn as moot after the Oct. 27, 2026 fee payment — Brendan Ngwa Nforbi v. Best Buy Co., Inc. (E.D. Cal. 2:26-cv-03315-DC-CKD (PS)). No withdrawal motion/order PDF ingested.",
     "date_label": "Oct. 27, 2026",
     "tz": "America/Los_Angeles"
+  },
+  {
+    "id": "39-pos-service",
+    "date": "2026-11-06",
+    "date_label": "Nov. 6, 2026",
+    "time": "11:24",
+    "tz": "America/Los_Angeles",
+    "kind": "filing",
+    "status": "satisfied",
+    "actor": "you",
+    "title": "CT Corporation System, registered agent for Best Buy Co., Inc., served Nov. 6, 2026, at 11:24 a.m. in Glendale (Diana Ruiz, Agent) — Nforbi v. Best Buy (E.D. Cal. 2:26-cv-03315-DC-CKD). LA Process Servers POS emailed Nov. 14, 2026. UNVERIFIED whether the POS has been filed on ECF."
+  },
+  {
+    "id": "39-answer-or-rule12",
+    "date": "2026-11-27",
+    "date_label": "Nov. 27, 2026",
+    "kind": "deadline",
+    "status": "open",
+    "actor": "opposing",
+    "tz": "America/Los_Angeles",
+    "title": "WATCH — Best Buy answer or Rule 12 motion due 21 days after Nov. 6, 2026 service of process (FRCP 12(a)(1)(A)(i)) — Nforbi v. Best Buy (E.D. Cal. 2:26-cv-03315-DC-CKD)."
+  },
+  {
+    "id": "39-watch-arb-motion",
+    "date": "2026-11-23",
+    "date_label": "Nov. 23, 2026",
+    "kind": "watch",
+    "status": "contingent",
+    "actor": "opposing",
+    "tz": "America/Los_Angeles",
+    "title": "WATCH — Ogletree (Trinity Taylor) stated on Nov. 14, 2026 that Best Buy will likely file a motion to compel arbitration by Nov. 23. This is counsel's stated plan, not a court-ordered deadline — Nforbi v. Best Buy (E.D. Cal. 2:26-cv-03315-DC-CKD)."
   }
 ]
