@@ -1,0 +1,13 @@
+{
+  "path": "/documents/matter-24/Related Case Order - Serrato Dkt 34 - Meza-Gonzalez Reassigned to Judge Breyer (Filed Nov 3 2026).pdf",
+  "sha256": "b632700a705012368510c050cd4bd2713d51e8dc0fe581e5c6f7259a00f742aa",
+  "bytes": 135090,
+  "pages": 1,
+  "dkt": 34,
+  "date": "2026-11-03",
+  "author": "Hon. Charles R. Breyer",
+  "doc_type": "procedural_order",
+  "extract": "hand",
+  "cites": ["Civil L.R. 3-12", "Fed. R. Civ. P. 16", "Fed. R. Civ. P. 26"],
+  "holds_one_liner": "Ministerial related-case order. Judge Breyer finds Brendan Ngwa Nforbi v. Meza-Gonzalez (26-cv-08271, formerly AMO) related to Ngehsi Newanforbi v. Serrato and reassigns it to himself. Future filings bear CRB (4:26-cv-08271-CRB). Noticed motion dates are vacated and must be re-noticed. ADR and case-management-order deadlines continue, except court appearance dates."
+}

@@ -1,0 +1,1376 @@
+Case 5:26-cv-12781-NW               Document 1     Filed 10/29/26      Page 1 of 21           PageID #: 1
+
+
+
+
+   1   BRENDAN NGWA NFORBI
+       Plaintiff, In Propria Persona                                    FILED
+   2
+       1455 Cat Tail Drive
+
+   3   Stockton, California 95204                                           OCT 29 2026
+       Telephone:(209)801-4442
+                                                                       CLERK, U.S. DISTRICT COURT
+   4   Email: bnn.cdl@gmail.com                                     NORTHERN DISTRICT OF CALIFORNIA      ^
+   5
+
+
+   6
+
+
+   7                                   UNITED STATES DISTRICT COURT
+
+   8                                 NORTHERN DISTRICT OF CALIFORNIA
+
+   9                                                                                                         NW
+  10    BRENDAN NGWA NFORBI,                            e -26 12781
+  11                   Plaintiff,                              COMPLAINT FOR DAMAGES AND
+                                                               INJUNCTIVE RELIEF
+  12
+            V.
+
+                                                               1. Fair Credit Reporting Act, 15 U.S.C.
+  13
+        STAPLES THE OFFICE SUPERSTORE,LLC;                         § 168lb(b)(3)(A)
+        and DOES 1 through 25, inclusive.                      2. Investigative Consumer Reporting Agencies
+  14
+                                                                   Act, Cal. Civ. Code § 1786.16(b)
+  15                                                           3. Cal. Penal Code § 290.460)
+                                                               4. California Unfair Competition Law, Cal. Bus.
+  16                                                             & Prof. Code § 17200
+
+  17                   Defendants.                             JURY TRIAL DEMANDED
+
+
+  18
+
+
+  19             Plaintiff BRENDAN NGWA NFORBI,appearing on his own behalf, alleges:
+
+  20
+
+
+  21                                        NATURE OF THE ACTION
+
+  22
+
+
+  23   1. This action concerns a specific accepted employment opportimity and a report-based failure
+
+  24   to permit Plaintiff to begin paid work. Staples offered Plaintiff a full-time Retail Sales
+
+  25   Supervisor position at its Milpilas, California store for $22.00 per hour. The offer was
+
+  26   conditional on completion of a background screening, and it stated that the store's general
+
+  27   manager would contact Plaintiff to confirm a start date when the screening results were
+
+  28   returned.
+
+
+                                                      Page 1
+                                    COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1          Filed 10/29/26      Page 2 of 21        PageID #: 2
+
+
+
+
+   1   2. Plaintiff completed every pre-day-one screening task communicated to him through the
+
+   2   Staples and First Advantage hiring workflow. On October 7, 2026, First Advantage sent
+   3   Plaintiff a Background Screening Notice stating that it was reporting public-record
+   4   information to "Staples Retail" at 500 Staples Drive, Framingham, Massachusetts. After that
+
+   5   transmission, Staples did not provide a manager-confirmed start date, orientation, a first shift,
+
+   6   or authorization to report for paid work.
+
+   7
+
+
+   8   3. Plaintiff has not seen the Staples-specific report. On information and belief, a responsible
+
+   9   Staples hiring or screening user received or accessed a report or report component and treated
+  10   information from the California publicly disseminated sex-offender registry as a barrier to
+
+  11   Plaintiffs commencement. Plaintiff pleads those internal facts on infonnation and belief
+
+  12   because the report, source fields, audit trail, applicant-tracking status, adjudication records,
+
+  13   and hiring communications are in Defendants' or First Advantage's possession.
+
+  14
+
+
+  15   4. The actionable theory is not silence alone. Plaintiff alleges that Staples made or maintained
+
+  16   an employer-controlled decision not to release him to paid work under the accepted offer after
+  17   the report-based screening event, while withholding the report and rights information
+
+  18   necessary to examine and challenge the source and use of the information. Plaintiff separately
+  19   alleges that he elected to receive a copy of the investigative consumer report and did not
+  20   receive that copy within the period required by California law, whether or not Staples
+  21   characterizes the application as still pending.
+
+  22
+
+
+  23   5. Plaintiff seeks actual and statutory damages,enhanced or punitive relief only where
+
+  24   authorized and proved, narrowly tailored equitable relief for any continuing violation, costs,
+
+  25   applicable fees, and a jury trial on all triable issues. Plaintiff does not seek duplicate recovery
+
+  26   or an order compelling Staples to employ him.
+
+  27
+
+
+  28
+
+
+                                                      Page 2
+                                COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26        Page 3 of 21        PageID #: 3
+
+
+
+
+   1                                                PARTIES
+
+   2
+
+
+   3   6. Plaintiff Brendan Ngwa Nforbi is an individual residing in Stockton, San Joaquin County,
+
+   4   California. He applied for and accepted the position described below at a Staples store in
+
+   5   Milpitas, Santa Clara County, California. He was ready and willing to complete lawful
+
+   6   onboarding and perform assigned work.
+
+   7
+
+
+   8   7. Defendant Staples The Office Superstore, LLC("Staples" or "Staples Retail Operator") is,
+
+   9   on information and belief, the Staples retail operating and employing entity that operated the
+
+  10   Milpitas store and participated in or controlled the relevant hiring and screening process. The
+
+  11   October 7 notice identifies "Staples Retail" at 500 Staples Drive, Framingham, Massachusetts
+
+  12   as the report recipient. Plaintiff names the Superstore entity because the offer, proposed
+
+  13   workplace, and retail employment opportunity were associated with its Staples retail
+  14   operations, while the employer-of-record. First Advantage client-account, applicant-tracking,
+
+  15   and adjudication records will establish the precise capacities and acts attributable to it.
+
+  16
+
+
+  17   9. Plaintiff presently does not know the identities or capacities of Does 1 through 25. Plaintiff
+
+  18   alleges each Doe defendant only to the extent that the person or entity procured, received,
+
+  19   accessed, used, directed, authorized, or ratified the conduct alleged. Plaintiff will seek leave to
+
+  20   amend when discovery identifies proper parties.
+
+  21
+
+
+  22   10. First Advantage is identified as the reporting agency and a relevant nonparty source of
+
+  23   records. Plaintiff does not assert a cause of action against First Advantage in this complaint.
+
+  24
+
+
+  25                                    JURISDICTION AND VENUE
+
+  26
+
+  27   11. This Court has federal-question Jurisdiction imder 28 U.S.C. § 1331 because Plaintiff
+
+  28   asserts a claim under the Fair Credit Reporting Act, including 15 U.S.C. § 1681b(b)(3)(A).
+
+                                                     Page 3
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW         Document 1         Filed 10/29/26       Page 4 of 21        PageID #: 4
+
+
+
+
+   1   Jurisdiction and remedies are also governed by 15 U.S.C. §§ 168In, I68I0, and 1681 p.
+
+   2
+
+
+   3   12. The Court has supplemental jurisdiction under 28 U.S.C. § 1367(a) over the related
+   4   California claims because they arise from the same background-screening workflow, report
+
+   5   transmission, hiring process, noncommcnccmcnt, and communications.
+
+   6
+
+
+   7   13. The Court has personal jurisdiction over the responsible defendants because the challenged
+   8   conduct concerned hiring for a California retail position, occurred in connection with a
+   9   California workplace, and was directed toward Plaintiff in California.
+
+  10
+
+
+  11   14. Venue is proper in this District under 28 U.S.C. § 1391(b)(2) because a substantial part of
+  12   the events and omissions giving rise to the claims occurred in connection with the Staples
+
+  13   store and proposed workplace at 627 East Calaveras Boulevard, Milpitas, California 95035.
+  14   Assignment to the San Jose Division is appropriate because the position and material
+  15   employment events were in Santa Clara County.
+
+  16
+
+
+  17   15. Plaintiff alleges concrete injury, including loss of access to a specific accepted
+
+  18   employment opportunity and its wages, loss of timely access to the report and rights summary
+  19   before the alleged report-based employment consequence became effective, and associated
+  20   non-economic injury. The requested damages and prospective relief would redress those
+
+  21   injuries.
+
+  22
+
+
+  23                                      FACTUAL ALLEGATIONS
+
+  24
+
+
+  25   A. The particular employment opportunity
+
+  26
+
+
+  27   16. On or about September 28, 2026, Staples advertised a full-time, on-site Retail Sales
+
+  28   Supervisor position at 627 East Calaveras Boulevard, Milpitas, California 95035, Job ID
+
+                                                     Page 4
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26       Page 5 of 21          PageID #: 5
+
+
+
+
+   1   F9410. The posting described the position as "Hiring immediately," stated a pay range of
+   2   $22.00 to $22.25 per hour, and described duties including customer engagement, floor
+
+   3   leadership, merchandising, coaching associates, and assisting the general manager.
+
+   4
+
+
+   5   17. The posting represented that applicants with arrest or conviction histories would be
+
+   6   considered consistently with applicable fair-chance laws. It did not state that placement on
+
+   7   California's sex-offender registry categorically disqualified an applicant from the Retail Sales
+
+   8   Supervisor position.
+
+   9
+
+
+  10   18. On September 29, 2026, at approximately 4:45 p.m.. Staples sent Plaintiff an email with
+
+  11   the subject "Congratulations! Your Staples Offer Has Been Accepted." The email confirmed a
+
+  12   Retail Sales Supervisor offer at $22.00 per hour, weekly Friday pay, overtime eligibility, and a
+
+  13   tentative October 5, 2026 start date.
+
+  14
+
+
+  15   19. The offer stated that the tentative start date was subject to change. Plaintiff does not allege
+
+  16   that October 5 was an unconditional guarantee of wages or employment for a fixed period.
+
+  17
+
+
+  18   20. The offer also stated that employment was contingent on passing the baekground
+
+  19   screening and that, when the background results were returned, the store's general manager
+
+  20   would contact Plaintiff to confirm his start date. Form 1-9 verification and other
+
+  21   acknowledgments were described as day-one or upon-hire tasks. Plaintiff therefore understood
+
+  22   that he could not self-schedule or begin paid retail shifts without Staples' authorization.
+
+  23
+
+  24   21. Plaintiff accepted the offered opportunity, remained ready and willing to work at the stated
+
+  25   rate, and completed every pre-day-one screening task communicated to him. No document in
+
+  26   Plaintiffs possession directed him to complete a fuither pre-day-one background-screening
+
+  27   task, supplied a later confimied reporting date, or authorized him to appear for a paid shift.
+
+  28
+
+
+                                                     Page 5
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26       Page 6 of 21        PageID #: 6
+
+
+
+
+   1   B.The First Advantage workflow and October 7 notice
+
+   2
+
+
+   3   22. On or about September 30, 2026, Plaintiff electronically completed and signed the First
+   4   Advantage authorization for "Staples Retail Screening." The retained candidate-portal capture
+
+   5   identifies "Staples Retail Screening" as "Form Completed 9/30/2026" and shows completed
+
+   6   workflow and "Consent.pdf documents. The same capture contains a report-status field
+   7   reading "Report Pending." The capture does not itself establish a later completed-report status,
+   8   adjudication result, or final Staples decision.
+
+   9
+
+
+  10   23. The authorization workflow presented a California investigative-eonsumer-report
+
+  11   disclosure and a mechanism for electing delivery of a copy of a resulting report. Plaintiff
+
+  12   elected to receive a copy. The executed consent, election record, delivery address, and
+
+  13   electronic audit trail will establish the exact wording, selection, and timestamp. Plaintiff has
+
+  14   received no Staples-specific report by email, postal mail, portal delivery, or any other method
+  15   available to him.
+
+  16
+
+
+  17   24. At approximately 5:25 a.m. on October 7, 2026, First Advantage emailed Plaintiff a
+  18   "Background Screening Notice." The notice stated that First Advantage "is reporting public
+  19   record information" to "Staples Retail" at 500 Staples Drive, Framingham. Massachusetts
+
+  20   01701.
+
+  21
+
+
+  22   25. The October 7 notice did not identify the public records, complete report contents, report
+
+  23   score, adjudication criteria, report-delivery timestamp, or employer hiring disposition. It did
+  24   not provide Plaintiff with the report itself or a written summary of FCRA rights.
+
+  25
+
+
+  26   26. The October 7 notice supports a reasonable inference that a public-record report
+
+  27   component was being transmitted or made available to the named Staples recipient for
+  28   employment purposes. It does not, standing alone, establish the complete contents of the
+
+                                                     Page 6
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26        Page 7 of 21        PageID #: 7
+
+
+
+
+   1   Staples report or the identity of the person who accessed it.
+   2
+
+
+   3   27. On information and belief, the public-record component was furnished to or accessible by
+   4   a responsible Staples hiring or screening user through the ordinary First Advantage client
+   5   workflow on or about October 7. The precise recipient, client account, delivery date, access
+
+   6   log, and report status are within First Advantage's and Defendants' records.
+   7
+
+
+   8   C.The particular basis for the alleged California registry source
+
+   9
+
+
+  10   28. First Advantage previously prepared an employment screening report concerning Plaintiff
+  11   for a different employer on or about July 18,2024. That report separately listed a "First
+
+  12   Advantage National Criminal File Plus" search as "Eligible" with "No Record Found." It also
+  13   listed a "National Sex Offender Registiy Search - Department Of Justice Web Site" that was
+
+  14   marked "Decisional" after a record was found. The detailed result expressly stated:"SOURCE
+
+  15   OF RECORD: CALIFORNIA SEX OFFENDER REGISTRY.'
+
+  16
+
+
+  17   29. The overall "Ineligible" result in that 2024 report reflected the other customer's criteria.
+
+  18   Plaintiff does not allege that the other customer's result was Staples' result or that Staples
+
+  19   adopted the other customer's criteria.
+  20
+
+
+  21   30. Other screening reports concerning PlaintifIMn 2025 and 2026 repeatedly displayed a
+  22   separately identified California registry result. Cheekr reports dated December 23,2025,
+  23   March 27, 2026, August 7, 2026, and October 6, 2026 identified a"CA SEX OFFENDER
+
+  24   REGISTRY" or comparable California registry component. Those reports separately
+
+  25   identified other search categories, including county searches that were clear or received
+
+  26   different flags.
+
+  27
+
+
+  28   31. A May 2026 HireRight report also recorded a California Department of Justice
+
+                                                      Page 7
+                                COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26      Page 8 of 21        PageID #: 8
+
+
+
+
+   1   sex-offender-registry result and warned that registry information may not be used for
+   2   employment except as permitted by California law. A July 2026 InfoMart report identified a
+   3   California registry result while separately reporting county-search results. These materials
+   4   corroborate recurring source identification; they do not, by themselves, establish the contents,
+   5   status, or outcome of the Staples-specific report.
+
+   6
+
+
+   7   32. On information and belief, the Staples First Advantage package contained a comparable
+   8   registry-search entry identifying Plaintiff and naming or deriving its source from California's
+   9   publicly disseminated sex-offender registry, and it presented that entry for employer review.
+  10   The factual basis for that inference is the same vendor's express 2024 California-source label,
+
+  11   the recurring 2025-2026 registry results, the Getobcr 7 notice naming Staples Retail, and the
+  12   ensuing failure to authorize eommcnecmcnt.
+
+  13
+
+
+  14   33. Plaintiff has not seen the Staples report and does not claim the comparison reports prove
+  15   its actual contents. The Staples report, source URL or source code, vendor audit trail,
+
+  16   client-access record, and employer adjudication records will confirm or refute the source
+
+  17   allegation.
+
+  18
+
+
+  19   34. Plaintiff does not challenge an employer's consideration of criminal-history information
+  20   lawfully obtained from an independent source as such. The Penal Code claim pleaded below
+  21   concerns only alleged use of information disclosed through California's publicly disseminated
+  22   sex-offender-registry website, if the Staples report and source records establish that source and
+  23   use.
+
+
+  24
+
+
+  25   D. The report-based noncommencement
+
+  26
+
+
+  27   35. The tentative October 5 start date passed without a manager-confirmed replacement date
+
+  28   or paid shift. Two days later. First Advantage issued the October 7 public-record notice. From
+
+                                                     Page 8
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26       Page 9 of 21        PageID #: 9
+
+
+
+
+   1   the October 7 transmission through October 21, 2026, Staples did not authorize Plaintiff to
+   2   report for paid work,schedule orientation or a first shift, provide a new start date, or identify
+   3   any remaining prc-day-onc screening action that Plaintiff could complete.
+
+   4
+
+
+   5   36. The scheduled day-one Form 1-9 process did not begin. Plaintiff did not refuse an assigned
+
+   6   shift, fail to appear after being instructed to report, or decline a documented onboarding
+
+   7   requirement. He could not lawfully self-schedule or begin paid retail work without Staples'
+   8   authorization.
+
+   9
+
+
+  10   37. On October 13,2026. Staples Careers sent Plaintiff an automated message advertising a
+
+  11   separate part-time warehouse opportunity. The message included a link stating "Click here to
+  12   request to be removed from this list." It did not discuss Job ID F9410, the Retail Sales
+
+  13   Supervisor offer, the background screening, any report, or any hiring decision. The message
+
+  14   was a marketing communication and was not a formal rejection, rescission, or report-based
+  15   notice.
+
+  16
+
+
+  17   38. As of October 21,2026, Plaintiff had received no rejection, withdrawal, report-copy
+
+  18   delivery, FCRA report-and-rights package, manager-confirmed start date, or report-based
+
+  19   reason for the noncommencement. No communication identified an additional task that
+
+  20   Plaintiff needed to perform before he could begin work.
+
+  21
+
+
+  22   39. Plaintiff does not allege that the October 5 tentative date, standing alone, constituted an
+
+  23   adverse action. The alleged actionable consequence is the employer-controlled withholding of
+  24   all paid commencement after the report-based screening event, without a communieated path
+
+  25   to clearance, orientation, scheduling, or paid work.
+
+  26
+
+
+  27   40. On information and belief, a Staples hiring or screening user received or accessed the
+
+  28   report or report component, treated the California registry entry as an obstacle to clearance.
+
+                                                     Page 9
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1         Filed 10/29/26      Page 10 of 21         PageID #:
+                                                  10
+
+
+
+   1   and placed or retained PlaintifTs application in a review, no-start, or other decisionally
+   2   blocking status, or instructed the Milpitas Store not to schedule him. The sequence supports
+
+   3   that inference: the offer made the general manager's confinnation depend on returned
+
+   4   screening results; the results were reported to Staples on October 7; and the promised
+
+   5   confirmation never came.
+
+   6
+
+
+   7   41. The precise internal status and reason remain in Defendants' applicant-tracking history,
+
+   8   reason codes, adjudication workflow,screening-user notes, communications with the store,
+
+   9   staffing records, and requisition history. Plaintiff pleads the report-based no-start decision on
+
+  10   information and belief because those records arc not available to him before discovery.
+
+  11
+
+
+  12   42. Whatever label Staples used internally, the alleged consequence prevented Plaintiff from
+
+  13   commencing the accepted position and earning paid wages. It was therefore a decision for
+
+  14   employment purposes that adversely affected a prospective employee if, as alleged, it was
+
+  15   based in whole or in part on the report.
+
+  16
+
+
+  17   £. Missing report, rights summary,and elected copy
+
+  18
+
+
+  19   43. Before the alleged no-start consequence became operative. Defendants did not provide
+
+  20   Plaintiff with the consumer report relied upon or a written description of his rights under the
+
+  21   FCRA. The October 7 vendor notice did not contain the report or rights summary. The
+
+  22   October 13 marketing email was unrelated.
+
+  23
+
+
+  24   44. Plaintiff therefore could not inspect the actual source field, identify a mismatch or
+
+  25   incomplete source designation, object to the use of information disclosed through the
+
+  26   California registry website, submit contextual information, or seek reconsideration while the
+
+  27   employment opportunity remained available. Plaintiff alleges a lost pre-decision opportunity
+
+  28   connected to an actual employment consequence, not an omission divorced from any
+
+                                                    Page 10
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW           Document 1      Filed 10/29/26       Page 11 of 21        PageID #:
+                                                11
+
+
+
+   1   employment effect.
+
+   2
+
+
+   3   45. Separately, Plaintiff elected to receive a copy of the investigative consumer report through
+
+  4    the California authorization workflow. On information and belief. Staples Retail or the
+
+   5   responsible defendant received a qualifying investigative consumer report or report
+
+  6    component on or about October 7. Neither Defendants nor any agent has sent Plaintiff the
+   7   elected copy, and Plaintiff has received none.
+
+  8
+
+
+  9    46. The precise dale on which a completed report was "provided to the recipient," the identity
+
+  10   of the recipient, and the delivery method are reflected in electronic transmission and access
+
+  11   logs within Defendants' or First Advantage's possession. If receipt occurred on October 7, the
+
+  12   thrcc-busincss-day statutory period expired before October 21, subject to the precise receipt
+
+  13   date and applicable business-day calculation.
+
+  14
+
+
+  15   F.Injury, mitigation, and damages
+
+  16
+
+  17   47. Plaintiff alleges earnings injury beginning no earlier than the report-based exclusion
+
+  18   following October 7, not merely from the passing of the tentative October 5 date. At the
+
+  19   offered rate of S22.00 per hour, a proved eight-hour shift would equal $176.00 in gross wages.
+
+  20   Ten hypothetical eight-hour weekdays between October 8 and October 21 would equal
+
+  21   $1,760.00, but Plaintiff does not allege that Staples guaranteed any particular schedule or
+
+  22   number of hours.
+
+  23
+
+  24   48. Actual back pay depends on the hours Plaintiff would have been scheduled to work, the
+
+  25   duration of the exclusion, interim earnings, mitigation, and the evidence concerning the
+
+  26   position. Plaintiff seeks only causally attributable lost wages and benefits proved through
+
+  27   records and testimony.
+
+  28
+
+
+                                                    Page 11
+                                COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26       Page 12 of 21         PageID #:
+                                                 12
+
+
+
+   1   49. Plaintiff also seeks the proven value of employer-funded benefits, paid leave, retirement
+   2   contributions, and reasonable mitigation or job-search expenses to the extent supported by the
+   3   offer, plan terms, employment records, and evidence of actual loss. Plaintiff docs not assume
+
+  4    that any benefit or future schedule was guaranteed.
+
+   5
+
+
+  6    50. The conduct alleged caused uncertainty concerning an accepted employment opportunity,
+  7    stress concerning delayed wages and future employment, and emotional distress associated
+
+  8    with being prevented from beginning the offered work without access to the source
+
+  9    information needed to respond. Plaintiff seeks compensatory non-economic damages
+  10   according to proof, subject to evidence of nature, severity, duration, causation, and applicable
+
+  11   law.
+
+  12
+
+
+  13   51. Plaintiff seeks future economic loss or front pay only for a period, schedule, and amount
+
+  14   supported by evidence concerning likely employment, actual tenure expectations, replacement
+
+  15   work, and mitigation. Plaintiff does not assert an automatic one-year or two-year entitlement,
+
+  16
+
+
+  17   52. Plaintiff seeks punitive, exemplary, or enhanced relief only where the governing statute
+
+  18   authorizes it and the evidence establishes the required mental state and responsible corporate
+
+  19   conduct. Plaintiff presently lacks access to the internal records identifying the responsible
+
+ 20    decisionmakers and any corporate policy, training instruction, adjudication protocol, approval,
+
+ 21    or ratification. Plaintiff will not count the same economic, emotional, statutory, enhanced, or
+
+ 22    punitive injury twice under overlapping theories.
+
+ 23
+
+
+ 24
+
+
+ 25
+
+
+ 26
+
+
+ 27
+
+
+ 28
+
+
+                                                    Page 12
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW           Document 1        Filed 10/29/26        Page 13 of 21         PageID #:
+                                                  13
+
+
+
+   1                                      FIRST CAUSE OF ACTION
+
+   2                         Fair Credit Reporting Act, 15 U.S.C.§ 1681b(b)(3)(A)
+
+   3
+
+
+   4   53. Plaintiff incorporates paragraphs 1 through 52.
+
+   5
+
+
+   6   54. Defendants procured or caused to be procured a consumer report concerning Plaintifffrom
+
+   7   First Advantage for employment purposes and in connection with the Retail Sales Supervisor
+
+   8   position.
+
+   9
+
+
+  10   55. On infonnation and belief, a responsible Staples defendant received or accessed a report or
+
+  11   report component on or about October 7, including the public-record information described in
+
+  12   the vendor notice, and considered that information in deeiding whether Plaintiff would be
+
+  13   eleared to commenee paid work.
+
+  14
+
+
+  15   56. On information and belief. Staples used the report in whole or in part to implement or
+
+  16   maintain the no-start consequence alleged above. The consequence left Plaintiff without a paid
+
+  17   schedule, orientation, replacement start date, or another communicated action needed to
+
+  18   become eligible to commence work.
+
+  19
+
+
+ 20    57. The alleged employer-controlled no-start eonsequence was a "decision for employment
+
+  21   purposes" that adversely affected a prospective employee within 15 U.S.C.
+
+ 22    § 1681a(k)(l )(B)(ii). Plaintiff does not contend that the initial vendor status, a private internal
+
+ 23    deliberation, or the passage of a tentative date alone constituted the adverse action. He alleges
+
+ 24    that the report-based employment consequence became operative when Staples withheld
+
+ 25    commencement without a eommunicated path to paid work.
+
+ 26
+
+
+ 27    58. Before taking that alleged report-based adverse aetion. Defendants failed to provide
+ 28    Plaintiff with a copy of the consumer report and a written description of his rights under the
+
+                                                     Page 13
+                                COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26        Page 14 of 21        PageID #:
+                                                 14
+
+
+
+   1   FCRA as required by 15 U.S.C. § 1681b(b)(3)(A).
+
+   2
+
+
+   3   59. First Advantage's October 7 notice did not supply the report or rights summary. The
+
+   4   October 13 marketing message was unrelated and did not provide either required document.
+   5   Plaintiff received no report-and-rights paekage before the alleged no-start decision became
+  6    effective.
+
+   7
+
+
+   8   60. The omission deprived Plaintiff of timely aecess to the actual document on whieh the
+
+  9    employer allegedly relied. Plaintiff would have inspected the source and contents, challenged
+
+  10   any inaccurate or misleading entry, objected to employment use of information disclosed
+
+  11   through the California registry website, and supplied contextual information while the hiring
+
+  12   decision could still be reconsidered.
+
+  13
+
+
+  14   61. Defendants' failure was negligent within 15 U.S.C. § I68I0. If discovery establishes that
+
+  15   responsible personnel knew of the FCRA pre-adverse-action requirement and deliberately or
+
+  16   recklessly implemented the report-based no-start consequence without the required materials,
+
+  17   the conduct was willful within 15 U.S.C. § 168 In.
+
+  18
+
+
+  19   62. As a direct and proximate result. Plaintiff suffered employment, informational, and
+
+  20   non-eeonomic injuries, including lost access to paid work and the opportunity to respond
+
+  21   before the report-based consequence took effect. Plaintiff seeks the actual, statutory, punitive,
+
+  22   cost, fee, and other relief authorized by the applicable level of culpability, without duplicative
+
+  23   recovery.
+
+  24
+
+
+  25
+
+
+  26
+
+
+ 27
+
+
+ 28
+
+
+                                                    Page 14
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26       Page 15 of 21        PageID #:
+                                                 15
+
+
+
+   1                                    SECOND CAUSE OF ACTION
+
+   2                  Investigative Consumer Reporting Agencies Act, Cal. Civ. Code
+
+   3                                              § 1786.16(b)
+
+  4
+
+
+   5   63. Plaintiff incorporalcs paragraphs 1 through 52.
+
+  6
+
+
+   7   64. The First Advantage background investigation was procured for an employment purpose
+
+  8    and concerned Plaintiffs character, general reputation, personal characteristics, or mode of
+
+   9   living through public-record and other investigative information, it was therefore an
+
+  10   investigative consumer report governed by California Civil Code § 1786 ct scq.
+
+  11
+
+
+  12   65. On or about September 30,2026, Plaintiff completed Staples' electronic authorization
+
+  13   workflow and elected to receive a copy of the investigative consumer report. The original
+
+  14   executed form and electronic audit record identify the precise election, delivery method,
+
+  15   address, and timestamp.
+
+  16
+
+
+  17   66. On information and belief. Staples Retail or the responsible defendant received an
+
+  18   investigative consumer report or qualifying report component concerning Plaintiffon or about
+
+  19   October 7,2026,as reflected by First Advantage's notice that it was reporting public-record
+
+  20   information to Staples Retail.
+
+  21
+
+
+  22   67. California Civil Code § 1786.16(b) required the report recipient to send the elected copy
+
+  23   within three business days after the report was provided to the recipient, directly or through a
+
+  24   contractor. Defendants and their agents did not send the elected copy within the statutory
+
+  25   period, and Plaintiff received no copy by email, mail, portal delivery, or other method.
+
+  26
+
+
+  27   68. Plaintiff pleads the exact report-receipt date in the alternative because the transmission and
+
+  28   access logs are within Defendants' and First Advantage's control. If Defendants contend that
+
+                                                    Page 15
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26       Page 16 of 21         PageID #:
+                                                 16
+
+
+
+   1   the qualifying report was received later than October 7, the statutory deadline ran from that
+
+   2   later receipt date, and Plaintiff alleges that no copy was sent within the applicable period.
+
+   3
+
+
+  4    69. The missing copy deprived Plaintiff of timely access to the actual soiu*ce coding and report
+
+  5    contents while the accepted employment opportunity remained unresolved. It prevented him
+
+  6    from identifying a source error, incomplete designation, or unlawful source use at a time when
+
+  7    the information could affect commencement.
+
+  8
+
+  9    70. This cause of action is independent of whether Defendants issued a formal rejection.
+
+  10   Plaintiff seeks the individual remedies authorized by Civil Code § 1786.50, including the
+
+  11   greater of actual damages or applicable statutory damages,costs and recoverable fees, and
+  12   additional punitive damages only upon the required showing of gross negligence or
+
+  13   willfulness. Plaintiff seeks one recovery for this individual report-copy violation, not a
+
+  14   separate award for each page, component, or transmission.
+  15
+
+
+  16                                     THIRD CAUSE OF ACTION
+
+  17                 California Penal Code § 290.46(j), Prohibited Employment Use of
+
+  18                                          Registry I nformation
+
+  19
+
+
+  20   71. Plaintiff incorporates paragraphs 1 through 52.
+
+  21
+
+
+  22   72. California Penal Code § 290.46(J)(2)(E) prohibits use for employment purposes of
+
+  23   information disclosed pursuant to the California publicly disseminated sex-offender-registry
+  24   statute, except as authorized by the statute or another applicable law, including a qualifying
+  25   protective use.
+
+  26
+
+
+  27   73. Plaintiff does not challenge the consideration ofcriminal-history information lawfully
+
+  28   obtained from an independent source as such. This cause of action depends on proof that the
+
+                                                    Page 16
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1         Filed 10/29/26      Page 17 of 21         PageID #:
+                                                  17
+
+
+
+   1   information used by the responsible employer was information disclosed pursuant to
+   2   California's registry-website provision.
+
+   3
+
+
+  4    74. First Advantage's prior report concerning Plaintiff separately identified a Department of
+
+  5    Justice sex-offcndcr-registry search, marked it "Dccisional," and expressly named
+
+  6    "CALIFORNIA SEX OFFENDER REGISTRY" as the source. Other 2025 and 2026 reports
+
+  7    repeatedly displayed a separately identified California registry result. The October 7 notice
+
+  8    then identified First Advantage's public-record transmission to Staples Retail, followed by the
+
+  9    failure to authorize Plaintiffs commencement.
+
+  10
+
+
+  11   75. Those facts support a reasonable inference, presently pleaded on information and belief,
+  12   that the Staples package contained a comparable California rcgistry-sourcc entry identifying
+  13   Plaintiff and presented it for employer review. Plaintiff has not seen the Staples report; the
+  14   source fields. URL or source code, delivery logs, and employer adjudication records will
+
+  15   establish whether the information was disclosed pursuant to § 290.46.
+
+  16
+
+
+  17   76. If the Staples report or source audit trail establishes that the information came from
+  18   California's registry website, then on information and belief the responsible Staples defendant
+  19   received or accessed that information and used it as a substantial factor in imposing or
+
+  20   continuing the no-start barrier to Plaintiffs employment.
+
+  21
+
+
+  22   77. The alleged use concerned ordinary retail supervision, merchandising, customer
+
+  23   assistance, and coaching. No communication to Plaintiff identified a particular person at risk,
+
+  24   a concrete protective purpose, or another legal authorization for registry-website use. On
+  25   information and belief, the challenged exclusion was a general employment-screening
+  26   decision rather than a qualifying protective use. Plaintiff does not rely on the absence of an
+  27   explanation alone to prove that no exception applied.
+
+  28
+
+
+                                                    Page 17
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW          Document 1        Filed 10/29/26       Page 18 of 21        PageID #:
+                                                 18
+
+
+
+   1   78. The alleged use caused Plaintiff to lose the opportunity to commence paid work and
+
+   2   caused attendant proven economic and non-economic injuries. Plaintiff seeks the remedies
+
+   3   authorized by Penal Code § 290.46(j)(4)(A), including actual damages, any additional amount
+
+  4    permitted by the statute, and any authorized fees, exemplary damages, or civil penalty, without
+
+  5    duplicative recovery.
+
+  6
+
+
+   7   79. Plaintiff seeks injunctive relief under Penal Code § 290.46(j)(4)(B) only if the evidence
+
+  8    establishes the statutory prerequisites and a continuing or threatened misuse. Plaintiff does not
+
+  9    seek to compel employment or to prohibit Staples from considering lawfully obtained
+
+  10   information from independent sources.
+
+  11
+
+
+  12                                   FOURTH CAUSE OF ACTION
+
+  13                California Unfair Competition Law,Cal. Bus.& Prof. Code § 17200
+
+  14
+
+
+  15   80. Plaintiff incorporates paragraphs 1 through 52.
+
+  16
+
+
+  17   81. To the extent Defendants are maintaining a report-based no-start exclusion founded on
+
+  18   information disclosed pursuant to Penal Code § 290.46, or are continuing to withhold an
+
+  19   elected investigative consumer report in violation of Califomia law, that conduct constitutes
+
+ 20    an imlawful business practice under Califomia Business and Professions Code § 17200.
+
+  21
+
+
+ 22    82. Plaintiff lost money through exclusion from available paid work and incurred or will incur
+
+ 23    reasonable mitigation expenses. Plaintiff also has a continuing interest in removing or
+
+ 24    correcting any unlawful screening barrier if Defendants continue to maintain the application or
+
+ 25    report-based status.
+
+ 26
+
+
+ 27    83. Plaintiff seeks only prospective equitable relief under the UCL. He does not seek damages,
+
+ 28    civil penalties, punitive damages, or speculative future wages under this cause of action. If the
+
+                                                    Page 18
+                               COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW            Document 1      Filed 10/29/26       Page 19 of 21        PageID #:
+                                                 19
+
+
+
+   1   position and application are conclusively closed and no continuing or threatened injury
+
+  2    remains, the equitable remedies under this cause of action will be limited by the evidence and
+
+  3    applicable law.
+
+  4
+
+
+  5    84. Any equitable order should be narrowly tailored to the proven continuing violation, such
+
+  6    as discontinuing ongoing reliance on information disclosed pursuant to § 290.46 for Plaintiffs
+
+  7    employment decision absent a qualifying exception, supplying any report or notice still legally
+
+  8    required, and reconsidering any still-pending application under lawful criteria. Plaintiff does
+
+  9    not request compulsory hiring, a predetermined employment decision, or com!supervision of
+  10   Staples' nationwide hiring system.
+
+  11
+
+
+  12                                        PRAYER FOR RELIEF
+
+  13
+
+
+  14          WHEREFORE,Plaintiff requests Judgment against the defendant or defendants proven
+  15   responsible as follows:
+
+  16
+
+
+  17   A. Actual damages, including proven lost wages for causally lost hours or shifts, less interim
+  18   earnings and appropriate mitigation;
+
+  19
+
+
+  20   B. The proven value of employer-funded benefits, paid leave, retirement contributions, and
+  21   reasonable mitigation or Job-search expenses, to the extent authorized and supported by
+  22   evidence;
+
+  23
+
+
+  24   C. Reasonable future economic loss or front pay only for a period, schedule, and amount
+
+  25   supported by evidence concerning likely employment, actual tenure expectations, replacement
+  26   work, and mitigation;
+
+  27
+
+
+  28   D. Compensatory non-economic damages in an amount proved at trial, subject to applicable
+
+                                                    Page 19
+                                 COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW           Document 1         Filed 10/29/26      Page 20 of 21         PageID #:
+                                                   20
+
+
+
+   1   law and proof of causation, nature, severity, and duration;
+
+  2
+
+
+  3    E. Under 15 U.S.C. §§ 168In and I68I0, the actual, statutory, and punitive remedies
+
+  4    authorized by the proven level of culpability, without recovering alternative forms
+
+  5    cumulatively where the statute does not permit it:
+
+  6
+
+
+  7    F. Under California Civil Code § 1786.50, the greater of actual damages or applicable
+
+  8    individual statutory damages for the report-copy violation, together with recoverable costs,
+
+  9    fees, and punitive damages where authorized and proved;
+
+  10
+
+
+  11   G. Under Califomia Penal Code § 290.46(j)(4)(A), actual damages, any permitted additional
+
+  12   amount, and any authorized fees, exemplary damages, or civil penalty, subject to the statute
+  13   and without duplication;
+
+  14
+
+
+  15   H. Punitive or exemplary relief only to the extent authorized by the governing statute and
+  16   supported by proof of the required mental state and corporate responsibility, including any
+  17   evidence concerning a policy, training instruction, adjudication protocol, approval, or
+  18   ratification; this is not a request to impose duplicative relief under separate causes of action:
+  19
+
+
+  20   1. Narrow prospective equitable relief under Califomia Business and Professions Code
+  21   § 17203 and, if the statutory prerequisites are established, under Penal Code § 290.46(j)(4)(B),
+  22   without an order requiring Staples to employ Plaintiff;
+
+  23
+
+
+  24   J. Prejudgment and post-judgment interest where authorized;
+
+  25
+
+
+  26   K. Recoverable costs and attorney's fees only where lawfully available:
+
+  27
+
+
+  28   L. A jury trial on all issues triable as of right; and
+
+                                                       Page 20
+                                COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+Case 5:26-cv-12781-NW            Document 1      Filed 10/29/26        Page 21 of 21         PageID #:
+                                                 21
+
+
+
+   1   M,Such other relief as the Court finds just and proper, with a single recovery for each legally
+
+   2   compensable loss and no duplicate award of wages, benefits, emotional injury, statutory
+
+   3   injury, enhanced damages, or punitive damages under overlapping theories.
+
+  4
+
+
+   5                                    DEMAND FOR JURY TRIAL
+
+  6
+
+
+   7          Plaintiff demands a jury trial on all issues so triable as of right. Equitable issues are
+
+   8   reserved for the Court.
+
+  9
+
+
+  10   Dated: October 26,2026
+
+  11                                                                             Respectfully submitted,
+
+  12
+
+
+  13
+
+
+  14
+
+
+  15                                                                    BRENDAN NGWA NFORBi
+
+  16                                                                        Plaintiff, In Propria Persona
+
+  17
+
+
+  18
+
+  19
+
+
+  20
+
+
+  21
+
+
+  22
+
+
+  23
+
+
+  24
+
+
+  25
+
+
+  26
+
+
+  27
+
+
+  28
+
+
+                                                     Page 21
+                                 COMPLAINT FOR DAMAGES AND INJUNCTIVE RELIEF
+
