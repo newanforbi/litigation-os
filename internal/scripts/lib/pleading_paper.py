@@ -178,7 +178,16 @@ class PleadingPaper:
             x = CONTENT_LEFT + indent
             if i == 0:
                 x += first_indent
+            # One drawString per same-style run. Word-by-word BT/ET
+            # operators blanked pages in some PDF viewers and in Google
+            # Docs re-export (Hertz unsigned complaint pp. 8 and 23).
+            merged = []
             for pt, ps in parts:
+                if merged and merged[-1][1] == ps:
+                    merged[-1] = (merged[-1][0] + pt, ps)
+                else:
+                    merged.append((pt, ps))
+            for pt, ps in merged:
                 if ps == "bi": pfn = "Times-BoldItalic"
                 elif ps == "b": pfn = "Times-Bold"
                 elif ps == "i": pfn = "Times-Italic"
