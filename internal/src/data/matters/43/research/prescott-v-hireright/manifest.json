@@ -6,9 +6,37 @@
   "relationship": "Comparative research only",
   "documents": [
     {
+      "docket": "20",
+      "filed_on": "2014-02-03",
+      "title": "HireRight notice and motion for judgment on the pleadings",
+      "original_filename": "PrescottHireRight200.pdf",
+      "pdf": "pdf/dkt-20.pdf",
+      "text": "text/dkt-20.txt",
+      "pages": 2,
+      "page_id_start": 513,
+      "page_id_end": 514,
+      "ocr_pages": 2,
+      "sha256": "c2e2c4cef1af51a56c1e50ed064eeabbe6edb1b2f2430624186b719858c25889",
+      "git_blob_sha1": "1125a0a692662e5068fcae5a07990979eedae585"
+    },
+    {
+      "docket": "20-1",
+      "filed_on": "2014-02-03",
+      "title": "HireRight memorandum supporting judgment on the pleadings",
+      "original_filename": "PrescottHireright201.pdf",
+      "pdf": "pdf/dkt-20-1.pdf",
+      "text": "text/dkt-20-1.txt",
+      "pages": 22,
+      "page_id_start": 515,
+      "page_id_end": 536,
+      "ocr_pages": 22,
+      "sha256": "306f3ac20c57ede255624ec879e7997cfb54d3cda6b75cf7ed69bb1a967c3b60",
+      "git_blob_sha1": "ca51ded32faa6544bdd863782e6de4d1332889db"
+    },
+    {
       "docket": "20-2",
       "filed_on": "2014-02-03",
-      "title": "Declaration of Jennifer L. Mora supporting HireRight\u2019s Rule 12(c) motion, with exhibits",
+      "title": "Declaration of Jennifer L. Mora supporting HireRight’s Rule 12(c) motion, with exhibits",
       "original_filename": "PrescottHireRight202.pdf",
       "pdf": "pdf/dkt-20-2.pdf",
       "text": "text/dkt-20-2.txt",
@@ -78,7 +106,7 @@
     {
       "docket": "30-2",
       "filed_on": "2014-03-10",
-      "title": "Declaration of Jennifer L. Mora supporting HireRight\u2019s Rule 12(c) motion, with exhibits",
+      "title": "Declaration of Jennifer L. Mora supporting HireRight’s Rule 12(c) motion, with exhibits",
       "original_filename": "PrescottHireRight302.pdf",
       "pdf": "pdf/dkt-30-2.pdf",
       "text": "text/dkt-30-2.txt",

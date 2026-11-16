@@ -1,6 +1,6 @@
 # Matter 43 | Prescott v. HireRight research
 
-Comparative filings from *Felix B. Prescott v. HireRight Solutions, Inc., et al.*, No. 2:13-cv-08953-MWF-PLA (C.D. Cal.). Start with [Dkt. 49](text/dkt-49.txt) for the court's ruling and [Dkt. 25](text/dkt-25.txt) for the allegations the court considered. The [manifest](manifest.json) records filenames, page ranges, and SHA-256 checksums. This packet is a selection of ten filings from the comparison case.
+Comparative filings from *Felix B. Prescott v. HireRight Solutions, Inc., et al.*, No. 2:13-cv-08953-MWF-PLA (C.D. Cal.). Start with [Dkt. 49](text/dkt-49.txt) for the court's ruling and [Dkt. 25](text/dkt-25.txt) for the allegations the court considered. The [manifest](manifest.json) records filenames, page ranges, and SHA-256 checksums. This packet is a selection of twelve filings from the comparison case.
 
 ## Reading guide
 
@@ -12,6 +12,8 @@ Comparative filings from *Felix B. Prescott v. HireRight Solutions, Inc., et al.
 
 | Dkt. | Filed | Filing | Pages | PDF | Searchable text |
 |---|---|---|---:|---|---|
+| 20 | 2014-02-03 | HireRight notice and motion for judgment on the pleadings | 2 | [PDF](pdf/dkt-20.pdf) | [Text](text/dkt-20.txt) |
+| 20-1 | 2014-02-03 | HireRight memorandum supporting judgment on the pleadings | 22 | [PDF](pdf/dkt-20-1.pdf) | [Text](text/dkt-20-1.txt) |
 | 20-2 | 2014-02-03 | Declaration of Jennifer L. Mora supporting HireRight’s Rule 12(c) motion, with exhibits | 30 | [PDF](pdf/dkt-20-2.pdf) | [Text](text/dkt-20-2.txt) |
 | 20-3 | 2014-02-03 | HireRight proposed order on its Rule 12(c) motion | 2 | [PDF](pdf/dkt-20-3.pdf) | [Text](text/dkt-20-3.txt) |
 | 25 | 2014-02-24 | Second Amended Complaint | 17 | [PDF](pdf/dkt-25.pdf) | [Text](text/dkt-25.txt) |
