@@ -303,11 +303,12 @@ def _stamp_js44_signature(page: pymupdf.Page) -> None:
     JS 44 sig widget is Rect(219, 726.58, 594.50, 737.38). The printed
     "SIGNATURE OF ATTORNEY OF RECORD" occupies x=219.6–350.3, y=715.2–724.6.
     stamp_on_pdf_line's 1.15 height scale plus an 85-pt width still pokes
-    the loops into that caption. Native aspect at 62 pt keeps the top of
-    the mark at ~y=728, on the rule and clear of the label.
+    the loops into that caption. The 5544×820 photo-loops plate needed
+    62 pt to keep the top at ~y=728; the live 445×106 stamp (aspect
+    ≈ 0.238) needs ~38.5 pt for the same clearance.
     """
     sw, sh = SIGNATURE_NATIVE_PX
-    width = 62.0
+    width = 38.5
     height = width * (sh / sw)
     x0 = 358.0
     y_line = 737.2

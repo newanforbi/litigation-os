@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
-"""Photographed loops mark → canonical + archive PNG.
+"""Photographed loops mark → archive PNG only.
 
-Live stamp: internal/assets/signature/brendan-newanforbi-signature.png
 Archive copy: *-v2-photo-loops.png
 Source photo: *-source-v2-photo.jpg
 
-Restored as the portfolio canonical September 18, 2026 after the August 26
-wet-ink / house stamp was deleted. Pixel guards refuse paper-plate /
-form-rule junk so those artifacts cannot become the live stamp again.
+The live canonical (brendan-newanforbi-signature.png) is the November 2026
+445×106 wet-ink stamp. This script must not overwrite it. Pixel guards
+still refuse paper-plate / form-rule junk in the archive rebuild.
 
 Does not restamp any already-filed PDF.
 
@@ -130,15 +129,18 @@ def main() -> None:
         raise SystemExit(f"rebuild failed quality gate: {exc}") from exc
 
     rgba.save(OUT_PNG, optimize=True)
-    rgba.save(CANONICAL_PNG, optimize=True)
     _write_preview(rgba)
     print(
-        f"wrote {OUT_PNG.name} and {CANONICAL_PNG.name} "
+        f"wrote archive {OUT_PNG.name} "
         f"{rgba.size[0]}×{rgba.size[1]}  "
         f"aspect={rgba.size[1]/rgba.size[0]:.4f}  "
         f"from crop {crop.size}"
     )
     print(f"preview: {PREVIEW_PNG}")
+    print(
+        f"left live stamp untouched: {CANONICAL_PNG.name} "
+        "(November 2026 445×106 wet-ink)"
+    )
 
 
 if __name__ == "__main__":

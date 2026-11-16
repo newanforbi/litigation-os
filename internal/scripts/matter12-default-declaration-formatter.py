@@ -33,7 +33,7 @@ from signature_stamp import (  # noqa: E402
 # Portfolio universal signature (see signature_stamp.py).
 SIGNATURE_IMG = SIGNATURE_PATH
 SIG_IMG_W_PX, SIG_IMG_H_PX = SIGNATURE_NATIVE_PX
-SIG_WIDTH = 140  # aspect ≈ 0.248 → ~35pt tall on the underscore line
+SIG_WIDTH = 140  # 445×106 (aspect ≈ 0.238) → ~38pt tall with 1.15 scale
 
 # Set MATTER12_NO_SIGNATURE=1 to leave signature lines blank for wet signing.
 NO_SIGNATURE = os.environ.get("MATTER12_NO_SIGNATURE", "") == "1"
