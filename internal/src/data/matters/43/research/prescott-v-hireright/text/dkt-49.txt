@@ -1,0 +1,1248 @@
+--- Source PDF page 01 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 1 of 26 Page ID
+                                      #:891
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  Present:  The Honorable MICHAEL W. FITZGERALD, U.S. District Judge
+
+          Deputy Clerk:                       Court Reporter:
+            Rita Sanchez                      Not Reported
+
+           Attorneys Present for Plaintiff:         Attorneys Present for Defendant:
+         None Present                    None Present
+
+ Proceedings (In Chambers): ORDER GRANTING HIRERIGHT SOLUTIONS,
+                            INC.’S MOTION FOR JUDGMENT ON THE
+                      PLEADINGS [30], DENYING AUTOMOBILE
+                    CLUB OF SOUTHERN CALIFORNIA’S MOTION
+                    TO DISMISS SECOND AMENDED COMPLAINT
+                                   [31], AND DENYING REQUEST FOR LEAVE TO
+                          FILE REPLY TO PLAINTIFF’S OPPOSITION TO
+                     SUPPLEMENTAL BRIEF [47]
+
+       This matter is before the Court on (1) the Motion for Judgment on the Pleadings
+  (“HireRight’s Motion”) (Docket No. 30), filed by Defendant HireRight Solutions, Inc.
+  (“HireRight”), and (2) the Motion to Dismiss Second Amended Complaint Pursuant to
+ FRCP 12(b)(6) (the “Auto Club’s Motion”) (Docket No. 31), filed by Defendant
+ Automobile Club of Southern California (the “Auto Club”), erroneously sued as AAA
+ Auto Club of Southern California. The Court read and considered the papers on both
+ Motions, and held a hearing on April 7, 2014. For the reasons stated below, the Court
+ GRANTS HireRight’s Motion, and DENIES the Auto Club’s Motion.
+
+ Procedural Background
+
+     On February 14, 2013, Plaintiff Felix B. Prescott initiated this action by filing a
+ Complaint in Los Angeles County Superior Court. (See Docket No. 1-1). On
+ November 1, 2013, Prescott filed, on behalf of himself and all similarly situated
+
+
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        1
+
+--- Source PDF page 02 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 2 of 26 Page ID
+                                      #:892
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  individuals, a First Amended Complaint (“FAC”). (Docket No. 1-10). On December
+  4, 2013, HireRight removed this action to this Court. (Docket No. 1).
+
+      The FAC alleged a single claim for relief that Defendants violated 15 U.S.C. §
+ 1681b(b)(3)(A) of the Fair Credit Reporting Act (the “FCRA”), by failing to provide
+ pre-adverse action notice before terminating Prescott and similarly situated individuals.
+ (FAC, ¶¶ 8, 61-66). On February 10, 2014, the Court dismissed the FAC with leave to
+ amend (the “February 10 Order”). (Docket No. 24).
+
+     On February 24, 2014, Prescott filed a Second Amended Complaint (“SAC”).
+ (Docket No. 25). The SAC again alleges that Defendants willfully violated 15 U.S.C.
+ § 1681b(b)(3)(A) of the FCRA by failing to provide Plaintiff and other class members
+ pre-adverse action notice. (SAC ¶¶ 82-87). The SAC also pleads, in the alternative,
+  three claims for relief, in the event that Prescott is found not to have been an employee
+  of the Auto Club and/or that his consumer report is found not to have been procured
+  for employment purposes. Those three claims are: (1) that the Auto Club procured
+  Prescott’s consumer report without a permissible purpose, in violation of 15 U.S.C. §
+ 1681b(a) of the FCRA (SAC ¶ 89); (2) that the Auto Club willfully procured Prescott’s
+ consumer report under false pretenses, in violation of 15 U.S.C. § 1681q of the FCRA
+ (SAC ¶¶ 93-99); and (3) that HireRight failed to maintain reasonable procedures
+ designed to ascertain the permissible purpose for which the consumer reports were
+  obtained, in violation of 15 U.S.C. § 1681e (SAC ¶¶ 100-102).
+
+     On March 10, 2014, HireRight filed HireRight’s Motion. (Docket No. 30). On
+ March 17, 2014, Prescott filed an Opposition to Defendant HireRight Solutions, Inc.’s
+ Motion for Judgment on the Pleadings (“Opposition to HireRight”). (Docket No. 33).
+ On March 24, 2014, HireRight filed a Reply in Support of Motion for Judgment on the
+ Pleadings (“HireRight’s Reply”). (Docket No. 34).
+
+     On March 10, 2014, the Auto Club filed the Auto Club’s Motion. (Docket No.
+  31). On March 17, 2014, Prescott filed an Opposition to Defendant AAA Auto Club of
+ Southern California’s Motion to Dismiss Plaintiff’s Second Amended Complaint
+ Pursuant to FRCP 12(b)(6) (“Opposition to Auto Club”). (Docket No. 32). On March
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        2
+
+--- Source PDF page 03 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 3 of 26 Page ID
+                                      #:893
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  24, 2014, the Auto Club filed a Reply in Support of Motion to Dismiss Second
+ Amended Complaint (“Auto Club’s Reply”). (Docket No. 35).
+
+ Factual Background
+
+      The SAC alleges the following facts: The Auto Club contracts with tow truck
+ companies to provide roadside assistance services to its members. (SAC ¶ 13). In or
+ about 2011, the Auto Club initiated a policy of requiring all technicians who provide
+  services to its members to pass a criminal background check based on the Auto Club’s
+  criteria. (SAC ¶ 28). This new policy applied not only to new technicians, but to all
+  existing technicians. (SAC ¶ 29). On information and belief, the SAC alleges that the
+ Auto Club’s screening criteria disqualified anyone with a felony conviction. (SAC ¶
+  65).
+
+      Under this new policy, the Auto Club paid HireRight to be the exclusive
+  provider of consumer reports. (SAC ¶ 30). HireRight not only provided consumer
+  reports regarding technicians, it also adjudicated each technician’s eligibility by
+ comparing his or her criminal history information to the criteria provided by the Auto
+ Club. (SAC ¶ 31). In making this assessment, a technician could be adjudicated as
+ “does not meet company standards” or “meets company standards.” (SAC ¶ 32). The
+ SAC alleges that the technician is not provided an opportunity to dispute the
+  adjudication because it is sent privately to the towing station. (SAC ¶ 35).
+
+          If the technician is adjudicated as “does not meet company standards,” the Auto
+ Club automatically sends a notification to the towing company that the technician is
+ denied access to the Auto Club’s members. (SAC ¶¶ 33, 36). The Auto Club further
+  requires towing companies to terminate technicians who do not pass the background
+ check. (SAC ¶ 34). The SAC asserts that failure to terminate such technicians would
+  “likely result” in the termination of the towing station’s contract with the Auto Club.
+ (SAC ¶ 34). Prescott’s main contention is that neither HireRight nor the Auto Club
+ provided notice to technicians before adjudicating them or before denying them access
+  to Auto Club members. (SAC ¶ 46). Instead, the two companies informed the towing
+
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        3
+
+--- Source PDF page 04 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 4 of 26 Page ID
+                                      #:894
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  stations that they should send the pre-adverse action notice or pay HireRight to do it
+  for them. (SAC ¶ 59).
+
+      One towing company that contracted with the Auto Club was Advanced Auto
+  Center, which was doing business as Advanced Towing, Inc. (“AT”). (SAC ¶ 13). AT
+  hired Prescott on or about September 5, 2006. (SAC ¶ 60). On or about February 4,
+ 2011, the Auto Club caused the procurement of a consumer report on Prescott. (SAC ¶
+  63). The consumer report disclosed a 2003 felony conviction for receiving stolen
+  property. (SAC ¶ 64). Based on this consumer report, AT was required to terminate
+  Prescott. (SAC ¶ 68). After receiving this consumer report, AT drafted a letter to the
+ Auto Club, attempting to challenge the requirement to terminate Prescott (SAC ¶ 71).
+ The letter was unsuccessful, and Prescott was terminated. (SAC ¶ 72).
+
+  First Request for Judicial Notice
+
+      The Auto Club also filed a Request for Judicial Notice in Support of Motion to
+ Dismiss Second Amended Complaint Pursuant to FRCP 12(b)(6) (the “First Request”).
+ (Docket No. 31-1). The Auto Club asks that the Court take judicial notice of the pre-
+ adverse action letter that AT sent to Prescott on February14, 2011 (“AT’s Letter”).
+ (Request at 1).
+
+      “As a general rule, [a court] ‘may not consider any material beyond the
+ pleadings in ruling on a Rule 12(b)(6) motion.’” United States v. Corinthian Colls.,
+ 655 F.3d 984, 998 (9th Cir. 2011) (quoting Lee v. City of Los Angeles, 250 F.3d 668,
+ 688 (9th Cir. 2001)). However, “a district court ruling on a motion to dismiss may
+ consider a document the authenticity of which is not contested, and upon which the
+  plaintiff’s complaint necessarily relies.” Parrino v. FHP, Inc., 146 F.3d 699, 706 (9th
+  Cir. 1998) (superseded by statute on unrelated grounds). The policy underlying this
+  rule is to “[p]reven[t] plaintiffs from surviving a Rule 12(b)(6) motion by deliberately
+ omitting references to documents upon which their claims are based.” Id.
+
+      AT’s Letter meets the requirements for judicial notice. As an initial matter,
+  Prescott does not dispute its authenticity.
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        4
+
+--- Source PDF page 05 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 5 of 26 Page ID
+                                      #:895
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+       Moreover, the letter is relevant, in so far as the SAC relies on the non-existence
+  of a pre-adverse action notice that complied with the FCRA’s requirements. Other
+  courts have considered extrinsic documents as necessary to a plaintiff’s claims, where
+  the documents potentially bar the plaintiff’s claims and the plaintiff does not dispute
+  the authenticity of the documents. See, e.g., Birdsong v. AT & T Corp., No. C12-6175
+ TEH, 2013 WL 1120783, at *2 (N.D. Cal. Mar. 18, 2013) (considering a release
+ agreement not referenced in the complaint because the release is integral to the
+  plaintiff’s allegations in that it may bar her claims, and because the plaintiff does not
+  dispute that she signed it and argued extensively in the opposition that the release
+ agreement was unenforceable); Bhandari v. Capital One, N.A., No. 12-04533 PSG,
+ 2013 WL 1736789, at *3-4 (N.D. Cal. Apr. 22, 2013) (considering whether a waiver
+  provision in a Forbearance Agreement barred the plaintiffs’ instant claims, on a motion
+  to dismiss, where the plaintiffs “acknowledge signing the Forbearance Agreement and
+  the concomitant release,” and did not allege in their First Amended Complaint that the
+  provision was unenforceable). Accordingly, it is in this sense that the SAC relies on
+ AT’s pre-adverse action notice.
+
+       Furthermore, “the primary problem raised by looking to documents outside the
+ complaint—lack of notice to the plaintiff—is dissipated [w]here plaintiff has actual
+  notice” of those documents. Hotel Employees & Rest. Employees Local 2 v. Vista Inn
+ Mgmt. Co., 393 F. Supp. 2d 972, 979 (N.D. Cal. 2005) (finding that the Court could
+ not consider a purchase agreement on a motion to dismiss because plaintiff was not a
+  party to the agreement and claimed to have no notice of it). Prescott clearly had notice
+  of AT’s Letter because he was the one who produced it to Defendants. (Request at 1).
+
+        Therefore, the First Request is GRANTED.
+
+ Compliance with Local Rules
+
+      As a preliminary matter, Prescott’s briefs failed to comply with the Local Rules.
+  It appears that the typeface used was less than 14-point font, as required by Local Rule
+  11-3.1.1. Additionally, the briefs were printed on pages with 32 lines per page, instead
+  of 28 lines per page, as required by Local Rule 11-3.2. While such violations may
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        5
+
+--- Source PDF page 06 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 6 of 26 Page ID
+                                      #:896
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+ seem minor, they effectively allow Prescott to exceed the 25-page limit set for briefs.
+ See Local Rule 11-6. While the Court refrains from striking Prescott’s briefs for these
+  violations, the Court emphasizes that all parties are required to comply with the Local
+  Rules.
+
+ Supplemental Briefing & Second Request for Judicial Notice
+
+        In light of the fact that Prescott’s Opposition to Auto Club effectively exceeded
+  the 25-page limit, the Court granted the Auto Club’s request at the hearing to file a
+ supplemental brief. (Docket No. 39). On April 14, 2014, the Auto Club filed: (1) a
+ Supplemental Brief in Support of Motion to Dismiss Second Amended Complaint (the
+ “Supplemental Brief”) (Docket No. 40), and (2) a Request for Judicial Notice (the
+ “Second Request”) (Docket No. 41).
+
+      The Second Request asks the Court to take judicial notice of two agreements for
+ background check services: (1) the first one is between HireRight and AT, and (2) the
+ second one is between HireRight and the Auto Club. (Second Request at 1). The Auto
+ Club seeks judicial notice of these documents in order to negate the SAC’s allegation
+  that the Auto Club “executed a service agreement with HireRight certifying, and
+ promising that it will provide pre-adverse action notice to consumers including
+  contractor employees” (SAC ¶ 57). (See Supplemental Brief at 1-3).
+
+       Pursuant to the Court’s Order (Docket No. 43), Prescott filed on April 25, 2014
+ an Opposition to the Auto Club of Southern California’s Supplemental Brief in
+ Support of Motion to Dismiss Second Amended Complaint (the “Supplemental
+  Opposition”). (Docket No. 46). In the Supplemental Opposition, Prescott does not
+  dispute the authenticity of the two service agreements. However, Prescott objects to
+  the Second Request on the ground that the Auto Club may have certified to provide
+ pre-adverse action notice in a third service agreement, which is referenced in the
+ agreement between HireRight and AT. (Supplemental Opp. at 2-3). Prescott further
+  asserts that discovery will yield “the applicable service agreement.” (Id. at 4).
+
+
+
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        6
+
+--- Source PDF page 07 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 7 of 26 Page ID
+                                      #:897
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+     On April 28, 2014, the Auto Club filed a Request for Leave to File Reply to
+  Plaintiff’s Opposition to Supplemental Brief (the “Request for Leave”). (Docket No.
+  47). The Auto Club requests leave to file a copy of the third service agreement with
+  the Court, and asserts that this third agreement disclaims any obligation on the Auto
+ Club’s behalf to provide pre-adverse action notices to employees of the towing
+ companies. (Request for Leave at 1-2).
+
+      As noted above, “a district court ruling on a motion to dismiss may consider a
+ document the authenticity of which is not contested, and upon which the plaintiff’s
+ complaint necessarily relies,” without converting the motion into one for summary
+ judgment. Parrino, 146 F.3d at 706 (9th Cir. 1998).  However, Prescott has asserted
+  that the SAC does not necessarily rely on the two service agreements submitted by the
+ Auto Club, but may be based on a third service agreement or some other discoverable
+ agreement. On this basis alone, the Second Request must be denied.
+
+      The Request for Leave further demonstrates that the Auto Club’s evidentiary
+  requests are not limited to evidence upon which the SAC necessarily relies.  Instead,
+  the Auto Club seeks to demonstrate that Prescott cannot possibly establish the
+  allegations in the SAC. While the Auto Club may be correct, this factual inquiry is
+ more appropriate for a motion for summary judgment. See United States v. Ritchie,
+ 342 F.3d 903, 907 (9th Cir. 2003) (“When ruling on a Rule 12(b)(6) motion to dismiss,
+  if a district court considers evidence outside the pleadings, it must normally convert the
+  12(b)(6) motion to a Rule 56 motion for summary judgment . . . .”); Lee, 250 F.3d at
+ 680 (finding that the district court erred in taking judicial notice of disputed facts).
+ This Court is simply unwilling to convert the Auto Club’s Motion into one for
+ summary judgment, without first permitting Prescott the opportunity to conduct
+  discovery.
+
+        Therefore, the Second Request and the Request for Leave are both DENIED.
+
+ Defendants’ Motions
+
+
+
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        7
+
+--- Source PDF page 08 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 8 of 26 Page ID
+                                      #:898
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+      The Auto Club has brought a motion to dismiss the SAC under Federal Rule of
+  Civil Procedure 12(b)(6). In ruling on the Motion under Federal Rule of Civil
+ Procedure 12(b)(6), the Court follows Bell Atlantic Corp. v. Twombly, 550 U.S. 544,
+ 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007), and Ashcroft v. Iqbal, 556 U.S. 662, 129 S.
+  Ct. 1937, 173 L. Ed. 2d 868 (2009). “To survive a motion to dismiss, a complaint must
+  contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is
+  plausible on its face.’” Iqbal, 556 U.S. at 678 (citation omitted). “All allegations of
+  material fact in the complaint are taken as true and construed in the light most
+  favorable to the plaintiff.” Williams v. Gerber Prods. Co., 552 F.3d 934, 937 (9th Cir.
+ 2008) (holding that a plaintiff had plausibly stated that a label referring to a product
+  containing no fruit juice as “fruit juice snacks” may be misleading to a reasonable
+ consumer).
+
+       HireRight has brought a motion for judgment on the pleadings with regard to the
+ SAC. “After the pleadings are closed—but early enough not to delay trial—a party
+ may move for judgment on the pleadings.” F. R. Civ. P. 12(c). “Judgment on the
+ pleadings is properly granted when[, accepting all factual allegations in the complaint
+  as true,] there is no issue of material fact in dispute, and the moving party is entitled to
+ judgment as a matter of law.” Fleming v. Pickard, 581 F.3d 922, 925 (9th Cir. 2009).
+ “Although Iqbal establishes the standard for deciding a Rule 12(b)(6) motion, we have
+  said that Rule 12(c) is ‘functionally identical’ to Rule 12(b)(6) and that ‘the same
+ standard of review’ applies to motions brought under either rule.” Cafasso, U.S. ex rel.
+  v. Gen. Dynamics C4 Sys., Inc., 637 F.3d 1047, 1054 n.4 (9th Cir. 2011).
+
+       Because both motions are reviewed under the same standard and both motions
+  raise overlapping arguments, they will be analyzed together.
+
+        First Claim for Relief
+
+      The first claim alleges that both Defendants violated 15 U.S.C. § 1681b(b)(3)(A)
+  of the FCRA by failing to provide pre-adverse action notice. (SAC ¶¶ 82-87).
+
+       Section 1681b(b)(3)(A) provides that:
+
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        8
+
+--- Source PDF page 09 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 9 of 26 Page ID
+                                      #:899
+
+                UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+ Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+        in using a consumer report for employment purposes, before taking any adverse
+        action based in whole or in part on the report, the person intending to take such
+       adverse action shall provide to the consumer to whom the report relates—
+
+                  (i) a copy of the report; and
+
+                   (ii) a description in writing of the rights of the consumer under this
+              subchapter, as prescribed by the Bureau under section 1681(g)(3) of this
+                   title.
+
+ 15 U.S.C. § 1681b(b)(3)(A).
+
+      The purpose of this requirement is to allow an employee the “opportunity to
+  discuss and dispute the report” before adverse action is taken. Obabueki v. Int’l Bus.
+ Machines Corp., 145 F. Supp. 2d 371, 392 (S.D.N.Y. 2001) aff’d, 319 F.3d 87 (2d Cir.
+ 2003) (citing Lynne B. Barr, “The New FCRA: An Assessment of the First Year,” 54
+ Bus. Law. 1343, 1348 (1999)); see also Goode v. LexisNexis Risk & Info. Analytics
+  Grp., Inc., 848 F. Supp. 2d 532, 537 (E.D. Pa. 2012) (same).
+
+           The Lamson Holding
+
+        In the February 10 Order, the Court dismissed the FAC’s pre-adverse action
+  notice claim in large part based on Lamson v. EMS Energy Marketing Service, Inc.,
+ 868 F. Supp. 2d 804, 810 (E.D. Wis. 2012). The February 10 Order read Lamson as
+ holding that only an employer was required to provide pre-adverse action notice under
+ § 1681b(b)(3)(A), and that the common law test of agency applies to determine
+ whether an employment relationship exists for the purpose of the FCRA. (See Feb. 10
+ Order at 5-7).
+
+        Prescott argues for the first time that Lamson does not hold that only employers
+  are required to provide pre-adverse action notice. (Opp. to Auto Club at 4). Instead,
+  Prescott argues that Lamson held that if a report is not used for employment purposes,
+
+
+ ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        9
+
+--- Source PDF page 10 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 10 of 26 Page ID
+                                       #:900
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  the subject of the report “is not covered by the FCRA.” (Opp. to Auto Club at 4
+  (quoting Lamson, 868 F. Supp. 2d at 818)).
+
+       The Court disagrees. The court in Lamson simply did not need to consult the
+  definition of a consumer report in its analysis. The provision requiring pre-adverse
+  action notice limits itself to a “consumer report for employment purposes.” 15 U.S.C.
+  § 1681b(b)(3)(A) (emphasis added). The FCRA provides that “[t]he term
+  ‘employment purposes’ when used in connection with a consumer report means a
+  report used for the purpose of evaluating a consumer for employment, promotion,
+  reassignment or retention as an employee.” 15 U.S.C. § 1681a(h) (emphasis added).
+  The district court thus concluded that to establish a FCRA violation, the defendant
+  must have obtained the consumer report to evaluate the plaintiff “for a position as an
+  employee of” the defendant company. Lamson, 868 F. Supp. 2d at 810. Therefore, the
+  Court reached this conclusion without referring to the definition of a consumer report
+  and without asserting that its reasoning depended on the FCRA’s definition of the
+  consumer report. Accordingly, the Lamson decision can be fairly read as requiring an
+  employer-employee relationship into the pre-adverse action notice requirement itself.
+
+            Scope of the FCRA’s Pre-Adverse Action Notice Requirement
+
+       The more important question is whether the court in Lamson was correct in
+  finding that the FCRA imposed the pre-adverse action notice requirement on
+  employers only. The law appears to be unsettled on this issue.
+
+      On the one hand, Prescott has cited to two cases holding that the pre-adverse
+  action notice requirement is not limited to employers, but extends to a consumer
+  reporting agency and a staffing agency that took adverse employment actions. See
+  Goode, 848 F. Supp. 2d 532; Adams v. National Engineering Service Corp., 620 F.
+  Supp. 2d 319 (D. Conn. 2009).
+
+         Prescott additionally argues that these two cases are consistent with a Ninth
+  Circuit case, Reynolds v. Hartford Financial Services Group, Inc., 435 F.3d 1081,
+  1095 (9th Cir. 2006) rev’d on other grounds Safeco Insurance Co. of America v. Burr,
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        10
+
+--- Source PDF page 11 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 11 of 26 Page ID
+                                       #:901
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  551 U.S. 47, 127 S. Ct. 2201, 167 L. Ed. 2d 1045 (2007), but the Court does not view
+  this case as helpful because it construes a different FCRA provision.
+
+      On the other hand, both Defendants argue that the FCRA imposes the pre-
+  adverse action notice requirement on employers only. As discussed above, Defendants
+  cite to Lamson, which interpreted § 1681b(b)(3)(A) as requiring an employer-
+  employee relationship between the person intending to take an adverse action and the
+  consumer. See Lamson, 868 F. Supp. 2d at 810, 816.
+
+        Other the Lamson, however, Defendants have not provided persuasive authority
+  demonstrating that § 1681b(b)(3)(A) is limited to employers.
+
+        HireRight argues that two other sections of the FCRA indicate that Congress
+  intended to impose the pre-adverse action notice requirement on the employer.
+
+        HireRight points to the FCRA’s definition of “adverse action,” which includes
+  “a denial of employment or any other decision for employment purposes that adversely
+  affects any current or prospective employee,” 15 U.S.C. § 1681a(k)(1)(B)(ii).
+  (HireRight’s Mot. at 8). HireRight argues that the words “current or prospective
+  employee” demonstrates that the person intending to take the adverse action must be
+  the employer. However, the Court does not find that reading persuasive. The text of
+  the statute itself does not limit an adverse action to one taken by an employer. And as
+  demonstrated in Adams, the person taking the adverse agency could be a staffing
+  agency, rather than the direct employer, if the latter outsources its work to the former.
+
+        HireRight next points to another section of the FCRA, 15 U.S.C. § 1681a(y)(2),
+  which requires an “employer” to disclose a summary of a communication upon which
+  an adverse action is based, if that communication meets the criteria of 15 U.S.C. §
+  1681a(y)(1). (HireRight’s Mot. at 9). However, § 1681a(y) appears to deal with
+  communications that do not meet the definition of a consumer report. Therefore, the
+  Court is not persuaded that this section sheds light on duties related to the use of
+  consumer reports.
+
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        11
+
+--- Source PDF page 12 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 12 of 26 Page ID
+                                       #:902
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+        HireRight further argues that two informal opinion letters and a July 2011 report
+  published by the Federal Trade Commission (“FTC”) support its position. In response
+  to the question of whether a consumer reporting agency may fulfill an employer’s
+  duties under the FCRA, the first letter states:
+
+      An employer or any other user of consumer report information obtained from a
+     CRA may have the CRA fulfill the user’s ministerial obligations under the
+      FCRA. For example, an employer may arrange for the CRA to provide any pre-
+        adverse action disclosures required by Section 604(b). However, the employer
+        or other user remains responsible for any duty imposed by the FCRA and may
+       be subject to liability if the duties are not performed by the CRA.
+
+  (William Haynes, FTC, Staff Opinion Letter Re: Sections 604(b), 605, and 607 of the
+ FCRA (June 9, 1998) (Docket No. 30-2, Ex. C)). The second advisory letter was
+  written by the same staff attorney and reiterates the same opinion as above. (See
+  William Haynes, FTC, Staff Opinion Letter Re: Sections 603(d)(1), 604(b), 606,
+  607(e), 609, and 610 of the FCRA (June 9, 1998) (Docket No. 30-2, Ex. D)).
+
+       However, these letters do not address the scope of the duties imposed by §
+  1681b(b)(3)(A). As the court in Goode noted, “the FTC letters say only that the
+  employer does not absolve itself of liability by outsourcing FCRA compliance. They
+  do not say that the [consumer reporting agency] cannot be liable itself.” 848 F. Supp.
+  2d at 542 (appearing to criticize the same FTC letters introduced here). Additionally,
+  the first FTC letter refers to “[a]n employer or other user,” and thus, does not even
+  limit its opinion to employers. Accordingly, the Court does not find these letters
+  persuasive.
+
+        HireRight also cites to a July 2011 report by the FTC. See Federal Trade
+  Commission, 40 Years of Experience with the Fair Credit Reporting Act (July 2011)
+  (the “July 2011 Report”) (Docket No. 30-2, Ex. E), available in full at
+  http://www.ftc.gov/sites/default/files/documents/reports/40-years-experience-fair-
+  credit-reporting-act-ftc-staff-report-summary-interpretations/110720fcrareport.pdf.
+  The July 2011 report in general describes the obligations that § 1681b(b)(3)(A)
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        12
+
+--- Source PDF page 13 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 13 of 26 Page ID
+                                       #:903
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  imposes on employers. By using the term “employers,” instead of a more general term
+  such as “users,” it could be argued that the July 2011 report envisions the §
+  1681b(b)(3)(A) as applying primarily to employers. See July 2011 Report at 52-53.
+  Even so, the July 2011 report still does not specifically address the scope of §
+  1681b(b)(3)(A) or state that it imposes duties on employers only. Moreover, other
+  portions of the same July 2011 report state that the term “employment purposes” is not
+  limited to actions taken against an employee, but is to be construed broadly to include
+  actions taken against independent contractors and volunteers. See July 2011 Report at
+  32.
+
+         Finally, the Auto Club cites to two cases, arguing that they define users of
+  consumer reports for the purposes of § 1681b(b)(3)(A) to mean employers. (Auto
+  Club’s Reply at 6-7). However, the Auto Club stretches the meaning of those two
+  cases.
+
+        In Obabueki, 145 F. Supp. 2d 371, the court stated that § 1681b(b) sets forth
+  obligations “for consumer reporting agencies and users such as employers.” Id. at 393
+  (emphasis added). The phrase, “such as,” indicates that the court viewed employers to
+  be included within the meaning of “users.” But nothing indicates that the court viewed
+  users to only include employers.
+
+         Similarly, the Auto Club cites to a passing sentence in Johnson v. ADP
+  Screening & Selection Services, Inc., 768 F. Supp. 2d 979 (D. Minn. 2011), stating that
+  the FCRA “imposes a duty on employers to provide prospective employees with
+  information about their consumer reports.” Id. at 283. However, this sentence is not a
+  conclusion regarding the scope of the pre-adverse action notice requirement. The text
+  indicates that the court simply used the term “employers” out of colloquial ease. In
+  fact, in the following sentence, the court reverted to the statutory language, stating that
+  the pre-adverse action notice requirement applies to “a person [who] takes an adverse
+  employment against a consumer based . . . on a consumer report.” Id. Therefore, the
+  Court does not read Johnson as supporting the proposition that the duty in §
+  1681b(b)(3)(A) is limited only to employers.
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        13
+
+--- Source PDF page 14 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 14 of 26 Page ID
+                                       #:904
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+       Based on the legal authority provided by the parties, the Court finds that the
+  plain text of § 1681b(b)(3)(A) does not limit the pre-adverse action notice requirement
+  to employers. The statute imposes a duty on a “person intending to take” any adverse
+  action based “in whole or in part” on a consumer report “for employment purposes.”
+  15 U.S.C. § 1681b(b)(3)(A). The FCRA defines “employment purposes” to refer to
+  situations when a consumer report is “used for the purpose of evaluating a consumer
+  for employment, promotion, reassignment or retention as an employee.” 15 U.S.C. §
+  1681a(h).
+
+       While the Lamson court read the phrase “as an employee” to require an
+  employer-employee relationship between the person intending to take the adverse
+  action and the consumer, that reading is not necessitated by the plain text of the statute.
+  The definition of “employment purposes” does not state that the consumer report must
+  be used by an employer; instead, it uses the passive voice, thereby, omitting the subject
+  who is using the consumer report.
+
+         Similarly, the section requiring pre-adverse action imposes its duty on “a person
+  intending to take” an adverse employment action. 15 U.S.C. § 1681b(b)(3)(A). If
+  Congress had so intended, it could have specifically used the word “employer,” but it
+  did not. At least two other courts have thus read § 1681b(b)(3)(A) as imposing the pre-
+  adverse action notice on entities other than employers. See Goode, 848 F. Supp. 2d
+  532; Adams, 620 F. Supp. 2d 319. The Court is persuaded by the reasoning in Goode
+  that the use of the word “person,” instead of employer in § 1681b(b)(3)(A) , indicates
+  that the provision can apply to other entities.
+
+        Therefore, the court does not read 15 U.S.C. § 1681b(b)(3)(A) as imposing the
+  pre-adverse action notice requirement on employers only.
+
+               Prescott’s Relationship to the Auto Club
+
+       Because the February 10 Order followed the reasoning in Lamson, the SAC
+  alleges that Prescott was a common-law employee of the Auto Club. (SAC ¶ 2).
+
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        14
+
+--- Source PDF page 15 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 15 of 26 Page ID
+                                       #:905
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  However, the Auto Club argues that this allegation is implausibly pled. (See Auto
+  Club’s Mot. at 9-15; Auto Club’s Reply at 10-14).
+
+       The Supreme Court has laid out the following common law agency test:
+
+        In determining whether a hired party is an employee under the general common
+       law of agency, we consider the hiring party’s right to control the manner and
+       means by which the product is accomplished. Among the other factors relevant
+         to this inquiry are the skill required; the source of the instrumentalities and tools;
+        the location of the work; the duration of the relationship between the parties;
+       whether the hiring party has the right to assign additional projects to the hired
+         party; the extent of the hired party’s discretion over when and how long to work;
+        the method of payment; the hired party’s role in hiring and paying assistants;
+       whether the work is part of the regular business of the hiring party; whether the
+         hiring party is in business; the provision of employee benefits; and the tax
+        treatment of the hired party. . . . Since the common-law test contains “no
+        shorthand formula or magic phrase that can be applied to find the answer, . . . all
+        of the incidents of the relationship must be assessed and weighed with no one
+         factor being decisive.”
+
+  Nationwide Mut. Ins. Co. v. Darden, 503 U.S. 318, 323-24, 112 S. Ct. 1344, 117 L. Ed.
+  2d 581 (1992) (citations omitted).
+
+       The Court can determine whether an employer-employee relationship exists as a
+  matter of law when the alleged facts are conclusive on the issue. See, e.g., Glynn v.
+  Roy Al Boat Mgmt. Corp., 57 F.3d 1495, 1499 (9th Cir. 1995) abrogated on other
+  grounds by Atl. Sounding Co., Inc. v. Townsend, 557 U.S. 404, 129 S. Ct. 2561, 174 L.
+  Ed. 2d 382 (2009) (affirming the district court’s holding, as a matter of law, that the
+  plaintiff was an employee of the defendant, where, based on the factors, no reasonable
+  jury could have found that the plaintiff “was anything other than an employee”).
+
+       The SAC primarily presents allegations relevant to the first Darden factor—the
+  task to be accomplished—which refers to the “the hiring party’s right to control the
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        15
+
+--- Source PDF page 16 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 16 of 26 Page ID
+                                       #:906
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  manner and means by which the product is accomplished.” Darden, 503 U.S. at 323.
+  Most of the SAC’s allegations on this point demonstrate only that the Auto Club
+  exercises a high degree of control over the towing stations. (See, e.g., SAC ¶¶ 15-18,
+  24). But these allegations do not demonstrate that the Auto Club exerts control over
+  the technicians themselves. Moreover, while the allegations specific to the technicians
+  demonstrate that the Auto Club sets expectations and provides guidance to the
+  technicians (see SAC ¶¶ 17, 19, 23), they fail to demonstrate a critical element: the
+  right to control the technician’s work. For example, the allegation that the Auto Club
+  can recommend discipline or termination to enforce its standards demonstrates that the
+  Auto Club lacks the right to directly enforce its performance standards and the right to
+  directly control the technician’s means and manner of work. (SAC ¶ 19). Therefore,
+  the first factor weighs against an employer-employee relationship.
+
+       With regard to the second factor—the source of instrumentalities and tools—the
+ SAC alleges that that the facilities, vehicles, and equipment must meet the Auto Club’s
+  standards, but it is clear that such equipment belongs to the towing stations. (SAC ¶
+  17). Therefore, the second factor weighs against an employer-employee relationship.
+
+       With regard to the third factor—the location of work—the SAC alleges that all
+  service calls are directed to the towing stations at the sole discretion of the Auto Club.
+  (SAC ¶ 14). However, as with the first factor, the SAC does not allege that the Auto
+  Club dictates the work location of the technicians themselves. Therefore, the third
+  factor weighs against an employer-employee relationship.
+
+       With regard to the fourth through seventh factors are, the SAC simply contains
+  no relevant allegations about the duration of Prescott’s relation to the Auto Club, the
+  Auto Club’s right to assign additional projects, the Auto Club’s discretion over when
+  and how long the technicians can work, and how the technicians were paid.
+
+       Because no factors weigh in favor of finding an employer-employee
+  relationship, the Court can determine as a matter of law that no employer-employee
+  relationship existed between Prescott and the Auto Club.
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        16
+
+--- Source PDF page 17 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 17 of 26 Page ID
+                                       #:907
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+           The Auto Club’s Adverse Employment Action
+
+        Despite the absence of an employer-employee relationship, the Auto Club can
+   still be liable under 15 U.S.C. § 1681b(b)(3)(A), if the SAC plausibly alleges that it
+  took an adverse action. The duty in § 1681b(b)(3)(A) is triggered when a person
+  “us[es] a consumer report for employment purposes,” and intends to take an adverse
+  action against the consumer “based in whole or in part on the report.” See id.
+
+       The Auto Club argues that its actions cannot constitute adverse actions within
+  the meaning of the FCRA because the SAC does not allege that the Auto Club received
+  or evaluated the technician’s consumer reports. (Auto Club’s Reply at 8).
+
+       However, the SAC alleges that the Auto Club procures consumer reports from
+  HireRight and “receive[s] confidential criminal history information from HireRight
+  relating to all screened applicants.” (SAC ¶¶ 30-31). The SAC further alleges that
+  when HireRight adjudicates a technician as “does not meet company standards,” the
+  Auto Club automatically sends a notification to the towing company denying the
+  technician access to the Auto Club’s members and recommending that the technician
+  be terminated. (SAC ¶¶ 33-34, 36). A consumer report includes “any . . .
+  communication of any information by a consumer reporting agency bearing on a
+  consumer’s . . . character, general reputation, [or] personal characteristics, . . . which is
+  used or expected to be used . . . for the purpose of serving as a factor in establishing the
+  consumer’s eligibility for” employment purposes. 15 U.S.C. § 1681a(d). “A consumer
+  report, therefore, is virtually any information communicated by a ‘consumer reporting
+  agency’ for any one of the purposes enumerated in 1681a and 1681b, including but not
+  limited to, ‘employment purposes . . . .’” Hoke v. Retail Credit Corp., 521 F.2d 1079,
+  1081 (4th Cir. 1975). An adjudication stating that a technician does not meet certain
+  criminal screening criteria plausibly constitutes information bearing on the technician’s
+  “character, general reputation, or personal characteristics.” Id.
+
+       Moreover, the SAC plausibly alleges that the Auto Club used the adjudication
+  for employment purposes. As indicated above, using a consumer report for
+  “employment purposes” means using the report to “evaluat[e] a consumer for
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        17
+
+--- Source PDF page 18 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 18 of 26 Page ID
+                                       #:908
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  employment, promotion, reassignment or retention as an employee.” See 15 U.S.C. §
+  1681a(h). Taking the allegations in the SAC as true, the Auto Club’s contracts require
+  the towing companies to obtain the Auto Club’s permission before entering into other
+  towing contracts, and thus, “a vast majority” of the towing companies’ business comes
+  from the Auto Club. (SAC ¶ 22). The SAC alleges that when the Auto Club receives a
+  negative adjudication for a technician, it sends the towing company notice denying that
+  technician access to its members. Therefore, the Auto Club is using the adjudication to
+  determine whether a technician can continue to perform “a vast majority” of his regular
+  work as an employee of a towing company. At least at this early stage, the SAC
+  plausibly alleges that the Auto Club’s notice is tantamount to evaluating whether a
+  technician should be retained as the towing company’s employee.
+
+         Similarly, the SAC plausibly alleges that the Auto Club takes an adverse action
+  against the technician when it sends the notice denying the technician access to its
+  members. Taking an adverse action in the employment context means “a denial of
+  employment or any other decision for employment purposes that adversely affects any
+  current or prospective employee.” 15 U.S.C. §1681a(k)(1)(B)(ii). For the same
+  reasons articulated in the paragraph above, a notice that denies a technician the ability
+  to perform “a vast majority” of his work would at least constitute “any other decision
+  for employment purposes that adversely affects” an employee. Id.
+
+       The Auto Club argues that the action it allegedly took in generating a notice
+  denying a technician access to its members does not adversely affect the technician.
+  (Auto Club’s Reply at 10). In making this argument, the Auto Club analogizes its
+  notice to the internal decision in Obabueki to withdraw an offer of employment. (Id.).
+  As noted above, the court in Obabueki found that the defendant’s internal decision to
+  withdraw a conditional offer of employment was not an adverse action because the
+  plaintiff did not suffer any adverse effect until the defendant sent a final letter actually
+  withdrawing the plaintiff’s offer of conditional employment. 145 F. Supp. 2d at 392.
+  The Auto Club argues that Prescott did not suffer any adverse effect when it
+  recommended that AT terminate him, but only when AT actually terminated him.
+  (Auto Club’s Reply at 10).
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        18
+
+--- Source PDF page 19 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 19 of 26 Page ID
+                                       #:909
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+       The Court is not persuaded. The SAC alleges that the Auto Club not only
+  recommends a technician’s termination (SAC ¶ 34), but that it also denies that
+  technician access to its members (SAC ¶33, 36). Unlike Obabueki, there is no
+  indication that this denial of access was an internal decision that was then followed by
+  a formal denial of access to the Auto Club’s members.  It appears, instead, that the
+  Auto Club’s notice of denial of access to its members is a final decision.
+
+       The Auto Club also argues that it did not take an adverse action because it did
+  not make the final decision to terminate a technician’s employment. (Auto Club’s
+  Reply at 8). This is simply another version of the argument that § 1681b(b)(3)(A)
+  applies solely to employers, since it is only the employer who can make the final
+  decision regarding termination. However, the Court has already rejected that
+  argument. Moreover, the court in Adams directly rejected the argument that only the
+  entity with ultimate authority over the employment decision can take an adverse action.
+  620 F. Supp. 2d at 332.
+
+        Accordingly, the SAC plausibly alleges that the Auto Club took an adverse
+  action against Prescott and other class members, within the meaning of 15 U.S.C. §
+  1681b(b)(3)(A).
+
+            AT’s Letter
+
+       The Auto Club also argues that the SAC fails to state a claim under 15 U.S.C. §
+  1681b(b)(3)(A) because AT satisfied the FCRA’s requirement by sending Prescott a
+  pre-adverse action letter. (Auto Club’s Mot. at 15-17).
+
+       Both parties agree and case law indicates that the FCRA does not require
+  multiple entities to send pre-adverse action notices. “A consumer does not need
+  multiple notices from various ‘participants’ about the same adverse action in order to
+  receive the protection afforded by FCRA. To the contrary, multiple notices regarding
+  the same transaction would be confusing and could suggest erroneously that more than
+  one adverse action had been taken.” Razilov v. Nationwide Mut. Ins. Co., 242 F. Supp.
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        19
+
+--- Source PDF page 20 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 20 of 26 Page ID
+                                       #:910
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  2d 977, 989 (D. Or. 2003) abrogated by Reynolds, 435 F.3d 1081, 1096 (“Multiple
+  notices are not required; a single notice from the companies involved identifying those
+  companies and their respective roles will suffice.”) overruled on other grounds by
+  Safeco, 551 U.S. 47. Therefore, the issue is not whether the Auto Club was required to
+  send a separate letter, but simply whether AT’s Letter satisfied 15 U.S.C. §
+  1681b(b)(3)(A) with respect to the adverse action allegedly taken by the Auto Club.
+
+      As Prescott argues, AT’s Letter does not satisfy 15 U.S.C. § 1681b(b)(3)(A)
+  because based on the allegations in the SAC, AT’s Letter was sent after the Auto Club
+  allegedly generated its notice denying access to its members. (Opp. to Auto Club at
+  11).
+
+       Moreover, in the context of fulfilling the general adverse action notice provision,
+  15 U.S.C. § 1681m(a), the Ninth Circuit has noted that “a single notice from the
+  companies involved identifying those companies and their respective roles will
+  suffice.” Reynolds, 435 F.3d at 1096. The Court sees no reason why this principle
+  would not extend to pre-adverse action notices. To the extent that AT’s Letter does not
+  identify the Auto Club’s role in denying a technician access to its members and
+  recommending termination of that technician, it does not fulfill the purposes of
+  providing the technician an opportunity to contest the adverse action.
+
+        Therefore, taking the allegations in the SAC as true, AT’s Letter does not satisfy
+  15 U.S.C. § 1681b(b)(3)(A) with regard to the Auto Club’s alleged adverse action.
+
+              Willfulness of the Auto Club’s Violation
+
+       While the plaintiff can recover only actual damages for a negligent violation of
+  the FCRA, 15 U.S.C. § 1681o(a), the plaintiff can recover statutory and punitive
+  damages for a willful violation, 15 U.S.C. § 1681n(a). The Supreme Court has stated
+  that willful violations include “not only knowing violations of [the] standard, but
+  reckless ones as well.” Safeco Ins. Co. of Am. v. Burr, 551 U.S. 47, 56, 127 S. Ct.
+  2201, 167 L. Ed. 2d 1045 (2007). A defendant does not act recklessly, “unless [its]
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        20
+
+--- Source PDF page 21 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 21 of 26 Page ID
+                                       #:911
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  action is not only a violation under a reasonable reading of the statute’s terms, but
+  shows that the company ran a risk of violating the law substantially greater than the
+  risk associated with a reading that was merely careless.” Id. at 69.
+
+       The SAC alleges that the Auto Club willfully violated 15 U.S.C. §
+  1681b(b)(3)(A). (SAC ¶ 85). To establish willfulness, the SAC alleges:
+
+             i. Based on the plain language of the statute, legal advice provided by its own
+        general counsel or outside employment counsel, and published FTC guidance,
+        Defendants knew or should have known that its failure to provide pre-adverse
+        action notice was unlawful[;]
+
+             ii. Moreover, based on the certification executed and memorialized by
+        Defendants, they explicitly acknowledged that it has the duty to provide a pre
+        adverse action notice as specified under the FCRA;
+
+             iii. Defendants could have complied with the statutory duty to provide a
+        preadverse action notice either by sending the notice directly to the affected
+       consumer job applicant;
+
+          iv. Despite the clear notice of the law, full ability to comply, and ample
+        opportunity, Defendants failed to adopt any measure which would have provided
+        the required notice to Plaintiff and the Class.
+
+  (SAC ¶ 85).
+
+       With regard to basis (i), the plain language of the statute does not clearly impose
+  a duty on the Auto Club, as illustrated by the fact that different courts have reached
+  different conclusions about the scope of § 1681b(b)(3)(A).  Moreover, the allegation
+  that the Auto Club received legal advice that it was required to provide pre-adverse
+  action notice is a conclusory assertion lacking a specific factual basis to render it
+  plausible.
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        21
+
+--- Source PDF page 22 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 22 of 26 Page ID
+                                       #:912
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+
+        In basis (i), the SAC also refers to FTC guidance. In his opposition, Prescott
+  clarifies that FTC guidance refers to case law and FTC publications, which indicated
+  that, prior to Lamson, the term “employment purposes” extended broadly to cover
+  independent contractors. (Opp. to Auto Club 15-16 (citing Hoke, 521 F.2d 1079;
+  Herman L. Allison, Staff Opinion Letter Re: Section 603(h) of the Fair Credit
+  Reporting Act (February 23, 1998); Harris K. Solomon, Staff Opinion Letter Re:
+  Sections 603(h) and 604(b)(3) of the Fair Credit Reporting Act (October 27, 1998); the
+  July 2011 Report at 32)). While Prescott persuasively argues that the consensus
+  opinion prior to Lamson was that the FCRA extended to independent contractors, the
+ SAC does not allege that Prescott and other technicians were independent contractors
+  of the Auto Club. Instead, as discussed above, the SAC unsuccessfully alleges that
+  Prescott was an employee of the Auto Club. Therefore, legal authority indicating that
+  the pre-adverse action notice requirement applied to independent contractors does not
+  assist the Court in determining whether the Auto Club’s reading of the FCRA with
+  regard to technicians was unreasonable.
+
+         Similarly, bases (iii) and (iv) do not allege facts demonstrating that the Auto
+  Club willfully violated § 1681b(b)(3)(A). Instead, they allege that the Auto Club could
+  have complied with the statute, but failed to do so.
+
+       The SAC’s strongest basis for a willful violation is basis (iv), i.e., the allegation
+  that the Auto Club certified that HireRight would provide pre-adverse action notice to
+  consumers, including “contractor employees” like Prescott. This assertion plausibly
+  alleges that the Auto Club knowingly violated § 1681b(b)(3)(A). As noted above, the
+  Auto Club argues that this allegation is contradicted by the service agreement between
+  the Auto Club and HireRight, as well as the service agreement between AT and
+  HireRight. However, the Court has declined to take judicial notice of those documents
+  and found that the inquiry into the sufficiency of Prescott’s evidence, as opposed to
+  allegations, is better left for a motion for summary judgment.
+
+
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        22
+
+--- Source PDF page 23 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 23 of 26 Page ID
+                                       #:913
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+        Therefore, the Auto Club’s Motion is DENIED as to Prescott’s first claim for
+   relief.
+
+           The Pre-Adverse Action Notice Claim Against HireRight
+
+        In the briefs and at the hearing, HireRight argued that the structure of the FCRA
+  demonstrates Congress’s intent to impose distinct rather than shared obligations on
+  consumer reporting agencies and users of consumer reports. (HireRight’s Mot. at 11-
+  13; HireRight’s Reply at 4). This argument is strongly supported by the structure of
+  the FCRA and case law. See, e.g., Obabueki, 145 F. Supp. 2d at 393-94 (finding that
+  the first subsection of 15 U.S.C. § 1681b(b)(1) imposes obligations on consumer
+  reporting agencies, while the second and third subsections impose obligations on
+  users). This interpretation of the FCRA also potentially conflicts with the holding in
+  Goode, 848 F. Supp. 2d at 542-43, that a consumer reporting agency may be required
+  to provide pre-adverse action notice. However, the Court need not address this thorny
+  issue. Nor does the Court need to determine whether HireRight took an adverse
+  employment action against Prescott. Instead, the Court can dispose of the claim
+  against HireRight based on the issue of willfulness.
+
+       The SAC fails to plausibly allege that HireRight willfully violated §
+  1681b(b)(3)(A). As Prescott concedes, it appears that no court prior to Goode found a
+  consumer reporting agency liable for failing to provide pre-adverse action notice.
+  (Opp. to HireRight at 4). Even the court in Goode declined to find that the consumer
+  reporting agency there could have acted willfully because “what constitutes an adverse
+  action under [the FCRA] is not always clear.” 848 F. Supp. 2d at 543. Therefore, it
+  was not reckless for HireRight to believe that it had no duty to provide pre-adverse
+  action notices under the FCRA. (Opp. to HireRight at 4).
+
+       However, Prescott limits his concession that the SAC does not plausibly allege
+  willfulness to the time period prior to Goode. (Opp. to HireRight at 4). The Court
+  disagrees and finds that even actions post-Goode could not be considered reckless. As
+  discussed above, while Goode held that a consumer reporting agency could be held
+  liable under § 1681b(b)(3)(A), Lamson, which was decided shortly after Goode, held
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        23
+
+--- Source PDF page 24 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 24 of 26 Page ID
+                                       #:914
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  that only an employer could be liable under § 1681b(b)(3)(A). Other than Goode, the
+  parties have not cited to any other cases that have imposed liability on a consumer
+  reporting agency. In the absence of either binding authority or a clear consensus
+  among the courts, HireRight’s interpretation of § 1681b(b)(3)(A) was not
+  unreasonable.
+
+       Moreover, the SAC alleges only a claim for a willful violation against
+  HireRight. The SAC does not also allege a claim for a negligent violation, nor does it
+  allege that Prescott suffered actual damages as a result of HireRight’s actions.
+  Therefore, the SAC fails to state a claim against HireRight under § 1681b(b)(3)(A).
+  See Shlahtichman v. 1-800 Contacts, Inc., 615 F.3d 794, 803 (7th Cir. 2010) (affirming
+  dismissal where a complaint failed to adequately allege that a defendant willfully
+  violated the FCRA, and “alleged no actual injury”).
+
+         Prescott asks that he be granted leave to file a Third Amended Complaint, if the
+  Court grants HireRight’s Motion in any respect. (Opp. to HireRight at 7). However, in
+  the February 10 Order, the Court stated that the SAC would be Prescott’s last
+  opportunity to file an amended complaint, and that any meritorious motions to dismiss
+  would be granted without leave to amend. (Feb. 10 Order at 10). Prescott has twice
+  amended his complaint. Although the original Complaint advanced different theories
+  of liability, the FAC alleged the same claim as the SAC for willful failure to provide
+  pre-adverse action notice. Prescott was given an opportunity to amend the FAC and
+   still is unable to state a claim for relief against HireRight. As noted above, given the
+  unsettled case law regarding whether § 1681b(b)(3)(A) applies to consumer reporting
+  agencies, the Court does not see how Prescott could amend the pleadings so as to
+  plausibly allege that HireRight willfully violated § 1681b(b)(3)(A). Therefore, the
+  Court denies Prescott the opportunity to amend his complaint for a third time.
+
+        Accordingly, the HireRight’s Motion is GRANTED without leave to amend as
+  to Prescott’s first claim for relief.
+
+       Second, Third, and Fourth Claims for Relief
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        24
+
+--- Source PDF page 25 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 25 of 26 Page ID
+                                       #:915
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+
+       The second, third, and fourth claims are pled “in the alternative . . . if [Prescott]
+   is found to have not been an employee of the Auto Club . . . and/or [Prescott’s]
+  consumer report was not caused to be procured for employment purposes.” (SAC ¶¶
+  89, 94, 101). The Court has found that the SAC plausibly alleges that the Auto Club
+  obtained HireRight’s negative adjudication of technicians for employment purposes.
+  Prescott’s opposition indicates that such a finding is incompatible with at least his
+  second and third claims for relief. (See Opp. to Auto Club at 21-22). At the hearing,
+  Prescott’s counsel further clarified that if the Court makes such a finding, his client
+  does not intent to pursue the second, third, and fourth claims, even if HireRight is
+  dismissed from this action.
+
+        Accordingly, the Court DISMISSES the second, third, and fourth claims for
+   relief.
+
+        Class Allegations
+
+       The Auto Club argues that the SAC’s class allegations are insufficient as a
+  matter of law because they are not pled with particularity, as required by Twombly.
+  (Auto Club’s Mot. at 23-25; Auto Club’s Reply at 21). The Court disagrees.
+
+       The SAC alleges with particularity the Auto Club’s and HireRight’s general
+  practices with regard to the adjudication of technicians, and the failure to provide pre-
+  adverse action notice. While the Court may strike class allegations were it is “plain
+  enough from the pleadings” to determine that a class cannot be certified, Sanders v.
+  Apple Inc., 672 F. Supp. 2d 978, 990 (N.D. Cal. 2009), this is not such a case.
+
+        In making its argument, the Auto Club relies primarily on cases addressing
+  whether a proposed class should be certified, as opposed to whether class action
+  allegations are sufficient. In that sense, the Auto Club’s challenge is premature. See,
+   e.g., Clark v. State Farm Mut. Auto. Ins. Co., 231 F.R.D. 405, 407 (C.D. Cal. 2005)
+  (denying the defendants’ motion to strike class action allegations because even though
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        25
+
+--- Source PDF page 26 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 49   Filed 05/14/14  Page 26 of 26 Page ID
+                                       #:916
+
+                 UNITED STATES DISTRICT COURT
+               CENTRAL DISTRICT OF CALIFORNIA
+
+                      CIVIL MINUTES—GENERAL
+
+  Case No. CV-13-08953-MWF (PLAx)          Date: May 14, 2014
+  Title:     Felix B. Prescott -v- HireRight Solutions, Inc., et al.
+
+  “Plaintiff’s complaint contains conclusory class allegations, the allegations address
+  each of the elements of Rule 32, relate to the subject matter of the litigation, and are
+  not redundant, immaterial, or impertinent”); Cholakyan v. Mercedes-Benz USA, LLC,
+  796 F. Supp. 2d 1220, 1245 (C.D. Cal. 2011) (listing cases that support the proposition
+  that it is rare to strike class allegations before a motion for certification and discovery
+  have begun).
+
+  Conclusion
+
+        In sum, the status of this action is as follows:
+
+       The Auto Club’s Request for Leave is DENIED;
+
+       The Auto Club’s Motion is DENIED;
+
+        HireRight’s Motion is GRANTED without leave to amend as to the first claim
+  for relief in the SAC; and
+
+       The second, third, and fourth claims for relief are DISMISSED.
+
+       IT IS SO ORDERED.
+
+
+
+
+
+  ______________________________________________________________________________
+                       CIVIL MINUTES—GENERAL                        26
+

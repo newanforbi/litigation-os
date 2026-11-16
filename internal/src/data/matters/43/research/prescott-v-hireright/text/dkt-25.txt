@@ -1,0 +1,927 @@
+--- Source PDF page 01 | OCR ---
+—clhe 2:13-cv-08953-MWF-PLA Document 25 Filed 02/24/14, Page 1 of 17 Page ID)
+
+10
+11
+12
+13
+14
+15
+16
+7
+18
+19
+20
+a1
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+
+#:588
+
+ANEW WAY OF LIFE REENTRY PROJECT
+Joshua E. Kim, Esq. (SBN #257260)
+
+11211 S, Western Ave.
+
+Los Angeles, California 90047
+
+Ph: (323) 563-3575
+
+Fax: (323) 563-3445
+
+joshua@anewwayoflife.org
+
+THE LAW OFFICES OF DEVIN H. FOK
+Devin H. Fok, Esq. (SBN #256599)
+
+P.O. Box 7165
+
+Alhambra, CA 91802-7165
+
+Ph: (310) 430-9933
+
+Fax: (323) 563-3445
+
+devin@devinfoklaw.com
+
+Attorneys for Plaintiff FELIX B. PRESCOTT
+and the Proposed Class
+
+UNITED STATES DISTRICT COURT
+CENTRAL DISTRICT OF CALIFORNIA
+
+CASE NO. CV 13-8953-MWE(PLAX)
+
+a SECOND AMENDED CLASS ACTION
+FELIX B. PRESCOTT, individually, and as a.) CQMPLAINT FOR VIOLATION OF THE
+Tepresentative of the class, FAIR CREDIT REPORTING ACT 15
+
+U.S.C. §1681 et seq.
+Plaintiffs,
+
+S.
+. JURY TRIAL DEMANDED
+
+HIRERIGHT SOLUTIONS, INC.;
+AMERICAN AUTOMOBILE
+ASSOCIATION; AAA AUTO CLUB OF
+SOUTHERN CALIFORNIA; and DOES 1-10
+inclusive,
+
+Defendants.
+
+Plaintiff FELIX B. PRESCOTT (hereafter as “Plaintiff”), on behalf of himself and all
+similarly situated individuals, complains and alleges against Defendants HIRERIGHT
+SOLUTIONS, INC., complains against Defendants HIRERIGHT SOLUTIONS, INC.
+
+SECOND AMENDED CLASS ACTION COMPLAINT ~ 1
+
+qaus
+
+--- Source PDF page 02 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 2 of 17 Page ID
+                                       #:589
+
+
+
+
+
+ 1  (“HIRERIGHT”); AMERICAN AUTOMOBILE ASSOCIATION (“AAA”); AAA AUTOCLUB
+ 2  OF SOUTHERN CALIFORNIA (“the Auto Club”); and DOES 1-10 inclusive, and alleges as
+ 3   follows:
+
+ 4
+ 5                     NATURE OF THE ACTION
+
+ 6
+ 7       1.  Plaintiff brings this action on behalf of himself and those similarly situated against
+
+ 8   Defendants the Auto Club, AAA, and HireRight for violations of the Fair Credit Reporting Act
+ 9  (“FCRA” 15 U.S.C. §1681 et seq.).
+10       2.  Plaintiff is informed and believes, and thereon alleges that Plaintiff at all times relevant
+11   herein was an employee of an Auto Club and AAA towing station named Advanced Auto Center
+12   d.b.a. Advanced Towing, Inc. (hereafter as “AT”). Based on the facts as further alleged below,
+13   Plaintiff is informed and believes, and thereon alleges that at all times relevant herein, Plaintiff
+14  was a common-law employee of the Auto Club and AAA.
+15       3. As an employer of Plaintiff, Defendants Auto Club and AAA violated the FCRA by
+16   taking adverse employment action against Plaintiff in whole or in part on the basis of criminal
+17   history information disclosed on a consumer report without first providing a pre-adverse action
+18   notice to Plaintiff pursuant to 15 U.S.C. §1681b(b)(3).
+19       4.  HireRight also violated the FCRA by taking adverse action against Plaintiff by
+
+20   adjudicating Plaintiff as “DOES NOT MEET COMPANY STANDARDS” without first
+21   providing Plaintiff with any pre-adverse action notice as required under 15 U.S.C. §1681b(b)(3)
+22   (See also Goode et al. v. LexisNexis Risk & Information Analytics Group, Inc. (E.D. Pa. 2012)
+23  284 F.R.D. 238).
+
+24
+25                         THE PARTIES
+
+26
+27       5.  Plaintiff FELIX B. PRESCOTT is, and at all times relevant herein was, a resident of
+28   Riverside County, California. At all times relevant to the incident, Plaintiff was employed by an
+29  Auto Club and AAA towing station named AT.
+30       6.  Defendant AAA AUTOCLUB OF SOUTHERN CALIFORNIA ("Auto Club"), is and at
+31    all times herein mentioned was, a California corporation regularly doing business throughout the
+32   state of California with headquarters in the City of Santa Ana, County of Orange.
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 2
+
+--- Source PDF page 03 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 3 of 17 Page ID
+                                       #:590
+
+
+
+
+
+ 1       7.  Defendant HIRERIGHT, INC., is a foreign corporation doing business in California.
+ 2       8.  Defendant AMERICAN AUTOMOBILE ASSOCIATION ("AAA"), is a foreign
+ 3   corporation doing business in California.
+
+ 4       9.  Plaintiff is ignorant of the Defendants sued herein as DOES 1-10, inclusive, and therefore
+ 5   sues those Defendants by such capacities when such information is ascertained.
+ 6       10. Plaintiff is informed and believes and thereon alleges that each of the Doe Defendants is
+ 7   responsible in some manner for the occurrences herein alleged and that Plaintiff’s damages as
+
+ 8   herein alleged were proximately caused by such occurrences.
+ 9       11. Plaintiff is informed and believes and thereon alleges that, at all times herein mentioned,
+10   Defendants DOES 1-10, were agents of each other and of the named Defendant and in doing the
+11   things alleged in this complaint, were acting in the scope of such agency and with the permission
+12   and consent of Defendants.
+
+13
+
+14
+15                THE RELATIONSIHP OF THE PARTIES
+
+16
+17       12. The following allegations are based on Plaintiff’s information and believe.
+18       13. The Auto Club and AAA contracts with tow truck companies (known as “stations”) to
+19   provide roadside assistance service to its members. One such station was Advanced Auto Center
+
+20   d.b.a. Advanced Towing, Inc. (hereafter as “AT”).
+21       14. All service calls are directed to these stations at the sole discretion of the Auto Club and
+22  AAA.
+23       15. As part of its quality assurance program, the Auto Club and AAA provide service
+
+24   guidelines and training seminars to these stations and monitor their performance through
+25   customer satisfaction surveys, visits to stations, and investigation of consumer complaints.
+26       16. The Auto Club and AAA exert a high level of control over its stations.
+27       17. All facilities, vehicles, and equipment of the stations are required to meet the standards of
+28   the Auto Club and AAA. The stations are drivers are also required to maintain appearance and
+29   professional standards maintained by the Auto Club and AAA.
+30       18. If the stations fail to perform services to the standard of the Auto Club and AAA, of the
+31   stations fail to meet any of the above guidelines, the Auto Club and AAA has the right to
+32   terminate its relationship with the stations or redirect calls to other stations.
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 3
+
+--- Source PDF page 04 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 4 of 17 Page ID
+                                       #:591
+
+
+
+
+
+ 1       19. Moreover, the Auto Club and AAA can also recommend the stations to discipline or
+ 2   terminate any of its technicians that failed to meet Auto Club and AAA guidelines.
+ 3       20. The Auto Club and AAA also screen technicians who are currently employed or to be
+
+ 4   hired by these stations to determine whether they are eligible to service the Auto Club and
+ 5  AAA’s members.
+ 6       21. If these technicians do not pass the Auto Club and AAA’s background check
+ 7   requirements, the Auto Club and AAA can recommend their termination from employment.
+
+ 8       22. These stations generally cannot enter into other towing contracts without the consent of
+ 9  Auto Club and AAA and accordingly, a vast majority of these stations’ business comes from the
+10  Auto Club and AAA.
+11       23. The Auto Club and AAA provide station technicians with comprehensive training
+12   manuals relating to safety as well as how to communicate to the Auto Club and AAA’s
+13  members.
+14       24. The Auto Club and AAA frequently contact these towing stations on a monthly basis to
+15   ensure that the work is performed to the Auto Club and AAA’s standards.
+16       25. Essentially, the work performed by the technicians is Auto Club’s regular business, not a
+17   one-off job or occasional event. It is full-time employment carrying out Auto Club’s business of
+18   providing roadside assistance, under the direction of Auto Club.
+19       26. If the Auto Club and AAA recommend the discipline or termination of a technician,
+
+20   failure to follow this recommendation would cause the station’s contract to be terminated or calls
+21   directed elsewhere.
+22       27. On the basis of the foregoing, Plaintiff alleges that at all times relevant herein, Plaintiff’s
+23   employer AT was an agent of the Auto Club and AAA and that Plaintiff was a common-law
+
+24   employee of the Auto Club and AAA.
+
+25
+26     THE AUTO CLUB AND AAA’S PROCUREMENT OF CONSUMER REPORTS
+
+27
+28       28. On or about 2011, the Auto Club and AAA initiated a policy requiring “all” technicians
+29   operated by its towing stations to pass a criminal background check based on the Auto Club and
+30  AAA’s criminal background criteria. (See http://www.hireright.com/ace/ [“Contractor owners
+31   will create an account to screen ALL of their employees”]; last viewed 9/17/2013, (emphasis in
+32   original)).
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 4
+
+--- Source PDF page 05 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 5 of 17 Page ID
+                                       #:592
+
+
+
+
+
+ 1       29. All existing technicians employed by the Auto Club and AAA’s stations must undergo
+ 2   this new screening regardless of whether they had previously passed a criminal background
+ 3   check.
+
+ 4       30. HireRight was to be the exclusive provider of consumer reports under this new policy and
+ 5   the Auto Club and AAA were to pay1 HireRight directly for these screening services and receive
+ 6   confidential criminal history information from HireRight relating to all screened applicants2.
+ 7       31. In additional to procuring consumer reports from HireRight, the Auto Club and AAA also
+
+ 8   purchased an additional product from HireRight where HireRight would adjudicate, on the basis
+ 9   of the criminal history information disclosed on consumer reports, the technician’s eligibility for
+10  employment based on the criminal history criteria supplied by the Auto Club and AAA.
+11       32. Two adjudications are possible: “DOES NOT MEET COMPANY STANDARDS” or
+12  “MEETS COMPANY STANDARDS.”
+13       33. If the technician is adjudicated as “DOES NOT MEET COMPANY STANDARDS”, the
+14  Auto Club and AAA will automatically send out a notification “denying” the technician “access”
+15   to the Auto Club and AAA’s members.
+16       34. Any technician adjudicated as “DOES NOT MEET COMPANY STANDARDS” are
+17   prohibited by the Auto Club and AAA to perform any service for its members and are required to
+18   be terminated by the stations. Failure to follow the Auto and AAA’s recommendation would
+19   likely result in the stations’ contract to be terminated or calls diverted to other stations.
+
+20       35. Moreover, any technician that is adjudicated as “DOES NOT MEET COMPANY
+21  STANDARDS” is not afforded any opportunity to dispute the adjudication. The technician is not
+22   provided with the results of the adjudication. The result of the negative adjudication is
+23   automatically generated and sent, via a private email, to the station informing the station that the
+
+24   technician has failed the background check.
+25       36. The Auto Club and AAA’s automatic denial of “access” is also automatically generated
+26   and sent to the station via confidential notification through its “EWS” system following the
+27   negative adjudication by HireRight.
+
+28
+
+29
+
+30
+
+      1 (See http://www.hireright.com/ace/ [“The AAA/HireRight partnership provides all AAA Service Providers with31
+     comprehensive background screening packages at no cost”]; last viewed 9/17/2013)
+32    2 The AAA-HIRERIGHT service agreement contains provisions for AAA to maintain the confidentiality of the
+      information disclosed in its “Screening Reports.”
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 5
+
+--- Source PDF page 06 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 6 of 17 Page ID
+                                       #:593
+
+
+
+
+
+ 1       37. This policy was instituted for the Auto Club and AAA’s sole benefit and as a desire to
+ 2   avoid tort liability for negligent and/or intentional conduct against its members committed by its
+ 3   affiliated technicians.
+
+ 4       38. Plaintiff is informed and believes, and thereon alleges that this background screening
+ 5   policy was not instituted at the request of any specific station including AT. Rather, it was
+ 6   instituted to allow the Auto Club and AAA to screen and prevent the hiring of technicians with
+ 7   criminal history so as to reduce its exposure to tort liability.
+
+ 8       39. The Auto Club and AAA were the only entities authorized to change or alter its criminal
+ 9   record screening criteria and were the only entitles authorized to change the guidelines
+10   underlying the HireRight adjudication.
+11       40. The Auto Club and AAA further used this adjudication to issue access notifications
+12   including denial of access to any technician not meeting “company standards.”
+13       41. Plaintiff is informed and believes and thereon alleges that the stations were routinely not
+14   provided with a full copy of the consumer report and took action solely on the adjudication
+15   rendered by HireRight as well as the Auto Club and AAAs “denial notification of access.”
+16       42. At no time during the adjudication process is the technician informed of the results of the
+17   adjudication or provided with any opportunity to challenge the accuracy of HireRight’s
+18   adjudication or of the information on which the adjudication is based. The technician first learns
+19   of the adverse adjudication and denial of access by the Auto Club and AAA when he or she is
+
+20   terminated by the station.
+21       43. As further discussed below, under the FCRA, whenever a user of consumer report such
+22   as background check report intends to take adverse action in whole or in part of the basis of
+23   information disclosed in the consumer report, the user must provide pre-adverse action notice
+
+24   informing the consumer that adverse action will be taken and providing the consumer with a
+25   reasonable opportunity to dispute the information disclosed in the consumer report. (15 U.S.C.
+26   §1681b(b)(3)).
+27       44. It is well established that any consumer reporting agency that uses a consumer’s criminal
+28   history to adjudicate a consumer’s eligibility for employment is a user of information disclosed
+29   in a consumer report.
+30       45. Moreover, the Auto Club and AAA are users or joint users of consumer information in
+31   determining whether technicians are eligible to perform road-side assistance service to their
+32  members.
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 6
+
+--- Source PDF page 07 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 7 of 17 Page ID
+                                       #:594
+
+
+
+
+
+ 1       46. In direct violation of the FCRA, neither the Auto Club, AAA, nor HireRight provided
+ 2   any pre-adverse action notice compliant with the FCRA during any stage of the adjudication
+ 3   process including the denial of “access” issued by the Auto Club and AAA.
+
+ 4       47. The Auto Club, AAA, and HireRight are fully aware of these duties. Indeed, HireRight
+ 5   states on its website that it has the ability to automatically generate pre-adverse action notice to
+ 6   the consumers upon a negative adjudication. HireRight states:
+ 7                     [Q.:] Where do I get these Pre-Adverse/Adverse Letters?
+
+ 8                     [A.:] HireRight’s application can generate all Pre-Adverse/Adverse Letters and
+ 9                   information required for you to maintain compliance with the FCRA. From the
+10                    individual applicants report, you can select the Letter’s option and print and
+11                  mail the applicant directly from the individual report. All of the tools for your to
+12                  maintain compliance are delivered in the HireRight application. (See
+13                   http://www.hireright.com/ace/faq.aspx; last viewed 9/17/2013).
+14       48. According to HireRight, the cost of automatically generating these pre-adverse and
+15   adverse action notices are “$2.00” for each letter totaling “$4.00.”
+16                   [Q:] Is the an additional cost for me to use the HireRight system to send the Pre-
+17                 Adverse/Adverse Letters?
+18                     [A.:] If you choose to print and send or email the letters yourself, there is no
+19                   charge. If you configure your account to have HireRight send these letters for
+
+20                  you, there is a charge of $2.00 each for a total of $4.00 for those letters to be
+21                   mailed. This service can only be turned on at your request. (See
+22                   http://www.hireright.com/ace/faq.aspx; last viewed 9/17/2013).
+23       49. The Auto Club, AAA, and HireRight decided to require the stations to provide a pre-
+
+24   adverse action notice to the technicians, even though the stations do not create or provide the
+25   criminal background screening criteria used by HireRight; the stations are not provided with the
+26   full consumer report furnished by HireRight; and the stations have no authority to grant "access"
+27   or make adjudication decisions.
+28       50. In willful violation of the requirements under the FCRA, Defendants decided that it is not
+29   financially worthwhile for them to spend $2 to automatically send a pre-adverse notice prior to
+30   the negative adjudication and/or denial of access notification so that the consumer has an
+31   opportunity to challenge the accuracy of the adjudication, denial of access, and/or the
+32   information on which the adverse employment findings are based.
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 7
+
+--- Source PDF page 08 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 8 of 17 Page ID
+                                       #:595
+
+
+
+
+
+ 1
+ 2    PROCEDURAL REQUIREMENTS FOR TAKING ADVERSE ACTION AGAINST
+ 3                         CONSUMERS
+
+ 4
+ 5       51. Under the FCRA, 15 U.S.C. §1681b(b)(3)(A), a user or joint user of background check
+ 6   reports or consumer reports, must provide to the job applicant or employee a notice containing
+ 7   the following information, before taking any adverse employment action:
+
+ 8                a. A copy of the consumer report
+ 9               b. A description in writing of the rights of the consumer under the FCRA; and
+10                 c. A reasonable opportunity to dispute the information before rendering the adverse
+11              employment decision.
+12       52. After an adverse action occurs, the consumer job applicant or employee must receive a
+13   second notice, mandated by 15 U.S.C. §1681m(a) informing the applicant or employee that
+14   adverse employment action has been taken. (Hereafter, Plaintiff will refer to the first of those
+15   notices as the “pre-adverse action notice” and the second as the “adverse action notice.”)
+16       53. The reasons for the pre-adverse action notice requirement in employment situations are to
+17   alert the job applicant that he or she is about to be rejected based on the content of a report, and
+18   to give him an opportunity to challenge the accuracy of the information with the credit reporting
+19   agency or the employer before the job prospect is lost.
+
+20       54. Congress recognizes that these rights are extremely important to the consumer and help
+21   “to insure that consumer reporting agencies exercise their grave responsibilities with fairness,
+22   impartiality, and a respect for the consumer’s right to privacy.” (15 U.S.C. §1681(a)(4)).
+23   (Emphasis added).
+
+24       55. Even where the applicant was justly denied employment, he would be informed that his
+25   criminal history was a factor in the employer’s adverse employment decision, and would be
+26   motivated to seek various state remedies to expunge his criminal records. In California, this is
+27   called a dismissal pursuant to Penal Code §1203.4.
+28       56. To ensure knowing compliance with the FCRA, Congress further requires that before any
+29  consumer reporting agency may provide consumer reports on an applicant, the reporting agency
+30  must have obtained a certification from the employer that it will comply with 15 U.S.C.
+31   §1681b(b)(3) by providing the consumer with a pre-adverse action notice whenever the employer
+
+32
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 8
+
+--- Source PDF page 09 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 9 of 17 Page ID
+                                       #:596
+
+
+
+
+
+ 1   decides to take adverse action based in whole or in part on the consumer report. 15 U.S.C.
+ 2   §1681b(b)(1)(A).
+ 3       57. Indeed, Plaintiff is informed and believes, and thereon alleges that the Auto Club and
+
+ 4  AAA executed a service agreement with HireRight certifying, and promising that it will provide
+ 5   pre-adverse action notice to consumers including contractor employees compliant with the
+ 6  FCRA. The Auto Club, AAA and HIRERIGHT agreement provides:
+ 7                Pre-Adverse Action Disclosures. In using a Screening Report for employment
+
+ 8                 purposes, before taking any adverse action based in whole or in part on the
+ 9                Screening Report, Subscriber shall provide to the Applicant to whom the
+10                Screening Report relates: (i) a copy of the Screening Report; and (ii) a description
+11                   in writing of the rights of the Applicant under the FCRA, as prescribed by the
+12                 Federal Trade Commission under FCRA §609(c)(3) (the “Summary of Consumer
+13                  Rights”), and any other notices required by applicable law.”
+14       58. Despite this certification and the mandate under the FCRA, the Auto Club and AAA
+15   knowingly, intentionally, and/or recklessly fail to provide pre-adverse action notice compliant
+16   with the FCRA prior to:
+17                 a.  Adjudicating the employee as “DOES NOT MEET COMPANY STANDARDS”;
+18                 and/or
+19               b.  the Auto Club and AAA’s denial of approval of access to their members.
+
+20       59. In direct violation of the FCRA, and the service agreement signed between the Auto
+21   Club, AAA, and HireRight, none of the entities provide the employee with any pre-adverse
+22   action notice. Instead, they inform the stations that they should either send the pre-adverse action
+23   notice or pay HireRight $2.00 (an additional $2.00 for adverse action notice) for pre-adverse
+
+24   action notice to the employee.
+
+25
+26                 ALLEGTIONS REGARDING PLAINTIFF
+
+27
+28       60. Plaintiff was hired by AT on or about September 5, 2006 to be a tow driver to service the
+29  Auto Club and AAA’s members.
+30       61. AT was, and at all times relevant herein is a service station for the Auto Club and AAA
+31   for the purpose of providing roadside assistance including tow service to the Auto Club and
+32  AAA members.
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 9
+
+--- Source PDF page 10 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 10 of 17 Page ID
+                                       #:597
+
+
+
+
+
+ 1       62. As fully set-forth in paragraphs 12-27 above, AT was an agent of the Auto Club and
+ 2  AAA and Plaintiff was at all times relevant herein a common-law employee of the Auto Club
+ 3   and AAA.
+
+ 4       63. On or about February 4, 2011, the Auto Club and AAA caused to be procured a consumer
+ 5   report on Plaintiff.
+ 6       64. The consumer report disclosed a 2009 misdemeanor driving with a suspended license
+ 7   conviction and a 2003 felony conviction for receiving stolen property.
+
+ 8       65. Plaintiff is informed and believes that, based on the screening policy supplied by the
+ 9  Auto Club and AAA, anybody who has a felony conviction will be automatically disqualified
+10  from employment.
+11       66. This policy is contrary to the guidelines set forth by the Equal Employment Opportunity
+12  Commission (“EEOC”), based on a theory of disparate impact discrimination prohibited under
+13  42 U.S.C. §2000e et seq. The EEOC guidelines prohibit employers from maintain a blanket
+14   policy of denial of employment to anybody with a criminal history and requires employers to
+15   engage in individualized analysis of each employee or applicant to determine, based on the
+16   nature, severity, and length of the crime, and taking into account the nature of the job held or
+17   sought to see whether the employee or applicant is eligible for employment.
+18       67. In direct violation of the EEOC guidelines, both the Auto Club and AAA used an
+19   automatic adjudication service offered by HireRight to automatically reject or deny any existing
+
+20  employee or applicant based on the existence of criminal convictions including felony
+21   convictions.
+22       68. Based in whole or in part on the result of the 2011 consumer report, and the policy set
+23   forth by the Auto Club and AAA, AT was required to terminate Plaintiff from continued
+
+24   employment.
+25       69. Plaintiff was never provided with a pre-adverse action notice by the Auto Club, AAA,
+26   and HireRight.
+27       70. Plaintiff was never provided with any opportunity to challenge the adjudication by
+28   HireRight or denial of access by the Auto Club and AAA.
+29       71. Following this adjudication, AT drafted a letter to the Auto Club, appealing the adverse
+30  employment decision by the Auto Club and AAA, indicating that, in fact, AT was not the party
+31   taking the adverse employment action. It provides:
+
+32
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 10
+
+--- Source PDF page 11 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 11 of 17 Page ID
+                                       #:598
+
+
+
+
+
+ 1            “I’m sending you this letter to request your assistance in the submission of a formal
+ 2             appeal to contest HireRight’s request to dismiss one of the valued team members of
+ 3           Advanced Towing Inc. While the future results for Automobile Club’s new hiring
+
+ 4             process of new employees show promise, current long standing employees should be
+ 5             evaluated with historical performance, and their character in mind. Felix Prescott has
+ 6            been employed by Advanced Towing for 5 years. Felix has been a great addition to
+ 7             our staff since he began working for us. He is a kind hearted individual who works
+
+ 8             hard to complete the job. He always shows up to work early and puts in the extra
+ 9             hours when needed. Felix provides all AAA members with excellent service and
+10             ensures that they are totally satisfied. On numerous occasions members call our shop
+11               to commend Felix on the service they received.
+
+12
+13              Felix Prescott is a good person who managed to get himself in an unfortunate
+14             predicament. Felix has paid his fines and has dedicated his life to bettering himself by
+15             hard work and determination. We ask that you pleas reconsider your decision so that
+16              Felix Prescott can continue to provide excellent service to members and remain a
+17             valuable asset to our company. “
+18       72. This letter notwithstanding, Plaintiff was terminated from employment on February,
+19   2012.
+
+20
+21                    CLASS ACTION ALLEGATIONS
+
+22
+23       73. Defendants’ practices and procedures described herein affected and continue to affect
+
+24   Plaintiff and other consumers who have been subject to an adverse employment action on the
+25   basis of information in consumer reports.
+26       74. Plaintiff asserts his claims in Count 1 on behalf of a Putative Class defined as follows:
+27             All natural persons residing in the United States who, within five years from
+28              the filing of this action, were the subject of a consumer report prepared at the
+29              request  of  the Auto Club and AAA, and  furnished by HireRight  for
+30           employment purposes; who were  subject  to a negative  adjudication by
+31             HireRight or a denial of access by the Auto Club and AAA based on that
+32               report; and   who were not provided a pre-adverse action notice prior to
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 11
+
+--- Source PDF page 12 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 12 of 17 Page ID
+                                       #:599
+
+
+
+
+
+ 1           HIRERIGHT's negative adjudication and/or  prior  to the Auto Club and
+ 2          AAA’s denial of access.
+ 3       75. Plaintiff asserts his claims in Counts 2-4 on behalf of a Putative Class defined as follows:
+
+ 4             All natural persons residing in the United States, who, within five years from the
+ 5                filing of this action, were the subject of a consumer report prepared at the request of
+ 6              the Auto Club and AAA, and furnished by HireRight and not for an employment
+ 7             purpose.
+
+ 8       76. Numerosity: The Class is so numerous that joinder of all members is impracticable.
+ 9   Defendants’ regularly obtains and uses information in consumer reports to conduct background
+10   checks on prospective employees and  existing employees, and frequently  relies on such
+11   information, in whole or in part, as a basis for adverse employment action.  Plaintiff is informed
+12   and believes that, during the relevant time period, Defendants’ failed to provide a pre-adverse
+13   action or adverse action notice to thousands of contractor employees and prospective contractor
+14   employees. The numerosity of the proposed class satisfies the definition of the Putative class.
+15       77. Commonality: There are questions of law and fact common to the Class that predominate
+16   over any questions affecting only individual Class Members. Those questions include:
+17                (a) whether Defendants violated 15 U.S.C. § 1681b(b)(3)(A) by failing to provide
+18             pre-adverse action notice to consumers before taking adverse action in whole or in
+19               part based on a consumer report; and
+
+20               (b) whether Defendants’ violations were willful.
+21       78. Typicality: Plaintiff’s claims are typical of the claims of the Class, which all arise from
+22   the same operative facts and are based on the same legal theories.  Defendants’ typically uses
+23  consumer reports to conduct background checks on contractor employees and prospective
+
+24   contractor employees. Defendants routinely take adverse employment action based in whole or
+25   in part on consumer reports, and deny employment to consumers who do not receive a positive
+26   adjudication.  Finally, Defendants typically do not provide pre-adverse action notices to these
+27   consumers prior to the taking of adverse action. The FCRA violations suffered by Plaintiff are
+28   typical of those suffered by other Putative Class members, and Defendants treated Plaintiff
+29   consistently with other Putative Class members in accordance with their standard policies and
+30   practices.
+
+31
+
+32
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 12
+
+--- Source PDF page 13 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 13 of 17 Page ID
+                                       #:600
+
+
+
+
+
+ 1       79. Plaintiff will  fairly and adequately protect the  interests of the Class.   Plaintiff  is
+ 2   committed to vigorously litigating this matter and has no conflict with the Class.  Plaintiff has
+ 3   secured counsel experienced in handling civil rights and consumer class actions.
+
+ 4       80. This action should be maintained as a class action because the questions of law and fact
+ 5  common to Class Members predominate over any questions affecting only individual Class
+ 6  members, and a class action is a superior method for the fair and efficient adjudication of this
+ 7   controversy.  The interest of Class Members in individually controlling the prosecution of
+
+ 8   separate claims against Defendants  is small.  Management of the Class claims will avoid
+ 9   inconsistent judgments and result in a more efficient use of judicial resources than resolving
+10   these same issues in many individual cases.
+11       81. Defendants maintain records based on which all class members can be identified. These
+12   records also contain address information. Upon certification, Plaintiff will send class notice via
+13    first class mail to all members of the class, such notices to be mailed to class members’ last
+14  known address as determined by comparing Defendants’ information with the National Change
+15   of Address database.
+
+16
+17                           COUNT 1
+18                            Violation of the Fair Credit Reporting Act
+19                               15 U.S.C. §§ 1681b(b)(3)(A)
+
+20                              (on behalf of Plaintiff and the Class)
+
+21
+22       82. Plaintiff re-alleges and incorporates each of the foregoing paragraphs as though fully set
+23   forth herein.
+
+24       83. Defendants used a “consumer  report,” as defined by the FCRA,  to take adverse
+25  employment action against Plaintiff and other members of the Putative Class.
+26       84. Defendants violated the FCRA by failing to provide Plaintiff and other Putative Class
+27  members, prior to taking adverse action, with notice that they intend to take adverse action based
+28   in whole or in part on a consumer report, along with a copy of the consumer report and a
+29   compliant description in writing of the rights of the consumer.
+30       85. The foregoing violations were  willful.   Defendants acted in deliberate or reckless
+31   disregard of its obligations and the rights of Plaintiff and other Class members under 15 U.S.C. §
+
+32
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 13
+
+--- Source PDF page 14 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 14 of 17 Page ID
+                                       #:601
+
+
+
+
+
+ 1   1681b(b)(3)(A). The willfulness of Defendants’ conduct is reflected by, among other things, the
+ 2   following facts:
+ 3                         i.  Based on the plain language of the statute, legal advice provided by its own
+
+ 4                   general counsel or outside employment counsel, and published FTC guidance,
+ 5                 Defendants knew or should have known that its failure to provide pre-adverse
+ 6                    action notice was unlawful.;
+ 7                        ii.  Moreover, based on the certification executed and memorialized by Defendants,
+
+ 8                  they explicitly acknowledged that it has the duty to provide a pre-adverse action
+ 9                    notice as specified under the FCRA;
+10                      iii.  Defendants could have complied with the statutory duty to provide a pre-
+11                  adverse action notice either by sending the notice directly to the affected
+12                consumer job applicant;
+13                  iv.  Despite  the  clear  notice  of  the  law,  full  ability  to comply, and ample
+14                   opportunity, Defendants  failed  to adopt any measure which would have
+15                  provided the required notice to Plaintiff and the Class.
+16       86. Plaintiff and the Putative Class are entitled to statutory damages of not less than $100 and
+17   not more than $1,000 for each and every one of these violations, pursuant to 15 U.S.C.
+18   §1681n(a)(1)(A).
+19       87. Plaintiff and the Putative Class are further entitled to recover their costs and attorney’s
+
+20   fees, pursuant to 15 U.S.C. § 1681n(a)(3).
+
+21
+22                           COUNT 2
+23                            Violation of the Fair Credit Reporting Act
+
+24                                  15 U.S.C. § 1681b(a)
+25                              (on behalf of Plaintiff and the Class)
+
+26
+27       88. Plaintiff re-alleges and incorporates each of the foregoing paragraphs as though fully set
+28   forth herein.
+29       89. Plaintiff pleads in the alternative that if Plaintiff is found to have not been an employee of
+30   the Auto Club and AAA and/or Plaintiff’s consumer report was not caused to be procured for
+31  employment purposes, the Auto Club and AAA violated 15 U.S.C. §1681b(a) by procuring a
+32  consumer report on Plaintiff without a permissible purpose.
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 14
+
+--- Source PDF page 15 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 15 of 17 Page ID
+                                       #:602
+
+
+
+
+
+ 1       90. Specifically, the consumer report caused to be procured was not for any other permissible
+ 2   purpose under 15 U.S.C. §1681b(a).
+ 3       91. Plaintiff and the Putative Class are entitled to statutory damages of not less than $100 and
+
+ 4   not more than $1,000 for each and every one of these violations, pursuant to 15 U.S.C.
+ 5   §1681n(a)(1)(A).
+ 6       92. Plaintiff and the Putative Class are further entitled to recover their costs and attorney’s
+ 7   fees, pursuant to 15 U.S.C. § 1681n(a)(3).
+
+ 8
+ 9                           COUNT 3
+10                            Violation of the Fair Credit Reporting Act
+11                                   15 U.S.C. § 1681q
+12                              (on behalf of Plaintiff and the Class)
+
+13
+14       93. Plaintiff re-alleges and incorporates each of the foregoing paragraphs as though fully set
+15   forth herein.
+16       94. Plaintiff pleads in the alternative that if Plaintiff is found to have not been an employee of
+17   the Auto Club and AAA and/or Plaintiff’s consumer report was not caused to be procured for
+18  employment purposes, the Auto Club and AAA violated 15 U.S.C. §1681q by procuring a
+19  consumer report on false pretenses.
+
+20       95. Plaintiff is informed and believes and thereon alleges that in connection with instituting
+21   the background screening policy as fully described above, the Auto Club and AAA represented
+22   to HireRight, either in a service agreement or in other written instrument that the consumer
+23   reports were furnished for “employment purposes” and “no other purpose.”
+
+24       96. On the basis of this representation, HireRight furnished to the Auto Club and AAA
+25  consumer reports on its technicians including Plaintiff.
+26       97. This was a false representation made knowingly and/or willfully by the Auto Club in
+27   order to procure consumer reports on  its technicians. Relying on this false representation,
+28   HireRight did furnish and continue to furnish consumer reports on all of the Auto Club and
+29  AAA’s technicians including Plaintiff.
+30       98. Accordingly, Auto Club and AAA intentionally, and/or reckless violated 15 U.S.C.
+31  §1681q of the FCRA, Plaintiff and the Putative Class are entitled to statutory damages of not less
+
+32
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 15
+
+--- Source PDF page 16 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 16 of 17 Page ID
+                                       #:603
+
+
+
+
+
+ 1   than $100 and not more than $1,000 for each and every one of these violations, pursuant to 15
+ 2   U.S.C. §1681n(a)(1)(A).
+ 3       99. Plaintiff and the Putative Class are further entitled to recover their costs and attorney’s
+
+ 4   fees, pursuant to 15 U.S.C. § 1681n(a)(3).
+
+ 5
+ 6                           COUNT 4
+ 7                            Violation of the Fair Credit Reporting Act
+
+ 8                                   15 U.S.C. § 1681e
+ 9                              (on behalf of Plaintiff and the Class)
+
+10
+11      100.        Plaintiff re-alleges and incorporates each of the foregoing paragraphs as though
+12   fully set forth herein.
+13      101.        Plaintiff pleads in the alternative that if Plaintiff is found to have not been an
+14  employee of the Auto Club and AAA and/or Plaintiff’s consumer report was not caused to be
+15   procured for employment purposes, HireRight violated 15 U.S.C. §1681e by not maintaining
+16   reasonable procedures designed to ascertain the permissible purpose for which the consumer
+17   reports were obtained.
+18      102.        Plaintiff and the Putative Class are further entitled to recover their costs and
+19   attorney’s fees, pursuant to 15 U.S.C. § 1681n(a)(3).
+
+20
+21                       PRAYER FOR RELIEF
+
+22
+23    WHEREFORE, Plaintiff seeks judgment in favor of himself and the proposed Classes:
+
+24                1. That an order be entered certifying the proposed Class and appointing Plaintiff
+25             and his counsel to represent the Class;
+26                2. That judgment be entered against Defendants’ and in favor of Plaintiff and Class
+27            members for statutory damages in the amount of not less than $100 and not more
+28              than $1,000 per violation per Class member, pursuant to 15 U.S.C. § 1681n(a);
+29                3. That judgment be entered against Defendants’ for punitive damages pursuant to
+30            15 U.S.C. § 1681n(a)(2);
+31                4. That the Court award costs and reasonable attorney’s fees pursuant to 15 U.S.C. §
+32            1681n and § 1681o; and
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 16
+
+--- Source PDF page 17 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 25   Filed 02/24/14  Page 17 of 17 Page ID
+                                       #:604
+
+
+
+
+
+ 1                5. That the Court grant such other and further relief as may be just and proper.
+
+ 2  DATED: February 24, 2013
+ 3
+                                          By: ________/s/______________________
+ 4
+                               THE LAW OFFICES OF DEVIN H. FOK
+ 5                                       Devin H. Fok (SBN #256599)
+                                             P.O. Box 7165 6
+                                           Alhambra, CA 91802-7165
+ 7                                          Phone: (310) 430-9933
+ 8                                           Fax: (323) 563-3445
+                                          devin@devinfoklaw.com
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+
+
+                           SECOND AMENDED CLASS ACTION COMPLAINT - 17
+

@@ -1,0 +1,609 @@
+--- Source PDF page 01 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 1 of 11 Page ID
+                                       #:738
+
+
+
+
+ 1 A NEW WAY OF LIFE REENTRY PROJECT
+    Joshua E. Kim, Esq. (SBN #257260) 2
+    P.O. Box 875288
+ 3  Los Angeles, California 90087
+ 4  Ph: (323) 563-3575
+ 5  Fax: (323) 563-3445
+    joshua@anewwayoflife.org 6
+
+ 7  THE LAW OFFICES OF DEVIN H. FOK
+ 8  Devin H. Fok, Esq. (SBN #256599)
+ 9  P.O. Box 7165
+    Alhambra, CA 91802-716510
+    Ph: (310) 430-9933
+11
+    Fax: (323) 563-3445
+12  devin@devinfoklaw.com
+13
+14  Attorneys for Plaintiff FELIX B. PRESCOTT
+    and the Proposed Class
+15
+
+16              UNITED STATES DISTRICT COURT
+17            CENTRAL DISTRICT OF CALIFORNIA
+18
+
+19
+                                   CASE NO.: CV 13-8953-MWF (PLAX)
+20                                   HON. MICHAEL W. FITZGERALD
+   FELIX B. PRESCOTT, individually,21
+    and as a representative of the class,
+22                                PLAINTIFF’S OPPOSITION TO
+                            DEFENDANT HIRERIGHT
+23                  Plaintiffs,             SOLUTIONS, INC.’S MOTION FOR
+24         vs.                   JUDGMENT ON THE PLEADINGS
+25
+
+26  HIRERIGHT SOLUTIONS, INC.;       Date: April 7, 2014
+27  AMERICAN AUTOMOBILE           Time: 10:00 a.m.
+                                        Courtoom: 1600   ASSOCIATION; AAA AUTO CLUB28
+   OF SOUTHERN CALIFORNIA; and
+29                                               Trial Date: None Set
+   DOES 1-10 inclusive,
+30               Defendants.
+3132                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ))))))))))))))))))))))))))))
+
+
+
+      PLAINTIFF’S OPPOSITION TO HIRERIGHT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - i
+
+--- Source PDF page 02 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 2 of 11 Page ID
+                                       #:739
+
+
+
+
+
+ 1
+
+ 2
+ 3                  TABLE OF CONTENTS
+
+ 4
+ 5    I.  INTRODUCTION............................................................................................ 1
+
+ 6   II.  LEGAL ANALYSIS .................................................................................... 1
+ 7
+       a.  HireRight is Liable Under §1681b(b)(3)....................................................... 1
+ 8
+      b.  Pre-Adverse Action Notice Must Be Provided Prior to HireRight’s 9
+         Adjudication........................................................................................................ 310
+11     c.   Plaintiff Does Not Oppose HireRight’s Motion to Dismiss Plaintiff’s Claims
+12    Related to Willful Violation of §1681b(b)(3) ...................................................... 4
+
+13    d.   Plaintiff Has Stated Sufficient Facts To State A Claim Under 15 U.S.C.
+14      §1681e(a)(1)........................................................................................................ 5
+15
+      III.  CONCLUSION ............................................................................................ 7
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+
+
+     PLAINTIFF’S OPPOSITION TO HIRERIGHT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - ii
+
+--- Source PDF page 03 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 3 of 11 Page ID
+                                       #:740
+
+
+
+
+
+ 1                 TABLE OF AUTHORITIES
+ 2  Cases                                                        Page
+ 3  Adam v. National Engineering Service Corp.
+ 4       620 F.Supp.2d 319 (D. Conn. 2009)……………………………………..2, 6
+ 5  Goode v. LexisNexis Risk & Information Analytics Group, Inc.
+ 6       848 F.Supp.2d 532 (E.D. Pa. 2012)……………………………………2, 3, 4
+ 7  LaGrassa v. Jack Gaughen, LLC
+ 8       2011 U.S. Dist. Lexis 38838 (M.D. Pa. 2011)……………………………...2
+ 9  Obabueki v. Int’l Bus. Mach. Corp.
+10       145 F.Supp.2d 371 (S.D.N.Y. 2001)……………………………………..2, 3
+11  Reynolds v. Hartford Financial Services Group, Inc.
+12       435 F.3d 1081 (9th Cir. 2006)……………………………………………2, 3
+13  Safeco Ins. Co. of Am. V. Burr
+14       551 U.S. 47 (2007)………………………………………………………….2
+15  Singleton v. Domino’s Pizza, LLC.
+16       2012 WL 245965 (D. Md. 2012)………………………………………14, 15
+17  Pintos v. Pacific Creditor’s Ass’n
+18       605 F.3d 665 (9th Cir. 2010)………………………………………………..6
+
+19
+
+20  Statutes
+21  15 U.S.C. §1681a(k)(1)(B)(ii)…………………………………………………….4
+22  15 U.S.C. §1681b(b)(3) ………………………………………...........................1, 2
+23
+    15 U.S.C. §1681b(b)(3)(A)…………………………………………..…………….2
+24
+    15 U.S.C. §1681e……………………………………………………………..........6
+25
+    15 U.S.C. §1681m…………………………………………………………………2
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+
+
+     PLAINTIFF’S OPPOSITION TO HIRERIGHT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - iii
+
+--- Source PDF page 04 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 4 of 11 Page ID
+                                       #:741
+
+
+
+
+
+ 1        MEMORANDUM OF POINTS AND AUTHORITIES
+
+ 2
+ 3       I.   INTRODUCTION
+
+ 4
+ 5         In its motion, Defendant HireRight Solutions, Inc. (“HireRight”) argues that
+ 6    it is not liable under 15 U.S.C. §1681b(b)(3) for providing pre-adverse action
+ 7   notice because it was not Plaintiff’s employer. HireRight’s arguments fail for the
+ 8  same reason that Defendant AAA Auto Club of Southern California (“the Auto
+ 9  Club”)’s argument failed: 1) it is contrary to the expressed words of the statute;
+10  and 2) it is contrary to well-established case law that has interpreted the statute.
+
+11
+12       II.  LEGAL ANALYSIS
+
+13
+14             a. HireRight is Liable Under §1681b(b)(3)
+
+15
+16      As more fully set forth in Plaintiff’s opposition to the Auto Club’s motion to
+17   dismiss, well-established authority including Goode v. LexisNexis (E.D. Pa. 2012)
+18  848 F.Supp.2d 532 holds that “any person who takes adverse action must comply
+19  with §1681b(b)(3)(A), be a CRA [consumer reporting agency], an employer, or a
+20   staffing agency.” (Id. at 539).
+21        HireRight admits in its motion that the court’s ruling in Goode directly
+22   contradicts its position that only employers are required to provide pre-adverse
+23   action notice. (HireRight’s Mtn to Dismiss, p. 1,3 fn. 12). HireRight also admits
+24   that Goode “involved similar factual allegations.” (Id. at p. 18). Nevertheless,
+25  HireRight fails to provide any reasoned analysis as to why the Goode holding
+26  should not apply in this case. HireRight’s entire attempt at distinguishing Goode is
+27  encapsulated in a footnote. (Id. at p. 13, fn. 12).
+28        HireRight simply “disagrees” with the court’s opinion because, according to
+29  HireRight, it “collapses the distinct obligations imposed on users and CRAs.” (Id.).
+30  The problem with HireRight’s argument is that the clear text of the §1681b(b)(3)
+31  does not draw any distinction between users and CRAS. As the Goode court states:
+
+32
+
+
+
+      PLAINTIFF’S OPPOSITION TO DEFENDANT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - 1
+
+--- Source PDF page 05 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 5 of 11 Page ID
+                                       #:742
+
+
+
+
+
+ 1             “Nothing in the text of §1681b(b)(3)(A) excludes defendant, as a
+ 2         CRA from its scope. The requirements of 15 U.S.C. §1681b(b)(3)(A)
+ 3              apply to any person intending to take such adverse action. Under the
+ 4           FCRA, ‘person’ means any individual…. corporation…or other entity.
+ 5             §1681a(b) Thus, defendant is a person and must comply with
+ 6              §1681b(b)(3)(A).” (848 F.Supp.2d at 542).
+ 7       The Goode decision is also consistent with the prevailing law in the 9th
+ 8   Circuit. The 9th Circuit Court in Reynolds held that “‘any person’ who takes an
+ 9  adverse action is liable.” (Reynolds v. Hartford Financial Services Group, Inc.
+10   (9th Cr. 2006) 435 F.3d 1081, rev’d on other grounds sub nom. Safeco Ins. Co. of
+11  Am. v. Burr (2007) 551 U.S. 47 [analyzing §1681m requiring adverse action
+12   notice, a companion statute to §1681b’s pre-adverse action notice requirement];
+13  see also Goode, supra, 848 F.Supp.2d 532 [“…§1681m, a provision of the FCRA
+14   that, like §1681b(b)(3)(A), requires anyone taking an adverse action to notify the
+15  consumer against whom the action is taken”]). (Emphasis added).
+16         Similarly in Adams v. National Engineering Service Corp. (D.Conn. 2009)
+17  620 F.Sup.2d 319, the court held a traditional staffing agency to be a consumer
+18   reporting agency under the FCRA and stated that “a reasonable jury could also find
+19   that [the staffing agency] failed to comply with the notice requirements of section
+20  1681b(b)(3) before taking such adverse action.” (620 F.Supp.2d, at 319, 333-332).
+21       The only case that HireRight used to support its argument is Obabueki v.
+22   Int’l Bus. Mach. Corp. (S.D.N.Y. 2001) 145 F.Supp.2d 371.1 However, this case
+23  discusses only when pre-adverse action is required as opposed to who is required
+24   to provide pre-adverse action notice. A cursory reading of the Obabueki reveals
+25   that no pre-adverse action claim was ever brought against the consumer reporting
+26  agency ChoicePoint.2 Moreover, Obabueki is the same case that the Goode court
+27   rejected in reaching its holding that pre-adverse action notice is required prior to a
+
+28
+        1 HireRight also cites to various cases where the plaintiff asserted §1681b(b)(3) claims against the employer, those
+29   cases are inapposite as they do not address whether a consumer reporting agency is liable. Moreover, HireRight also
+       cites to LaGrassa v. Jack Gaughen, LLC (M.D. Pa. 2011) 2011 U.S. Dist. Lexis 38838 where only the employer is30
+       liable for violation for §1681b(b)(2)(A), where a person may not procure a consumer report from a consumer
+31    reporting agency without first obtaining authorization. This has nothing to do with §1681b(b)(3)requiring anybody
+      taking adverse action to provide pre-adverse.
+32
+        2 Subsequently acquired by LexisNexis and is the same defendant in Goode.
+
+
+      PLAINTIFF’S OPPOSITION TO DEFENDANT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - 2
+
+--- Source PDF page 06 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 6 of 11 Page ID
+                                       #:743
+
+
+
+
+
+ 1  consumer reporting agency’s negative adjudication because “there was no real
+ 2  opportunity for plaintiffs to contest the adjudication or change its outcome
+ 3   thereafter.” (Goode, supra, 848 F.Supp.2d at 540).
+ 4        HireRight also cites to two staff FTC advisory opinions that do not directly
+ 5  address the issue. These two staff opinions provides guidance on how employers
+ 6  can comply with the pre-adverse action notice requirements - by contracting with
+ 7   the consumer reporting agencies directly to provide pre-adverse action notice –
+ 8   rather than who is required to provide notice. Similar to Obabueki, these two
+ 9  opinions do not offer any guidance as to whether a consumer reporting agency is
+10   liable under 15 U.S.C. §1681b(b)(3). By contrast, Goode speaks directly on the
+11   issue. (See also Goode, supra, 848 F.Supp.2d at 541 [FTC Staff Report do not
+12   carry the force of law; they are only entitled to “respect” but only to the extent that
+13  they are persuasive]). Moreover, the Reynolds court holds that all parties who take
+14  adverse action are jointly and severally liable. (Reynolds, supra, 435 F.3d at 1096;
+15  see also).
+
+16
+17            b. HireRight Violated §1681b(b)(3) by Not Providing Pre-Adverse
+18             Action Notice Prior to Adjudicating Plaintiff as “DOES NOT
+19        MEET COMPANY STANDARDS”
+
+20
+21      As more fully discussed in Plaintiff’s Opposition to the Auto Club’s Motion
+22   to Dismiss Plaintiff’s SAC, the Goode case clearly holds that pre-adverse action
+23   notice is required prior to the consumer reporting agency’s negative adjudication of
+24  a consumer’s eligibility for employment. (848 F.Supp.2d at 540).
+25       However, this does not mean that multiple notices are required. One notice
+26   is sufficient so long as the notice furthers FCRA’s objectives. (Reynolds, supra,
+27  435 F.3d at 1096). In Goode, the court held that whenever a consumer reporting
+28  agency automatically renders adjudication on a consumer’s eligibility for
+29  employment based on criteria supplied by a third party, pre-adverse action notice
+30  was required before the adjudication. (Goode, supra, 848 F.Supp.2d at 539-540.)
+31  This is because, the “adjudication of plaintiffs is, quite literally, a decision for
+
+32
+
+
+
+      PLAINTIFF’S OPPOSITION TO DEFENDANT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - 3
+
+--- Source PDF page 07 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 7 of 11 Page ID
+                                       #:744
+
+
+
+
+
+ 1  employment purposes that adversely affects plaintiffs.” (Id. citing
+ 2   §1681a(k)(1)(B)(ii)).
+ 3        HireRight argues that requiring consumer reporting agencies to provide pre-
+ 4  adverse action notices prior to their adjudication would impose impractical
+ 5   constraints on employers. (HireRight’s Mtn, p. 10). This argument is meritless. As
+ 6   Plaintiff argues supra, only one notice is required so long as the notice serves the
+ 7  purpose of the FCRA. Here, requiring towing stations to provide its employees
+ 8   notice when the towing stations were not the real party taking adverse action
+ 9  served no useful purpose. Moreover, Plaintiff had already been hired and had been
+10   servicing the Auto Club’s members without incident for years before the Auto
+11  Club decided to terminate Plaintiff. Requiring pre-adverse action notice before the
+12  negative adjudication does not impose any undue burden on any of either the Auto
+13  Club or HireRight. The only delay here is that Plaintiff is allowed to work a few
+14  days longer.
+
+15
+16              c.  Plaintiff Does Not Oppose HireRight’s Motion to Dismiss
+17                Plaintiff’s Claims Related to Willful Violation of §1681b(b)(3)
+
+18
+19         In Goode, the Court held that what constitutes and adverse action is not
+20  always clear. (848 F.Supp.2d at 543). While it found that a consumer reporting
+21  agency’s adjudication as “noncompetitive” to be adverse action, it stated that it was
+22  a “close case” given that no court of appeals had taken on this issue. (Id.).
+23  Accordingly, Plaintiff respects the Goode court’s opinion and does not oppose
+24  HireRight’s motion to dismiss Plaintiff’s claims on the issue of willfulness.
+25   Plaintiff requests only to be allowed leave to amend upon receipt of evidence that
+26  HireRight continued to fail to provide pre-adverse action notice following Goode.
+27       However, just because Plaintiff does not seek a willful claim for HireRight’s
+28   violation of the §1681b(b)(3) does not mean that the Auto Club cannot not be held
+29   liable for willful violation of the same statute. The Goode court did not find any
+30  ambiguity in the statutory text that parties other than an employer may be required
+31   to provide pre-adverse action notice:
+
+32
+
+
+
+      PLAINTIFF’S OPPOSITION TO DEFENDANT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - 4
+
+--- Source PDF page 08 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 8 of 11 Page ID
+                                       #:745
+
+
+
+
+
+ 1              “Nothing in the text of §1681b(b)(3)(A) excludes defendant, as a
+ 2         CRA from its scope. The requirements of 15 U.S.C. §1681b(b)(3)(A)
+ 3              apply to any person intending to take such adverse action. Under the
+ 4           FCRA, ‘person’ means any individual…. corporation…or other entity.
+ 5             §1681a(b) Thus, defendant is a person and must comply with
+ 6              §1681b(b)(3)(A).” (848 F.Supp.2d at 542).
+ 7        Since the Auto Club recommended Plaintiff’s termination, there can be
+ 8   absolutely no ambiguity that the recommendation was anything other than an
+ 9  adverse action. As fully discussed in the Auto Club opposition papers, Plaintiff’s
+10  employer was required to follow the Auto Club’s recommendation or suffer
+11  adverse consequences. Accordingly, Plaintiff maintains that his willful violation
+12  claims should be upheld.
+
+13
+14            d. Plaintiff Has Stated Sufficient Facts To State A Claim Under 15
+15             U.S.C. §1681e(a)(1)
+
+16
+17       15 U.S.C. §1681e states that:
+18             “Every consumer reporting agency shall maintain reasonable
+19              procedures designed to…limit the furnishing of consumer reports to
+20               the purposes listed under section 1681b of this title. These procedures
+21                shall require that prospective users of the information identify
+22              themselves, certify purposes for which the information is sought, and
+23                 certify that the information will be used for no other purpose. Every
+24             consumer reporting agency shall make a reasonable effort to verify the
+25                identity of a new prospective user and the uses certified by such
+26               prospective user prior to furnishing such user a consumer report. No
+27             consumer reporting agency may furnish a consumer report to any
+28              person if it has reasonable grounds for believing that the consumer
+29               report will not be used for a purpose listed in section 1681b of this
+30                   title.”
+31        HireRight argues that it complied with this statute’s requirements by
+32  obtaining certification from both Advanced Towing and the Auto Club. However,
+
+
+
+      PLAINTIFF’S OPPOSITION TO DEFENDANT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - 5
+
+--- Source PDF page 09 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 9 of 11 Page ID
+                                       #:746
+
+
+
+
+
+ 1  other than simply receiving their certifications, HireRight does not specify what
+ 2  other procedures were utilized to ascertain the users’ permissible purpose.
+ 3         In Pintos v. Pacific Creditor’s Ass’n (9th Cir. 2010) 605 F.3d 665, the 9th
+ 4   Circuit held that merely obtaining certifications from prospective users are
+ 5   insufficient. (Id. at 677). The court states:
+ 6               “After prospective subscribers ‘certify the purposes for which credit
+ 7              information is sought, and certify that the information will be used for
+ 8            no other purpose,’ the reporting agency must make ‘reasonable effort’
+ 9                to verify the certifications and may not furnish reports if ‘reasonable
+10              grounds’ exist to believe that reports will be used impermissibly.
+11            Under the plain terms of §1681e(a), a subscriber’s certification cannot
+12              absolve the reporting agency of its independent obligations to verify
+13               the certification and determine that no reasonable grounds exist for
+14               suspecting impermissible use. Blanket certification cannot eliminate
+15              genuine issues of material fact with regard to [the consumer reporting
+16              agency’s] liability.” (Id.).
+17        Accordingly, if this court finds that existing law mandates that Plaintiff’s
+18  consumer report was not used for employment purposes then HireRight violated
+19   this statute by not consulting the appropriate legal authority from which it could
+20  conclude that the Auto Club was not authorized to receive the report.
+21      As Plaintiff alleged in his SAC, HireRight furnished consumer report
+22  information to the Auto Club by providing the Auto Club with the results of
+23   Plaintiff’s negative adjudication. The Auto Club obtained this information and in
+24   fact used this information to recommend Plaintiff’s termination through its “denial
+25  of access” notification. (See Adams, supra, 620 F.Supp.2d at 325 [a
+26  communication telling the ultimate employer that the applicant is not eligible for
+27   the position constitutes a consumer report]). Thus, by providing such information
+28   to the Auto Club, the law requires HireRight to take reasonable efforts to verify
+29   that the use was permissible. Accordingly, if the Auto Club’s purpose was found to
+30  be impermissible based on existing case, law, §1681e mandates that HireRight
+31  should have consulted the same prior to furnishing Plaintiff’s consumer report
+32  information.
+
+
+
+      PLAINTIFF’S OPPOSITION TO DEFENDANT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - 6
+
+--- Source PDF page 10 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 10 of 11 Page ID
+                                       #:747
+
+
+
+
+
+ 1       III.  CONCLUSION
+
+ 2
+ 3       Based on the foregoing, Plaintiff respectfully requests this Court to deny the
+ 4  Auto Club’s motion to dismiss to the extent opposed by Plaintiff. Alternatively, if
+ 5   the Court is inclined to grant HireRight’s motion in any respect opposed by
+ 6   Plaintiff, Plaintiff respectfully requests this Court leave to file a Third Amended
+ 7  Complaint.
+
+ 8
+   DATED: March 17, 2014               DEVIN H. FOK ESQ. 9
+                                 THE LAW OFFICES OF DEVIN H. FOK
+10                                  By:
+
+11
+                                            Devin H. Fok12
+                                                Attorney for Plaintiff
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+
+
+      PLAINTIFF’S OPPOSITION TO DEFENDANT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - 7
+
+--- Source PDF page 11 | PDF text ---
+Case 2:13-cv-08953-MWF-PLA  Document 33   Filed 03/17/14  Page 11 of 11 Page ID
+                                       #:748
+
+
+
+
+ 1                  CERTIFICATE OF SERVICE
+
+ 2
+             I hereby certify that I filed this response on March 17, 2014, via the Court’s
+ 3  ECF system thereby serving it on all counsel of record.
+ 4
+
+ 5  DATED: March 17, 2014               DEVIN H. FOK ESQ.
+ 6                                THE LAW OFFICES OF DEVIN H. FOK
+                                    By:
+ 7
+
+ 8
+                                            Devin H. Fok
+ 9                                              Attorney for Plaintiff
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+
+
+      PLAINTIFF’S OPPOSITION TO DEFENDANT’S MOTION TO DISMISS SECOND AMENDED COMPLAINT - 8
+
