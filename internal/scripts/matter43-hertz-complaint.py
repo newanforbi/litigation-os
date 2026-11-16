@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verified Complaint — Nforbi v. The Hertz Corporation and HireRight, LLC.
+"""Verified Complaint — Ngwa Nforbi v. The Hertz Corporation and HireRight, LLC.
 
 Renders the November 15, 2026 verified complaint (v9) on classic double-rule
 pleading paper for the Northern District of California, San Jose Division.
@@ -61,9 +61,9 @@ BODY_PATH = SCRIPTS / "matter43-hertz-complaint-body.json"
 OUT = (
     ROOT
     / "documents/matter-43/ndcal/to-file"
-    / "Verified Complaint - Nforbi v The Hertz Corporation and HireRight LLC.pdf"
+    / "Verified Complaint - Ngwa Nforbi v. The Hertz Corporation and HireRight, LLC.pdf"
 )
-FOOTER = "VERIFIED COMPLAINT — NFORBI v. THE HERTZ CORPORATION, ET AL."
+FOOTER = "Verified Complaint — Ngwa Nforbi v. The Hertz Corporation and HireRight, LLC"
 SIG_LINE = "___________________________________"
 SIG_OFFSET = 20
 
@@ -303,7 +303,7 @@ def _build(path: Path, page_total: int) -> None:
         if item["text"].startswith("Executed on November"):
             _signature(d, respectfully=False)
         i += 1
-    d.c.setTitle("Verified Complaint — Nforbi v. The Hertz Corporation and HireRight, LLC")
+    d.c.setTitle("Verified Complaint — Ngwa Nforbi v. The Hertz Corporation and HireRight, LLC")
     d.c.setAuthor("Brendan Ngwa Nforbi")
     d.save()
 
