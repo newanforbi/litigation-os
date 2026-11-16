@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "matter": 43,
+  "corpus": "Waters v. HireRight authority set",
+  "case_number": "4:23-cv-06668-SAL",
+  "generated_on": "2026-11-15",
+  "purpose": "Model-readable research corpus for Matter 43 (Hertz/HireRight).",
+  "originals_only": true,
+  "duplicate_policy": "Excluded later '(1)' duplicate Library copies.",
+  "documents": [
+    {
+      "source_file": "WaterHireRIght650.pdf",
+      "library_file_id": "libfile_f3432fa700808191ba108e34207445c5",
+      "docket": "4:23-cv-06668-SAL",
+      "entry": "65",
+      "filed": "2025-07-18",
+      "text_path": "text/waters-ecf-65-hireright-reply-summary-judgment.md",
+      "parse_status": "complete"
+    },
+    {
+      "source_file": "WatersHireRight6020.pdf",
+      "library_file_id": "libfile_7532b3c1cb7c8191abc18d2929441b06",
+      "docket": "4:23-cv-06668-SAL",
+      "entry": "60-20",
+      "filed": "2025-06-27",
+      "text_path": "text/waters-ecf-60-20-hireright-summary-judgment-memorandum.md",
+      "parse_status": "complete"
+    },
+    {
+      "source_file": "WatersRight760.pdf",
+      "library_file_id": "libfile_78dc5faa1e708191a8c751ef22c32fa4",
+      "docket": "4:23-cv-06668-SAL",
+      "entry": "76",
+      "filed": "2025-09-16",
+      "text_path": "text/waters-ecf-76-summary-judgment-order.md",
+      "parse_status": "complete"
+    },
+    {
+      "source_file": "WatersHireRight240.pdf",
+      "library_file_id": "libfile_d97abbfbbec88191b3d5cb60c4bbee80",
+      "docket": "4:23-cv-06668-SAL",
+      "entry": "24",
+      "filed": "2024-08-01",
+      "text_path": "text/waters-ecf-24-rule-12c-motion-and-support.md",
+      "parse_status": "complete"
+    },
+    {
+      "source_file": "WatersHireright400.pdf",
+      "library_file_id": "libfile_82fa5ca91b0881918570710951fd6aaf",
+      "docket": "4:23-cv-06668-SAL",
+      "entry": "40",
+      "filed": "2024-10-15",
+      "text_path": "text/waters-ecf-40-rule-12c-order.md",
+      "parse_status": "complete"
+    },
+    {
+      "source_file": "WatersHireRight830.pdf",
+      "library_file_id": "libfile_3f5d3bca0c988191b87c0eed20af506b",
+      "docket": "4:23-cv-06668-SAL / 25-2261",
+      "entry": "83",
+      "filed": "2025-12-22",
+      "text_path": "text/waters-ecf-83-fourth-circuit-mandate.md",
+      "parse_status": "complete"
+    },
+    {
+      "source_file": "HireRight South Carolina.pdf",
+      "library_file_id": "libfile_e453d86262708191b48e5b139662e516",
+      "pages": 10,
+      "text_path": "text/hireright-south-carolina-unparsed.md",
+      "parse_status": "image_only_ocr_needed"
+    }
+  ]
+}
