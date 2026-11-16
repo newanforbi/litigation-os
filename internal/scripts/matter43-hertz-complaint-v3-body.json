@@ -1,0 +1,650 @@
+[
+  {
+    "kind": "P",
+    "text": "Plaintiff BRENDAN NGWA NFORBI (\"Plaintiff\") alleges as follows:"
+  },
+  {
+    "kind": "H",
+    "text": "I. INTRODUCTION"
+  },
+  {
+    "kind": "P",
+    "text": "1. California permits the public to view its Megan's Law registry for one purpose: to protect a person at risk. It forbids anyone to use that information for purposes relating to employment. Cal. Penal Code \u00a7 290.46(j)(1), (j)(2)(E). This action arises because Defendant The Hertz Corporation chose to buy California registry information about Plaintiff for a California job, routed his registry results into its employment-eligibility review, and within hours issued a preliminary decision rescinding the job it had offered him and that he had accepted."
+  },
+  {
+    "kind": "P",
+    "text": "2. On October 22, 2026, Hertz offered Plaintiff, in writing, a full-time Manager Trainee position at its Palo Alto branch at $23.00 per hour. Plaintiff accepted the same day. The offer stated that if his background check \"does not meet company standards, my contingent offer will be rescinded.\" Hertz then ordered from Defendant HireRight, LLC a background report that included a separately itemized \"National Sex Offender Registry\" product. HireRight returned two results reflecting Plaintiff's California registry entry, graded them \"Client Review Required\" under rules bearing Hertz's name, and printed beneath them that California registry information \"may not be used for employment purposes except to protect a person at risk. See CA Penal Code Section 290.46.\""
+  },
+  {
+    "kind": "P",
+    "text": "3. HireRight completed and adjudicated the report at 2:29 a.m. Pacific time on November 2, 2026, with the overall adjudication status \"Client Review Required.\" At 10:19 a.m. the same morning, Hertz sent Plaintiff a notice referring to \"the Company's preliminary decision recinding the offer of employment,\" made \"[b]ased on a review of the results of your background report and Company's eligibility criteria.\" The notice listed, as information \"including\" the basis, a single line: \"[Criminal Information] Alcohols related offenses-Does not meet.\" The report classifies Plaintiff's alcohol-related information as two California Department of Motor Vehicles administrative actions, a chemical-test-refusal suspension and a separate commercial-vehicle disqualification, and it identifies no alcohol-related criminal conviction. Hertz had held the MVR component since October 23, 2026, and did not issue a preliminary notice until after the full screening package adjudicated on November 2."
+  },
+  {
+    "kind": "P",
+    "text": "4. Plaintiff seeks: damages under the Fair Credit Reporting Act against HireRight for the alleged preparation and furnishing of a materially misleading criminal classification of administrative test-refusal information; the remedies California provides against Hertz for use of Megan's Law information for employment purposes, for a defective investigative-report disclosure, and for use of a non-conviction arrest record; and declaratory and injunctive relief against Hertz's requirement that a California applicant sign a non-competition agreement."
+  },
+  {
+    "kind": "H",
+    "text": "II. PARTIES"
+  },
+  {
+    "kind": "P",
+    "text": "5. Plaintiff is an individual who resides in Stockton, San Joaquin County, California, and is a citizen of California. Defendants' documents identify him as Brendan Ngwa Nforbi and as Brendan Ngwanforbi. Each name refers to Plaintiff."
+  },
+  {
+    "kind": "P",
+    "text": "6. Defendant The Hertz Corporation (\"Hertz\") is, on information and belief, a Delaware corporation with its principal place of business at 8501 Williams Road, Estero, Florida 33928, and is a citizen of Delaware and Florida. Hertz operates vehicle-rental branches in California, including the Hertz Local Edition branch at 816 San Antonio Road, Palo Alto, California 94303, and a location at 725 Ridder Park Drive, San Jose, California. Hertz issued the offer, procured the background report, and issued the November 2 notice."
+  },
+  {
+    "kind": "P",
+    "text": "7. Defendant HireRight, LLC (\"HireRight\") is, on information and belief, a Delaware limited liability company headquartered in Nashville, Tennessee, whose consumer department operates from Tulsa, Oklahoma. HireRight is a \"consumer reporting agency\" within the meaning of 15 U.S.C. \u00a7 1681a(f) that assembles and furnishes consumer reports to employers for employment purposes in exchange for fees. On information and belief, each of HireRight's members is a citizen of a State other than California, and no member of HireRight is a citizen of California. The identity and citizenship of HireRight's members are peculiarly within HireRight's knowledge and are not publicly disclosed. HireRight furnished the consumer report in this transaction for a California job, applied California-specific disclosures, researched California motor-vehicle, court, and registry records, and transmitted the report and related communications into California."
+  },
+  {
+    "kind": "H",
+    "text": "III. JURISDICTION, VENUE, AND DIVISIONAL ASSIGNMENT"
+  },
+  {
+    "kind": "P",
+    "text": "8. This Court has subject-matter jurisdiction over the First Cause of Action under 28 U.S.C. \u00a7 1331 and 15 U.S.C. \u00a7 1681p, because it arises under the Fair Credit Reporting Act. The Court has supplemental jurisdiction over the remaining causes of action under 28 U.S.C. \u00a7 1367(a), because they arise from the same background report, the same employment decision, and the same nucleus of operative fact."
+  },
+  {
+    "kind": "P",
+    "text": "9. Independently, this Court has diversity jurisdiction over the claims against Hertz under 28 U.S.C. \u00a7 1332(a)(1). Plaintiff is a citizen of California. Hertz is a citizen of Delaware and Florida. The amount in controversy against Hertz exceeds $75,000, exclusive of interest and costs, taking into account the civil penalty of up to $25,000 and exemplary damages available under Cal. Penal Code \u00a7 290.46(j)(4)(A); the $10,000 statutory alternative available under Cal. Civ. Code \u00a7 1786.50; and Plaintiff's actual damages, including emotional-distress damages. Plaintiff does not aggregate the separate liabilities of unrelated defendants and does not rely on assumed wages to reach the $75,000 threshold."
+  },
+  {
+    "kind": "P",
+    "text": "10. Plaintiff has standing under Article III as to each cause of action. Each rests on concrete harm: the use of information about Plaintiff to deny or withhold an accepted job; the communication to a prospective employer of materially misleading information labeling Plaintiff's driving record as criminal offenses, which bears a close relationship to the harm redressed by defamation; the procurement of a registry search under an authorization that did not disclose it on the signed pages, which Plaintiff would not have authorized had those pages identified a National Sex Offender Registry search, and which deprived him of the opportunity to contest or address that search before Hertz used it to announce a preliminary rescission of his accepted job; and the condition, imposed on Plaintiff's employment, that he surrender his right to work for competitors."
+  },
+  {
+    "kind": "P",
+    "text": "11. This Court has personal jurisdiction over each Defendant. Hertz interviewed Plaintiff in San Jose, offered him a position in Palo Alto, and procured and used a consumer report about a California resident for a California job. HireRight prepared that report for a California job, applied California-specific disclosures, researched California court and registry records, and transmitted the report and Hertz's notice to Plaintiff in California."
+  },
+  {
+    "kind": "P",
+    "text": "12. Venue is proper in this District under 28 U.S.C. \u00a7 1391(b)(2), because a substantial part of the events giving rise to the claims occurred here. The position was located in Palo Alto, and the interview occurred in San Jose, both in Santa Clara County."
+  },
+  {
+    "kind": "P",
+    "text": "13. Under Civil Local Rule 3-2(c) and (e), assignment to the San Jose Division is proper, because a substantial part of the events giving rise to the claims occurred in Santa Clara County."
+  },
+  {
+    "kind": "H",
+    "text": "IV. FACTUAL ALLEGATIONS"
+  },
+  {
+    "kind": "S",
+    "text": "A. Hertz Offers Plaintiff the Palo Alto Manager Trainee Position"
+  },
+  {
+    "kind": "P",
+    "text": "14. On or about October 21 and 22, 2026, Hertz manager Kathleen Williams arranged for Plaintiff to interview at Hertz's Ridder Park location in San Jose. On October 22, 2026, at approximately 3:38 p.m., Hertz Talent Acquisition Partner Gloria Williams e-mailed Plaintiff: \"The team would like to extend an offer to you. Congratulations!\" At approximately 3:40 p.m., Kathleen Williams messaged Plaintiff that he should receive an offer for Manager Trainee at the Palo Alto location. At 4:49 p.m., Plaintiff replied that he \"happily accept[ed] the offer.\""
+  },
+  {
+    "kind": "P",
+    "text": "15. Hertz's written offer letter, dated October 22, 2026, states: \"We are pleased to confirm our offer of employment with The Hertz Corporation for the position of Manager Trainee (Full time) based at 816 San Antonio Rd, Palo Alto, CA 94303 ... This position reports to Kathleen Williams. Your base salary, paid on an hourly basis, will be $23.00.\" The letter describes the role as \"the entry position to our management career path.\" A true copy is attached as Exhibit A."
+  },
+  {
+    "kind": "P",
+    "text": "16. The offer letter defines the checks on which the offer is contingent: \"Please understand this offer is contingent upon the successful completion of a pre-employment MVR check (as applicable), criminal, employment and education background checks ('Background Checks').\" The definition does not include a sex-offender registry search."
+  },
+  {
+    "kind": "P",
+    "text": "17. The offer letter states the standard that decides whether the offer survives: \"I acknowledge that if my background check does not meet company standards, my contingent offer will be rescinded, and my employment will be null and void.\""
+  },
+  {
+    "kind": "P",
+    "text": "18. The offer letter also states: \"It is a fundamental term and condition of your employment that you must execute and deliver to the undersigned the below details regarding Employee Confidentiality & Non-Competition.\""
+  },
+  {
+    "kind": "P",
+    "text": "19. Plaintiff accepted the offer through Hertz's online portal. At 5:42 p.m. on October 22, 2026, the portal showed the Manager Trainee position, requisition 43711, with the status \"Offer Accepted.\" On October 23, 2026, Gloria Williams sent Plaintiff a \"Pre-Boarding\" e-mail for \"43711 Manager Trainee\" stating, \"We are excited you are joining the winning team!\" and directing him to complete a background request from HireRight. True copies of these e-mails are attached as Exhibit B."
+  },
+  {
+    "kind": "S",
+    "text": "B. The California Investigative-Report Disclosure Packet"
+  },
+  {
+    "kind": "P",
+    "text": "20. On October 23, 2026, at approximately 3:03 to 3:04 p.m. Pacific time, Plaintiff completed HireRight's electronic consent process for Hertz. HireRight's record of that process includes a single twelve-page document titled, on its first page, \"Disclosure Regarding Investigative Consumer Report\" (the \"Disclosure Packet\"). A true copy is attached as Exhibit C."
+  },
+  {
+    "kind": "P",
+    "text": "21. The first page of the Disclosure Packet identifies the employer as \"The Herz Corporation.\" Pages one and two, before the packet's only signature block on page three, combine the investigative-report disclosure with notices directed to residents of Massachusetts, Minnesota, New Jersey, New York, and Washington; a City of Los Angeles \"Fair Chance Initiative for Hiring Ordinance\" notice reproduced in full in English and again in Spanish; and a checkbox for \"California, Minnesota and Oklahoma residents.\" The signed pages do not identify the types of information to be obtained and do not mention a sex-offender registry search."
+  },
+  {
+    "kind": "P",
+    "text": "22. The document headed \"(CALIFORNIA APPLICANTS/EMPLOYEES ONLY) CALIFORNIA DISCLOSURE\" appears on page eight, after the signature block. It bears no signature. It is bound in the same document as a four-page federal summary of rights, two pages of New York Correction Law article 23-A, and two pages of San Francisco workplace posters. It is the only page in the packet that lists the \"specific types of information about you that may be obtained,\" including \"National Sex Offender Registry\" and \"MVR Express.\" It does not list employment or education verification."
+  },
+  {
+    "kind": "P",
+    "text": "23. At 3:04 p.m. on October 23, 2026, Hertz's \"Pre Employment (Field)\" account submitted HireRight order OR-102326-NH87V, package \"Field (Driver Required),\" for requisition 43711. The order included the separately itemized \"National Sex Offender Registry\" product. The report was requested by Kesha Nedio-Casey, Hertz Pre Employment (Field), Estero, Florida."
+  },
+  {
+    "kind": "S",
+    "text": "C. Hertz Receives the Driving Record on October 23 and Continues to Onboard Plaintiff"
+  },
+  {
+    "kind": "P",
+    "text": "24. HireRight completed the motor-vehicle-record (\"MVR\") component at 3:04 p.m. on October 23, 2026, and at 3:05 p.m. notified Plaintiff that it had provided his MVR to \"Gloria Williams, The Hertz Corporation.\" HireRight's activity log records: \"Oct 23, 2026 3:07 PM -- MVR Express report provided to The Hertz Corporation.\" A true copy of the notice is attached as Exhibit D."
+  },
+  {
+    "kind": "P",
+    "text": "25. The MVR shows Plaintiff's California Class C driver's license, issued July 21, 2026 and expiring May 12, 2027, with the status \"VALID.\" It also shows two administrative actions by the Department of Motor Vehicles, both concluded before Hertz made its offer: a suspension for \"refusal or failure to complete chemical test,\" with a privilege reinstatement date of May 19, 2026; and a commercial-vehicle disqualification for refusing to submit to a test, with a clear date of November 30, 2025. The only conviction in the MVR is an October 2, 2024 infraction for an unregistered vehicle under California Vehicle Code \u00a7 4000(a), which carries zero points and is not alcohol-related. The MVR section of the report does not label any entry as criminal."
+  },
+  {
+    "kind": "P",
+    "text": "26. Neither DMV action is a criminal conviction. Each is a creature of the arresting-officer events that preceded it. Under California's implied-consent and administrative-per-se statutes, a chemical-test obligation arises only for a person who has been lawfully arrested, Cal. Veh. Code \u00a7 23612(a)(1)(A); the resulting refusal suspension is initiated by the arresting officer's sworn report of the arrest and the refusal, Cal. Veh. Code \u00a7 13353(a); and the Department's entry recording the suspension is generated from that arrest report. As a matter of law, the commercial-vehicle disqualification likewise arises only from an arrest and an officer's report of a refusal. The background report reflects no alcohol-related criminal conviction in any jurisdiction searched, including San Joaquin County, Santa Clara County, Sheridan County, Wyoming, the Eastern District of California, and the District of Wyoming."
+  },
+  {
+    "kind": "P",
+    "text": "27. A California Highway Patrol report, number RJ68845, documents that Plaintiff was taken into custody on November 1, 2024 in a DUI investigation. The report records separate allegations concerning a roadside preliminary alcohol screening test and a post-arrest chemical test. Plaintiff identifies those matters as allegations recorded by CHP, not as criminal findings against him."
+  },
+  {
+    "kind": "P",
+    "text": "28. The Alameda County prosecution disposition for CHP report RJ68845 lists the DUI referral under \"Booked Charges Not Filed.\" It records a February 26, 2025 rejection for \"LACK OF EVIDENCE - INSUFFICIENT CORROBORATION.\" The Dublin CHP detention certificate identifies November 5, 2024 as the release date and May 12, 2025 as the certificate's preparation date, and describes the custody event as a detention."
+  },
+  {
+    "kind": "P",
+    "text": "29. The February 2025 chronology of the MVR suspension row is consistent with the administrative suspension proceeding following that investigation. Plaintiff does not presently allege that the separate commercial-disqualification row shares a single originating event with the suspension row, and does not allege that the prosecution's decision not to file charges invalidated the DMV actions."
+  },
+  {
+    "kind": "P",
+    "text": "30. Plaintiff does not challenge the legality of the traffic stop, seek review of the DMV actions, or allege that the prosecution's rejection establishes factual innocence. His claim against HireRight concerns the classification and communication of information in the employment-screening transaction. Plaintiff does not presently allege that HireRight possessed the CHP report, the prosecution disposition, or the detention certificate when it prepared the screening report."
+  },
+  {
+    "kind": "P",
+    "text": "31. Hertz did not issue any adverse notice between October 23, 2026 and November 2, 2026. For that period Hertz left Plaintiff's status at \"Offer Accepted\" and continued its onboarding process. The absence of an earlier notice does not establish that Hertz had approved Plaintiff's driving history or that the MVR could not later affect Hertz's decision."
+  },
+  {
+    "kind": "S",
+    "text": "D. The Registry Results and Hertz's Eligibility Review"
+  },
+  {
+    "kind": "P",
+    "text": "32. The California Department of Justice maintains an internet website, created by and operated under Cal. Penal Code \u00a7 290.46, that makes information from California's sex-offender registry available to the public (the \"Megan's Law Website\"). Plaintiff is a person whose information is displayed on the Megan's Law Website."
+  },
+  {
+    "kind": "P",
+    "text": "33. The United States Department of Justice operates two different sex-offender systems. The National Sex Offender Registry (\"NSOR\"), 34 U.S.C. \u00a7 20921, is a file maintained by the Federal Bureau of Investigation and accessible only to law-enforcement and other authorized criminal-justice agencies. The Dru Sjodin National Sex Offender Public Website (\"NSOPW\"), 34 U.S.C. \u00a7 20922, is open to the public. The Department of Justice describes NSOPW as a search portal that does not maintain its own registry data. NSOPW uses web services to search each jurisdiction's public registry website in real time, and an offender who is not displayed on a jurisdiction's public website does not appear on NSOPW."
+  },
+  {
+    "kind": "P",
+    "text": "34. For a California registrant, therefore, an NSOPW result is the Megan's Law Website's own record, retrieved from that website at the moment of the search. California, acting under Cal. Penal Code \u00a7 290.46, is the entity that discloses the information. NSOPW is only the conduit through which it is displayed."
+  },
+  {
+    "kind": "P",
+    "text": "35. HireRight is a private consumer reporting agency. On information and belief, it is not a law-enforcement or criminal-justice agency and has no access to NSOR. A private consumer reporting agency's sex-offender search \"performed through the United States Department of Justice\" is therefore, on information and belief, an NSOPW search that returns the Megan's Law Website's records."
+  },
+  {
+    "kind": "P",
+    "text": "36. Hertz's order included three \"National Sex Offender Registry\" subrequests, one for each of three forms of Plaintiff's name. Each subrequest bears the comment: \"National Sex Offender Registry search performed through the United States Department of Justice.\""
+  },
+  {
+    "kind": "P",
+    "text": "37. The subrequest run on \"Brendan Ngwa\" returned \"Not in Registry.\" Like every search in the report that found no record, it was graded \"Meets Company Standards.\""
+  },
+  {
+    "kind": "P",
+    "text": "38. The two subrequests run on the other forms of Plaintiff's name returned \"In Registry\" on October 30, 2026, at 11:25 a.m. and 12:48 p.m. Pacific time. Each was graded \"Client Review Required.\" The returned entries listed aliases for Plaintiff, including \"NGWA-NFORBI, BRENDAN.\""
+  },
+  {
+    "kind": "P",
+    "text": "39. HireRight's researchers entered the following notes on those entries on October 30, 2026: \"APPLICANT IS LISTED ON THE SEX OFFENDER REGISTRY IN THE STATE OF CA\"; \"Verified by Name and DOB\"; and \"Information from the California Sex Offenders' Registry may not be used for employment purposes except to protect a person at risk. See CA Penal Code Section 290.46. Only use this information to make an employment decision as expressly allowed by CA law.\""
+  },
+  {
+    "kind": "P",
+    "text": "40. The report states that the grades were assigned under adjudication rules named \"The Hertz Corporation (Shell) (GL-HTZ001-001) v1.7\" and \"AutoLibrarySet - Excl. MVR, EDU, EMP - Managed Adjudication 3.0.\" The grade \"Client Review Required\" means that Hertz's rules required Hertz personnel to review the result in deciding whether Plaintiff's background check met Hertz's company standards, the same standards the offer letter makes the condition of his employment (paragraph 17)."
+  },
+  {
+    "kind": "P",
+    "text": "41. The National Sex Offender Registry search was not part of the \"Background Checks\" Hertz's offer letter described (paragraph 16). It was a separately itemized product that Hertz selected for a California \"Field (Driver Required)\" package (paragraph 23). On information and belief, Hertz configured that package, and adopted the adjudication rules applied to it, so that a California registry hit would be routed to Hertz's eligibility review rather than disregarded."
+  },
+  {
+    "kind": "S",
+    "text": "E. The Report Is Completed and Hertz Acts Within Hours"
+  },
+  {
+    "kind": "P",
+    "text": "42. The report also contained a Santa Clara County Superior Court record (case C1761642) reflecting felony convictions, with a disposition date of January 12, 2018, for offenses arising on February 26, 2017, which require registration under Cal. Penal Code \u00a7 290. The report states a parole/release date of December 2, 2020. That record was graded \"Client Review Required.\" The November 2 notice did not identify it."
+  },
+  {
+    "kind": "P",
+    "text": "43. HireRight's report identifies completion and adjudication at 2:29 a.m. Pacific time on November 2, 2026. The overall adjudication status is \"Client Review Required,\" and the MVR Express component shows the same status. The report identifies two adjudication rule sets: \"The Hertz Corporation (Shell) (GL-HTZ001-001) v1.7\" and \"AutoLibrarySet - Excl. MVR, EDU, EMP - Managed Adjudication 3.0 (GL-000-003) v10.3.\" The report's activity log explains that HireRight's adjudication entries \"indicate whether an initial determination was made regarding whether the report satisfied the company's hiring criteria ... including any preliminary status Result of 'Meets' or 'Does Not Meet' company standards.\" Plaintiff does not allege that the recorded 2:29 a.m. result was \"Does not meet\" or that completion alone establishes the time of delivery to Hertz. A true copy of the complete report is attached as Exhibit E."
+  },
+  {
+    "kind": "P",
+    "text": "44. At 10:19 a.m. Pacific time on November 2, 2026, less than eight hours later, HireRight transmitted to Plaintiff, through HireRight's applicant portal as a HireRight \"special processing\" file, a letter from The Hertz Corporation dated November 2, 2026 (the \"Notice\"). A true copy of the Notice and its transmittal e-mail is attached as Exhibit F."
+  },
+  {
+    "kind": "P",
+    "text": "45. The Notice states: \"Based on a review of the results of your background report and Company's eligibility criteria, we are notifying you that there is information in your background report that may result in Company deciding not to offer you ... employment ... including the following specific information identified in your background report: [Criminal Information] Alcohols related offenses-Does not meet.\""
+  },
+  {
+    "kind": "P",
+    "text": "46. The Notice refers to \"the Company's preliminary decision recinding the offer of employment,\" and invites \"evidence in mitigation of the specific criminal information identified above.\""
+  },
+  {
+    "kind": "P",
+    "text": "47. The Notice does not state a deadline to respond. Where a date should appear, it reproduces an unfilled bracket: \"[Date (at least five business days from the date of receipt of the notice. ... (iii) If notice is transmitted through email, the notice shall be deemed received two business days after it is sent.)].\" Elsewhere it states that Hertz will not make a final decision \"for at least five (5) business days from the date of this letter.\""
+  },
+  {
+    "kind": "P",
+    "text": "48. The Notice does not mention the sex-offender registry, identify any person at risk, identify any statute authorizing Hertz to use registry information, or identify any criminal conviction. The factual category \"[Criminal Information] Alcohols related offenses\" is distinct from the eligibility result \"Does not meet.\" Plaintiff does not equate the word \"offenses\" with \"conviction\"; he alleges that the quoted factual category materially misrepresents the administrative and nonconviction character of the underlying DMV source rows."
+  },
+  {
+    "kind": "P",
+    "text": "49. The report HireRight furnished to Hertz does not, in any field reviewed by Plaintiff, contain the phrases \"Alcohols related offenses\" or \"[Criminal Information].\" The report classifies Plaintiff's DMV action entries under the product heading \"MVR Express\" and under field labels \"V/S Date,\" \"C/R Date,\" \"Description,\" and \"Violation Code,\" and the court-record entries under the product heading \"Criminal & Offense History.\""
+  },
+  {
+    "kind": "P",
+    "text": "50. On information and belief, the factual category \"[Criminal Information] Alcohols related offenses\" was generated within HireRight's systems for order OR-102326-NH87V. On the same belief, HireRight communicated that category to Hertz as part of the adjudicated consumer report or an adjudication output delivered with it. The category was generated either by HireRight's own classification of Plaintiff's DMV entries or by HireRight's Managed Adjudication 3.0 service applying the rule set \"The Hertz Corporation (Shell) (GL-HTZ001-001) v1.7\" to those entries. Plaintiff pleads the factual category separately from the eligibility result \"Does not meet.\" His claim does not depend on HireRight having assigned \"Does not meet.\" The belief rests on the following: (a) the Notice bears request number OR-102326-NH87V, which is the same request number printed in the header of HireRight's report; (b) HireRight's activity log records an \"Adjudicated\" event on November 2, 2026, at 2:29 a.m. Pacific time, performed by HireRight, with the Result \"Client Review Required\"; (c) the report's activity-log footnote acknowledges that HireRight's system generates \"adjudication history entries and related e-mail notifications\" for the employer that are not reproduced on the report pages available to Plaintiff, and that a \"company's final adjudication determination may change from its initial determination\"; (d) at 10:19 a.m. Pacific time on November 2, 2026, less than eight hours after the logged adjudication, HireRight delivered the Notice to Plaintiff through HireRight's applicant portal as a HireRight \"special processing\" file; (e) the Notice identifies the disputed line as \"specific information identified in your background report\" and names HireRight as the agency that prepared that report; (f) the words \"Criminal Information\" and \"Alcohols related offenses\" appear in no DMV entry in the report; the SUSP and DISQ entries carry DMV descriptions, codes, and dates under the \"MVR Express\" heading and the field labels \"V/S Date,\" \"C/R Date,\" \"Description,\" and \"Violation Code,\" so the disputed words are classification language added to the source data, not a transcription of it; (g) the Notice reproduces unfilled bracketed template instructions where a response date should appear, and uses \"Does not meet,\" the vocabulary HireRight's own footnote assigns to a preliminary adjudication \"Result\"; and (h) the only copy of the report available to Plaintiff is an applicant-side view timestamped November 2, 2026, 6:16 a.m. Pacific time, which the activity log confirms as Plaintiff opening the report; the activity log in that view shows no entry describing what Hertz users viewed or received after the adjudication. The employer-facing screens, adjudication payload, category and reason-code fields, e-mail notifications, template-merge inputs, and audit history that would confirm or refute this belief are in Defendants' exclusive possession."
+  },
+  {
+    "kind": "S",
+    "text": "F. Hertz Used the Registry Information for Employment Purposes"
+  },
+  {
+    "kind": "P",
+    "text": "51. On information and belief, Hertz considered the California registry information in Plaintiff's report in reaching its preliminary decision, in at least the following ways: (a) it selected the registry product for a California job, outside the checks its offer letter described; (b) it adopted and applied rules under which Plaintiff's registry hits were routed to Hertz's eligibility review under the company standards on which his employment depended; (c) its personnel reviewed those results for the purpose of deciding his employment; and (d) after that review, and \"[b]ased on a review of the results of [his] background report and Company's eligibility criteria,\" it announced a preliminary decision rescinding his offer. The statute prohibits use of registry information for purposes relating to employment, and Hertz's consideration of that information in its eligibility review and preliminary decision is itself a use, whether or not the registry result was the sole, stated, or ultimate reason."
+  },
+  {
+    "kind": "P",
+    "text": "52. Count 2 concerns Hertz's use of information disclosed pursuant to Cal. Penal Code \u00a7 290.46, not the existence of a court file. The Notice does not cite the Santa Clara County court record described in Part IV.E, and does not cite any registry entry. It identifies only one line of information: \"[Criminal Information] Alcohols related offenses-Does not meet.\" On information and belief, the preliminary decision was driven in whole or in part by the registry information, and the quoted alcohol-related category supplied the reason Hertz placed in writing. That inference is supported by the fact that the registry search lay outside the offer's defined checks and was separately selected (paragraph 41); that Plaintiff's registry hits were routed to \"Client Review\" under rules bearing Hertz's name (paragraph 38); that the MVR had been in Hertz's hands for ten days without adverse action (paragraph 24); that the Notice issued within hours after the completed report, which contained the registry results, was adjudicated (paragraph 43); and that the Notice's statement that the basis \"includ[es]\" the listed line, which on its face is not exclusive. Hertz's alternative explanation, that it waited for the full screening package and then applied a driving standard to the refusal history, is a competing account to be tested against Hertz's internal decision records; it does not dispose of the pleaded inference at this stage."
+  },
+  {
+    "kind": "P",
+    "text": "53. The decision-making records that would show precisely how Hertz applied its rules to the registry results, including the rule set \"The Hertz Corporation (Shell) (GL-HTZ001-001) v1.7,\" the identity of the personnel who performed the \"Client Review,\" the screens they viewed, and their notes, are exclusively in Defendants' possession."
+  },
+  {
+    "kind": "P",
+    "text": "54. Hertz knew when it reviewed the report that California prohibits use of registry information for employment. The prohibition was printed beneath the registry entries (paragraph 39)."
+  },
+  {
+    "kind": "P",
+    "text": "55. Hertz did not use the registry information to protect any person at risk. The exception in Cal. Penal Code \u00a7 290.46(j)(1) permits use only to protect a person at risk. Hertz's screening applies to applicants as a category, before any assignment to particular customers or co-workers, and the Notice identifies no person whom Hertz sought to protect. On information and belief, no statute authorized Hertz, a vehicle-rental company, to obtain or use California registry information for employment, and Hertz did not obtain it through Cal. Penal Code \u00a7 11105 or \u00a7 11105.3."
+  },
+  {
+    "kind": "P",
+    "text": "56. Plaintiff's signature on the Disclosure Packet did not authorize Hertz to use registry information for employment. Section 290.46(j) regulates use and serves a public purpose, and a law established for a public reason cannot be contravened by private agreement. Cal. Civ. Code \u00a7 3513."
+  },
+  {
+    "kind": "S",
+    "text": "G. Plaintiff's Status and Harm"
+  },
+  {
+    "kind": "P",
+    "text": "57. The Notice states no response deadline, identifies no conviction, and does not identify which of the items reviewed formed the basis of Hertz's preliminary decision. The five business days Hertz itself specified ended on November 9, 2026. Hertz has not communicated with Plaintiff since it sent the Notice."
+  },
+  {
+    "kind": "P",
+    "text": "58. As of the filing of this Complaint, Plaintiff has received no final employment decision. He has not begun work in the offered position and has not been assigned a start date. Plaintiff does not allege that a promised start date has passed, that wages have accrued, or that the conditional offer guaranteed employment. Plaintiff remains ready, willing, and able to begin work as a Manager Trainee."
+  },
+  {
+    "kind": "P",
+    "text": "59. The preliminary decision and its effects are centered in California. It concerned a California resident, recruited and interviewed in California, for a position at a California branch, supervised by a California branch manager, Kathleen Williams. Hertz's onboarding of Plaintiff was managed by its Western Region Talent Acquisition Partner, Gloria Williams, whose listed telephone number bears a California area code. The decision withholds employment that was to be performed only in California. The report was ordered through a Hertz pre-employment account associated with Estero, Florida. On information and belief, Hertz's California branch and regional personnel participated in, were consulted on, or carried out the preliminary decision. The identity and location of each person who made it are peculiarly within Hertz's knowledge."
+  },
+  {
+    "kind": "P",
+    "text": "60. Plaintiff's injury from the criminal classification is distinct from, and does not depend on, the outcome of Hertz's employment process."
+  },
+  {
+    "kind": "P",
+    "text": "61. On the morning of November 2, 2026, Plaintiff was at home. He saw an e-mail from HireRight on his phone, opened the HireRight applicant portal, and read the Notice there. He later opened the Notice again on his laptop so he could read exactly what Hertz was being told."
+  },
+  {
+    "kind": "P",
+    "text": "62. Plaintiff stopped at the words \"Criminal Information.\" His first thought was whether Hertz had been told he had been convicted of a DUI. He knew the DMV had recorded a chemical-test refusal, and he knew the District Attorney had declined to file a DUI charge. He had already accepted the offer. He felt embarrassed at the prospect of calling the Hertz hiring team and having to explain a criminal offense he had never been charged with, and worried that even if he explained the difference, they would think he was making excuses."
+  },
+  {
+    "kind": "P",
+    "text": "63. That night Plaintiff had trouble falling asleep. He kept rehearsing what he would say if the hiring manager asked him about \"alcohol offenses.\" The next day he found himself rereading the same e-mail without taking it in. His concentration improved after a couple of days, once he had the records in front of him and could begin to put together a response. Plaintiff did not seek counseling, medical treatment, or medication because of the Notice."
+  },
+  {
+    "kind": "P",
+    "text": "64. In the days after the Notice, Plaintiff pulled up the Alameda County prosecution disposition for CHP report RJ68845 and compared it against the driving-record section of the HireRight report. He focused his mitigation on what the Notice had collapsed into one line: the DMV took a licensing action, and the DA filed no DUI charge. He spent part of that evening and the following day gathering those records because he wanted Hertz to have them before Hertz made a final decision."
+  },
+  {
+    "kind": "P",
+    "text": "65. Plaintiff's distress arises from the content of the communication: being characterized to a prospective employer, under a \"Criminal Information\" heading, as having alcohol-related \"offenses.\" It is not merely a reaction to the possibility of losing the position, and Plaintiff suffered it regardless of whether Hertz's preliminary decision becomes final. Plaintiff does not attribute to HireRight any distress associated with the accurate MVR entries or with Hertz's unresolved employment process."
+  },
+  {
+    "kind": "P",
+    "text": "66. On information and belief, the classification was communicated to Hertz before the Notice issued, for the reasons stated in paragraph 50. Plaintiff has suffered reputational injury from the publication to Hertz, a prospective employer evaluating his eligibility, of a materially misleading criminal characterization of his record."
+  },
+  {
+    "kind": "P",
+    "text": "67. As against Hertz only, to the extent Hertz's preliminary decision becomes final or operates as a final decision, Plaintiff will also have suffered the loss of wages and benefits of a full-time position at $23.00 per hour, in amounts according to proof. Plaintiff does not claim lost wages, accrued wages, or a completed rescission against HireRight."
+  },
+  {
+    "kind": "H",
+    "text": "V. FIRST CAUSE OF ACTION"
+  },
+  {
+    "kind": "S",
+    "text": "Failure to Follow Reasonable Procedures to Assure Maximum Possible Accuracy"
+  },
+  {
+    "kind": "H",
+    "text": "Fair Credit Reporting Act, 15 U.S.C. \u00a7\u00a7 1681e(b) and 1681o"
+  },
+  {
+    "kind": "H",
+    "text": "Against HireRight"
+  },
+  {
+    "kind": "P",
+    "text": "68. Plaintiff incorporates paragraphs 15, 19, 23 through 26, 43 through 45, 50, and 57 through the end of Part IV.G."
+  },
+  {
+    "kind": "P",
+    "text": "69. Plaintiff is a \"consumer\" under 15 U.S.C. \u00a7 1681a(c). HireRight is a consumer reporting agency (paragraph 7). For order OR-102326-NH87V, HireRight communicated information about Plaintiff to Hertz. That information included the MVR Express report and the complete background report. On information and belief (paragraph 50), it also included the adjudication results, categories, statuses, reason codes, and notifications generated in HireRight's systems for that order. The information bore on Plaintiff's character, general reputation, and personal characteristics. Hertz used it, and HireRight expected it to be used, in establishing Plaintiff's eligibility for employment. Each such communication is a \"consumer report\" furnished for employment purposes under 15 U.S.C. \u00a7 1681a(d)(1) and (h). An adjudication category or status that tells an employer the consumer's record contains \"Criminal Information\" and alcohol-related \"offenses\" is information bearing on those characteristics. It remains such information even if the category was generated by applying an employer's rule set."
+  },
+  {
+    "kind": "P",
+    "text": "70. Section 1681e(b) requires a consumer reporting agency, whenever it prepares a consumer report, to follow reasonable procedures to assure maximum possible accuracy of the information concerning the individual to whom the report relates. A report violates that duty when it is patently incorrect. It also violates that duty when it is misleading in such a way and to such an extent that it can be expected to have an adverse effect, including when it is technically accurate in parts but materially misleading as communicated."
+  },
+  {
+    "kind": "P",
+    "text": "71. On information and belief (paragraph 50), HireRight furnished to Hertz a classification that presented Plaintiff's two DMV administrative entries as \"[Criminal Information] Alcohols related offenses.\" Those entries were a license suspension for chemical-test refusal and a commercial-vehicle disqualification. That classification was materially misleading for these reasons: (a) the source entries are licensing actions, not criminal records; HireRight's own report presents them under \"MVR Express\" with suspension and disqualification codes and dates, and does not present them under any criminal heading, and the report identifies no alcohol-related criminal conviction in any jurisdiction searched (paragraph 26); (b) a reasonable employer reading \"[Criminal Information] Alcohols related offenses\" in a background report would understand that the report contained criminal-history information showing that Plaintiff had committed, or been charged with or convicted of, alcohol-related criminal offenses, and Hertz read it that way, calling the line \"specific criminal information\" and inviting \"evidence in mitigation\" of it; (c) the classification did not merely omit context from an accurate entry; it affirmatively assigned a criminal category and an \"offenses\" characterization that the source entries do not contain (paragraph 50); and (d) the classification could be expected to adversely affect an employment decision, and it did: Hertz identified it as the \"specific information\" in the report that \"may result in Company deciding not to offer\" employment. Plaintiff does not challenge the accuracy of the MVR entries as DMV records, does not challenge an employer's eligibility judgment based on accurate information, and does not depend on HireRight having assigned the eligibility result \"Does not meet.\""
+  },
+  {
+    "kind": "P",
+    "text": "72. On information and belief, HireRight failed in this transaction to follow reasonable procedures to assure maximum possible accuracy. In particular: (a) HireRight's system had no adequate source-type validation or reconciliation step; a reasonable step would preserve the administrative, licensing character of DMV suspension and disqualification entries before any category is applied, and would prevent those entries from being mapped into a \"Criminal Information\" or \"offenses\" category; (b) HireRight allowed a client-named rule set to assign a criminal category to MVR data without verifying that the category matched the source record type; and (c) HireRight did not check the category against its own criminal-history searches for the same order, which identified no alcohol-related conviction (paragraph 26). The disputed category does not come from the California Department of Motor Vehicles or any other government source. It is language added within the screening transaction (paragraph 50). A reasonable procedure for an agency whose system applies client rules to DMV data would require the agency to understand, and to verify, how its system categorizes that data before an employer-facing category is furnished. The field mappings, rule logic, validation steps, execution history, and overrides for this order are in Defendants' possession."
+  },
+  {
+    "kind": "P",
+    "text": "73. In the alternative, if Hertz supplied the \"[Criminal Information] Alcohols related offenses\" category rather than HireRight's system independently classifying the entries, HireRight's procedures remain in issue. They remain in issue to the extent HireRight's product-level categorization, adjudication configuration, or employer-facing display allowed chemical-test-refusal entries to be aggregated into employer-facing criminal content without correction or qualification, while HireRight's engine returned \"Client Review Required\" for the MVR component."
+  },
+  {
+    "kind": "P",
+    "text": "74. HireRight's failure was negligent. HireRight knew that its adjudication outputs for this order would go to an employer deciding Plaintiff's eligibility for a driving-required position. A reasonable consumer reporting agency would know that presenting licensing actions as criminal \"offenses\" can be expected to harm a consumer's employment prospects and reputation. On information and belief, the classification did not result from any considered interpretation of the Fair Credit Reporting Act or from any ambiguous statutory text. HireRight's own report presents the same entries as licensing actions, and no construction of the statute was needed to recognize that labeling them criminal was inaccurate."
+  },
+  {
+    "kind": "P",
+    "text": "75. The misleading classification was a stated basis for Hertz's preliminary decision. The Notice identifies the classification, and no other report item, as the \"specific information\" on which the preliminary decision may rest. The Notice does not mention the registry results or the court record (paragraph 52). Hertz had held the MVR since October 23, 2026, without issuing any adverse notice. Plaintiff alleges that the classification was a stated and contributing basis for the preliminary decision. He does not allege that it was the only factor in Hertz's review."
+  },
+  {
+    "kind": "P",
+    "text": "76. As a result of HireRight's negligent noncompliance, Plaintiff has suffered the actual damages alleged in Part IV.G: humiliation and anxiety caused by the criminal classification itself, and reputational injury from its publication to Hertz. Plaintiff does not seek lost wages against HireRight."
+  },
+  {
+    "kind": "P",
+    "text": "77. Plaintiff seeks actual damages resulting from HireRight's negligent noncompliance under 15 U.S.C. \u00a7 1681o(a)(1), together with recoverable costs and reasonable attorney's fees to the extent authorized under \u00a7 1681o(a)(2). Plaintiff reserves the right to seek leave to amend to allege willful noncompliance and the remedies available under 15 U.S.C. \u00a7 1681n if discovery supports that allegation."
+  },
+  {
+    "kind": "H",
+    "text": "VI. SECOND CAUSE OF ACTION"
+  },
+  {
+    "kind": "H",
+    "text": "Unlawful Use of Megan's Law Information for Employment"
+  },
+  {
+    "kind": "H",
+    "text": "California Penal Code \u00a7 290.46(j)"
+  },
+  {
+    "kind": "H",
+    "text": "Against Hertz"
+  },
+  {
+    "kind": "P",
+    "text": "78. Plaintiff incorporates paragraphs 1 through 17 and 20 through the end of Part IV.G, except paragraph 50."
+  },
+  {
+    "kind": "P",
+    "text": "79. Section 290.46(j)(1) authorizes a person to use information disclosed pursuant to section 290.46 only to protect a person at risk. Section 290.46(j)(2)(E) provides that, except as authorized under subdivision (j)(1) or any other provision of law, use of information disclosed pursuant to section 290.46 is prohibited for purposes relating to employment."
+  },
+  {
+    "kind": "P",
+    "text": "80. The California registry information in Plaintiff's report was information disclosed pursuant to section 290.46. California disclosed it to the public through the Megan's Law Website, and on information and belief it reached Hertz through an NSOPW search that retrieved it from that website in real time (paragraphs 32 through 39)."
+  },
+  {
+    "kind": "P",
+    "text": "81. Hertz used that information for purposes relating to employment, as alleged in paragraphs 41 through 52: it used the information as a basis for an employment decision. Hertz's preliminary decision rescinding Plaintiff's offer is itself a use for purposes relating to employment. The statute prohibits use, not only final decisions."
+  },
+  {
+    "kind": "P",
+    "text": "82. Hertz's use was not to protect a person at risk and was not authorized by any other provision of law."
+  },
+  {
+    "kind": "P",
+    "text": "83. Under section 290.46(j)(4)(A), Hertz is liable for actual damages; an amount determined by the trier of fact not exceeding three times actual damages and not less than $250; attorney's fees; and exemplary damages or a civil penalty not exceeding $25,000. Plaintiff seeks each remedy, pleading exemplary damages and the civil penalty in the alternative."
+  },
+  {
+    "kind": "P",
+    "text": "84. Hertz acted with knowledge of the prohibition, which was printed on the report it reviewed, and with conscious disregard of Plaintiff's rights. The registry routing was embedded in company-wide adjudication rules bearing Hertz's name, which on information and belief were adopted, authorized, or ratified by Hertz officers, directors, or managing agents. Plaintiff is entitled to exemplary damages under section 290.46(j)(4)(A) and Cal. Civ. Code \u00a7 3294."
+  },
+  {
+    "kind": "P",
+    "text": "85. On information and belief, Hertz offers its \"Field (Driver Required)\" screening package as a standard product in its California hiring workflow and applies the same registry product and the same adjudication rules to California applicants screened under it. On the same belief, Hertz did not treat Plaintiff's package as a one-off: the \"Pre Employment (Field)\" account, the Estero, Florida ordering location, the Shell rule set version number, and the Managed Adjudication 3.0 service are shared features of Hertz's California hiring process, not individualized settings created for Plaintiff. That is a pattern or practice of misuse. As a person aggrieved by the misuse, Plaintiff seeks preventive relief under section 290.46(j)(4)(B), including an injunction prohibiting Hertz from procuring, routing, or reviewing California Megan's Law information for employment purposes."
+  },
+  {
+    "kind": "H",
+    "text": "VII. THIRD CAUSE OF ACTION"
+  },
+  {
+    "kind": "H",
+    "text": "Nonstandalone Investigative Consumer Report Disclosure"
+  },
+  {
+    "kind": "H",
+    "text": "California Civil Code \u00a7\u00a7 1786.16 and 1786.50"
+  },
+  {
+    "kind": "H",
+    "text": "Against Hertz"
+  },
+  {
+    "kind": "P",
+    "text": "86. Plaintiff incorporates paragraphs 15, 16, 20 through 23, 38, 41, and 44 through 45."
+  },
+  {
+    "kind": "P",
+    "text": "87. The report Hertz procured is an \"investigative consumer report\" under Cal. Civ. Code \u00a7 1786.2. Hertz's own disclosure acknowledges that in California the term \"includes background reports with or without information obtained from personal interviews.\""
+  },
+  {
+    "kind": "P",
+    "text": "88. Section 1786.16(a)(2)(B) requires a person procuring an investigative consumer report for employment purposes to provide, before the report is procured, a clear and conspicuous disclosure in writing \"in a document that consists solely of the disclosure,\" including the nature and scope of the investigation requested."
+  },
+  {
+    "kind": "P",
+    "text": "89. Hertz did not do so. The only document Plaintiff signed combined the investigative-report disclosure with notices for five other States and a Los Angeles ordinance in two languages, and misidentified the employer. The California-specific disclosure, the only page describing the nature and scope of the investigation, was not a separate signed document. It was bound, unsigned, into the same twelve-page document with federal, New York, and San Francisco materials (paragraphs 20 through 22)."
+  },
+  {
+    "kind": "P",
+    "text": "90. The violation caused Plaintiff concrete harm. The document he signed did not disclose that Hertz would procure a sex-offender registry search, a search outside the checks the offer letter described. Hertz procured that search under the resulting authorization and used its results in reaching the decision announced in the Notice. The defect deprived Plaintiff of notice of that search, and with it the opportunity to address or contest it before Hertz acted on it and announced a preliminary rescission of his accepted job. Had the signed pages identified a National Sex Offender Registry search as a requested investigation, Plaintiff would not have authorized that search."
+  },
+  {
+    "kind": "P",
+    "text": "91. Under section 1786.50(a), Hertz is liable for actual damages or $10,000, whichever is greater, plus costs and reasonable attorney's fees. Plaintiff reserves the right to seek leave to amend to allege willful or grossly negligent noncompliance and the punitive damages available under section 1786.50(b) if discovery supports that allegation."
+  },
+  {
+    "kind": "H",
+    "text": "VIII. FOURTH CAUSE OF ACTION"
+  },
+  {
+    "kind": "H",
+    "text": "Use of a Non-Conviction Arrest Record in Hiring"
+  },
+  {
+    "kind": "H",
+    "text": "California Labor Code \u00a7 432.7"
+  },
+  {
+    "kind": "H",
+    "text": "Against Hertz, in the Alternative"
+  },
+  {
+    "kind": "P",
+    "text": "92. Plaintiff incorporates paragraphs 15, 17, 24 through 29, 44 through the end of Part IV.E except paragraph 50, and 57 through 59."
+  },
+  {
+    "kind": "P",
+    "text": "93. This cause of action is pleaded in the alternative to the Second Cause of Action, under Federal Rule of Civil Procedure 8(d)(2)-(3), to the extent Hertz contends that its preliminary decision rested on the \"Alcohols related offenses\" identified in the Notice."
+  },
+  {
+    "kind": "P",
+    "text": "94. Labor Code \u00a7 432.7(a)(1) prohibits an employer from utilizing, as a factor in determining any condition of employment, including hiring, any record of arrest or detention that did not result in conviction."
+  },
+  {
+    "kind": "P",
+    "text": "95. The alcohol-related information in Plaintiff's report consists of the DMV chemical-test-refusal suspension and the separate commercial-vehicle disqualification. As alleged in paragraph 26, each such entry is, as a matter of law, generated only from an arrest and an officer's report of a refusal. The chemical-test obligation arises only on a lawful arrest, Cal. Veh. Code \u00a7 23612(a)(1)(A); a refusal suspension is initiated by the arresting officer's sworn report of the arrest and the refusal, Cal. Veh. Code \u00a7 13353(a); and the Department's entry recording the suspension is generated from that arrest report. As a matter of law, the commercial-vehicle disqualification likewise arises only from an arrest and an officer's report of a refusal. Plaintiff does not presently allege that the two rows share a single originating event. Each row is nevertheless a record of an arrest that did not result in a conviction. On its face, the Notice's \"[Criminal Information]\" heading treats those entries as, or derives from, records of arrest. Hertz, by its own account, used the quoted information as a factor in its preliminary decision to rescind Plaintiff's offer. Even if Hertz was permitted to obtain a driving record, section 432.7(a)(1) separately prohibits an employer from utilizing a record of arrest that did not result in conviction as a factor in hiring. Permission to seek a driving record is not permission to use it, or a criminal classification derived from it, to reject an applicant."
+  },
+  {
+    "kind": "P",
+    "text": "96. Plaintiff is an applicant for employment within the meaning of Labor Code \u00a7 432.7(c). He accepted Hertz's offer but was never permitted to begin work. Under section 432.7(c), he is entitled to actual damages or $200, whichever is greater, plus costs and reasonable attorney's fees. Because Hertz's violation was intentional, he is entitled to treble actual damages or $500, whichever is greater, plus costs and reasonable attorney's fees."
+  },
+  {
+    "kind": "H",
+    "text": "IX. FIFTH CAUSE OF ACTION"
+  },
+  {
+    "kind": "H",
+    "text": "Unlawful Non-Compete Condition; Declaratory and Injunctive Relief"
+  },
+  {
+    "kind": "H",
+    "text": "California Business and Professions Code \u00a7\u00a7 16600, 16600.1, 16600.5"
+  },
+  {
+    "kind": "H",
+    "text": "Against Hertz"
+  },
+  {
+    "kind": "P",
+    "text": "97. Plaintiff incorporates paragraphs 14 through 15, 18, 19, and 57 through 58."
+  },
+  {
+    "kind": "P",
+    "text": "98. Business and Professions Code \u00a7 16600 provides that every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void, and is to be read broadly to void noncompete agreements in the employment context. The section \"shall not be limited to contracts where the person being restrained ... is a party to the contract.\" Cal. Bus. & Prof. Code \u00a7 16600(c). Section 16600.1 makes it unlawful to include a noncompete clause in an employment contract, or to require an employee to enter a noncompete agreement, that does not satisfy a statutory exception. Section 16600.5 provides that an employer shall not enter into a contract with an employee or prospective employee that includes a provision that is void under that chapter, and authorizes a prospective employee to bring a private action for injunctive relief, actual damages, or both, with reasonable attorney's fees and costs to a prevailing plaintiff."
+  },
+  {
+    "kind": "P",
+    "text": "99. Plaintiff was a prospective employee. The offer letter Hertz issued and Plaintiff accepted is a contract with a prospective employee. It includes a provision making Plaintiff's execution of an \"Employee Confidentiality & Non-Competition\" agreement \"a fundamental term and condition\" of his employment. That provision requires Plaintiff to enter a non-competition agreement as the price of the job. No statutory exception applies. The offer letter does not state a duration, geographic scope, or definition of competing business, and does not identify any statutory exception. The condition is the requirement that Plaintiff execute the agreement as the price of the job."
+  },
+  {
+    "kind": "P",
+    "text": "100. By including that provision, Hertz entered into a contract with a prospective employee that includes a provision void under section 16600, and required Plaintiff to enter a noncompete agreement, in violation of sections 16600.1 and 16600.5. On information and belief, Hertz uses the same offer-letter provision for California hires generally."
+  },
+  {
+    "kind": "P",
+    "text": "101. An actual and present controversy exists. Hertz has made the non-competition requirement a condition of the job Plaintiff accepted and seeks to begin, so he cannot take the position without submitting to a restraint California declares void. Plaintiff seeks a declaration under 28 U.S.C. \u00a7\u00a7 2201-2202 that the provision, and any non-competition covenant it requires, is void and unenforceable as to him; an injunction under section 16600.5 prohibiting Hertz from requiring or enforcing it; actual damages according to proof; and costs and any attorney's fees incurred."
+  },
+  {
+    "kind": "H",
+    "text": "X. PRESERVATION OF EVIDENCE"
+  },
+  {
+    "kind": "P",
+    "text": "102. Defendants are on notice of this action and must preserve all records concerning Plaintiff and requisition 43711, including: Oracle candidate 2847550 status history; HireRight order OR-102326-NH87V in every version; the adjudication rules \"The Hertz Corporation (Shell) (GL-HTZ001-001) v1.7\" and \"Managed Adjudication 3.0\" and their configuration for registry, MVR, and criminal results, including every reason code and category label; the source, endpoint, and raw results of each registry subrequest; the identity, screens, notes, and communications of each person who performed the November 2 \"Client Review\"; the generation history of the Notice; the native electronic-consent records for the October 23 disclosures; and the Employee Confidentiality & Non-Competition agreement and its use for California hires."
+  },
+  {
+    "kind": "H",
+    "text": "XI. PRAYER FOR RELIEF"
+  },
+  {
+    "kind": "P",
+    "text": "103. Plaintiff prays for judgment as follows:"
+  },
+  {
+    "kind": "S",
+    "text": "On the First Cause of Action, against HireRight:"
+  },
+  {
+    "kind": "P",
+    "text": "1. Actual damages resulting from negligent noncompliance, including damages for emotional distress and reputational injury, costs, and reasonable attorney's fees to the extent authorized by statute (15 U.S.C. \u00a7 1681o(a));"
+  },
+  {
+    "kind": "S",
+    "text": "On the Second Cause of Action, against Hertz:"
+  },
+  {
+    "kind": "P",
+    "text": "2. Actual damages, including emotional-distress damages and lost wages and benefits, according to proof;"
+  },
+  {
+    "kind": "P",
+    "text": "3. An additional amount determined by the trier of fact, not exceeding three times actual damages and not less than $250 (Cal. Penal Code \u00a7 290.46(j)(4)(A));"
+  },
+  {
+    "kind": "P",
+    "text": "4. Exemplary damages or, in the alternative, a civil penalty not exceeding $25,000 (id.; Cal. Civ. Code \u00a7 3294);"
+  },
+  {
+    "kind": "P",
+    "text": "5. Preventive relief, including an injunction, under Cal. Penal Code \u00a7 290.46(j)(4)(B);"
+  },
+  {
+    "kind": "S",
+    "text": "On the Third Cause of Action, against Hertz:"
+  },
+  {
+    "kind": "P",
+    "text": "6. Actual damages or $10,000, whichever is greater, plus costs and reasonable attorney's fees (Cal. Civ. Code \u00a7 1786.50(a));"
+  },
+  {
+    "kind": "S",
+    "text": "On the Fourth Cause of Action, against Hertz:"
+  },
+  {
+    "kind": "P",
+    "text": "7. Actual damages or $200, whichever is greater; for an intentional violation, treble actual damages or $500, whichever is greater (Cal. Labor Code \u00a7 432.7(c));"
+  },
+  {
+    "kind": "S",
+    "text": "On the Fifth Cause of Action, against Hertz:"
+  },
+  {
+    "kind": "P",
+    "text": "8. A declaration that Hertz's non-competition provision and any non-competition covenant it requires are void and unenforceable as to Plaintiff;"
+  },
+  {
+    "kind": "P",
+    "text": "9. An injunction prohibiting Hertz from requiring or enforcing that provision or covenant, and actual damages according to proof (Cal. Bus. & Prof. Code \u00a7 16600.5(e));"
+  },
+  {
+    "kind": "S",
+    "text": "On All Causes of Action:"
+  },
+  {
+    "kind": "P",
+    "text": "10. Costs of suit, and reasonable attorney's fees to the extent incurred and authorized by statute;"
+  },
+  {
+    "kind": "P",
+    "text": "11. Prejudgment and post-judgment interest as permitted by law; and"
+  },
+  {
+    "kind": "P",
+    "text": "12. Such other relief as the Court deems just and proper."
+  },
+  {
+    "kind": "H",
+    "text": "XII. DEMAND FOR JURY TRIAL"
+  },
+  {
+    "kind": "P",
+    "text": "104. Under Federal Rule of Civil Procedure 38(b) and Civil Local Rule 3-6, Plaintiff demands a trial by jury on all issues so triable."
+  },
+  {
+    "kind": "DATE",
+    "text": "Dated: _______________"
+  },
+  {
+    "kind": "P",
+    "text": "I, BRENDAN NGWA NFORBI, declare:"
+  },
+  {
+    "kind": "P",
+    "text": "I am the Plaintiff in this action. I have read the foregoing Verified Complaint and know its contents. The matters stated in it are true of my own knowledge, except those stated on information and belief, and as to those matters I believe them to be true."
+  },
+  {
+    "kind": "P",
+    "text": "I declare under penalty of perjury under the laws of the United States of America that the foregoing is true and correct. 28 U.S.C. \u00a7 1746."
+  },
+  {
+    "kind": "P",
+    "text": "Executed on _______________, at Stockton, California."
+  }
+]
