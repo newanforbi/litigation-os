@@ -16,9 +16,19 @@
     "date": "2026-10-26",
     "tz": "America/Los_Angeles",
     "kind": "court_order",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": 4,
     "title": "IMPORTANT — DUE — Renewed IFP motion (complete AO 239: monthly income, monthly expenses, assets, all money received in the past 12 months) OR pay the filing fee — Brendan Ngwa Nforbi v. Swift Transportation Company (E.D. Cal. 2:26-cv-03312-DC-SCR), per Oct. 5, 2026 Order (ECF No. 4). Missing it means a recommendation of dismissal, and refiling the § 290.46(j) / ICRAA counts would likely be time-barred.",
     "actor": "you"
+  },
+  {
+    "id": "38-rule4m-service",
+    "date": "2026-12-17",
+    "date_label": "Dec. 17, 2026",
+    "kind": "deadline",
+    "status": "open",
+    "actor": "you",
+    "tz": "America/Los_Angeles",
+    "title": "FRCP 4(m) 90-day service deadline (computed from the Sept. 18, 2026 filing) — Nforbi v. Swift Transportation Co. of Arizona LLC (E.D. Cal. 2:26-cv-03312-DC-SCR). As of the Nov. 13, 2026 PACER review, no summons had issued (proposed summons lodged at ECF 1-2)."
   }
 ]

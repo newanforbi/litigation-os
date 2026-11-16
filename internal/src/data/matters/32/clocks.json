@@ -4,7 +4,7 @@
     "date": "2026-09-17",
     "date_label": "Sep. 17, 2026",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": 16,
     "title": "FILE — summons return / CCP § 415.20(b) declaration + Exhibit A USPS receipt + POS being refiled in Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). USER REPORT Oct. 28, 2026. Sep. 17 mailing executed; prior FILE clock was still open (dkt null). Do not invent a filing.",
     "actor": "you",
@@ -75,7 +75,7 @@
     "date": "2026-11-09",
     "date_label": "Nov. 9, 2026",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": 22,
     "actor": "you",
     "title": "Opposition to Dkt. 22 motion to dismiss/strike due Nov. 9, 2026 — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Date set in the Dkt. 22 docket text (responses due 11/9/2026; replies 11/16/2026). Plaintiff emailed a courtesy copy of the opposition and proof of service to DOJ on Oct. 27, 2026, but no ECF entry for the opposition appears in the NEFs through Oct. 28, 4:00 p.m. PT.",
@@ -120,7 +120,7 @@
     "date": "2026-11-12",
     "date_label": "Nov. 12, 2026",
     "kind": "deadline",
-    "status": "open",
+    "status": "satisfied",
     "source_dkt": 4,
     "actor": "you",
     "tz": "America/Los_Angeles",
@@ -136,5 +136,17 @@
     "actor": "opposing",
     "title": "Re-notice the Dkt. 22 motion hearing before Judge Breyer — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Serrato Dkt. 34 vacated noticed motion dates. No new date until the moving party re-notices.",
     "note": "Undated contingent. source_dkt is null because Dkt. 34 is the Serrato docket number, not a Meza entry number. Do not invent a hearing date."
+  },
+  {
+    "id": "32-courtesy-adr-cert",
+    "date": "2026-11-16",
+    "date_label": "Nov. 16, 2026",
+    "time": "12:00",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": 32,
+    "actor": "you",
+    "title": "Breyer courtesy copy of the Nov. 13, 2026 ADR Certification (Dkt 32) due by noon PT — Nforbi v. Meza-Gonzalez (N.D. Cal. 3:26-cv-08271-CRB). Standing-order practice; confirm against the current CRB civil standing order if needed."
   }
 ]

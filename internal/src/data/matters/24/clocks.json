@@ -12,12 +12,12 @@
   },
   {
     "id": "appearance-notice",
-    "date": "2026-11-16",
+    "date": "2026-12-14",
     "time": "15:00",
     "tz": "America/Los_Angeles",
     "kind": "deadline",
     "status": "open",
-    "source_dkt": 30,
+    "source_dkt": 33,
     "title": "Email appearance names to crbcrd@cand.uscourts.gov",
     "actor": "you"
   },

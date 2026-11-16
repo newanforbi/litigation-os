@@ -1,1 +1,36 @@
-[{"actor":"opposing","date":"2026-11-04","date_label":"Nov. 4, 2026","id":"37-home-depot-answer-deadline","kind":"deadline","source":"USM-285 return, Dkt. 8 (filed Oct. 19, 2026): Marshal service Oct. 14, 2026, 11:48 a.m., on Josh Swindell, Associate Intake Coordinator, at CSC, 2710 Gateway Oaks Dr Ste 150N, Sacramento","source_dkt":8,"status":"open","title":"WATCH — Home Depot answer or Rule 12 motion due, Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC). Served Oct. 14, 2026 → 21 days (Rule 12(a)(1)(A)(i)). A Rule 12 motion tolls the answer to 14 days after ruling (Rule 12(a)(4)). If nothing appears, the Rule 55 default track opens — check the docket, don't assume."}]
+[
+  {
+    "actor": "opposing",
+    "date": "2026-11-04",
+    "date_label": "Nov. 4, 2026",
+    "id": "37-home-depot-answer-deadline",
+    "kind": "deadline",
+    "source": "USM-285 return, Dkt. 8 (filed Oct. 19, 2026): Marshal service Oct. 14, 2026, 11:48 a.m., on Josh Swindell, Associate Intake Coordinator, at CSC, 2710 Gateway Oaks Dr Ste 150N, Sacramento",
+    "source_dkt": 8,
+    "status": "satisfied",
+    "title": "WATCH — Home Depot answer or Rule 12 motion due, Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC). Served Oct. 14, 2026 → 21 days (Rule 12(a)(1)(A)(i)). A Rule 12 motion tolls the answer to 14 days after ruling (Rule 12(a)(4)). If nothing appears, the Rule 55 default track opens — check the docket, don't assume."
+  },
+  {
+    "id": "37-status-reports",
+    "date": "2027-01-06",
+    "date_label": "Jan. 6, 2027",
+    "kind": "deadline",
+    "status": "open",
+    "source_dkt": 10,
+    "actor": "you",
+    "tz": "America/Los_Angeles",
+    "title": "File status report not later than 14 days before the January 20, 2027 Status (Pretrial Scheduling) Conference — Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC (PS)), per ECF 10 (dated Nov. 10, filed Nov. 12, 2026)."
+  },
+  {
+    "id": "37-status-conference",
+    "date": "2027-01-20",
+    "date_label": "Jan. 20, 2027",
+    "time": "10:00",
+    "tz": "America/Los_Angeles",
+    "kind": "hearing",
+    "status": "set",
+    "source_dkt": 10,
+    "actor": "you",
+    "title": "Status (Pretrial Scheduling) Conference, 10:00 a.m. via Zoom before Magistrate Judge Allison Claire — Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC (PS)), per ECF 10."
+  }
+]

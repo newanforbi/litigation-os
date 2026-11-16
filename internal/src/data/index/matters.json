@@ -1,6 +1,6 @@
 {
   "generated": true,
-  "today": "2026-11-10",
+  "today": "2026-11-15",
   "matters": [
     {
       "number": 1,
@@ -627,15 +627,15 @@
       "proceeding": "mandate",
       "phase": "hearing",
       "next_clock": {
-        "id": "20-hearing-cmc-nov4",
-        "date": "2026-11-04",
-        "kind": "hearing",
-        "status": "overdue",
-        "title": "Case Management Conference — Newanforbi v. CHP et al. (26CV191136), Nov. 4, 2026, 4:00 p.m., Dept. 25, Rene C. Davidson Courthouse, Hon. Jenna M. Whitman. USER REPORT Oct. 28, 2026: continued from Oct. 28. No continuance order PDF ingested.",
+        "id": "20-mtc-rfp-set1",
+        "date": "2026-12-04",
+        "kind": "deadline",
+        "status": "open",
+        "title": "Last day to move to compel further responses to RFP Set One — Newanforbi v. CHP et al. (Alameda Sup. Ct. 26CV191136). Computed as 45 days from CHP's Oct. 20, 2026 verified responses (Fri. Dec. 4, 2026). Whether CHP's Nov. 5, 2026 supplemental production / amended privilege log moved this date is UNVERIFIED.",
         "source_dkt": null
       },
-      "overdue": true,
-      "last_updated": "2026-10-28",
+      "overdue": false,
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
@@ -766,11 +766,11 @@
       "phase": "mtd_briefing",
       "next_clock": {
         "id": "appearance-notice",
-        "date": "2026-11-16",
+        "date": "2026-12-14",
         "kind": "deadline",
         "status": "open",
         "title": "Email appearance names to crbcrd@cand.uscourts.gov",
-        "source_dkt": 30
+        "source_dkt": 33
       },
       "overdue": false,
       "last_updated": "2026-11-04",
@@ -804,14 +804,14 @@
       "phase": "discovery",
       "next_clock": {
         "id": "25-fedex-discovery-responses",
-        "date": "2026-11-05",
+        "date": "2026-12-05",
         "kind": "deadline",
-        "status": "overdue",
+        "status": "open",
         "title": "WATCH — FedEx responses to Plaintiff's Interrogatories, RFAs, and RFPs (Set One) due, Newanforbi v. Federal Express Corporation (E.D. Cal. 2:26-cv-02881-DAD-SCR). Served by email Oct. 6, 2026 → 30 days (FRCP 33(b)(2), 34(b)(2)(A), 36(a)(3); no 3 days added for email service under FRCP 6(d)). Recomputes the earlier mail-based contingent Oct. 29 row, which is left as is.",
         "source_dkt": null
       },
-      "overdue": true,
-      "last_updated": "2026-10-28",
+      "overdue": false,
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
@@ -948,15 +948,15 @@
       "proceeding": "federal_civil",
       "phase": "mtd_briefing",
       "next_clock": {
-        "id": "29-rule26f-meet-confer",
-        "date": "2026-11-06",
-        "kind": "meet-and-confer",
-        "status": "overdue",
-        "title": "Rule 26(f) / ADR L.R. 3-5 meet-and-confer, Fri. Nov. 6, 2026, 1:00–1:30 p.m. PT (invite sent as 3:00–3:30 p.m. Central), by Microsoft Teams — Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK). With Doug Brown and Drew Frederick (Morgan Lewis, for Amazon) and John Drury and Jasmine Stanzick (Seyfarth, for Accurate Background). Satisfies the Dkt. 9 meet-and-confer deadline of Nov. 10. Join details are in the invite email, not the repo.",
-        "source_dkt": 9
+        "id": "29-hearing-mtd",
+        "date": "2026-11-18",
+        "kind": "hearing",
+        "status": "open",
+        "title": "Hearing on Dkt. 19 motion to dismiss — Newanforbi v. Amazon.com Services, LLC et al. (4:26-cv-09249-ASK), Nov. 18, 2026, 1:30 p.m., Courtroom 4, 3rd Floor, Hon. Ajay S. Krishnan.",
+        "source_dkt": 19
       },
-      "overdue": true,
-      "last_updated": "2026-10-28",
+      "overdue": false,
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
@@ -1045,9 +1045,9 @@
       "path": "internal/src/data/matters/32/",
       "layout": "split",
       "caption": "Nforbi v. Meza-Gonzalez, et al",
-      "case_no": "4:26-cv-08271-CRB",
+      "case_no": "3:26-cv-08271-CRB",
       "court": "USDC N.D. Cal. (4:26-cv-08271-CRB; formerly 26-cv-08271-AMO, 4:26-cv-08271-ASK, and 3:26-cv-08271-PHK; related to Serrato 3:26-cv-05953-CRB)",
-      "judge": "Hon. Charles R. Breyer — reassigned Nov. 3, 2026 by Serrato Dkt. 34 from 26-cv-08271-AMO",
+      "judge": "Hon. Charles R. Breyer",
       "cluster": 1,
       "related": [],
       "same_incident": null,
@@ -1055,15 +1055,15 @@
       "proceeding": "federal_civil",
       "phase": "mtd_briefing",
       "next_clock": {
-        "id": "32-deadline-1",
-        "date": "2026-09-17",
+        "id": "32-mtd-reply",
+        "date": "2026-11-16",
         "kind": "deadline",
-        "status": "overdue",
-        "title": "FILE — summons return / CCP § 415.20(b) declaration + Exhibit A USPS receipt + POS being refiled in Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). USER REPORT Oct. 28, 2026. Sep. 17 mailing executed; prior FILE clock was still open (dkt null). Do not invent a filing.",
-        "source_dkt": 16
+        "status": "open",
+        "title": "WATCH — Defendants' reply in support of Dkt. 22 motion to dismiss/strike due Nov. 16, 2026 per Dkt. 22 docket text — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Briefing date continues; the hearing must be re-noticed.",
+        "source_dkt": 22
       },
-      "overdue": true,
-      "last_updated": "2026-11-04",
+      "overdue": false,
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
@@ -1165,12 +1165,12 @@
         "id": "35-deadline-7",
         "date": "2026-11-17",
         "kind": "deadline",
-        "status": "open",
+        "status": "contingent",
         "title": "OPEN TASK — Matter 35: serve verified responses to Ross Form Interrogatories, Special Interrogatories (27), and RFPs (24), Set One (served Oct 15 by mail + email; 30 days + 2 court days, CCP § 1010.6). Late = objections waived.",
         "source_dkt": null
       },
       "overdue": false,
-      "last_updated": "2026-10-28",
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
@@ -1198,17 +1198,10 @@
       "same_incident": null,
       "lifecycle": "active",
       "proceeding": "federal_civil",
-      "phase": "service",
-      "next_clock": {
-        "id": "36-usm-packet-and-notice",
-        "date": "2026-10-29",
-        "kind": "deadline",
-        "status": "overdue",
-        "title": "DEADLINE — USM service packet and Notice of Submission in Brendan Ngwa Nforbi v. AT&T Mobility Services LLC (E.D. Cal. 2:26-cv-03314-DJC-AC (PS)). Within 15 days of Dkt. 4 (Oct. 14): deliver to the U.S. Marshal (501 I Street, Sacramento) one completed USM-285 for AT&T Mobility Services LLC, the summons (Dkt. 6), copies of the complaint, a copy of Dkt. 4, and the magistrate consent form; AND file a Notice of Submission of Documents with the Clerk.",
-        "source_dkt": 4
-      },
-      "overdue": true,
-      "last_updated": "2026-10-14",
+      "phase": "pleadings",
+      "next_clock": null,
+      "overdue": false,
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
@@ -1228,25 +1221,25 @@
       "path": "internal/src/data/matters/37/",
       "layout": "split",
       "caption": "Brendan Ngwa Nforbi v. Home Depot U.S.A., Inc.",
-      "case_no": "TBD",
-      "court": "USDC E.D. Cal. (Sep. 16 walk-up; unfiled) / San Joaquin Sup. Ct. (Sep. 8 packet LOCKED, unfiled)",
-      "judge": "TBD",
+      "case_no": "2:26-cv-03310-TLN-AC (PS)",
+      "court": "USDC E.D. Cal. (Sacramento Div.)",
+      "judge": "Hon. Troy L. Nunley / Mag. Allison Claire",
       "cluster": 3,
       "related": [],
       "same_incident": null,
-      "lifecycle": "pre_filing",
+      "lifecycle": "active",
       "proceeding": "federal_civil",
-      "phase": "pre_filing",
+      "phase": "cmc",
       "next_clock": {
-        "id": "37-home-depot-answer-deadline",
-        "date": "2026-11-04",
+        "id": "37-status-reports",
+        "date": "2027-01-06",
         "kind": "deadline",
-        "status": "overdue",
-        "title": "WATCH — Home Depot answer or Rule 12 motion due, Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC). Served Oct. 14, 2026 → 21 days (Rule 12(a)(1)(A)(i)). A Rule 12 motion tolls the answer to 14 days after ruling (Rule 12(a)(4)). If nothing appears, the Rule 55 default track opens — check the docket, don't assume.",
-        "source_dkt": 8
+        "status": "open",
+        "title": "File status report not later than 14 days before the January 20, 2027 Status (Pretrial Scheduling) Conference — Ngwa Nforbi v. Home Depot U.S.A., Inc. (E.D. Cal. 2:26-cv-03310-TLN-AC (PS)), per ECF 10 (dated Nov. 10, filed Nov. 12, 2026).",
+        "source_dkt": 10
       },
-      "overdue": true,
-      "last_updated": "2026-10-28",
+      "overdue": false,
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
@@ -1274,17 +1267,17 @@
       "same_incident": null,
       "lifecycle": "active",
       "proceeding": "federal_civil",
-      "phase": "pleadings",
+      "phase": "service",
       "next_clock": {
-        "id": "38-order-ifp-renewal",
-        "date": "2026-10-26",
-        "kind": "court_order",
-        "status": "overdue",
-        "title": "IMPORTANT — DUE — Renewed IFP motion (complete AO 239: monthly income, monthly expenses, assets, all money received in the past 12 months) OR pay the filing fee — Brendan Ngwa Nforbi v. Swift Transportation Company (E.D. Cal. 2:26-cv-03312-DC-SCR), per Oct. 5, 2026 Order (ECF No. 4). Missing it means a recommendation of dismissal, and refiling the § 290.46(j) / ICRAA counts would likely be time-barred.",
-        "source_dkt": 4
+        "id": "38-rule4m-service",
+        "date": "2026-12-17",
+        "kind": "deadline",
+        "status": "open",
+        "title": "FRCP 4(m) 90-day service deadline (computed from the Sept. 18, 2026 filing) — Nforbi v. Swift Transportation Co. of Arizona LLC (E.D. Cal. 2:26-cv-03312-DC-SCR). As of the Nov. 13, 2026 PACER review, no summons had issued (proposed summons lodged at ECF 1-2).",
+        "source_dkt": null
       },
-      "overdue": true,
-      "last_updated": "2026-10-28",
+      "overdue": false,
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
@@ -1313,9 +1306,16 @@
       "lifecycle": "active",
       "proceeding": "federal_civil",
       "phase": "pleadings",
-      "next_clock": null,
+      "next_clock": {
+        "id": "39-answer-or-rule12",
+        "date": "2026-11-27",
+        "kind": "deadline",
+        "status": "open",
+        "title": "WATCH — Best Buy answer or Rule 12 motion due 21 days after Nov. 6, 2026 service of process (FRCP 12(a)(1)(A)(i)) — Nforbi v. Best Buy (E.D. Cal. 2:26-cv-03315-DC-CKD).",
+        "source_dkt": null
+      },
       "overdue": false,
-      "last_updated": "2026-10-28",
+      "last_updated": "2026-11-15",
       "files": [
         "claims.json",
         "clocks.json",
