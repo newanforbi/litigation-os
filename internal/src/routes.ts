@@ -4,6 +4,7 @@ export const ROUTES = {
   matters: "/matters",
   timeline: "/timeline",
   damages: "/damages",
+  damagesLeverage: "/damages/leverage",
   theories: "/theories",
   costOfCounsel: "/cost-of-counsel",
   outcomes: "/outcomes",

@@ -43,6 +43,7 @@ import {
   headDocObject,
   listMattersData,
   upcomingData,
+  damagesFrameworkData,
   seedSource,
   sha256ForDocumentPath,
 } from "./data.mjs";
@@ -136,6 +137,7 @@ const docMeta = route(headDocObject);
 const listMatters = route(listMattersData);
 const getMatter = route((env, n, publicOnly) => getMatterData(env, n, { publicOnly }));
 const upcoming = route((env, params) => upcomingData(env, params.get("days")));
+const damagesFramework = route(damagesFrameworkData);
 const fuse = route((env, params) => fuseData(env, params.get("days")));
 
 // --- admin: D1 self-reseed --------------------------------------------------
@@ -297,6 +299,7 @@ export default {
     if (path === "/matters") return listMatters(env);
     if ((m = path.match(/^\/matters\/(\d{1,2})$/)))
       return getMatter(env, Number(m[1]), publicOnly);
+    if (path === "/damages-framework") return damagesFramework(env);
     if (path === "/upcoming") return upcoming(env, url.searchParams);
     if (path === "/fuse") return fuse(env, url.searchParams);
 

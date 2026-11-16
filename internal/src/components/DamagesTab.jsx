@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router";
 import { cases, getMatterSummary } from "../data/matters";
 import { damages_table, matter_damages } from "../data/damages";
 import { coverageForMatter } from "../data/coverage";
@@ -245,6 +246,7 @@ export const DamagesTab = ({ damagesView, setDamagesView }) => {
       {/* Title + controls row */}
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 20, flexWrap: "wrap", gap: 12 }}>
         <h2 style={{ fontSize: 24, fontWeight: 700, color: theme.heading, margin: 0 }}>Damages Analysis</h2>
+        <Link to="/damages/leverage" style={{ fontSize: 12, fontWeight: 600, color: GOLD }}>8-case exposure ranges →</Link>
         <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
           {/* Mode toggle */}
           {["portfolio", "per matter"].map(mode => (

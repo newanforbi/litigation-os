@@ -533,3 +533,25 @@ export async function listDocumentsData(env, { matter, limit = 100, offset = 0, 
     documents: rows.slice(off, off + n),
   };
 }
+
+// Public 8-case damages framework (ranges only). Read-only; 503 until
+// migrations/0001_damages_framework.sql is applied.
+export async function damagesFrameworkData(env) {
+  const rows = needDb(
+    await dbAll(
+      env,
+      `SELECT id, label, matter_number, low_usd, high_usd, valuation, status_override, note
+       FROM damages_framework ORDER BY sort`,
+    ),
+  );
+  const valued = rows.filter((r) => r.valuation === "range");
+  return {
+    disclaimer:
+      "Illustrative damages exposure ranges (expected value to working loaded). Not a settlement demand or offer.",
+    cases: rows,
+    total: {
+      low_usd: valued.reduce((a, r) => a + (r.low_usd ?? 0), 0),
+      high_usd: valued.reduce((a, r) => a + (r.high_usd ?? 0), 0),
+    },
+  };
+}
