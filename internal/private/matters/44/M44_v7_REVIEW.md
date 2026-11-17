@@ -100,3 +100,39 @@ File: `Matter44_Complaint_v8_NDCal.pdf` (11 pp.; HTML source `M44_COMPLAINT_v8.h
 - The date.
 - The ICRAA subdivision numbers.
 - Recommendation unchanged: wait for the consumer-file disclosure before filing if it arrives within about 45 days. Federal standing without downstream monetary harm rests on *Syed*-type personal confusion, and *Nunley* and *Beltran* are adverse on close facts.
+
+---
+
+## v9 (Nov. 17, 2026): rebuilt as a cat's-paw case at Plaintiff's direction
+
+File: `Matter44_Complaint_v9_NDCal.pdf` (16 pp.; source `M44_COMPLAINT_v9.html`).
+
+**Structure:**
+- **First Cause of Action: Pen. Code § 290.46, with cat's paw as the attribution and causation mechanism.** Against HMG, Harrell, and Does. The chain is pleaded:
+  - Howell's evaluative role (¶¶ 13–14);
+  - his threat to report Plaintiff to Barros (¶ 15);
+  - the registry-sourced hostility (¶¶ 16–19);
+  - transmission to Barros (¶¶ 23, 25–26);
+  - Barros's reliance without independent justification (¶ 28; *Staub* at 419–21, *Reeves* at 108–09, 113–16);
+  - the shift loss and harm (¶¶ 12, 29).
+- The FCRA (§ 1681b(b)(2)(A)) and ICRAA claims are kept as Second and Third Causes. The FCRA claim is the § 1331 anchor. Marriott is on those two only.
+- A "Nature of the Action" paragraph frames the case.
+
+**Provenance theory, improved over the Nov. 12 draft's 24-C:**
+- Howell's remark placed Plaintiff among "murderer-rapists," a characterization that turns on the *nature* of an offense.
+- The nature of the offense is displayed on the Megan's Law website.
+- Plaintiff's full name was on the rosters and the login screen.
+- Plaintiff did not disclose (Question K2).
+- The alternative channel is the background-check registry search (to be confirmed from the consumer-file disclosure).
+- The ankle-monitor fact is not pleaded. The defense will raise it: supervision equipment shows supervision, not the offense type, and that is the answer.
+
+**Known risks, unchanged:**
+- *Miller v. T-Mobile* / *Reeves* fn. 9 on a non-supervisory conduit. Answered with evaluative-role facts plus Barros's lack of firsthand knowledge (K1); *Lin* and *Hoglund*.
+- *Lerma* on provenance.
+- *Donaleski* on the independent timecard review (answered in ¶ 28).
+- If the FCRA claim is dismissed for lack of standing, the § 290.46 claim goes to state court (§ 1367(c)/(d)).
+
+**New questions:**
+- **K1.** Did Barros work any overnight shift with you, or otherwise watch your Night Audit work? How did he know your progress?
+- **K2.** Did you ever tell Howell or anyone at the Hotel about your offense, registration, parole, or supervision? (If yes, ¶ 18 changes. Self-disclosure is not § 290.46 information; see *Donaleski*.)
+- **K3.** Did the work computers on overnight shifts have internet access, and did you see Howell use them to browse?
