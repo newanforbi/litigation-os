@@ -63,3 +63,40 @@ Reviewed Nov. 17, 2026. Source: `Matter44_Complaint_v7_NDCal.pdf` (26 pp., ¶¶ 
 - ¶ 22: Howell "demonstrated audit procedures, observed Plaintiff performing the work, and corrected tasks." These are the evaluative-role facts *Miller v. T-Mobile* requires (partly answers Q B2).
 - ¶ 29: the candid statement of what Plaintiff did not see.
 - ¶ 53 / Prayer B: ICRAA "per report" (*Garcia v. Quest*).
+
+---
+
+## v8 (Nov. 17, 2026): produced at Plaintiff's direction, keeping Marriott
+
+File: `Matter44_Complaint_v8_NDCal.pdf` (11 pp.; HTML source `M44_COMPLAINT_v8.html`). Signature image reused from v7.
+
+**Structure:**
+- Two causes of action: FCRA § 1681b(b)(2)(A) and ICRAA § 1786.16.
+- Defendants: Marriott, HMG, Harrell. Kang L.P. and LLC, MIF, L.L.C., and the Oasis entities are Does.
+- The § 1681b(b)(3) and Pen. Code § 290.46 counts are held for amendment once the consumer-file disclosure arrives (¶ 22 flags it).
+- The registry, Howell, and ankle-monitor facts are omitted as unnecessary to the two counts pleaded.
+- Fixes 3–8 from the v7 review are applied. Length is down from 26 pp. to 11.
+
+**How Marriott is kept (two independent theories):**
+1. **Direct "cause to be procured" (¶¶ 15–17).**
+   - Facts from Gmail: the Sept. 27, 2026 Marriott Systems Support email ("Your Marriott Enterprise ID has been created"; "contains information from Marriott International, Inc."). It was sent to HR (Venegas) and Plaintiff five days after the signed authorization, with the password built from Plaintiff's name and DOB. That shows Marriott received the same identifiers collected for the CRA.
+   - Also: Power of M training (roster Oct. 22; Plaintiff's Oct. 19 access request text), the MARSHA code, Marriott MFA, and "Marriott/Shadow" roster labels.
+   - On information and belief, Marriott conditions EID and system access on completed screening. The report was procured at least partly to satisfy that requirement, so Marriott "caused" procurement under § 1681b(b)(2)(A) and § 1786.16.
+   - Supported by *Soo Park* and identified under Rule 11(b)(3).
+   - **Weakest link:** no document yet shows a Marriott screening requirement. Discovery target: Marriott brand standards and EID-issuance criteria.
+2. **Ostensible agency (¶¶ 18–19; Civ. Code §§ 2300, 2317, 2334).**
+   - Holding out: the Marriott logo and "Delta Hotels by Marriott" welcome on the offer; HR signature; a Marriott job ad; an EID email in Marriott International's name; Marriott training systems.
+   - Reliance is tied to the injury: Plaintiff signed the Authorization and did not question the missing disclosures because he believed it was a Marriott process (**Question M2: confirm true**).
+   - Pre-empts the franchise agreement § 8.2 defense: an undisclosed private allocation does not defeat ostensible authority created by the principal's own manifestations.
+
+**Expected defense:** a Rule 12(b)(6) motion by Marriott (*Patterson*-style franchisor arguments; no allegation that Marriott ordered the report; reliance not causally tied). Count on that motion being filed and argued. HMG and Harrell are the core defendants either way.
+
+**New questions for Plaintiff:**
+- **M1.** Do you have any basis, beyond the EID timing, to believe Marriott required or reviewed background screening? For example, anything said at onboarding about clearance before system access, an Identity Shoppe or EID screen mentioning screening, or a training module on it. If none, ¶ 17 rests on timing plus information and belief. That is permissible under Rule 11(b)(3) but thin.
+- **M2.** Is it true that you believed you were being hired and screened through a Marriott process, and that because of that belief you signed without asking about the missing disclosure documents? If not, delete ¶ 19's bracketed sentence; ostensible agency then fails for lack of reliance.
+
+**Still open from earlier:**
+- A1–A6 (¶ 20(b), (d) brackets).
+- The date.
+- The ICRAA subdivision numbers.
+- Recommendation unchanged: wait for the consumer-file disclosure before filing if it arrives within about 45 days. Federal standing without downstream monetary harm rests on *Syed*-type personal confusion, and *Nunley* and *Beltran* are adverse on close facts.
