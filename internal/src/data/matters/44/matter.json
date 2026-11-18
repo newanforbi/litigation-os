@@ -1,0 +1,26 @@
+{
+  "number": 44,
+  "last_updated": "2026-11-18",
+  "caption": "Brendan Ngwa Nforbi v. Marriott International, Inc.",
+  "case_no": "TBD",
+  "court": "USDC N.D. Cal. (San Jose Div.) — complaint drafted, unfiled",
+  "courtlistener": {
+    "court_id": "cand"
+  },
+  "claims": "Penal Code § 290.46(j) (cat's paw; against HMG, Harrell, and Does); FCRA 15 U.S.C. § 1681b(b)(2)(A) and ICRAA Civ. Code § 1786.16 (against all Defendants)",
+  "status": "November 17, 2026: complaint v22 (N.D. Cal., 28 pp.) is ready for Plaintiff's review and is not filed. Plaintiff remains employed. His overnight shifts were reduced from 4 to 3 to 2 per week, he received a written warning on Nov. 12, and the Nov. 12 roster restored 3 overnights. Preservation letter and Universal Background Screening file request are drafted and unsent.",
+  "status_label": "N.D. Cal. complaint v22 drafted — unfiled",
+  "lifecycle": "pre_filing",
+  "proceeding": "federal_civil",
+  "phase": "pre_filing",
+  "filed": "Not yet filed",
+  "judge": "TBD",
+  "cluster": 3,
+  "type": "Federal",
+  "badge": "NONE",
+  "archived": false,
+  "defendants": "Marriott International, Inc. (Delaware; lead caption defendant; FCRA and ICRAA counts). HMG - California, Inc., also known as Harrell Hospitality Group - California, Inc., d/b/a Delta Santa Clara (hotel operator and employer). Harrell Hospitality Group, LLC (Texas). Does 1–10.",
+  "note": "Pre-filing workspace; no action filed. Lead theory is cat's paw under § 290.46(j)(2)(E): trainer Justin Howell's registrant-status bias reached scheduler John Barros, who cut shifts and issued the warning without firsthand knowledge or an investigation. FCRA/ICRAA (no standalone disclosure ever given) supply federal jurisdiction. Working drafts and Westlaw findings live in internal/private/matters/44/. Kang-named owner entities and MIF, L.L.C. are among the Does. Do not self-retrieve Hotel email or computer records; use preservation and discovery.",
+  "key_facts": "Sept. 9, 2026: Plaintiff applied through Indeed for the Night Auditor / Guest Service Agent position at Delta Hotels by Marriott Santa Clara–Silicon Valley (2151 Laurelwood Rd., Santa Clara). Sept. 16: in-person interview with John Barros, who later set Plaintiff's schedules. Sept. 22: written offer ($24/hr Night Audit; $23/hr GSA) and a Universal Background Screening packet on the HMG trade name 'Delta Santa Clara'; the authorization recites separate disclosure documents that Plaintiff never received. Sept. 27: Marriott International, Inc. issued Plaintiff's Marriott Enterprise ID. Oct. 9: Marriott verified him for its Explore associate rate. Night Audit training was assigned to Night Auditor Justin Howell. Oct. 29: Howell's 'He released you didn't he?' remark referring to released sex offenders; the Nov. 1–7 roster cutting overnights from 4 to 3 was posted before that shift and photographed Oct. 30 at 7:03 a.m. Nov. 3: Barros texted that he had 'heard' about Plaintiff's attendance. Nov. 5 at 5:52 p.m.: roster cut to 2 overnights. Nov. 11: Howell told Plaintiff the cuts were because he had been calling out. Nov. 12: Barros issued a written warning reciting only Plaintiff's texts to Howell and said the reductions were 'by design'; at 2:02 p.m. he sent a roster restoring 3 overnights. Plaintiff remains employed.",
+  "procedural_status": "Pre-filing. No complaint, docket, or case number. Complaint v22 (Nov. 17, 2026) incorporates the Nov. 17 Westlaw verification findings (Sessions 1–7). Canonical chronology is clocks.json and events.jsonl."
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "44-watch-filing",
+    "date": null,
+    "tz": "America/Los_Angeles",
+    "kind": "watch",
+    "status": "contingent",
+    "title": "WATCH — Plaintiff review of complaint v22 and filing decision (N.D. Cal., San Jose). Filing needs JS-CAND 44, the $405 fee or an IFP application, and an AO 440 summons per defendant; then serve within 90 days (FRCP 4(m)) with the Civil L.R. 4-2 materials.",
+    "actor": "you"
+  },
+  {
+    "id": "44-watch-preservation",
+    "date": null,
+    "tz": "America/Los_Angeles",
+    "kind": "watch",
+    "status": "contingent",
+    "title": "WATCH — Send the preservation letter to HMG (Moreno, Venegas) and Harrell (Bass) before filing. Front-desk video from Oct. 13–Nov. 14 is at overwrite risk. Drafted; awaiting Plaintiff approval.",
+    "actor": "you"
+  },
+  {
+    "id": "44-watch-ubs-file",
+    "date": null,
+    "tz": "America/Los_Angeles",
+    "kind": "watch",
+    "status": "contingent",
+    "title": "WATCH — Send the FCRA § 1681g / ICRAA file request to Universal Background Screening (P.O. Box 5920, Scottsdale, AZ 85261). The file should show the end user and any registry sourcing (¶¶ 21C, 33). Drafted; awaiting Plaintiff approval.",
+    "actor": "you"
+  },
+  {
+    "id": "44-sol-290-46-conservative",
+    "date": "2027-10-13",
+    "date_label": "Oct. 13, 2027",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "title": "CONSERVATIVE TARGET — File any § 290.46(j) count by this date, applying the one-year CCP § 340(a) statutory-penalty period from the first Howell-paired shift (Oct. 13, 2026). Whether § 340(a) or the three-year § 338(a) governs is untested; no authority found.",
+    "actor": "you"
+  },
+  {
+    "id": "44-sol-fcra-icraa",
+    "date": "2028-09-22",
+    "date_label": "Sept. 22, 2028",
+    "tz": "America/Los_Angeles",
+    "kind": "deadline",
+    "status": "open",
+    "title": "OUTER BOUND — FCRA two-year discovery period (15 U.S.C. § 1681p) and ICRAA limitations for the disclosure claims, measured from the Sept. 22, 2026 authorization.",
+    "actor": "you"
+  }
+]

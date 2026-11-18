@@ -47,8 +47,8 @@ All current and future matters follow the [Stipulation Defense — Plaintiff-Fir
 | Plaintiff | Brendan Ngehsi Newanforbi |
 | Representation | Pro Se / In Propria Persona |
 | Jurisdictions | USDC E.D. Cal., USDC N.D. Cal., San Joaquin Sup. Ct., Alameda Sup. Ct., Sacramento Sup. Ct., Santa Clara Sup. Ct. |
-| Total Matters | 43 |
-| Active / Open | 23 |
+| Total Matters | 44 |
+| Active / Open | 24 |
 | — of which Settled | 2 (Matter 22 — Newanforbi v. Pilot Travel Centers LLC, Jul. 14, 2026; 27 — Newanforbi v. Randstad, et al., Notice of Settlement Oct. 26, 2026) |
 | Dismissed / Closed / Abandoned | 20 |
 | Aggregate Exposure (Conservative) | ~$1,456,000+ |
@@ -64,7 +64,7 @@ All current and future matters follow the [Stipulation Defense — Plaintiff-Fir
 > **Housing status:** Homeless since July 2, 2026 — a direct consequence of a retaliatory inter-county parole transfer (Stockton → Santa Clara) imposed immediately after filing Matter 15 (*Newanforbi v. CDCR, et al.*). The transfer caused loss of Stockton family housing; Matters 3, 9, and 19 are also potential retaliatory predicate acts.
 >
 <!-- PORTFOLIO:SELF_REP_COST:START -->
-> **Cost of self-representation:** All 43 matters are self-litigated. Estimated equivalent private-counsel cost: **$905,184–$1,536,556** (see [Attorney Fees Analysis](#attorney-fees-analysis)).
+> **Cost of self-representation:** All 44 matters are self-litigated. Estimated equivalent private-counsel cost: **$911,904–$1,550,836** (see [Attorney Fees Analysis](#attorney-fees-analysis)).
 <!-- PORTFOLIO:SELF_REP_COST:END -->
 
 [↑ Contents](#contents)
@@ -114,7 +114,7 @@ The largest cluster — 14 matters — targeting CDCR's parole supervision appar
 
 <!-- PORTFOLIO:CLUSTER_HEADING_3:START -->
 <a id="cluster-3"></a>
-### Cluster 3 — Employment Violations (Matters 22–23, 25–27, 29, 31, 36–39, 42–43)
+### Cluster 3 — Employment Violations (Matters 22–23, 25–27, 29, 31, 36–39, 42–44)
 <!-- PORTFOLIO:CLUSTER_HEADING_3:END -->
 
 Cluster 3 centers on employer-side Penal Code § 290.46(j)(2)(E) claims and related background-screening theories. Matter 31 (First Advantage) is now a **conditional vendor-liability investigation**, not presumed additive liability: after the September 18 Carrillo/Mendoza stress test, any complaint must identify a First Advantage-specific FCRA/ICRAA breach rather than merely repackaging the employers' alleged registry misuse. Matters 36-39 are executed San Joaquin packets (AT&T, Home Depot, Swift, Best Buy) prepared for a September 8, 2026 walk-up and still unfiled as of September 7, 2026. Matter 40 (Uber Technologies, Inc. / TaskUs staffing) is a prospective monitoring file — Offer of Temporary Employment signed September 14, 2026 ($22/hour); same-day TA Ops hold of the September 23 start pending the First Advantage report (Order WPS-361214148; PRINSOS still running); MAA signed; no report viewable and no adverse action yet. (Matters 32 and 33 are CHP / DMV APS filings — see Cluster 1.)
@@ -217,6 +217,7 @@ Standalone retail civil-rights matter arising from an August 25, 2026 consumer r
 | 41 | Brendan Ngwa Nforbi v. Nuro, Inc. | TBD | TBD (pre-dispute — application Sep. 9, 2026) | State | Pending — no Checkr paper ingested |
 | 42 | Brendan Ngwa Nforbi v. Staples The Office Superstore, LLC | 5:26-cv-12781-NW | USDC N.D. Cal. (San Jose Div.) | Federal | Filed Oct. 29 — serve by Jan. 27; CMC Feb. 2 |
 | 43 | Brendan Ngwa Nforbi v. Hertz Global Holdings, Inc. | TBD | TBD — no action filed | State | Offer accepted — HireRight screening active |
+| 44 | Brendan Ngwa Nforbi v. Marriott International, Inc. | TBD | USDC N.D. Cal. (San Jose Div.) — complaint drafted, unfiled | Federal | N.D. Cal. complaint v22 drafted — unfiled |
 <!-- PORTFOLIO:ACTIVE_MATTERS:END -->
 
 *Settled matters stay in the table above until dismissal is entered — a settlement resolves the merits, but the matter is still open on the docket. Their Status column reads "Settled" (see the Overview count above for which ones).*
@@ -317,7 +318,9 @@ Standalone retail civil-rights matter arising from an August 25, 2026 consumer r
 | May 17, 2027 | 28 | Joint status conference report due May 17, 2027 (monthly through May 17, 2027) — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC). USER REPORT of the Oct. 27, 2026 order deferring the MTD pending San Joaquin judgment. |
 | Jun. 10, 2027 | 28 | Joint Case Management Conference statement due June 10, 2027 — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC). USER REPORT of the Oct. 27, 2026 order. Order is Dkt. 38 (filed Oct. 27, 2026; minute entry Dkt. 37) |
 | Jun. 17, 2027 | 28 | Case Management Conference — Newanforbi v. Smith / HOPE (3:26-cv-07504-LJC), June 17, 2027, 1:30 p.m., Hon. Lisa J. Cisneros. USER REPORT of the Oct. 27, 2026 order deferring the MTD. |
+| Oct. 13, 2027 | 44 | CONSERVATIVE TARGET — File any § 290.46(j) count by this date, applying the one-year CCP § 340(a) statutory-penalty period from the first Howell-paired shift (Oct. 13, 2026). |
 | Jul. 27, 2028 | 29 | OUTER BOUND (conservative, computed) — FCRA (15 U.S.C. §1681p: 2 years from discovery, 5 years from violation) and ICRAA (Civ. |
+| Sept. 22, 2028 | 44 | OUTER BOUND — FCRA two-year discovery period (15 U.S.C. § 1681p) and ICRAA limitations for the disclosure claims, measured from the Sept. 22, 2026 authorization. |
 <!-- PORTFOLIO:UPCOMING_DEADLINES:END -->
 
 [↑ Contents](#contents)
@@ -365,19 +368,19 @@ Standalone retail civil-rights matter arising from an August 25, 2026 consumer r
 ## Attorney Fees Analysis
 
 <!-- PORTFOLIO:ATTORNEY_FEES:START -->
-Plaintiff is representing himself pro se across all 43 matters. The figures below represent what he would have been required to spend on private counsel to litigate this portfolio — costs he has absorbed entirely through self-representation. Based on real page counts extracted from 779 documents / 7,900 pages across matters with uploaded filings (Matter 32: 122 PDFs / 1,135 pages — N.D. Cal. ndcal/ filing billed; from-01|02|20|24/ stay attributed to source matters; Matter 33: 33 PDFs / 435 pages — N.D. Cal. refile + Nov. 1 / APS evidence; from-07/from-08 drafting stays on Matters 7/8; Matter 31 has no uploaded PDFs of its own), classified by document type and priced at a blended rate of **$280/hour** (senior partner $350–$450 / mid-associate $250–$350 / paralegal $150–$200). Opposing-party filings billed at light review rate only. Fee analysis date: October 28, 2026.
+Plaintiff is representing himself pro se across all 44 matters. The figures below represent what he would have been required to spend on private counsel to litigate this portfolio — costs he has absorbed entirely through self-representation. Based on real page counts extracted from 782 documents / 7,938 pages across matters with uploaded filings (Matter 32: 122 PDFs / 1,135 pages — N.D. Cal. ndcal/ filing billed; from-01|02|20|24/ stay attributed to source matters; Matter 33: 33 PDFs / 435 pages — N.D. Cal. refile + Nov. 1 / APS evidence; from-07/from-08 drafting stays on Matters 7/8; Matter 31 has no uploaded PDFs of its own), classified by document type and priced at a blended rate of **$280/hour** (senior partner $350–$450 / mid-associate $250–$350 / paralegal $150–$200). Opposing-party filings billed at light review rate only. Fee analysis date: October 28, 2026.
 
 | Cluster | Matters | Low | Mid | High |
 |---|---|---|---|---|
 | CHP / DUI / DMV | 1, 2, 7, 8, 20, 24, 32, 33 | $175,056 | $233,912 | $292,768 |
 | Parole Retaliation / HOPE | 3, 4, 5, 6, 11, 13, 14, 15, 16, 17, 18, 21, 28, 30, 34 | $474,712 | $626,752 | $782,992 |
-| Consumer Fraud / Employment | 12, 22, 23, 25, 26, 27, 29, 31, 36, 37, 38, 39, 40, 41, 42, 43 | $198,156 | $278,390 | $358,596 |
+| Consumer Fraud / Employment | 12, 22, 23, 25, 26, 27, 29, 31, 36, 37, 38, 39, 40, 41, 42, 43, 44 | $204,876 | $288,890 | $372,876 |
 | Administrative Writs & Habeas | 9, 10, 19 | $41,580 | $57,890 | $74,200 |
 | Public Accommodation / Unruh | 35 | $15,680 | $21,840 | $28,000 |
-| **Portfolio Total** | **43 matters** | **$905,184** | **$1,218,784** | **$1,536,556** |
-| **Estimated Hours** | | **3,232.8 hrs** | **4,352.8 hrs** | **5,487.7 hrs** |
+| **Portfolio Total** | **44 matters** | **$911,904** | **$1,229,284** | **$1,550,836** |
+| **Estimated Hours** | | **3,256.8 hrs** | **4,390.3 hrs** | **5,538.7 hrs** |
 
-*Plaintiff has litigated all 43 matters pro se, absorbing the full economic equivalent of the above without compensation. Fee-shifting statutes (42 U.S.C. §1988, PC §290.46(j)(4)(A), RICO 18 U.S.C. §1964(c), FCRA, ICRAA) apply across the majority of active matters — mandatory fee recovery upon prevailing substantially offsets or eliminates the above costs.*
+*Plaintiff has litigated all 44 matters pro se, absorbing the full economic equivalent of the above without compensation. Fee-shifting statutes (42 U.S.C. §1988, PC §290.46(j)(4)(A), RICO 18 U.S.C. §1964(c), FCRA, ICRAA) apply across the majority of active matters — mandatory fee recovery upon prevailing substantially offsets or eliminates the above costs.*
 <!-- PORTFOLIO:ATTORNEY_FEES:END -->
 
 [↑ Contents](#contents)

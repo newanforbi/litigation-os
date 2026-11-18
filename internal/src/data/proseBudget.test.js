@@ -20,7 +20,7 @@ const matters = loadMatters();
 
 describe("prose length budgets", () => {
   it("loads every matter record", () => {
-    expect(matters.length).toBe(43);
+    expect(matters.length).toBe(44);
   });
 
   it("counts words without being fooled by runs of whitespace", () => {

@@ -669,6 +669,18 @@ const lawyer_fees_raw = [
       mid: 1.75
     },
     notes: "Oct. 28: 16-PDF monitoring file (offer, ADP WOTC, HireRight acknowledgments/authorization, MVR Express furnishing notice). Same band as Matter 41 — evidence preservation, not pleading. Page count is estimated from the 16-file inventory (PDFs not on the laptop disk for pdfinfo); sidecar coverage is incomplete. No complaint. No adverse action in the record.",
+  },
+  {
+    number: 44,
+    type: "Federal — § 290.46(j) cat's paw / FCRA / ICRAA (N.D. Cal. Marriott draft, unfiled)",
+    documentsCount: 3,
+    totalPagesReal: 38,
+    hours: {
+      low: 24,
+      high: 51,
+      mid: 37.5
+    },
+    notes: "Nov. 18: 28-page N.D. Cal. complaint (v22, unfiled) scaled from the Matter 42 template-adaptation band (21 pp. at 16–34 hr), plus a 2-page preservation letter (1–2 hr) and an 8-page Westlaw verification memo (2–4 hr). Plaintiff's own Westlaw sessions and the superseded v7–v21 drafts are not billed. No filing, docket, or opposing papers.",
   }
 ];
 
