@@ -31,3 +31,8 @@ export const formatDate = (value: string | Date, options: Intl.DateTimeFormatOpt
 };
 
 export const formatMatterPath = (matterNumber: number) => `/matters/${matterNumber}`;
+
+// Matter cards show the short plaintiff name. Stored captions keep the full
+// "Brendan Ngwa Nforbi v." form; only the card heading is shortened.
+const FULL_PLAINTIFF_PREFIX = /^Brendan Ngwa Nforbi v\. /;
+export const formatCardCaption = (caption: string) => caption.replace(FULL_PLAINTIFF_PREFIX, "Ngwa Nforbi v. ");

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { formatCurrency, formatDate, formatMatterPath, formatNumber } from "./formatters";
+import { formatCardCaption, formatCurrency, formatDate, formatMatterPath, formatNumber } from "./formatters";
 
 describe("formatters", () => {
   it("formats whole-dollar currency by default", () => {
@@ -37,3 +37,20 @@ describe("formatters", () => {
     expect(formatMatterPath(7)).toBe("/matters/7");
   });
 });
+
+describe("formatCardCaption", () => {
+  it("shortens the full plaintiff name to Ngwa Nforbi on matter cards", () => {
+    expect(formatCardCaption("Brendan Ngwa Nforbi v. Marriott International, Inc.")).toBe(
+      "Ngwa Nforbi v. Marriott International, Inc.",
+    );
+  });
+
+  it("leaves other captions unchanged", () => {
+    expect(formatCardCaption("Newanforbi v. United Parcel Service, Inc.")).toBe(
+      "Newanforbi v. United Parcel Service, Inc.",
+    );
+    expect(formatCardCaption("Ngwa Nforbi v. Example Corp.")).toBe("Ngwa Nforbi v. Example Corp.");
+    expect(formatCardCaption("In re Brendan Ngwa Nforbi v. X")).toBe("In re Brendan Ngwa Nforbi v. X");
+  });
+});
+

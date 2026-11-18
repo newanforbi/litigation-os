@@ -5,7 +5,7 @@ import { StatusBadge, ClusterBadge, TypeBadge, ArchiveBadge, ProceedingBadge, Ph
 import { ServiceTracker } from "../ServiceTracker";
 import { CollapsibleProse } from "../ui/CollapsibleProse";
 import { useMatter } from "../../hooks/useMatter";
-import { formatMatterPath } from "../../utils/formatters";
+import { formatCardCaption, formatMatterPath } from "../../utils/formatters";
 import { isArchivedMatter } from "../../utils/matterLifecycle";
 import { effectiveStatusLabel } from "../../utils/statusLabel";
 import type { MatterSummary, Matter } from "../../types/portfolio";
@@ -108,7 +108,7 @@ function MatterCardImpl({ matter: summary, isOpen, onToggle }: MatterCardProps) 
       >
         <div className="matter-card-number" style={{ background: "var(--navy-subtle-bg)" }}>{c.number}</div>
         <div className="matter-card-title-wrap">
-          <div className="matter-card-caption" style={{ color: "var(--heading)" }}>{c.caption}</div>
+          <div className="matter-card-caption" style={{ color: "var(--heading)" }} title={c.caption}>{formatCardCaption(c.caption)}</div>
           <div className="matter-card-meta" style={{ color: "var(--subtle-text)" }}>{c.case_no} · {c.court}</div>
         </div>
         <div className="matter-card-badges">
