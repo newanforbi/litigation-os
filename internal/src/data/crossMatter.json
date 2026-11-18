@@ -595,8 +595,8 @@
     {
       "id": "megan-law-employment",
       "label": "Penal Code \u00a7290.46(j) employment cluster",
-      "matters": [22, 25, 26, 27, 29],
-      "thesis": "Five dockets turn on whether an employer or screening vendor used California Megan's Law registry information to deny or end work. A construction of \u00a7290.46(j)(2)(E) in one of them \u2014 especially the live UPS motion \u2014 travels immediately to FedEx, Randstad/RK, and Amazon. Pilot (Matter 22) is the resolved analog on the same text.",
+      "matters": [22, 25, 26, 27, 29, 42, 44],
+      "thesis": "Five dockets, plus the filed Staples action (Matter 42) and the pre-filing Marriott matter (Matter 44), turn on whether an employer or screening vendor used California Megan's Law registry information to deny, end, or cut work. A construction of \u00a7290.46(j)(2)(E) in one of them \u2014 especially the live UPS motion \u2014 travels immediately to FedEx, Randstad/RK, and Amazon. Pilot (Matter 22) is the resolved analog on the same text. Matter 44 adds a cat's-paw theory (a coworker's registrant-status bias acted on by a scheduler) that no \u00a7290.46 decision has addressed.",
       "links": [
         {
           "id": "26-25-same-statute",
@@ -713,6 +713,45 @@
           "sources": [
             "Matter 22 \u2014 Checkr / post-adverse notice",
             "Matter 27 \u2014 InfoMart Order 15780719"
+          ]
+        },
+        {
+          "id": "44-42-same-statute",
+          "from": 44,
+          "to": 42,
+          "direction": "mutual",
+          "severity": "medium",
+          "kinds": ["same_statute"],
+          "significance": "Both are N.D. Cal. San Jose actions pairing Penal Code \u00a7290.46(j)(2)(E) with FCRA \u00a7 1681b and ICRAA \u00a7 1786.16 screening counts. Matter 42 is filed, so that court's treatment of FCRA standing and of supplemental jurisdiction over the \u00a7290.46 and ICRAA counts previews Matter 44.",
+          "sources": [
+            "Matter 42 \u2014 Complaint, N.D. Cal. No. 5:26-cv-12781-NW (Oct. 29, 2026)",
+            "Matter 44 \u2014 Complaint v22 draft (Nov. 17, 2026; unfiled)"
+          ]
+        },
+        {
+          "id": "44-26-same-statute",
+          "from": 44,
+          "to": 26,
+          "direction": "from_depends_on_to",
+          "severity": "medium",
+          "kinds": ["same_statute"],
+          "significance": "A construction of 'use' under Penal Code \u00a7290.46(j)(2)(E) in the UPS action is the construction Matter 44's first count will meet. Matter 44 adds an imputation question the UPS record does not present: whether a coworker's use reaches the employer through a decisionmaker who relied on him.",
+          "sources": [
+            "Matter 26 \u2014 First Advantage Exhibit A (SOURCE OF RECORD: CALIFORNIA SEX OFFENDER REGISTRY)",
+            "Matter 44 \u2014 Complaint v22 draft (Nov. 17, 2026; unfiled)"
+          ]
+        },
+        {
+          "id": "42-26-same-statute",
+          "from": 42,
+          "to": 26,
+          "direction": "from_depends_on_to",
+          "severity": "medium",
+          "kinds": ["same_statute"],
+          "significance": "Staples and UPS both involve First Advantage employment screening and a Penal Code \u00a7290.46(j)(2)(E) count. A UPS ruling on whether a registry-sourced report item is 'use' of Megan's Law information applies directly to the Staples count.",
+          "sources": [
+            "Matter 26 \u2014 First Advantage Exhibit A (SOURCE OF RECORD: CALIFORNIA SEX OFFENDER REGISTRY)",
+            "Matter 42 \u2014 First Advantage Background Screening Notice (Oct. 7, 2026)"
           ]
         }
       ],

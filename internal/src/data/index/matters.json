@@ -1,6 +1,6 @@
 {
   "generated": true,
-  "today": "2026-11-15",
+  "today": "2026-11-17",
   "matters": [
     {
       "number": 1,
@@ -1058,11 +1058,11 @@
         "id": "32-mtd-reply",
         "date": "2026-11-16",
         "kind": "deadline",
-        "status": "open",
+        "status": "overdue",
         "title": "WATCH — Defendants' reply in support of Dkt. 22 motion to dismiss/strike due Nov. 16, 2026 per Dkt. 22 docket text — Brendan Ngwa Nforbi v. Meza-Gonzalez et al. (4:26-cv-08271-CRB). Briefing date continues; the hearing must be re-noticed.",
         "source_dkt": 22
       },
-      "overdue": false,
+      "overdue": true,
       "last_updated": "2026-11-15",
       "files": [
         "claims.json",
@@ -1447,6 +1447,44 @@
       "next_clock": null,
       "overdue": false,
       "last_updated": "2026-10-28",
+      "files": [
+        "claims.json",
+        "clocks.json",
+        "counsel.json",
+        "damages.json",
+        "docket.json",
+        "documents.json",
+        "events.jsonl",
+        "evidence.json",
+        "matter.json",
+        "parties.json",
+        "prose.json"
+      ]
+    },
+    {
+      "number": 44,
+      "path": "internal/src/data/matters/44/",
+      "layout": "split",
+      "caption": "Brendan Ngwa Nforbi v. Marriott International, Inc.",
+      "case_no": "TBD",
+      "court": "USDC N.D. Cal. (San Jose Div.) — complaint drafted, unfiled",
+      "judge": "TBD",
+      "cluster": 3,
+      "related": [],
+      "same_incident": null,
+      "lifecycle": "pre_filing",
+      "proceeding": "federal_civil",
+      "phase": "pre_filing",
+      "next_clock": {
+        "id": "44-sol-290-46-conservative",
+        "date": "2027-10-13",
+        "kind": "deadline",
+        "status": "open",
+        "title": "CONSERVATIVE TARGET — File any § 290.46(j) count by this date, applying the one-year CCP § 340(a) statutory-penalty period from the first Howell-paired shift (Oct. 13, 2026). Whether § 340(a) or the three-year § 338(a) governs is untested; no authority found.",
+        "source_dkt": null
+      },
+      "overdue": false,
+      "last_updated": "2026-11-18",
       "files": [
         "claims.json",
         "clocks.json",

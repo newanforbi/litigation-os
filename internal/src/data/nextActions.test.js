@@ -466,7 +466,7 @@ describe("buildQueue", () => {
 
 describe("precedentPeers", () => {
   it("lists the other §290.46 dockets from a same_statute link", () => {
-    expect(precedentPeers(26, graph.clusters)).toEqual([22, 25, 27, 29]);
+    expect(precedentPeers(26, graph.clusters)).toEqual([22, 25, 27, 29, 42, 44]);
   });
 
   it("attaches those peers on a live UPS queue row", () => {
@@ -475,7 +475,7 @@ describe("precedentPeers", () => {
       [{ number: 26, caption: "Newanforbi v. UPS", lifecycle: "active" }],
       { today: TODAY, horizonDays: 90, clusters: graph.clusters },
     );
-    expect(withClusters.items[0].precedentPeers).toEqual([22, 25, 27, 29]);
+    expect(withClusters.items[0].precedentPeers).toEqual([22, 25, 27, 29, 42, 44]);
   });
 });
 
