@@ -1,6 +1,6 @@
 {
   "number": 25,
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-11-15",
   "caption": "Newanforbi v. Federal Express Corporation",
   "case_no": "2:26-cv-02881-DAD-SCR",
   "court": "USDC E.D. Cal. (Sacramento Div.)",
@@ -11,7 +11,7 @@
   },
   "claims": "PC §290.46(j)(2)(E) Violation, Failure to Hire (Tameny), ICRAA, Invasion of Privacy, Negligence Per Se, UCL §17200",
   "status": "Last confirmed docket event: FedEx status report filed Sep. 24 (Dkt. 10). Plaintiff's mailed Sep. 14 report: confirm docket number. Oct. 8, 2026 status conference outcome not verified — no minute order ingested as of Oct. 28, 2026. Written discovery Set One served by email Oct. 6; FedEx responses watch Nov. 5, 2026.",
-  "status_label": "Dkt. 10 Sep. 24 — Oct. 8 outcome not verified",
+  "status_label": "Discovery open; FedEx responses due Dec. 5",
   "lifecycle": "active",
   "proceeding": "federal_civil",
   "phase": "discovery",

@@ -27,7 +27,7 @@ Offense date is **not** in the repo. Filing in October 2017 plus a January 2018 
 |---|---|---|---|
 | **2020-12-02** | Released from prison onto CDCR parole. This is the date used everywhere: Matter 19, Matter 9 FAC, Accurate CR (“RELEASED FROM PRISON ONTO PAROLE”) | FACT (pled / CRA) | Matter 19 `key_facts`; Accurate CR p5–6. **CDCR release chrono missing.** |
 | 2020-12-02 + 10 years | Controlling discharge date pled as **2030-12-02** | FACT (pled) | Matter 9 FAC; Matter 19. Follows PC § 3000(b)(2)(B) for a § 667.5(c)(11) offense (sexual penetration, PC § 289). Matter 9 tentative adopted that construction May 29, 2026 |
-| 2021-02-08 | Immigration Court, Aurora, CO (Judge Elizabeth McGrail): removable; asylum/withholding denied; **CAT deferral granted**; removal to Cameroon ordered; both sides waived appeal — **final** | USER REPORT | Prenup immigration notes. **IJ order not in repo.** |
+| 2021-02-08 | Immigration Court, Aurora, CO (Judge Elizabeth McGrail): removable; asylum/withholding denied; **CAT deferral granted**; removal to Cameroon ordered; both sides waived appeal — **final** | FACT (IJ order) | `internal/private/research/parole-habeas/Immigration-Judge-Order-Feb-8-2021-Letter.pdf` |
 | 2021-03-05 | HOPE intake (Stockton). Pled as the date HOPE represented an achievable path to treatment completion | FACT (pled) | Matter 5 FAC `key_facts` |
 | 2021-04-30 / 2021-05-10 | ICE I-220B issued; released from ICE custody onto order of supervision | USER REPORT | Prenup notes |
 | 2021 (undated) | Prior supervising agent approved travel to Reno for a church service — later used as a comparator in Matter 21 | FACT (pled) | Matter 21 `key_facts` |

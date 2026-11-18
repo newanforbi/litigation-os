@@ -50,10 +50,10 @@ describe("statusLabel derivation", () => {
   it("uses the next live calendar date after a held demurrer hearing", () => {
     const matter = cases.find((item) => item.number === 20)!;
     const events = eventsFor(20);
-    expect(matter.status_label).toMatch(/CMC Nov\. 4.*writ brief Nov\. 13.*hearing Jan\. 8/i);
-    expect(effectiveStatusLabel(matter, { events })).toMatch(/CMC Nov\. 4.*writ brief Nov\. 13.*hearing Jan\. 8/i);
-    // As of Nov. 10, 2026 the Nov. 4 CMC is past, so the next live posture
-    // date is the Jan. 8, 2027 hearing (hearings outrank the Nov. 13 brief).
+    expect(matter.status_label).toMatch(/MTC RFP due Dec\. 4.*merits hearing Jan\. 8/i);
+    expect(effectiveStatusLabel(matter, { events })).toMatch(/MTC RFP due Dec\. 4.*merits hearing Jan\. 8/i);
+    // The Oct. 28, 2026 Dept. 25 order vacated the CMC. The next live
+    // posture date remains the Jan. 8, 2027 merits hearing.
     expect(pickPostureEvent(events, matter.phase)?.date).toBe("Jan. 8, 2027");
   });
 
