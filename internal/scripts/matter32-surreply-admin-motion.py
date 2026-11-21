@@ -25,7 +25,7 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR / "lib"))
-from pleading_paper import CONTENT_LEFT, PleadingPaper  # noqa: E402
+from pleading_paper_ndcal import NDCalPaper  # noqa: E402
 from pypdf import PdfReader, PdfWriter  # noqa: E402
 from signature_stamp import SIGNATURE_NATIVE_PX, SIGNATURE_PATH  # noqa: E402
 
@@ -36,52 +36,11 @@ CASE_NO = "3:26-cv-08271-CRB"
 DEFAULT_DATE = "November ___, 2026"
 DEFAULT_PLACE = "Stockton, California"
 
-PLAINTIFF_BLOCK = [
-    ("BRENDAN NGWA NFORBI", "Times-Bold", 12),
-    ("Plaintiff, In Propria Persona", "Times-Roman", 12),
-    ("1455 Cat Tail Drive", "Times-Roman", 12),
-    ("Stockton, CA 95204", "Times-Roman", 12),
-    ("Telephone: (209) 801-4442", "Times-Roman", 12),
-    ("E-mail: bnn.cdl@gmail.com", "Times-Roman", 12),
-]
-
-CAPTION_LEFT = [
-    ("BRENDAN NGWA NFORBI,", True, False),
-    ("", False, False),
-    ("                          Plaintiff,", False, False),
-    ("", False, False),
-    ("       v.", False, False),
-    ("", False, False),
-    ("SANTIAGO MEZA-GONZALEZ", True, False),
-    ("(CHP #023295); JOSE MELANO", True, False),
-    ("(CHP #023054); and DOES 1-10,", True, False),
-    ("", False, False),
-    ("                          Defendants.", False, False),
-]
-
-SIGNOFF_NAME = "BRENDAN NGWA NFORBI"
-SIGNOFF_ROLE = "Plaintiff, In Propria Persona"
-SIG_LINE = "___________________________________"
-CAPTION = "NFORBI v. MEZA-GONZALEZ ET AL."
-
-
-def _caption_right(title_lines: list[str]) -> list[tuple[str, bool, bool]]:
-    rows = [(f"Case No. {CASE_NO}", True, False), ("", False, False)]
-    rows += [(t, True, False) for t in title_lines]
-    rows += [
-        ("", False, False),
-        ("[Civil L.R. 7-3(d), 7-11]", False, False),
-        ("", False, False),
-        ("Judge: Hon. Charles R. Breyer", False, False),
-        ("MTD Hearing: Dec. 18, 2026,", False, False),
-        ("10:00 a.m. (Zoom webinar)", False, False),
-        ("Action Filed: August 10, 2026", False, False),
-    ]
-    return rows
+CAPTION = "NFORBI v. MEZA-GONZALEZ, et al."
 
 
 # ---------------------------------------------------------------- motion
-MOTION_CAPTION = _caption_right([
+MOTION_CAPTION = ([
     "PLAINTIFF'S ADMINISTRATIVE",
     "MOTION FOR LEAVE TO FILE",
     "SUR-REPLY TO DEFENDANTS'",
@@ -169,7 +128,7 @@ MOTION = [
 ]
 
 # ------------------------------------------------------------ sur-reply
-SUR_CAPTION = _caption_right([
+SUR_CAPTION = ([
     "EXHIBIT A — [PROPOSED]",
     "PLAINTIFF'S SUR-REPLY IN",
     "OPPOSITION TO MOTION TO",
@@ -309,7 +268,7 @@ SUR = [
 ]
 
 # ---------------------------------------------------------- declaration
-DECL_CAPTION = _caption_right([
+DECL_CAPTION = ([
     "DECLARATION OF BRENDAN",
     "NGWA NFORBI ISO",
     "ADMINISTRATIVE MOTION FOR",
@@ -355,7 +314,7 @@ DECL = [
 ]
 
 # --------------------------------------------------------------- order
-ORDER_CAPTION = _caption_right([
+ORDER_CAPTION = ([
     "[PROPOSED] ORDER GRANTING",
     "PLAINTIFF'S ADMINISTRATIVE",
     "MOTION FOR LEAVE TO FILE",
@@ -375,86 +334,56 @@ ORDER = [
      "Exhibit A to the motion is deemed filed as of the date of this order and "
      "will be considered with Defendants' Motion to Dismiss and Motion to "
      "Strike (Dkt. 22)."),
-    ("PARA", "IT IS SO ORDERED."),
+    ("LINE", "IT IS SO ORDERED."),
 ]
 
 
 # ------------------------------------------------------------- render
-def _header(d: PleadingPaper, right: list, with_party_block: bool = True) -> None:
-    c = d.c
-    if with_party_block:
-        y = d._line_y(0)
-        for i, (txt, fn, sz) in enumerate(PLAINTIFF_BLOCK):
-            c.setFont(fn, sz)
-            c.drawString(CONTENT_LEFT, y - i * 15, txt)
-        d.current_line = 4
-        d.blank_line()
-    d.write_line("UNITED STATES DISTRICT COURT", bold=True, center=True)
-    d.write_line("NORTHERN DISTRICT OF CALIFORNIA", bold=True, center=True)
-    d.write_line("SAN FRANCISCO DIVISION", bold=True, center=True)
-    d.blank_line()
-    d.draw_caption_block(CAPTION_LEFT, right, caption_size=9, tight_lh=12,
-                         boxed=True)
-    d.blank_line()
+def _right_rows(title_lines: list[str]) -> list[tuple[str, str]]:
+    rows = [(f"Case No. {CASE_NO}", "r"), ("", "")]
+    rows += [(t, "b") for t in title_lines]
+    rows += [
+        ("", ""),
+        ("[Civil L.R. 7-3(d), 7-11]", "r"),
+        ("", ""),
+        ("Judge: Hon. Charles R. Breyer", "r"),
+        ("Hearing: December 18, 2026", "r"),
+        ("Time: 10:00 a.m. (Zoom webinar)", "r"),
+        ("Action Filed: August 10, 2026", "r"),
+    ]
+    return rows
 
 
-def _body(d: PleadingPaper, content: list[tuple[str, str]]) -> None:
+DEFENDANT_LINES = [
+    "SANTIAGO MEZA-GONZALEZ (CHP Badge",
+    "#023295), in his individual capacity;",
+    "JOSE MELANO (CHP Badge #023054), in",
+    "his individual capacity; and DOES 1",
+    "through 10, inclusive,",
+]
+
+
+def build(out: Path, footer: str, title_lines: list[str], content: list,
+          date: str, place: str | None = None, signed: bool = True,
+          judge_block: bool = False, party_block: bool = True) -> Path:
+    d = NDCalPaper(str(out), footer=f"{footer} -- {CAPTION}")
+    d.header(party_block=party_block)
+    d.caption("BRENDAN NGWA NFORBI,", DEFENDANT_LINES, _right_rows(title_lines))
     for kind, text in content:
-        if kind == "HEADER":
-            d.ensure_space(3)
-            d.write_line(text, bold=True, center=True)
-            d.blank_line()
-        elif kind == "SUBHEAD":
-            lines = text.split("\n")
-            d.ensure_space(len(lines) + 2)
-            for line in lines:
-                d.write_wrapped(line, bold=True, first_indent=0)
-            d.blank_line()
+        if kind in ("HEADER", "SUBHEAD"):
+            d.heading(" ".join(x.strip() for x in text.split("\n")))
         elif kind == "PARA":
-            d.write_wrapped(text, first_indent=36)
-            d.blank_line()
+            d.para(text)
         elif kind == "LIST_ITEM":
-            d.write_wrapped(text, indent=18, first_indent=0)
-            d.blank_line()
+            d.item(text)
+        elif kind == "LINE":
+            d.write_line(text, indent=36)
         else:
             raise ValueError(kind)
-
-
-def _signature(d: PleadingPaper, date: str, place: str | None = None) -> None:
-    d.ensure_space(7 if place else 10)
-    if place:
-        d.write_line(f"Executed on {date}, at {place}.")
-    else:
-        d.write_line(f"Dated: {date}")
-        d.blank_line()
-        d.write_line("Respectfully submitted,", right=True,
-                     right_margin_offset=20)
-    d.draw_signature_image(SIGNATURE_PATH, SIGNATURE_NATIVE_PX[0],
-                           SIGNATURE_NATIVE_PX[1], SIG_LINE, width=220,
-                           x_offset=15)
-    d.write_line(SIG_LINE, right=True, right_margin_offset=20)
-    d.write_line(SIGNOFF_NAME, right=True, right_margin_offset=20)
-    d.write_line(SIGNOFF_ROLE, right=True, right_margin_offset=20)
-
-
-def build(out: Path, footer: str, caption: list, content: list, date: str,
-          place: str | None = None, signed: bool = True,
-          judge_block: bool = False, party_block: bool = True) -> Path:
-    d = PleadingPaper(str(out), doc_title_footer=f"{footer} -- {CAPTION}")
-    _header(d, caption, with_party_block=party_block)
-    _body(d, content)
     if signed:
-        _signature(d, date, place)
+        d.sign_off(date, SIGNATURE_PATH, SIGNATURE_NATIVE_PX, executed_at=place)
     if judge_block:
-        d.ensure_space(5)
-        d.write_line("Dated: _______________, 2026")
-        d.blank_line()
-        d.write_line("___________________________________", right=True,
-                     right_margin_offset=20)
-        d.write_line("HON. CHARLES R. BREYER", right=True,
-                     right_margin_offset=20)
-        d.write_line("United States District Judge", right=True,
-                     right_margin_offset=20)
+        d.judge_block()
     d.save()
     return out
 
@@ -483,7 +412,7 @@ def main() -> None:
           DECL_CAPTION, DECL, a.date, place=a.place)
     build(p["order"], "[PROPOSED] ORDER GRANTING LEAVE TO FILE SUR-REPLY",
           ORDER_CAPTION, ORDER, a.date, signed=False, judge_block=True,
-          party_block=False)
+          party_block=True)
     w = PdfWriter()
     for k in ("motion", "sur", "decl"):
         for pg in PdfReader(str(p[k])).pages:
